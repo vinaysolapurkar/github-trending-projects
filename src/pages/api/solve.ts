@@ -1,5 +1,6 @@
 import type { APIRoute } from 'astro';
 import { getAllProjects, getProjectByFullName, slugFor } from '../../lib/content';
+import { createProblem, addSolution } from '../../lib/db';
 
 export const prerender = false;
 
@@ -118,12 +119,30 @@ export const POST: APIRoute = async ({ request }) => {
       };
     });
 
-  return json({
-    ok: true,
-    solved: raw.solved !== false && libraries.length > 0,
-    title: raw.title || 'A solution',
-    summary: raw.summary || '',
-    libraries,
-    steps: Array.isArray(raw.steps) ? raw.steps.filter((s) => typeof s === 'string' && s.trim()) : [],
-  });
+  const solved = raw.solved !== false && libraries.length > 0;
+  const title = raw.title || 'A solution';
+  const summary = raw.summary || '';
+  const steps = Array.isArray(raw.steps) ? raw.steps.filter((s) => typeof s === 'string' && s.trim()) : [];
+
+  // Persist so the problem can gather more solutions + votes, and so the
+  // answering agent can revisit unsolved ones. Never block the response on it.
+  let problemId: string | null = null;
+  try {
+    problemId = await createProblem(problem, email);
+    if (solved) {
+      await addSolution({
+        problemId,
+        source: 'ai',
+        title,
+        summary,
+        libraries,
+        steps,
+        author: 'AI',
+      });
+    }
+  } catch {
+    problemId = null;
+  }
+
+  return json({ ok: true, solved, title, summary, libraries, steps, problemId });
 };

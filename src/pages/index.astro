@@ -41,6 +41,11 @@ const toolCount = latest ? getProjectsForDay(latest).length : 0;
     <div class="solution" id="solution" hidden></div>
   </section>
 
+  <section class="recent" id="recent" hidden aria-labelledby="recent-h">
+    <p class="eyebrow" id="recent-h">Recently asked</p>
+    <ul class="recent__list" id="recent-list"></ul>
+  </section>
+
   <section class="how">
     <div class="how__step">
       <span class="how__n mono">01</span>
@@ -132,7 +137,8 @@ const toolCount = latest ? getProjectsForDay(latest).length : 0;
               '<h3 class="solution__title">' + esc(d.title) + '</h3>' +
               (d.summary ? '<p class="solution__summary">' + esc(d.summary) + '</p>' : '') +
               '<p class="solution__sub mono">Tools</p><ul class="solution__libs">' + libs + '</ul>' +
-              (steps ? '<p class="solution__sub mono">How to build it</p><ol class="solution__steps">' + steps + '</ol>' : '');
+              (steps ? '<p class="solution__sub mono">How to build it</p><ol class="solution__steps">' + steps + '</ol>' : '') +
+              (d.problemId ? '<a class="solution__open" href="/p/' + d.problemId + '">Open this problem &amp; add other solutions &rarr;</a>' : '');
           }
         } catch (err) {
           out.className = 'solution solution--error';
@@ -141,6 +147,24 @@ const toolCount = latest ? getProjectsForDay(latest).length : 0;
           btn.disabled = false;
         }
       });
+    })();
+
+    // Recently-asked feed
+    (async () => {
+      try {
+        const r = await fetch('/api/recent');
+        const d = await r.json();
+        if (!d.ok || !d.problems || !d.problems.length) return;
+        const esc = (s) => (s == null ? '' : String(s).replace(/[&<>"]/g, (m) => (
+          { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[m])));
+        const list = document.getElementById('recent-list');
+        list.innerHTML = d.problems.map((p) =>
+          '<li><a href="/p/' + p.id + '">' +
+          '<span class="recent__q">' + esc(p.text) + '</span>' +
+          '<span class="recent__meta mono">' + (p.solution_count || 0) + ' solution' + (p.solution_count === 1 ? '' : 's') + '</span>' +
+          '</a></li>').join('');
+        document.getElementById('recent').hidden = false;
+      } catch { /* feed is optional */ }
     })();
   </script>
 </Base>
@@ -213,4 +237,13 @@ const toolCount = latest ? getProjectsForDay(latest).length : 0;
   .wall__head h2 { font-size: clamp(1.3rem, 3vw, 1.9rem); font-weight: 600; }
   .wall__link { font-size: 0.85rem; color: var(--profit-deep); }
   .wall__note { color: var(--ink-soft); max-width: 56ch; margin: 0.75rem 0 0; }
+
+  .solution__open { display: inline-block; margin-top: 1rem; font-family: var(--font-mono); font-size: 0.78rem; color: var(--profit-deep); text-transform: uppercase; letter-spacing: 0.05em; }
+
+  .recent { margin: clamp(2rem, 5vw, 3rem) 0 0; }
+  .recent__list { list-style: none; margin: 0.75rem 0 0; padding: 0; display: grid; gap: 0.5rem; max-width: 46rem; }
+  .recent__list a { display: flex; justify-content: space-between; gap: 1rem; align-items: baseline; text-decoration: none; color: var(--ink); padding: 0.7rem 0.9rem; border: 1px solid var(--rule-strong); border-radius: 4px; background: var(--paper-2); }
+  .recent__list a:hover { border-color: var(--profit); }
+  .recent__q { overflow-wrap: anywhere; }
+  .recent__meta { font-size: 0.7rem; color: var(--ink-soft); white-space: nowrap; }
 </style>

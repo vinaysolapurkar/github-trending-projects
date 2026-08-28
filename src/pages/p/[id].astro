@@ -1,0 +1,188 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getProblem, getSolutions } from '../../lib/db';
+
+export const prerender = false;
+
+const { id } = Astro.params;
+const problem = id ? await getProblem(id) : null;
+const solutions = problem ? await getSolutions(problem.id) : [];
+---
+
+{!problem ? (
+  <Base title="Problem not found">
+    <div class="nf">
+      <p class="eyebrow mono">Not found</p>
+      <h1>That problem isn&rsquo;t on the board.</h1>
+      <a class="mono" href="/">&larr; Ask a new one</a>
+    </div>
+  </Base>
+) : (
+  <Base title={`${problem.text.slice(0, 60)} — solutions`} description={problem.text}>
+    <p class="crumbs mono"><a href="/">Solve</a> / a problem</p>
+
+    <div class="phead">
+      <p class="eyebrow">The problem</p>
+      <h1 class="phead__text">{problem.text}</h1>
+      <p class="phead__meta mono">{solutions.length} solution{solutions.length === 1 ? '' : 's'} &middot; best-voted first</p>
+    </div>
+
+    <div class="sols" id="sols">
+      {solutions.map((s, i) => (
+        <article class="sol" data-id={s.id}>
+          <div class="sol__votes">
+            <button class="vote" data-id={s.id} aria-label="Upvote this solution">▲</button>
+            <span class="vote__count" data-count={s.id}>{s.votes}</span>
+          </div>
+          <div class="sol__body">
+            <div class="sol__tags mono">
+              <span class={`chip ${s.source === 'ai' ? 'chip--ai' : 'chip--comm'}`}>{s.source === 'ai' ? 'AI solution' : 'Community'}</span>
+              <span class="sol__author">{s.author}</span>
+              {i === 0 && solutions.length > 1 && <span class="chip chip--top">Top</span>}
+            </div>
+            <h2 class="sol__title">{s.title}</h2>
+            {s.summary && <p class="sol__summary">{s.summary}</p>}
+
+            <p class="sol__sub mono">Tools</p>
+            <ul class="sol__libs">
+              {s.libraries.map((l) => (
+                <li>
+                  <a href={l.url} {...(l.inCorpus ? {} : { target: '_blank', rel: 'noopener' })}>{l.repo}</a>
+                  {l.role && <span>{l.role}</span>}
+                </li>
+              ))}
+            </ul>
+
+            {s.steps.length > 0 && (
+              <>
+                <p class="sol__sub mono">How to build it</p>
+                <ol class="sol__steps">{s.steps.map((st) => <li>{st}</li>)}</ol>
+              </>
+            )}
+          </div>
+        </article>
+      ))}
+    </div>
+
+    <section class="add" id="add">
+      <p class="eyebrow">Add your solution</p>
+      <h2 class="add__h">Know a better way? Post it.</h2>
+      <p class="add__lede">List the GitHub libraries and explain how to wire them together. The community votes the best to the top.</p>
+
+      <form class="cform" id="cform" novalidate>
+        <label><span class="mono">Title</span>
+          <input id="c-title" maxlength="120" placeholder="e.g. Local, private transcription pipeline" required /></label>
+        <label><span class="mono">One-line summary (optional)</span>
+          <input id="c-summary" maxlength="400" placeholder="What you end up with." /></label>
+        <label><span class="mono">GitHub libraries — one per line, as owner/name (add “ - role” if you like)</span>
+          <textarea id="c-repos" rows="3" placeholder={"openai/whisper - transcription\nollama/ollama - local summarizing"} required></textarea></label>
+        <label><span class="mono">How to build it — one step per line</span>
+          <textarea id="c-guide" rows="4" placeholder={"Install the two tools.\nRun whisper on the audio file.\nPipe the transcript into ollama to summarize."} required></textarea></label>
+        <label><span class="mono">Your name (optional)</span>
+          <input id="c-author" maxlength="60" placeholder="Anonymous" /></label>
+        <button type="submit" id="c-submit">Post solution</button>
+        <p class="cform__err mono" id="c-err" hidden></p>
+      </form>
+    </section>
+
+    <script is:inline define:vars={{ problemId: problem.id }}>
+      (() => {
+        // stable per-browser voter id
+        let voter = localStorage.getItem('tl_voter');
+        if (!voter) { voter = Math.random().toString(36).slice(2) + Date.now().toString(36); localStorage.setItem('tl_voter', voter); }
+        const voted = new Set(JSON.parse(localStorage.getItem('tl_voted') || '[]'));
+
+        document.querySelectorAll('.vote').forEach((b) => {
+          const sid = b.getAttribute('data-id');
+          if (voted.has(sid)) b.classList.add('vote--done');
+          b.addEventListener('click', async () => {
+            if (voted.has(sid)) return;
+            b.disabled = true;
+            try {
+              const r = await fetch('/api/vote', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ solutionId: sid, voter }) });
+              const d = await r.json();
+              if (d.ok) {
+                document.querySelector('[data-count="' + sid + '"]').textContent = d.votes;
+                voted.add(sid); localStorage.setItem('tl_voted', JSON.stringify([...voted]));
+                b.classList.add('vote--done');
+              }
+            } finally { b.disabled = false; }
+          });
+        });
+
+        const form = document.getElementById('cform');
+        const err = document.getElementById('c-err');
+        form.addEventListener('submit', async (e) => {
+          e.preventDefault();
+          err.hidden = true;
+          const payload = {
+            problemId,
+            title: document.getElementById('c-title').value,
+            summary: document.getElementById('c-summary').value,
+            repos: document.getElementById('c-repos').value,
+            guide: document.getElementById('c-guide').value,
+            author: document.getElementById('c-author').value,
+          };
+          const btn = document.getElementById('c-submit');
+          btn.disabled = true; btn.textContent = 'Posting…';
+          try {
+            const r = await fetch('/api/solution', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify(payload) });
+            const d = await r.json();
+            if (!d.ok) { err.textContent = d.error || 'Could not post.'; err.hidden = false; }
+            else { location.reload(); return; }
+          } catch { err.textContent = 'Network error.'; err.hidden = false; }
+          finally { btn.disabled = false; btn.textContent = 'Post solution'; }
+        });
+      })();
+    </script>
+  </Base>
+)}
+
+<style>
+  .nf { padding: 4rem 0; }
+  .nf h1 { font-size: clamp(1.6rem, 5vw, 2.5rem); font-weight: 700; margin: 0.4rem 0 1rem; }
+
+  .crumbs { font-size: 0.75rem; color: var(--ink-soft); margin: 0 0 1.5rem; }
+  .crumbs a { color: var(--profit-deep); text-decoration: none; }
+
+  .phead { border-bottom: 2px solid var(--ink); padding-bottom: 1.5rem; margin-bottom: 1.5rem; }
+  .phead__text { font-size: clamp(1.6rem, 4.5vw, 2.75rem); font-weight: 700; margin: 0.3rem 0 0.75rem; max-width: 24ch; }
+  .phead__meta { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-soft); }
+
+  .sols { display: grid; gap: 1.25rem; }
+  .sol { display: grid; grid-template-columns: 3rem 1fr; gap: 1rem; padding: 1.25rem; border: 2px solid var(--ink); border-radius: 6px; background: var(--paper-2); }
+  .sol__votes { display: flex; flex-direction: column; align-items: center; gap: 0.2rem; }
+  .vote { width: 2.4rem; height: 2.4rem; border: 2px solid var(--rule-strong); background: var(--paper); border-radius: 6px; font-size: 1rem; color: var(--ink-soft); cursor: pointer; }
+  .vote:hover { border-color: var(--profit); color: var(--profit); }
+  .vote--done { border-color: var(--profit); background: color-mix(in srgb, var(--profit) 15%, transparent); color: var(--profit-deep); cursor: default; }
+  .vote__count { font-family: var(--font-mono); font-weight: 700; }
+
+  .sol__tags { display: flex; align-items: center; gap: 0.5rem; font-size: 0.66rem; margin-bottom: 0.4rem; }
+  .chip { text-transform: uppercase; letter-spacing: 0.08em; padding: 0.15rem 0.5rem; border-radius: 999px; }
+  .chip--ai { background: color-mix(in srgb, var(--profit) 16%, transparent); color: var(--profit-deep); }
+  .chip--comm { background: color-mix(in srgb, var(--gold) 20%, transparent); color: #7a5a1e; }
+  .chip--top { background: color-mix(in srgb, var(--signal) 16%, transparent); color: var(--signal); }
+  .sol__author { color: var(--ink-soft); text-transform: none; letter-spacing: 0; }
+  .sol__title { font-size: clamp(1.15rem, 2.5vw, 1.5rem); font-weight: 700; margin: 0 0 0.4rem; }
+  .sol__summary { margin: 0 0 0.75rem; }
+  .sol__sub { font-size: 0.64rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--profit-deep); margin: 0.85rem 0 0.4rem; }
+  .sol__libs { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.4rem; }
+  .sol__libs li { display: flex; flex-direction: column; padding: 0.5rem 0.65rem; background: var(--paper); border-left: 3px solid var(--profit); border-radius: 0 4px 4px 0; }
+  .sol__libs a { font-family: var(--font-display); font-weight: 600; text-decoration: none; color: var(--ink); overflow-wrap: anywhere; }
+  .sol__libs span { font-size: 0.9rem; color: var(--ink-soft); }
+  .sol__steps { margin: 0; padding-left: 1.3rem; display: grid; gap: 0.4rem; }
+
+  .add { margin-top: clamp(2rem, 5vw, 3rem); border-top: 2px solid var(--ink); padding-top: 1.75rem; }
+  .add__h { font-size: clamp(1.3rem, 3vw, 1.8rem); font-weight: 600; margin: 0.3rem 0 0.5rem; }
+  .add__lede { color: var(--ink-soft); max-width: 54ch; margin: 0 0 1.25rem; }
+  .cform { display: grid; gap: 0.9rem; max-width: 44rem; }
+  .cform label { display: grid; gap: 0.3rem; }
+  .cform label span { font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--profit-deep); }
+  .cform input, .cform textarea { font-family: var(--font-body); font-size: 1.02rem; color: var(--ink); background: var(--paper); border: 2px solid var(--rule-strong); border-radius: 4px; padding: 0.6rem 0.8rem; resize: vertical; }
+  .cform input:focus, .cform textarea:focus { outline: none; border-color: var(--profit); }
+  .cform button { justify-self: start; font-family: var(--font-display); font-weight: 600; color: var(--paper); background: var(--profit); border: 2px solid var(--profit); padding: 0.65rem 1.5rem; border-radius: 4px; cursor: pointer; }
+  .cform button:hover { background: var(--profit-deep); }
+  .cform__err { color: var(--signal); margin: 0; }
+
+  @media (max-width: 560px) { .sol { grid-template-columns: 2.4rem 1fr; padding: 1rem; } }
+</style>
