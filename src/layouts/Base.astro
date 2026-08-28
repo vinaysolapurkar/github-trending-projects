@@ -67,16 +67,16 @@ const year = 2026;
 
     <style is:global>
       :root {
-        /* ledger palette */
-        --paper: #eef2ea;
-        --paper-2: #e6ecdf;
-        --ink: #14201a;
-        --ink-soft: #46554c;
-        --rule: #c9d4c2;
-        --rule-strong: #aab9a1;
+        /* ledger palette — clean, high-contrast paper */
+        --paper: #fbfbf7;
+        --paper-2: #f1f3ec;
+        --ink: #16211b;
+        --ink-soft: #55625a;
+        --rule: #e4e8dd;
+        --rule-strong: #c4cdba;
         --profit: #1f7a4d;
-        --profit-deep: #145536;
-        --signal: #e5533c;
+        --profit-deep: #124d31;
+        --signal: #d8492f;
         --gold: #b8863b;
 
         --font-display: 'Space Grotesk', system-ui, sans-serif;
@@ -98,14 +98,6 @@ const year = 2026;
       body {
         margin: 0;
         background-color: var(--paper);
-        /* faint ledger rule lines across the whole page */
-        background-image: repeating-linear-gradient(
-          to bottom,
-          transparent 0,
-          transparent 31px,
-          var(--rule) 31px,
-          var(--rule) 32px
-        );
         color: var(--ink);
         font-family: var(--font-body);
         font-size: 1.075rem;
@@ -120,8 +112,8 @@ const year = 2026;
         top: 0;
         bottom: 0;
         left: max(calc((100vw - var(--maxw)) / 2 + 0.5rem), 0.5rem);
-        width: 2px;
-        background: color-mix(in srgb, var(--signal) 55%, transparent);
+        width: 1px;
+        background: color-mix(in srgb, var(--signal) 22%, transparent);
         z-index: 0;
         pointer-events: none;
       }
