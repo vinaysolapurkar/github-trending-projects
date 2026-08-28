@@ -85,7 +85,29 @@ one should be from today; the other may come from any earlier day (read the
 
 (Use `-002`, `-003` if you add more than one. One is enough.)
 
-## Step 4 — Update the archive index
+## Step 4 — Match problems to today's tools
+
+Read `content/problems.json` (the running list of problems people have). For each
+problem, decide whether any repo from today's scrape (or a recent day) genuinely
+solves it. Write `content/matches/<DATE>.json`:
+
+```json
+{
+  "date": "<DATE>",
+  "matches": [
+    { "problem_id": "p001", "repo": "owner/name", "why": "one sentence on the fit", "confidence": "high" },
+    { "problem_id": "p008", "repo": null, "why": "Nothing today fits; we'll notify when it trends." }
+  ]
+}
+```
+
+Rules:
+- Only claim a match you'd stand behind. A weak or forced match is worse than
+  an honest `null`. Set `repo: null` when nothing fits.
+- Prefer a repo that has a page in our content (it links through).
+- Confidence is `high | medium | low`.
+
+## Step 5 — Update the archive index
 
 Edit `content/archive.json` so `days` lists every date folder under
 `content/days/`, newest first:
@@ -94,7 +116,7 @@ Edit `content/archive.json` so `days` lists every date folder under
 { "days": ["<DATE>", "...older..."] }
 ```
 
-## Step 5 — Validate, then commit and push
+## Step 6 — Validate, then commit and push
 
 ```
 node scripts/validate-content.mjs <DATE>
@@ -108,9 +130,9 @@ git commit -m "Ledger: <DATE> (<N> entries)"
 git push
 ```
 
-Vercel redeploys automatically on push. Done.
+The push triggers a GitHub Action that builds and deploys to Vercel. Done.
 
 ## Rules
-- If Step 1 or Step 5 fails, do NOT commit. Report the failure.
+- If Step 1 or Step 6 fails, do NOT commit. Report the failure.
 - Re-running the same day is safe: overwrite that day's files, never duplicate.
 - Never edit `src/` during a daily run — content only.

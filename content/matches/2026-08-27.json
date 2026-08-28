@@ -1,0 +1,18 @@
+{
+  "date": "2026-08-27",
+  "matches": [
+    { "problem_id": "p001", "repo": "calesthio/OpenMontage", "why": "Describe the video in words and its agent scripts, generates clips, edits, and renders a finished short for a few dollars.", "confidence": "high" },
+    { "problem_id": "p002", "repo": "freestylefly/awesome-gpt-image-2", "why": "Reusable, proven templates get GPT-Image-2 to produce consistent product-lifestyle shots without a photo shoot.", "confidence": "high" },
+    { "problem_id": "p003", "repo": "thedotmack/claude-mem", "why": "Gives the agent persistent memory so it recalls your project context across sessions instead of starting from zero.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "DietrichGebert/ponytail", "why": "A skill that stops the agent over-building, cutting generated code roughly in half while keeping safety checks.", "confidence": "high" },
+    { "problem_id": "p005", "repo": "AgriciDaniel/claude-obsidian", "why": "Drop sources in and AI files them into a linked, source-cited Markdown knowledge base you own.", "confidence": "high" },
+    { "problem_id": "p006", "repo": "bilawalsidhu/gods-eye-view", "why": "A live 3D globe of real planes, ships, and events gives you dramatic, accurate footage to record for any location.", "confidence": "medium" },
+    { "problem_id": "p007", "repo": "K-Dense-AI/scientific-agent-skills", "why": "163 validated skills plus scientific databases let an agent run standard bioinformatics and chemistry workflows.", "confidence": "high" },
+    { "problem_id": "p008", "repo": null, "why": "No repo in today's trending list cleanly solves a private, firm-grade AI chat. Tell us and we'll email you the day one trends." },
+    { "problem_id": "p009", "repo": "ConardLi/garden-skills", "why": "Its web-video-presentation skill turns articles into narrated, record-ready presentations you can export as video.", "confidence": "medium" },
+    { "problem_id": "p010", "repo": "AgriciDaniel/claude-obsidian", "why": "A local-first second brain: plain Markdown you own, never locked in a cloud database.", "confidence": "high" },
+    { "problem_id": "p011", "repo": "tt-a1i/archify", "why": "Ask your agent to map the repo and it produces a verifiable, interactive architecture diagram.", "confidence": "high" },
+    { "problem_id": "p012", "repo": "rohitg00/ai-engineering-from-scratch", "why": "A free 511-lesson curriculum that takes you from basics to shipping a real AI product, hands-on.", "confidence": "high" },
+    { "problem_id": "p013", "repo": null, "why": "Nothing in today's trending list fits restaurant inventory. Submit it and we'll notify you when a match trends." }
+  ]
+}

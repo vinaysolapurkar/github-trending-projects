@@ -104,3 +104,80 @@ export function getTotals() {
     mashups: allMashups.length,
   };
 }
+
+// --- Problem matching -----------------------------------------------------
+
+export interface Problem {
+  id: string;
+  text: string;
+  persona: string;
+}
+
+export interface Match {
+  problem_id: string;
+  repo: string | null; // full_name, or null = no match
+  why: string;
+  confidence?: 'high' | 'medium' | 'low';
+}
+
+interface ProblemsFile {
+  problems: Problem[];
+}
+interface MatchesFile {
+  date: string;
+  matches: Match[];
+}
+
+const problemsModules = import.meta.glob<ProblemsFile>('/content/problems.json', {
+  eager: true,
+  import: 'default',
+});
+const allProblems: Problem[] =
+  (Object.values(problemsModules)[0] as ProblemsFile | undefined)?.problems ?? [];
+
+const matchesModules = import.meta.glob<MatchesFile>('/content/matches/*.json', {
+  eager: true,
+  import: 'default',
+});
+const allMatchFiles: MatchesFile[] = Object.values(matchesModules) as MatchesFile[];
+
+/** The seeded/collected problems. */
+export function getProblems(): Problem[] {
+  return allProblems;
+}
+
+/** Find a project by "owner/name" (latest day it appeared), for linking matches. */
+export function getProjectByFullName(fullName: string): Project | null {
+  const hits = allProjects
+    .filter((p) => p.full_name === fullName)
+    .sort((a, b) => (a.date < b.date ? 1 : -1));
+  return hits[0] ?? null;
+}
+
+/** Latest non-null match for a problem across all match days, or null. */
+export function getLatestMatch(problemId: string): (Match & { date: string }) | null {
+  const days = [...allMatchFiles].sort((a, b) => (a.date < b.date ? 1 : -1));
+  for (const day of days) {
+    const m = day.matches.find((x) => x.problem_id === problemId && x.repo);
+    if (m) return { ...m, date: day.date };
+  }
+  return null;
+}
+
+/** Problems paired with their best current match (repo may be null). */
+export function getProblemBoard(): Array<{ problem: Problem; match: (Match & { date: string }) | null; project: Project | null }> {
+  return allProblems.map((problem) => {
+    const match = getLatestMatch(problem.id);
+    const project = match?.repo ? getProjectByFullName(match.repo) : null;
+    return { problem, match, project };
+  });
+}
+
+export function getProblemStats() {
+  const board = getProblemBoard();
+  return {
+    total: board.length,
+    solved: board.filter((b) => b.match).length,
+    unmatched: board.filter((b) => !b.match).length,
+  };
+}

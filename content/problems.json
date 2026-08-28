@@ -1,0 +1,17 @@
+{
+  "problems": [
+    { "id": "p001", "text": "I spend hours every week editing short videos for social media.", "persona": "Solo content creator" },
+    { "id": "p002", "text": "I can't afford a photographer for my product photos.", "persona": "E-commerce store owner" },
+    { "id": "p003", "text": "My AI coding assistant keeps forgetting my project between sessions.", "persona": "Indie developer" },
+    { "id": "p004", "text": "My AI writes bloated, over-engineered code that's expensive to maintain.", "persona": "Startup engineering lead" },
+    { "id": "p005", "text": "I have hundreds of research PDFs and articles I can't keep organized.", "persona": "PhD researcher" },
+    { "id": "p006", "text": "I want to explain breaking news visually but I have no footage.", "persona": "News/explainer YouTuber" },
+    { "id": "p007", "text": "I run a small lab and can't afford a bioinformatics team.", "persona": "Biotech founder" },
+    { "id": "p008", "text": "I need a private AI chat for my law firm that won't leak client data.", "persona": "Law firm partner" },
+    { "id": "p009", "text": "I want to turn my written blog posts into narrated videos.", "persona": "Blogger / course creator" },
+    { "id": "p010", "text": "I want a private, self-owned alternative to cloud note apps.", "persona": "Privacy-minded professional" },
+    { "id": "p011", "text": "I inherited a messy codebase and can't understand how it fits together.", "persona": "New engineering hire" },
+    { "id": "p012", "text": "I want to build a small AI product but don't know where to start.", "persona": "Aspiring AI founder" },
+    { "id": "p013", "text": "I need a cheaper tool to manage my restaurant's inventory.", "persona": "Restaurant owner" }
+  ]
+}

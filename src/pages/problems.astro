@@ -1,0 +1,109 @@
+---
+import Base from '../layouts/Base.astro';
+import { getProblemBoard, getProblemStats, slugFor } from '../lib/content';
+
+const board = getProblemBoard();
+const stats = getProblemStats();
+// solved first, then unmatched
+board.sort((a, b) => (a.match ? 0 : 1) - (b.match ? 0 : 1));
+---
+
+<Base title="Problems → trending tools — The Trending Ledger" description="Real problems, matched to the trending open-source tools that solve them.">
+  <div class="head">
+    <p class="eyebrow">The matching desk</p>
+    <h1 class="head__title">A problem, and the tool that just trended to fix it.</h1>
+    <p class="head__lede">
+      We keep a list of real problems people have. Each morning the agent checks
+      whether anything on GitHub Trending solves one. A match gets posted here.
+      No match? Say so below and we&rsquo;ll email you the day one shows up.
+    </p>
+    <p class="head__stats mono">{stats.solved} matched &middot; {stats.unmatched} waiting for a match</p>
+  </div>
+
+  <div class="board">
+    {board.map(({ problem, match, project }) => (
+      <article class:list={["match", match ? 'match--hit' : 'match--miss']}>
+        <div class="match__problem">
+          <span class="match__persona mono">{problem.persona}</span>
+          <p class="match__text">&ldquo;{problem.text}&rdquo;</p>
+        </div>
+
+        <div class="match__result">
+          {match && project ? (
+            <a class="match__tool" href={`/project/${project.date}/${slugFor(project)}/`}>
+              <span class="match__label mono">Matched</span>
+              <span class="match__repo">{match.repo}</span>
+              <span class="match__why">{match.why}</span>
+              <span class="match__go mono">See the full breakdown &rarr;</span>
+            </a>
+          ) : match && match.repo ? (
+            <div class="match__tool match__tool--ext">
+              <span class="match__label mono">Matched</span>
+              <span class="match__repo">{match.repo}</span>
+              <span class="match__why">{match.why}</span>
+            </div>
+          ) : (
+            <div class="match__none">
+              <span class="match__label mono">No match yet</span>
+              <p class="match__why">{match?.why}</p>
+            </div>
+          )}
+        </div>
+      </article>
+    ))}
+  </div>
+
+  <section class="submit" id="submit">
+    <p class="eyebrow">Add your problem</p>
+    <h2 class="submit__h">Not on the list? Put it on the books.</h2>
+    <p class="submit__lede">
+      Describe your problem and leave an email. If something trending already
+      solves it, you&rsquo;ll get the answer on the spot. If not, we hold your
+      problem and email you the morning a matching tool trends.
+    </p>
+    <p class="submit__soon mono">Submissions open shortly — the matching engine is being wired up.</p>
+  </section>
+</Base>
+
+<style>
+  .head { border-bottom: 2px solid var(--ink); padding-bottom: 1.5rem; margin-bottom: 2rem; }
+  .head__title { font-size: clamp(1.9rem, 5vw, 3.25rem); font-weight: 700; margin: 0.3rem 0 1rem; max-width: 18ch; }
+  .head__lede { font-size: clamp(1.1rem, 2.5vw, 1.3rem); max-width: 58ch; color: var(--ink-soft); margin: 0 0 1rem; }
+  .head__stats { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--profit-deep); }
+
+  .board { display: grid; gap: 0; }
+  .match {
+    display: grid;
+    grid-template-columns: 1fr 1.1fr;
+    gap: clamp(1rem, 4vw, 2.5rem);
+    padding: 1.4rem 0;
+    border-bottom: 1px solid var(--rule-strong);
+    align-items: start;
+  }
+  .match:first-child { border-top: 1px solid var(--rule-strong); }
+
+  .match__persona { font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--profit-deep); }
+  .match__text { font-size: 1.15rem; margin: 0.3rem 0 0; font-style: italic; max-width: 36ch; }
+
+  .match__label { font-size: 0.64rem; text-transform: uppercase; letter-spacing: 0.1em; display: block; margin-bottom: 0.3rem; }
+  .match--hit .match__label { color: var(--profit); }
+  .match--miss .match__label { color: var(--signal); }
+
+  .match__tool { display: block; text-decoration: none; color: var(--ink); background: var(--paper-2); border-left: 3px solid var(--profit); border-radius: 0 3px 3px 0; padding: 0.9rem 1.1rem; transition: transform 0.12s ease; }
+  .match__tool:hover { transform: translateX(2px); }
+  .match__repo { font-family: var(--font-display); font-weight: 600; font-size: 1.1rem; display: block; overflow-wrap: anywhere; }
+  .match__why { display: block; color: var(--ink-soft); margin: 0.35rem 0 0; font-size: 0.98rem; }
+  .match__go { display: block; margin-top: 0.6rem; font-size: 0.72rem; color: var(--profit-deep); text-transform: uppercase; letter-spacing: 0.05em; }
+
+  .match__none { background: color-mix(in srgb, var(--signal) 8%, transparent); border-left: 3px solid var(--signal); border-radius: 0 3px 3px 0; padding: 0.9rem 1.1rem; }
+  .match__none .match__why { font-size: 0.98rem; }
+
+  .submit { margin-top: clamp(2.5rem, 6vw, 4rem); border-top: 2px solid var(--ink); padding-top: 2rem; }
+  .submit__h { font-size: clamp(1.4rem, 3.5vw, 2rem); font-weight: 600; margin: 0.3rem 0 0.75rem; }
+  .submit__lede { max-width: 56ch; color: var(--ink-soft); margin: 0 0 1rem; }
+  .submit__soon { font-size: 0.8rem; color: var(--profit-deep); background: var(--paper-2); display: inline-block; padding: 0.5rem 0.85rem; border: 1px dashed var(--rule-strong); border-radius: 4px; }
+
+  @media (max-width: 620px) {
+    .match { grid-template-columns: 1fr; gap: 0.75rem; }
+  }
+</style>
