@@ -1,6 +1,40 @@
 import type { APIRoute } from 'astro';
 import { getAllProjects, getProjectByFullName, slugFor } from '../../lib/content';
-import { createProblem, addSolution } from '../../lib/db';
+import { createProblem, addSolution, getCachedStars, setCachedStars } from '../../lib/db';
+
+const MIN_STARS = 5000;
+
+// Real star count for a repo: from our corpus if we have it, else cached, else
+// GitHub API (then cached). Returns null if unknown / repo doesn't exist.
+async function repoStars(repo: string): Promise<number | null> {
+  const proj = getProjectByFullName(repo);
+  if (proj) return proj.stars_total;
+  try {
+    const cached = await getCachedStars(repo);
+    if (cached != null) return cached;
+  } catch {
+    /* cache miss is fine */
+  }
+  try {
+    const headers: Record<string, string> = {
+      'user-agent': 'trending-ledger',
+      accept: 'application/vnd.github+json',
+    };
+    const tok = env('GITHUB_TOKEN');
+    if (tok) headers.authorization = `Bearer ${tok}`;
+    const r = await fetch(`https://api.github.com/repos/${repo}`, { headers });
+    if (!r.ok) return null;
+    const d = await r.json();
+    const stars = Number(d?.stargazers_count);
+    if (Number.isFinite(stars)) {
+      try { await setCachedStars(repo, stars); } catch { /* best effort */ }
+      return stars;
+    }
+    return null;
+  } catch {
+    return null;
+  }
+}
 
 export const prerender = false;
 
@@ -44,8 +78,9 @@ async function generateSolution(problem: string): Promise<RawSolution> {
     'combining open-source GitHub libraries. Given a PROBLEM and a PALETTE of ' +
     'currently-trending libraries, design ONE concrete solution.\n' +
     'Rules:\n' +
-    '- Prefer libraries from the PALETTE, but you MAY add well-known GitHub ' +
-    'libraries (use exact "owner/name") if a solution genuinely needs them.\n' +
+    '- Use any well-established GitHub library, not only the PALETTE. Every ' +
+    'library you name MUST be a real repo with at least 5,000 stars. Prefer the ' +
+    'PALETTE when it fits. Use exact "owner/name".\n' +
     '- Pick 1 to 4 libraries. Each needs a clear role.\n' +
     '- Write the guide as plain sentences with NO markdown, NO backticks, NO ' +
     'headings, NO bullet characters — just clear steps a smart beginner can follow.\n' +
@@ -105,19 +140,27 @@ export const POST: APIRoute = async ({ request }) => {
     return json({ ok: false, error: 'The solution engine is busy right now. Please try again in a moment.' }, 503);
   }
 
-  // Resolve each library: link to our page if we cover it, else to GitHub.
-  const libraries = (raw.libraries || [])
+  // Resolve each proposed library, then VERIFY it has >= 5,000 real stars.
+  const proposed = (raw.libraries || [])
     .filter((l) => l && typeof l.repo === 'string' && /^[^/\s]+\/[^/\s]+$/.test(l.repo))
-    .slice(0, 4)
-    .map((l) => {
+    .slice(0, 4);
+
+  const verified = await Promise.all(
+    proposed.map(async (l) => {
+      const stars = await repoStars(l.repo);
       const project = getProjectByFullName(l.repo);
       return {
         repo: l.repo,
         role: l.role || '',
+        stars,
         inCorpus: !!project,
         url: project ? `/project/${project.date}/${slugFor(project)}/` : `https://github.com/${l.repo}`,
       };
-    });
+    })
+  );
+
+  // Keep only real repos at or above the 5,000-star floor.
+  const libraries = verified.filter((l) => typeof l.stars === 'number' && (l.stars as number) >= MIN_STARS);
 
   const solved = raw.solved !== false && libraries.length > 0;
   const title = raw.title || 'A solution';

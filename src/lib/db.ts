@@ -50,6 +50,11 @@ async function ensureSchema(): Promise<void> {
           voter TEXT NOT NULL,
           PRIMARY KEY (solution_id, voter)
         )`,
+        `CREATE TABLE IF NOT EXISTS repo_stars (
+          repo TEXT PRIMARY KEY,
+          stars INTEGER NOT NULL,
+          checked_at INTEGER NOT NULL
+        )`,
       ],
       'write'
     );
@@ -67,6 +72,7 @@ export interface Library {
   role: string;
   inCorpus?: boolean;
   url?: string;
+  stars?: number;
 }
 export interface SolutionRow {
   id: string;
@@ -190,6 +196,25 @@ export async function getRecentProblems(
     solution_count: Number(row.solution_count),
     top_title: row.top_title,
   }));
+}
+
+/** Cached star count for a repo, or null if not cached / stale. */
+export async function getCachedStars(repo: string, maxAgeMs = 1000 * 60 * 60 * 24 * 21): Promise<number | null> {
+  const c = await db();
+  const r = await c.execute({ sql: 'SELECT stars, checked_at FROM repo_stars WHERE repo = ?', args: [repo] });
+  const row = r.rows[0] as any;
+  if (!row) return null;
+  if (Date.now() - Number(row.checked_at) > maxAgeMs) return null;
+  return Number(row.stars);
+}
+
+export async function setCachedStars(repo: string, stars: number): Promise<void> {
+  const c = await db();
+  await c.execute({
+    sql: `INSERT INTO repo_stars (repo, stars, checked_at) VALUES (?, ?, ?)
+          ON CONFLICT(repo) DO UPDATE SET stars = excluded.stars, checked_at = excluded.checked_at`,
+    args: [repo, stars, Date.now()],
+  });
 }
 
 /** Upvote once per voter. Returns the new vote count (or current if already voted). */

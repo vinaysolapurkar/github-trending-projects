@@ -7,6 +7,8 @@ export const prerender = false;
 const { id } = Astro.params;
 const problem = id ? await getProblem(id) : null;
 const solutions = problem ? await getSolutions(problem.id) : [];
+
+const fmtK = (n: number) => (n >= 1000 ? (n / 1000).toFixed(n >= 10000 ? 0 : 1) + 'k' : String(n));
 ---
 
 {!problem ? (
@@ -47,7 +49,10 @@ const solutions = problem ? await getSolutions(problem.id) : [];
             <ul class="sol__libs">
               {s.libraries.map((l) => (
                 <li>
-                  <a href={l.url} {...(l.inCorpus ? {} : { target: '_blank', rel: 'noopener' })}>{l.repo}</a>
+                  <div class="lib-top">
+                    <a href={l.url} {...(l.inCorpus ? {} : { target: '_blank', rel: 'noopener' })}>{l.repo}</a>
+                    {typeof l.stars === 'number' && <em class="star">★ {fmtK(l.stars)}</em>}
+                  </div>
                   {l.role && <span>{l.role}</span>}
                 </li>
               ))}
@@ -169,7 +174,10 @@ const solutions = problem ? await getSolutions(problem.id) : [];
   .sol__libs { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.4rem; }
   .sol__libs li { display: flex; flex-direction: column; padding: 0.5rem 0.65rem; background: var(--paper); border-left: 3px solid var(--profit); border-radius: 0 4px 4px 0; }
   .sol__libs a { font-family: var(--font-display); font-weight: 600; text-decoration: none; color: var(--ink); overflow-wrap: anywhere; }
+  .sol__libs a:hover { color: var(--profit-deep); text-decoration: underline; }
   .sol__libs span { font-size: 0.9rem; color: var(--ink-soft); }
+  .lib-top { display: flex; align-items: baseline; justify-content: space-between; gap: 0.5rem; }
+  .star { font-family: var(--font-mono); font-size: 0.72rem; color: var(--gold); font-style: normal; white-space: nowrap; }
   .sol__steps { margin: 0; padding-left: 1.3rem; display: grid; gap: 0.4rem; }
 
   .add { margin-top: clamp(2rem, 5vw, 3rem); border-top: 2px solid var(--ink); padding-top: 1.75rem; }
