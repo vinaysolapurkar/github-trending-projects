@@ -1,0 +1,26 @@
+{
+  "date": "2026-08-28",
+  "owner": "swoole",
+  "name": "typephp",
+  "full_name": "swoole/typephp",
+  "url": "https://github.com/swoole/typephp",
+  "description": "Compile PHP to Native Binaries",
+  "language": "PHP",
+  "stars_total": 778,
+  "stars_today": 188,
+  "one_liner": "Compiles PHP code into a fast native program instead of running it the normal, slower way.",
+  "buyer": "A PHP shop running a performance-sensitive service (a high-traffic API) that wants speed without rewriting in another language.",
+  "business_use_cases": [
+    "A PHP SaaS company compiles its hottest API endpoints to native binaries to cut server costs.",
+    "A vendor selling on-premise software written in PHP ships a compiled native binary instead of exposing source code."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'PHP performance audit and compile' consulting service for legacy PHP shops trying to cut hosting bills.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Pick a slow PHP shop's busiest endpoint, compile it with this, benchmark the savings, and pitch it as a paid performance-audit case study.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-08-28T07:00:00Z"
+}

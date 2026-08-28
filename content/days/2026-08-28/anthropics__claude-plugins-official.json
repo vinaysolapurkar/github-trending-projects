@@ -1,0 +1,26 @@
+{
+  "date": "2026-08-28",
+  "owner": "anthropics",
+  "name": "claude-plugins-official",
+  "full_name": "anthropics/claude-plugins-official",
+  "url": "https://github.com/anthropics/claude-plugins-official",
+  "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+  "language": "Python",
+  "stars_total": 34962,
+  "stars_today": 457,
+  "one_liner": "An official, Anthropic-curated app store of add-ons for Claude Code, the AI coding assistant.",
+  "buyer": "Honestly, nobody pays for the directory itself — the real buyer is a plugin author who wants distribution to Claude Code's users.",
+  "business_use_cases": [
+    "A developer builds and lists a plugin here to get free distribution to Claude Code's entire user base.",
+    "An agency studies the featured plugins to standardize its own internal AI-assisted workflows."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build a plugin that solves one specific paid workflow (invoicing, CRM sync, compliance checks) and monetize a pro tier outside the free listing.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Pick one repetitive task from your own job, build a tiny Claude Code plugin for it this weekend, and submit it here for free distribution.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-08-28T07:00:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-28",
+  "owner": "abhigyanpatwari",
+  "name": "GitNexus",
+  "full_name": "abhigyanpatwari/GitNexus",
+  "url": "https://github.com/abhigyanpatwari/GitNexus",
+  "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+  "language": "TypeScript",
+  "stars_total": 46111,
+  "stars_today": 189,
+  "one_liner": "Turns any codebase into an interactive visual map you can ask questions about, entirely in your browser — no server, no code leaving your machine.",
+  "buyer": "An engineering manager at a company with a large inherited codebase who needs new hires to get oriented fast.",
+  "business_use_cases": [
+    "A new hire drops the company repo in and gets an interactive map plus a chat that answers 'how does X connect to Y'.",
+    "A consultant doing a codebase audit for a client visualizes the whole architecture before writing the assessment.",
+    "A due-diligence team evaluating an acquisition target's codebase gets a fast, private view of its structure."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid 'codebase onboarding audit' consulting built around this engine (the repo itself is noncommercially licensed, so sell the service, not a resold copy of the tool).",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Offer freelance 'new codebase orientation' sessions to startups that just hired their first engineer, using this to generate the map live.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-08-28T07:00:00Z"
+}

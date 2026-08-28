@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-28",
+  "owner": "livekit",
+  "name": "agents",
+  "full_name": "livekit/agents",
+  "url": "https://github.com/livekit/agents",
+  "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
+  "language": "Python",
+  "stars_total": 13284,
+  "stars_today": 14,
+  "one_liner": "A toolkit for building AI agents that can have real-time voice or video conversations with people, like a phone-call assistant.",
+  "buyer": "A business owner who wants an AI phone agent to answer calls — booking, support, sales — without hiring staff.",
+  "business_use_cases": [
+    "A dental or salon chain builds an AI phone agent that books appointments 24/7 without a receptionist.",
+    "A support-heavy SaaS builds a voice-AI tier for customers who prefer calling over chatting.",
+    "An agency white-labels voice agents for local businesses (restaurants, clinics) as a monthly service."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build and sell an industry-specific AI phone receptionist (e.g. for dental clinics) as a monthly subscription.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Charge per-minute usage fees for a white-labeled voice-agent platform built on this framework.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Build a simple AI phone-booking agent for one local business type (salons, restaurants) this weekend and sell it as a $99/mo service.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-08-28T07:00:00Z"
+}

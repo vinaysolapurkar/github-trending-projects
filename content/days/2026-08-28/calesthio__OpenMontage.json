@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-28",
+  "owner": "calesthio",
+  "name": "OpenMontage",
+  "full_name": "calesthio/OpenMontage",
+  "url": "https://github.com/calesthio/OpenMontage",
+  "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+  "language": "Python",
+  "stars_total": 53167,
+  "stars_today": 1144,
+  "one_liner": "Turns your AI coding assistant into a full video-editing studio that can script, plan, edit, and produce videos from a text description.",
+  "buyer": "A solo content creator or small marketing team that can't afford a video editor but needs a steady stream of short videos.",
+  "business_use_cases": [
+    "A solo YouTuber describes a video in a prompt and gets a scripted, edited, captioned draft back.",
+    "A small e-commerce brand turns product photos and copy into short ad videos without hiring an editor.",
+    "An agency offers cheap 'AI-produced' video packages to small business clients."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a done-for-you monthly video production service for small businesses built on this pipeline.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell prompt/template packs tuned for specific video types (ads, explainers, social shorts).",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Launch a 'one video a day for a month' service for local businesses this weekend, using this as the production engine.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-08-28T07:00:00Z"
+}

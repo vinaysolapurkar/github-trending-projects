@@ -1,0 +1,26 @@
+{
+  "date": "2026-08-28",
+  "owner": "marin-community",
+  "name": "marin",
+  "full_name": "marin-community/marin",
+  "url": "https://github.com/marin-community/marin",
+  "description": "Open-source framework for the research and development of foundation models.",
+  "language": "Python",
+  "stars_total": 2865,
+  "stars_today": 236,
+  "one_liner": "An open-source toolkit and public research log for training large AI models from scratch, sharing every step — including the failures.",
+  "buyer": "Honestly not a commercial buyer — this is a research platform for AI labs and academics, not a small-business tool.",
+  "business_use_cases": [
+    "A university AI lab uses it to train and transparently document domain-specific models (e.g. for DNA or protein research).",
+    "A startup studies its published experiment logs to avoid known pretraining mistakes and save compute costs."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a consulting service helping smaller labs adopt this framework and avoid costly training mistakes.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Not really a weekend project — more useful as free tuition: read its failed-experiment logs before you spend money training your own model.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-08-28T07:00:00Z"
+}

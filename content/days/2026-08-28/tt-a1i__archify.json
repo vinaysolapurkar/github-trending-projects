@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-28",
+  "owner": "tt-a1i",
+  "name": "archify",
+  "full_name": "tt-a1i/archify",
+  "url": "https://github.com/tt-a1i/archify",
+  "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+  "language": "JavaScript",
+  "stars_total": 26795,
+  "stars_today": 4561,
+  "one_liner": "Turns a codebase or a plain description into professional, interactive diagrams and shareable images — no drawing required.",
+  "buyer": "A solutions consultant or dev-agency lead who needs to hand a non-technical client a clear picture of what was built.",
+  "business_use_cases": [
+    "A dev agency generates polished architecture diagrams for every client handoff instead of hand-drawn Miro boards.",
+    "A technical writer auto-generates before/after diagrams for release notes and change-review documents.",
+    "An engineering manager produces onboarding diagrams for new hires without needing a designer."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a 'diagram-as-a-service' add-on where clients pay per polished diagram set for investor decks or documentation.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Sell a hosted version with team sharing and version history for engineering orgs.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Package it as a paid 'instant system diagram' add-on for freelance dev agencies to include in every project handoff this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-08-28T07:00:00Z"
+}

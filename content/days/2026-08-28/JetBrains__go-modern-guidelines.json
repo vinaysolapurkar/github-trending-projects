@@ -1,0 +1,26 @@
+{
+  "date": "2026-08-28",
+  "owner": "JetBrains",
+  "name": "go-modern-guidelines",
+  "full_name": "JetBrains/go-modern-guidelines",
+  "url": "https://github.com/JetBrains/go-modern-guidelines",
+  "description": "Help AI coding agents write modern Go",
+  "language": "Go",
+  "stars_total": 2539,
+  "stars_today": 574,
+  "one_liner": "A cheat-sheet file that teaches AI coding assistants to write up-to-date, idiomatic Go instead of outdated patterns.",
+  "buyer": "Honestly nobody pays for this directly — it's a free configuration file for Go teams using AI coding tools.",
+  "business_use_cases": [
+    "A Go shop drops this into its AI assistant's config so generated code automatically matches current team standards.",
+    "A coding-agent vendor bundles similar per-language guideline packs as a selling point for enterprise plans."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Write and sell similar 'modern language guidelines' packs for languages this project hasn't covered, as an add-on for AI coding tools.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Write the same style guide for a language JetBrains hasn't covered yet (modern Rust or Kotlin) and give it away to build an audience.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-08-28T07:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2026-08-28",
+  "owner": "tashfeenahmed",
+  "name": "freellmapi",
+  "full_name": "tashfeenahmed/freellmapi",
+  "url": "https://github.com/tashfeenahmed/freellmapi",
+  "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+  "language": "TypeScript",
+  "stars_total": 21509,
+  "stars_today": 477,
+  "one_liner": "One login that quietly combines dozens of free AI chatbot providers' free usage limits into a single API, so you get far more free AI usage before hitting any paywall.",
+  "buyer": "A hobbyist developer or indie hacker prototyping an AI app who wants to avoid paying for API credits early on.",
+  "business_use_cases": [
+    "An indie developer prototypes an AI feature entirely on aggregated free tiers before committing to a paid API budget.",
+    "A student building a class project gets a generous, reliable amount of free AI usage without juggling accounts."
+  ],
+  "money_ideas": [
+    {
+      "idea": "There isn't a legitimate business here — the project itself says 'personal experimentation only,' and it runs on providers' free tiers, which reselling access would violate.",
+      "revenue_model": "none — not a resellable business"
+    }
+  ],
+  "steal_this": "Use it to prototype your own AI side-project for free before you have paying users — not as something to build a company on.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-08-28T07:00:00Z"
+}

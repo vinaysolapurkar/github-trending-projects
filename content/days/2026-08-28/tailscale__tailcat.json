@@ -1,0 +1,26 @@
+{
+  "date": "2026-08-28",
+  "owner": "tailscale",
+  "name": "tailcat",
+  "full_name": "tailscale/tailcat",
+  "url": "https://github.com/tailscale/tailcat",
+  "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+  "language": "Go",
+  "stars_total": 2536,
+  "stars_today": 986,
+  "one_liner": "A tool that lets two computers connect to each other securely and directly over the internet, without needing a Tailscale account or any special network setup.",
+  "buyer": "Honestly this is a networking/infra engineer's utility — not something a typical small business would buy on its own.",
+  "business_use_cases": [
+    "A DevOps engineer uses it for ad-hoc secure file transfer or debugging between two machines during an incident.",
+    "A hosting provider offers it as a built-in 'quick secure connect' feature between customer virtual machines."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Wrap it in a simple client and sell it to IT support freelancers as a 'connect into any client machine instantly, no VPN setup' tool.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Wrap it in a simple GUI and pitch it to IT freelancers as an instant, no-setup remote-support tool.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-08-28T07:00:00Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-28",
+  "owner": "freestylefly",
+  "name": "awesome-gpt-image-2",
+  "full_name": "freestylefly/awesome-gpt-image-2",
+  "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+  "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+  "language": "JavaScript",
+  "stars_total": 24156,
+  "stars_today": 1687,
+  "one_liner": "A library of ready-made, tested prompts that make GPT's image generator produce specific, professional-looking results — product shots, posters, and more — reliably.",
+  "buyer": "An e-commerce seller or social-media marketer who needs polished product images but can't afford a photographer or designer.",
+  "business_use_cases": [
+    "An Etsy or Shopify seller generates consistent, professional product photos from a plain phone photo using proven templates.",
+    "A social media manager produces on-brand poster and ad creative without a designer, using a matching template.",
+    "A print-on-demand seller mass-produces varied design mockups from one base template."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell curated, niche prompt packs (e.g. 'jewelry product shots', 'real estate listing photos') to specific seller communities.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a done-for-you image-generation service for small e-commerce shops using these templates.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Package ten of these templates into a 'professional product photos for $20' Gumroad prompt pack this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-08-28T07:00:00Z"
+}

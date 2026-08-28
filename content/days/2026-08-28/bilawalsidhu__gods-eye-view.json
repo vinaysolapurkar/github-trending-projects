@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-28",
+  "owner": "bilawalsidhu",
+  "name": "gods-eye-view",
+  "full_name": "bilawalsidhu/gods-eye-view",
+  "url": "https://github.com/bilawalsidhu/gods-eye-view",
+  "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+  "language": "JavaScript",
+  "stars_total": 10704,
+  "stars_today": 1984,
+  "one_liner": "A browser-based 3D globe showing real, live planes, ships, earthquakes, and traffic worldwide, that you can talk to like a voice assistant.",
+  "buyer": "A news or explainer YouTuber who needs dramatic real-world footage without a camera crew or a stock-footage budget.",
+  "business_use_cases": [
+    "A news YouTuber records live flyovers of a breaking event (wildfire, conflict zone, shipping blockade) for a video segment.",
+    "A logistics company builds a customer-facing dashboard showing live positions of its shipping fleet.",
+    "An educational creator makes geography or current-events explainer videos using real live global data as B-roll."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Run a subscription 'stock footage' service selling recorded flyover clips of trending world events to news outlets and creators.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "White-label the globe as a branded live-tracking dashboard for logistics or maritime clients.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Record a daily 60-second 'what's happening on Earth right now' flyover and post it as a short-form video series this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-08-28T07:00:00Z"
+}

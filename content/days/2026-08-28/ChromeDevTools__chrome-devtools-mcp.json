@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-28",
+  "owner": "ChromeDevTools",
+  "name": "chrome-devtools-mcp",
+  "full_name": "ChromeDevTools/chrome-devtools-mcp",
+  "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "description": "Chrome DevTools for coding agents",
+  "language": "TypeScript",
+  "stars_total": 49931,
+  "stars_today": 61,
+  "one_liner": "Lets an AI coding assistant open a real Chrome browser, click around, and debug your website exactly like a human developer would.",
+  "buyer": "A solo developer or QA lead who wants automated bug-hunting and performance checks without a dedicated QA engineer.",
+  "business_use_cases": [
+    "A small agency has its AI assistant automatically test and screenshot every client site after each deploy, catching visual bugs.",
+    "A freelance developer uses it to have an AI diagnose 'why is this page slow' issues for client sites.",
+    "A QA-as-a-service offering runs AI-driven browser regression checks for small business websites."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer an 'AI QA checkup' subscription for small business websites: automated visual and performance checks every week.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build a $50/month 'is my website broken' monitoring service for local businesses this weekend, using this as the checking engine.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-08-28T07:00:00Z"
+}

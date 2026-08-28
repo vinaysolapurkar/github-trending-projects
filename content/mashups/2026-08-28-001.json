@@ -1,0 +1,9 @@
+{
+  "id": "2026-08-28-001",
+  "date": "2026-08-28",
+  "repo_a": "freestylefly/awesome-gpt-image-2",
+  "repo_b": "calesthio/OpenMontage",
+  "title": "The One-Person Ad Factory",
+  "pitch": "Feed a plain product photo through the industrial prompt-template library to get polished, on-brand lifestyle shots, then hand those images straight into the agentic video production system to script, animate, and edit them into a finished ad. A solo e-commerce seller gets a photographer, art director, and video editor's output for the price of a couple of API calls, with a new video ready before lunch.",
+  "why_now": "Short-form video ads are the highest-converting placement on every ad platform right now, but small sellers can't afford a photo shoot and an editor — this combo replaces both for a few dollars per video."
+}

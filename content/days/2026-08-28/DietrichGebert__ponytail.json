@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-28",
+  "owner": "DietrichGebert",
+  "name": "ponytail",
+  "full_name": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+  "language": "JavaScript",
+  "stars_total": 115163,
+  "stars_today": 1396,
+  "one_liner": "A plug-in for AI coding assistants that stops them from writing bloated code, so you get the smallest working fix instead of an over-engineered mess.",
+  "buyer": "A startup CTO whose team's AI-assisted codebase is getting expensive and slow to maintain because the AI over-builds everything.",
+  "business_use_cases": [
+    "An engineering lead installs it org-wide so every AI-generated pull request is leaner and easier to review.",
+    "A freelance developer offers 'AI code cleanup' audits to clients whose AI-written codebases have become bloated.",
+    "A coding-agent vendor bundles a similar discipline layer into its product to cut complaints about verbose output."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'de-bloat your AI-generated codebase' audit and cleanup service for startups.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build and sell similar discipline/guideline plugins tuned for other pain points (security-first, test-first).",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Offer a fixed-price 'AI code diet' audit to a startup this weekend: install this, and show them the before/after diff size.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-08-28T07:00:00Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-28",
+  "owner": "abi",
+  "name": "screenshot-to-code",
+  "full_name": "abi/screenshot-to-code",
+  "url": "https://github.com/abi/screenshot-to-code",
+  "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+  "language": "Python",
+  "stars_total": 75460,
+  "stars_today": 309,
+  "one_liner": "Turns a screenshot, design mockup, or screen recording into working website code.",
+  "buyer": "A freelance designer or no-code founder who has a design but no front-end developer.",
+  "business_use_cases": [
+    "A designer converts a client's Figma mockup into a real working prototype without waiting on a developer.",
+    "A no-code founder turns a competitor's landing page screenshot into a starting template for their own site.",
+    "An agency speeds up prototyping by generating a first-pass build from every new mockup automatically."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a 'mockup to live site in 24 hours' freelance service for small businesses.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build a niche SaaS wrapper (e.g. for real-estate listing pages) that always outputs a specific polished template.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer local businesses a flat $200 'turn your napkin sketch or screenshot into a real website' service this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-08-28T07:00:00Z"
+}
