@@ -51,7 +51,9 @@ async function notifyOwner(problem: string, email: string, matched: string | nul
 }
 
 async function matchWithDeepSeek(problem: string): Promise<MatchResult> {
-  const key = env('DEEPSEEK_API_KEY');
+  // Strip BOM / stray non-printable chars that can sneak in via env tooling,
+  // otherwise the Authorization header fails ByteString conversion.
+  const key = env('DEEPSEEK_API_KEY')?.replace(/[^\x21-\x7E]/g, '');
   if (!key) throw new Error('DEEPSEEK_API_KEY is not configured');
 
   const projects = getAllProjects();
