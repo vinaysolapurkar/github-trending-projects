@@ -129,11 +129,7 @@ export const POST: APIRoute = async ({ request }) => {
     match = await matchWithDeepSeek(problem);
   } catch (e) {
     return json(
-      {
-        ok: false,
-        error: 'The matching engine is unavailable right now. Please try again shortly.',
-        detail: String((e as Error)?.message || e),
-      },
+      { ok: false, error: 'The matching engine is unavailable right now. Please try again shortly.' },
       503
     );
   }
