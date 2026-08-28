@@ -1,152 +1,216 @@
 ---
 import Base from '../layouts/Base.astro';
-import LedgerRow from '../components/LedgerRow.astro';
-import { getLatestDay, getProjectsForDay, getMashups, getDays } from '../lib/content';
+import { getProblems, getLatestDay, getProjectsForDay } from '../lib/content';
 
+// A few real problems to seed the "try one" chips.
+const examples = getProblems().slice(0, 6).map((p) => p.text);
 const latest = getLatestDay();
-const projects = latest ? getProjectsForDay(latest) : [];
-const recentDays = getDays().slice(0, 8);
-const topMashup = getMashups()[0] ?? null;
-
-function prettyDate(d: string | null): string {
-  if (!d) return '—';
-  const [y, m, day] = d.split('-').map(Number);
-  const date = new Date(Date.UTC(y, m - 1, day));
-  return date.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
-}
+const toolCount = latest ? getProjectsForDay(latest).length : 0;
 ---
 
-<Base title="The Trending Ledger — GitHub trending, read as business">
+<Base
+  title="Your problem, meet its open-source solution"
+  description="Describe a problem. AI picks the right trending GitHub tools and writes a plain how-to. Then anyone can post a better solution."
+>
   <section class="hero">
-    <p class="eyebrow">Today&rsquo;s posting &middot; <span class="mono">{latest ?? 'no entries yet'}</span></p>
+    <p class="eyebrow">Your problem, meet its solution</p>
     <h1 class="hero__head">
-      Every trending repo,<br />booked as an <span class="hero__accent">opportunity.</span>
+      Tell me what you&rsquo;re stuck on.<br />
+      I&rsquo;ll build the fix from <span class="hero__accent">what&rsquo;s trending.</span>
     </h1>
     <p class="hero__lede">
-      Each morning a scheduled agent reads GitHub&rsquo;s trending list, then
-      writes down who would pay for it, how it makes money, and the one thing
-      you could ship this weekend. One line at a time.
+      Describe a problem in plain words. The AI reads what&rsquo;s trending on
+      GitHub right now, picks the tools that solve it, and writes you a
+      step-by-step plan for wiring them together. No match yet? Leave an email
+      and we&rsquo;ll write to you the day one shows up.
+    </p>
+
+    <form class="ask" id="ask" novalidate>
+      <textarea id="ask-problem" rows="3" maxlength="600"
+        placeholder="e.g. I waste hours turning meeting recordings into clean written notes." required></textarea>
+      <div class="ask__row">
+        <input id="ask-email" type="email" placeholder="Email (optional — for a later match)" />
+        <button id="ask-submit" type="submit">Build my solution</button>
+      </div>
+    </form>
+
+    <div class="chips" aria-label="Example problems">
+      {examples.map((t) => <button class="chip" type="button" data-fill={t}>{t}</button>)}
+    </div>
+
+    <div class="solution" id="solution" hidden></div>
+  </section>
+
+  <section class="how">
+    <div class="how__step">
+      <span class="how__n mono">01</span>
+      <h3>You describe the problem</h3>
+      <p>Plain language. No jargon, no idea which tool you need — that&rsquo;s the point.</p>
+    </div>
+    <div class="how__step">
+      <span class="how__n mono">02</span>
+      <h3>AI marries it to the tools</h3>
+      <p>It picks the trending GitHub libraries that fit and writes how to combine them.</p>
+    </div>
+    <div class="how__step">
+      <span class="how__n mono">03</span>
+      <h3>Anyone can beat it</h3>
+      <p>Post your own solution. The community ranks the best one to the top.</p>
+    </div>
+  </section>
+
+  <section class="wall">
+    <div class="wall__head">
+      <div>
+        <p class="eyebrow">The tool wall</p>
+        <h2>The trending libraries the AI pulls from.</h2>
+      </div>
+      <a class="wall__link mono" href="/tools/">Browse {toolCount} tools &rarr;</a>
+    </div>
+    <p class="wall__note">
+      Refreshed every morning from GitHub Trending. Each one comes with a plain
+      read on who&rsquo;d pay for it and how it makes money.
     </p>
   </section>
 
-  {latest ? (
-    <section class="today" aria-labelledby="today-h">
-      <div class="today__head">
-        <h2 id="today-h">The book for {prettyDate(latest)}</h2>
-        <span class="today__count mono">{projects.length} entries</span>
-      </div>
+  <script is:inline>
+    (() => {
+      const form = document.getElementById('ask');
+      const ta = document.getElementById('ask-problem');
+      const btn = document.getElementById('ask-submit');
+      const out = document.getElementById('solution');
+      if (!form) return;
 
-      <div class="ledger">
-        {projects.map((p, i) => <LedgerRow project={p} index={i + 1} />)}
-      </div>
-    </section>
-  ) : (
-    <section class="empty">
-      <h2>The book is open, the first posting is due.</h2>
-      <p>
-        No entries have been booked yet. The daily agent posts the first ledger
-        after its next morning run.
-      </p>
-    </section>
-  )}
+      document.querySelectorAll('.chip').forEach((c) => {
+        c.addEventListener('click', () => {
+          ta.value = c.getAttribute('data-fill');
+          ta.focus();
+        });
+      });
 
-  {topMashup && (
-    <section class="mashup-peek">
-      <p class="eyebrow">Latest compound entry</p>
-      <a class="mashup-peek__card" href="/mashups/">
-        <h3>{topMashup.title}</h3>
-        <p class="mashup-peek__combo mono">{topMashup.repo_a} &times; {topMashup.repo_b}</p>
-        <p class="mashup-peek__pitch">{topMashup.pitch}</p>
-        <span class="mashup-peek__more">See all compound entries &rarr;</span>
-      </a>
-    </section>
-  )}
+      const esc = (s) => (s == null ? '' : String(s).replace(/[&<>"]/g, (m) => (
+        { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[m])));
 
-  {recentDays.length > 1 && (
-    <section class="recent" aria-labelledby="recent-h">
-      <p class="eyebrow" id="recent-h">Earlier postings</p>
-      <ul class="recent__list">
-        {recentDays.map((d) => (
-          <li>
-            <a href={`/day/${d}/`}>
-              <span class="mono">{d}</span>
-              <span class="recent__count">{getProjectsForDay(d).length} entries</span>
-            </a>
-          </li>
-        ))}
-      </ul>
-      <a class="recent__all" href="/archive/">Full archive &rarr;</a>
-    </section>
-  )}
+      form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const problem = ta.value.trim();
+        const email = document.getElementById('ask-email').value.trim();
+        if (problem.length < 8) { ta.focus(); return; }
+
+        out.hidden = false;
+        out.className = 'solution solution--loading';
+        out.textContent = 'Reading what’s trending and building your solution…';
+        btn.disabled = true;
+        out.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+
+        try {
+          const res = await fetch('/api/solve', {
+            method: 'POST',
+            headers: { 'content-type': 'application/json' },
+            body: JSON.stringify({ problem, email }),
+          });
+          const d = await res.json();
+
+          if (!d.ok) {
+            out.className = 'solution solution--error';
+            out.textContent = d.error || 'Something went wrong. Try again.';
+          } else if (!d.solved) {
+            out.className = 'solution solution--miss';
+            out.innerHTML =
+              '<span class="solution__tag">No solution yet</span>' +
+              '<p>' + esc(d.summary || 'Nothing trending solves this cleanly right now.') +
+              (email ? ' We’ve noted it and will email you when a matching tool trends.' : ' Leave an email above and we’ll write to you when one trends.') +
+              '</p>';
+          } else {
+            const libs = (d.libraries || []).map((l) =>
+              '<li><a href="' + esc(l.url) + '"' + (l.inCorpus ? '' : ' target="_blank" rel="noopener"') + '>' +
+              esc(l.repo) + '</a><span>' + esc(l.role) + '</span></li>').join('');
+            const steps = (d.steps || []).map((s) => '<li>' + esc(s) + '</li>').join('');
+            out.className = 'solution solution--hit';
+            out.innerHTML =
+              '<span class="solution__tag">Solution</span>' +
+              '<h3 class="solution__title">' + esc(d.title) + '</h3>' +
+              (d.summary ? '<p class="solution__summary">' + esc(d.summary) + '</p>' : '') +
+              '<p class="solution__sub mono">Tools</p><ul class="solution__libs">' + libs + '</ul>' +
+              (steps ? '<p class="solution__sub mono">How to build it</p><ol class="solution__steps">' + steps + '</ol>' : '');
+          }
+        } catch (err) {
+          out.className = 'solution solution--error';
+          out.textContent = 'Network error. Please try again.';
+        } finally {
+          btn.disabled = false;
+        }
+      });
+    })();
+  </script>
 </Base>
 
 <style>
-  .hero { padding: clamp(1rem, 3vw, 2rem) 0 clamp(2rem, 5vw, 3.5rem); }
+  .hero { padding: clamp(1rem, 3vw, 2rem) 0 clamp(2rem, 5vw, 3rem); }
   .hero__head {
-    font-size: clamp(2.4rem, 8vw, 4.75rem);
+    font-size: clamp(2.2rem, 7vw, 4.25rem);
     font-weight: 700;
-    line-height: 0.98;
-    margin: 0.3rem 0 1.25rem;
-    max-width: 16ch;
+    line-height: 1.0;
+    margin: 0.3rem 0 1.1rem;
+    max-width: 18ch;
   }
-  .hero__accent { color: var(--profit); font-style: normal; }
-  .hero__lede {
-    font-size: clamp(1.1rem, 2.5vw, 1.35rem);
-    max-width: 54ch;
-    color: var(--ink-soft);
-    margin: 0;
-  }
+  .hero__accent { color: var(--profit); }
+  .hero__lede { font-size: clamp(1.1rem, 2.5vw, 1.3rem); max-width: 56ch; color: var(--ink-soft); margin: 0 0 1.75rem; }
 
-  .today__head {
-    display: flex;
-    align-items: baseline;
-    justify-content: space-between;
-    gap: 1rem;
-    flex-wrap: wrap;
-    border-bottom: 2px solid var(--ink);
-    padding-bottom: 0.6rem;
-    margin-bottom: 0.25rem;
+  .ask { max-width: 44rem; }
+  .ask textarea {
+    width: 100%; font-family: var(--font-body); font-size: 1.15rem; color: var(--ink);
+    background: var(--paper); border: 2px solid var(--ink); border-radius: 6px;
+    padding: 0.9rem 1rem; resize: vertical; box-shadow: 4px 4px 0 var(--rule-strong);
   }
-  .today__head h2 { font-size: clamp(1.3rem, 3vw, 1.9rem); font-weight: 600; }
-  .today__count { font-size: 0.8rem; color: var(--ink-soft); text-transform: uppercase; letter-spacing: 0.08em; }
-
-  .empty { padding: 3rem 0; }
-  .empty h2 { font-size: clamp(1.5rem, 4vw, 2.25rem); margin-bottom: 0.75rem; }
-  .empty p { max-width: 48ch; color: var(--ink-soft); }
-
-  .mashup-peek { margin-top: clamp(2.5rem, 6vw, 4rem); }
-  .mashup-peek__card {
-    display: block;
-    text-decoration: none;
-    color: var(--ink);
-    background: var(--paper-2);
-    border: 2px solid var(--ink);
-    border-radius: 4px;
-    padding: clamp(1.25rem, 3vw, 1.9rem);
-    box-shadow: 6px 6px 0 var(--rule-strong);
-    transition: transform 0.15s ease, box-shadow 0.15s ease;
+  .ask textarea:focus { outline: none; border-color: var(--profit); box-shadow: 4px 4px 0 var(--profit); }
+  .ask__row { display: flex; gap: 0.6rem; margin-top: 0.6rem; flex-wrap: wrap; }
+  .ask input {
+    flex: 1 1 16rem; font-family: var(--font-body); font-size: 1rem; color: var(--ink);
+    background: var(--paper); border: 2px solid var(--rule-strong); border-radius: 6px; padding: 0.7rem 0.9rem;
   }
-  .mashup-peek__card:hover { transform: translate(-2px, -2px); box-shadow: 8px 8px 0 var(--profit); }
-  .mashup-peek__card h3 { font-size: clamp(1.3rem, 3vw, 1.75rem); font-weight: 600; margin-bottom: 0.4rem; }
-  .mashup-peek__combo { color: var(--profit-deep); font-size: 0.85rem; margin: 0 0 0.75rem; }
-  .mashup-peek__pitch { margin: 0 0 1rem; max-width: 60ch; }
-  .mashup-peek__more { font-family: var(--font-mono); font-size: 0.8rem; color: var(--profit-deep); text-transform: uppercase; letter-spacing: 0.06em; }
-
-  .recent { margin-top: clamp(2.5rem, 6vw, 4rem); }
-  .recent__list { list-style: none; margin: 0.75rem 0 1.25rem; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 0.5rem; }
-  .recent__list a {
-    display: flex;
-    align-items: baseline;
-    justify-content: space-between;
-    gap: 0.5rem;
-    text-decoration: none;
-    color: var(--ink);
-    padding: 0.6rem 0.75rem;
-    border: 1px solid var(--rule-strong);
-    border-radius: 3px;
-    background: color-mix(in srgb, var(--paper-2) 60%, transparent);
+  .ask input:focus { outline: none; border-color: var(--profit); }
+  .ask button {
+    font-family: var(--font-display); font-weight: 600; font-size: 1.05rem; white-space: nowrap;
+    color: var(--paper); background: var(--profit); border: 2px solid var(--profit);
+    padding: 0.7rem 1.6rem; border-radius: 6px; cursor: pointer; transition: background 0.12s ease;
   }
-  .recent__list a:hover { border-color: var(--profit); }
-  .recent__count { font-family: var(--font-mono); font-size: 0.7rem; color: var(--ink-soft); }
-  .recent__all { font-family: var(--font-mono); font-size: 0.8rem; }
+  .ask button:hover { background: var(--profit-deep); border-color: var(--profit-deep); }
+  .ask button:disabled { opacity: 0.6; cursor: default; }
+
+  .chips { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem; max-width: 46rem; }
+  .chip {
+    font-family: var(--font-mono); font-size: 0.72rem; color: var(--ink-soft);
+    background: var(--paper-2); border: 1px solid var(--rule-strong); border-radius: 999px;
+    padding: 0.4rem 0.8rem; cursor: pointer; text-align: left; transition: border-color 0.12s ease, color 0.12s ease;
+  }
+  .chip:hover { border-color: var(--profit); color: var(--ink); }
+
+  .solution { margin-top: 1.75rem; max-width: 44rem; padding: 1.25rem 1.4rem; border-radius: 6px; }
+  .solution--loading { background: var(--paper-2); color: var(--ink-soft); font-family: var(--font-mono); font-size: 0.9rem; }
+  .solution--error, .solution--miss { background: color-mix(in srgb, var(--signal) 9%, transparent); border-left: 3px solid var(--signal); }
+  .solution--hit { background: var(--paper-2); border: 2px solid var(--ink); box-shadow: 5px 5px 0 var(--rule-strong); }
+  .solution__tag { font-family: var(--font-mono); font-size: 0.64rem; text-transform: uppercase; letter-spacing: 0.12em; color: var(--profit-deep); }
+  .solution--miss .solution__tag, .solution--error .solution__tag { color: var(--signal); }
+  .solution__title { font-size: clamp(1.3rem, 3vw, 1.9rem); font-weight: 700; margin: 0.4rem 0 0.5rem; }
+  .solution__summary { margin: 0 0 1rem; font-size: 1.1rem; }
+  .solution__sub { font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--profit-deep); margin: 1rem 0 0.4rem; }
+  .solution__libs { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.5rem; }
+  .solution__libs li { display: flex; flex-direction: column; gap: 0.1rem; padding: 0.55rem 0.7rem; background: var(--paper); border-left: 3px solid var(--profit); border-radius: 0 4px 4px 0; }
+  .solution__libs a { font-family: var(--font-display); font-weight: 600; text-decoration: none; color: var(--ink); overflow-wrap: anywhere; }
+  .solution__libs a:hover { color: var(--profit-deep); text-decoration: underline; }
+  .solution__libs span { font-size: 0.9rem; color: var(--ink-soft); }
+  .solution__steps { margin: 0; padding-left: 1.3rem; display: grid; gap: 0.5rem; }
+  .solution__steps li { padding-left: 0.3rem; }
+
+  .how { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.5rem; margin: clamp(2.5rem, 6vw, 4rem) 0; border-top: 2px solid var(--ink); padding-top: 2rem; }
+  .how__n { color: var(--signal); font-weight: 700; font-size: 0.9rem; }
+  .how__step h3 { font-size: 1.2rem; font-weight: 600; margin: 0.4rem 0 0.4rem; }
+  .how__step p { margin: 0; color: var(--ink-soft); }
+
+  .wall { border-top: 2px solid var(--ink); padding-top: 2rem; }
+  .wall__head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
+  .wall__head h2 { font-size: clamp(1.3rem, 3vw, 1.9rem); font-weight: 600; }
+  .wall__link { font-size: 0.85rem; color: var(--profit-deep); }
+  .wall__note { color: var(--ink-soft); max-width: 56ch; margin: 0.75rem 0 0; }
 </style>

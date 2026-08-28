@@ -1,13 +1,14 @@
 ---
-import { getTotals } from '../lib/content';
+import { getTotals, getProblemStats } from '../lib/content';
 
 interface Props {
   title: string;
   description?: string;
 }
 
-const { title, description = 'Every morning, GitHub’s trending repos read as business opportunities.' } = Astro.props;
+const { title, description = 'Describe a problem. AI marries it to the right trending GitHub tools and writes the how-to.' } = Astro.props;
 const totals = getTotals();
+const problems = getProblemStats();
 const year = 2026;
 ---
 
@@ -36,17 +37,16 @@ const year = 2026;
         <span class="masthead__wordmark">The&nbsp;Trending&nbsp;Ledger</span>
       </a>
       <nav class="masthead__nav">
-        <a href="/">Today</a>
+        <a href="/">Solve</a>
         <a href="/problems/">Problems</a>
-        <a href="/mashups/">Mashups</a>
-        <a href="/archive/">Archive</a>
+        <a href="/tools/">Tool wall</a>
       </nav>
     </header>
 
     <div class="running-balance">
-      <span>{totals.projects} entries booked</span>
-      <span>{totals.days} trading days</span>
-      <span>{totals.mashups} compound entries</span>
+      <span>{totals.projects} tools on the wall</span>
+      <span>{problems.solved + problems.unmatched} problems on the board</span>
+      <span>{totals.days} days scanned</span>
     </div>
 
     <main class="sheet">

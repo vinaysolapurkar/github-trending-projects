@@ -1,0 +1,73 @@
+---
+import Base from '../layouts/Base.astro';
+import LedgerRow from '../components/LedgerRow.astro';
+import { getLatestDay, getProjectsForDay, getDays } from '../lib/content';
+
+const latest = getLatestDay();
+const projects = latest ? getProjectsForDay(latest) : [];
+const recentDays = getDays().slice(0, 8);
+
+function prettyDate(d: string | null): string {
+  if (!d) return '—';
+  const [y, m, day] = d.split('-').map(Number);
+  return new Date(Date.UTC(y, m - 1, day)).toLocaleDateString('en-US', {
+    weekday: 'long', month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC',
+  });
+}
+---
+
+<Base title="The tool wall — trending libraries" description="The trending GitHub libraries the solution engine draws from, each with a business read.">
+  <div class="head">
+    <p class="eyebrow">The tool wall</p>
+    <h1 class="head__title">Everything trending, read for what it&rsquo;s worth.</h1>
+    <p class="head__lede">
+      The shelf the solution engine pulls from. Refreshed each morning from
+      GitHub Trending. Each tool comes with a plain read: who&rsquo;d pay for it,
+      how it makes money, and the fastest thing you could ship with it.
+    </p>
+  </div>
+
+  {latest ? (
+    <section aria-labelledby="wall-h">
+      <div class="wall__head">
+        <h2 id="wall-h">{prettyDate(latest)}</h2>
+        <span class="mono wall__count">{projects.length} tools</span>
+      </div>
+      <div class="ledger">
+        {projects.map((p, i) => <LedgerRow project={p} index={i + 1} />)}
+      </div>
+    </section>
+  ) : (
+    <p class="empty">No tools on the wall yet — the first batch posts after the next morning refresh.</p>
+  )}
+
+  {recentDays.length > 1 && (
+    <section class="recent">
+      <p class="eyebrow">Earlier days</p>
+      <ul class="recent__list">
+        {recentDays.map((d) => (
+          <li><a href={`/day/${d}/`}><span class="mono">{d}</span><span class="recent__count">{getProjectsForDay(d).length}</span></a></li>
+        ))}
+      </ul>
+      <a class="recent__all mono" href="/archive/">Full archive &rarr;</a>
+    </section>
+  )}
+</Base>
+
+<style>
+  .head { border-bottom: 2px solid var(--ink); padding-bottom: 1.5rem; margin-bottom: 1.5rem; }
+  .head__title { font-size: clamp(1.9rem, 5vw, 3.25rem); font-weight: 700; margin: 0.3rem 0 1rem; max-width: 18ch; }
+  .head__lede { font-size: clamp(1.05rem, 2.5vw, 1.25rem); max-width: 58ch; color: var(--ink-soft); margin: 0; }
+
+  .wall__head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; flex-wrap: wrap; border-bottom: 2px solid var(--ink); padding-bottom: 0.6rem; }
+  .wall__head h2 { font-size: clamp(1.2rem, 3vw, 1.7rem); font-weight: 600; }
+  .wall__count { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-soft); }
+
+  .empty { color: var(--ink-soft); padding: 2rem 0; }
+
+  .recent { margin-top: clamp(2rem, 5vw, 3rem); }
+  .recent__list { list-style: none; margin: 0.75rem 0 1rem; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 0.5rem; }
+  .recent__list a { display: flex; align-items: baseline; justify-content: space-between; gap: 0.5rem; text-decoration: none; color: var(--ink); padding: 0.55rem 0.7rem; border: 1px solid var(--rule-strong); border-radius: 3px; }
+  .recent__list a:hover { border-color: var(--profit); }
+  .recent__count { font-family: var(--font-mono); font-size: 0.7rem; color: var(--ink-soft); }
+</style>
