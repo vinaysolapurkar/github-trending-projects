@@ -1,203 +1,92 @@
 ---
 import Base from '../layouts/Base.astro';
-import { getProblemBoard, getProblemStats, slugFor } from '../lib/content';
+import { getRecentProblems } from '../lib/db';
 
-const board = getProblemBoard();
-const stats = getProblemStats();
-// solved first, then unmatched
-board.sort((a, b) => (a.match ? 0 : 1) - (b.match ? 0 : 1));
+export const prerender = false;
+
+let problems: Awaited<ReturnType<typeof getRecentProblems>> = [];
+let dbError = false;
+try {
+  problems = await getRecentProblems(100);
+} catch {
+  dbError = true;
+}
+
+function ago(ts: number): string {
+  const s = Math.floor((Date.now() - ts) / 1000);
+  if (s < 60) return 'just now';
+  const m = Math.floor(s / 60);
+  if (m < 60) return `${m}m ago`;
+  const h = Math.floor(m / 60);
+  if (h < 24) return `${h}h ago`;
+  return `${Math.floor(h / 24)}d ago`;
+}
 ---
 
-<Base title="Problems → trending tools — The Trending Ledger" description="Real problems, matched to the trending open-source tools that solve them.">
+<Base title="Problems on the board" description="Every problem people have asked, and the solutions stacking up under each.">
   <div class="head">
-    <p class="eyebrow">The matching desk</p>
-    <h1 class="head__title">A problem, and the tool that just trended to fix it.</h1>
+    <p class="eyebrow">The board</p>
+    <h1 class="head__title">Every problem asked, and its solutions.</h1>
     <p class="head__lede">
-      We keep a list of real problems people have. Each morning the agent checks
-      whether anything on GitHub Trending solves one. A match gets posted here.
-      No match? Say so below and we&rsquo;ll email you the day one shows up.
+      Real problems people brought in. Each has an AI solution and any the
+      community added. Open one to read it, add your own, or vote the best up.
     </p>
-    <p class="head__stats mono">{stats.solved} matched &middot; {stats.unmatched} waiting for a match</p>
+    <a class="head__cta" href="/#ask">Ask your own problem &rarr;</a>
   </div>
 
-  <div class="board">
-    {board.map(({ problem, match, project }) => (
-      <article class:list={["match", match ? 'match--hit' : 'match--miss']}>
-        <div class="match__problem">
-          <span class="match__persona mono">{problem.persona}</span>
-          <p class="match__text">&ldquo;{problem.text}&rdquo;</p>
-        </div>
-
-        <div class="match__result">
-          {match && project ? (
-            <a class="match__tool" href={`/project/${project.date}/${slugFor(project)}/`}>
-              <span class="match__label mono">Matched</span>
-              <span class="match__repo">{match.repo}</span>
-              <span class="match__why">{match.why}</span>
-              <span class="match__go mono">See the full breakdown &rarr;</span>
-            </a>
-          ) : match && match.repo ? (
-            <div class="match__tool match__tool--ext">
-              <span class="match__label mono">Matched</span>
-              <span class="match__repo">{match.repo}</span>
-              <span class="match__why">{match.why}</span>
+  {dbError ? (
+    <p class="empty">The board is briefly unavailable. Try again in a moment.</p>
+  ) : problems.length === 0 ? (
+    <p class="empty">No problems yet. <a href="/#ask">Be the first to ask one.</a></p>
+  ) : (
+    <ul class="plist">
+      {problems.map((p) => (
+        <li class="pitem">
+          <a href={`/p/${p.id}/`}>
+            <div class="pitem__main">
+              <p class="pitem__text">{p.text}</p>
+              {p.top_title && <p class="pitem__top mono">Top solution: {p.top_title}</p>}
             </div>
-          ) : (
-            <div class="match__none">
-              <span class="match__label mono">No match yet</span>
-              <p class="match__why">{match?.why}</p>
+            <div class="pitem__meta">
+              <span class={`pitem__count ${p.solution_count > 0 ? 'has' : 'none'}`}>
+                {p.solution_count} solution{p.solution_count === 1 ? '' : 's'}
+              </span>
+              <span class="pitem__ago mono">{ago(p.created_at)}</span>
             </div>
-          )}
-        </div>
-      </article>
-    ))}
-  </div>
-
-  <section class="submit" id="submit">
-    <p class="eyebrow">Add your problem</p>
-    <h2 class="submit__h">Not on the list? Put it on the books.</h2>
-    <p class="submit__lede">
-      Describe your problem and leave an email. We check it against every
-      trending tool right now. If something fits, you get the answer on the
-      spot. If not, we hold it and email you the morning a matching tool trends.
-    </p>
-
-    <form class="pform" id="pform" novalidate>
-      <label class="pform__field">
-        <span class="pform__label mono">Your problem</span>
-        <textarea id="pf-problem" name="problem" rows="3" maxlength="500"
-          placeholder="e.g. I waste hours turning meeting recordings into written notes." required></textarea>
-      </label>
-      <label class="pform__field">
-        <span class="pform__label mono">Email</span>
-        <input id="pf-email" name="email" type="email" placeholder="you@example.com" required />
-      </label>
-      <button class="pform__submit" type="submit" id="pf-submit">Check for a match</button>
-      <p class="pform__note mono">We only email you about a match. No spam, ever.</p>
-    </form>
-
-    <div class="presult" id="presult" hidden></div>
-  </section>
-
-  <script is:inline>
-    (() => {
-      const form = document.getElementById('pform');
-      const btn = document.getElementById('pf-submit');
-      const out = document.getElementById('presult');
-      if (!form) return;
-
-      form.addEventListener('submit', async (e) => {
-        e.preventDefault();
-        const problem = document.getElementById('pf-problem').value.trim();
-        const email = document.getElementById('pf-email').value.trim();
-        out.hidden = false;
-        out.className = 'presult presult--loading';
-        out.textContent = 'Checking every trending tool…';
-        btn.disabled = true;
-
-        try {
-          const res = await fetch('/api/submit-problem', {
-            method: 'POST',
-            headers: { 'content-type': 'application/json' },
-            body: JSON.stringify({ problem, email }),
-          });
-          const data = await res.json();
-
-          if (!data.ok) {
-            out.className = 'presult presult--error';
-            out.textContent = data.error || 'Something went wrong. Try again.';
-          } else if (data.matched) {
-            out.className = 'presult presult--hit';
-            out.innerHTML =
-              '<span class="presult__label">Match found</span>' +
-              '<strong class="presult__repo"></strong>' +
-              '<span class="presult__why"></span>' +
-              (data.url ? '<a class="presult__go" href="' + data.url + '">See the full breakdown &rarr;</a>' : '');
-            out.querySelector('.presult__repo').textContent = data.repo;
-            out.querySelector('.presult__why').textContent = data.why;
-          } else {
-            out.className = 'presult presult--miss';
-            out.innerHTML = '<span class="presult__label">No match yet</span><span class="presult__why"></span>';
-            out.querySelector('.presult__why').textContent = data.message;
-            form.reset();
-          }
-        } catch (err) {
-          out.className = 'presult presult--error';
-          out.textContent = 'Network error. Please try again.';
-        } finally {
-          btn.disabled = false;
-        }
-      });
-    })();
-  </script>
+          </a>
+        </li>
+      ))}
+    </ul>
+  )}
 </Base>
 
 <style>
-  .head { border-bottom: 2px solid var(--ink); padding-bottom: 1.5rem; margin-bottom: 2rem; }
+  .head { border-bottom: 2px solid var(--ink); padding-bottom: 1.5rem; margin-bottom: 1.5rem; }
   .head__title { font-size: clamp(1.9rem, 5vw, 3.25rem); font-weight: 700; margin: 0.3rem 0 1rem; max-width: 18ch; }
-  .head__lede { font-size: clamp(1.1rem, 2.5vw, 1.3rem); max-width: 58ch; color: var(--ink-soft); margin: 0 0 1rem; }
-  .head__stats { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--profit-deep); }
+  .head__lede { font-size: clamp(1.05rem, 2.5vw, 1.25rem); max-width: 58ch; color: var(--ink-soft); margin: 0 0 1rem; }
+  .head__cta { font-family: var(--font-mono); font-size: 0.8rem; color: var(--profit-deep); }
 
-  .board { display: grid; gap: 0; }
-  .match {
-    display: grid;
-    grid-template-columns: 1fr 1.1fr;
-    gap: clamp(1rem, 4vw, 2.5rem);
-    padding: 1.4rem 0;
-    border-bottom: 1px solid var(--rule-strong);
-    align-items: start;
+  .empty { color: var(--ink-soft); padding: 2rem 0; }
+  .empty a { color: var(--profit-deep); }
+
+  .plist { list-style: none; margin: 0; padding: 0; display: grid; gap: 0; }
+  .pitem a {
+    display: flex; align-items: center; justify-content: space-between; gap: 1.5rem;
+    padding: 1.15rem 0; border-bottom: 1px solid var(--rule-strong);
+    text-decoration: none; color: var(--ink);
   }
-  .match:first-child { border-top: 1px solid var(--rule-strong); }
+  .pitem:first-child a { border-top: 1px solid var(--rule-strong); }
+  .pitem a:hover .pitem__text { color: var(--profit-deep); }
+  .pitem__text { font-size: clamp(1.05rem, 2.2vw, 1.25rem); margin: 0; max-width: 52ch; overflow-wrap: anywhere; }
+  .pitem__top { font-size: 0.72rem; color: var(--ink-soft); margin: 0.3rem 0 0; }
+  .pitem__meta { display: flex; flex-direction: column; align-items: flex-end; gap: 0.25rem; text-align: right; white-space: nowrap; }
+  .pitem__count { font-family: var(--font-mono); font-size: 0.72rem; padding: 0.2rem 0.55rem; border-radius: 999px; }
+  .pitem__count.has { background: color-mix(in srgb, var(--profit) 15%, transparent); color: var(--profit-deep); }
+  .pitem__count.none { background: color-mix(in srgb, var(--signal) 12%, transparent); color: var(--signal); }
+  .pitem__ago { font-size: 0.7rem; color: var(--ink-soft); }
 
-  .match__persona { font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--profit-deep); }
-  .match__text { font-size: 1.15rem; margin: 0.3rem 0 0; font-style: italic; max-width: 36ch; }
-
-  .match__label { font-size: 0.64rem; text-transform: uppercase; letter-spacing: 0.1em; display: block; margin-bottom: 0.3rem; }
-  .match--hit .match__label { color: var(--profit); }
-  .match--miss .match__label { color: var(--signal); }
-
-  .match__tool { display: block; text-decoration: none; color: var(--ink); background: var(--paper-2); border-left: 3px solid var(--profit); border-radius: 0 3px 3px 0; padding: 0.9rem 1.1rem; transition: transform 0.12s ease; }
-  .match__tool:hover { transform: translateX(2px); }
-  .match__repo { font-family: var(--font-display); font-weight: 600; font-size: 1.1rem; display: block; overflow-wrap: anywhere; }
-  .match__why { display: block; color: var(--ink-soft); margin: 0.35rem 0 0; font-size: 0.98rem; }
-  .match__go { display: block; margin-top: 0.6rem; font-size: 0.72rem; color: var(--profit-deep); text-transform: uppercase; letter-spacing: 0.05em; }
-
-  .match__none { background: color-mix(in srgb, var(--signal) 8%, transparent); border-left: 3px solid var(--signal); border-radius: 0 3px 3px 0; padding: 0.9rem 1.1rem; }
-  .match__none .match__why { font-size: 0.98rem; }
-
-  .submit { margin-top: clamp(2.5rem, 6vw, 4rem); border-top: 2px solid var(--ink); padding-top: 2rem; }
-  .submit__h { font-size: clamp(1.4rem, 3.5vw, 2rem); font-weight: 600; margin: 0.3rem 0 0.75rem; }
-  .submit__lede { max-width: 56ch; color: var(--ink-soft); margin: 0 0 1rem; }
-  .pform { max-width: 46rem; display: grid; gap: 1rem; }
-  .pform__field { display: block; }
-  .pform__label { display: block; font-size: 0.66rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--profit-deep); margin-bottom: 0.35rem; }
-  .pform textarea, .pform input {
-    width: 100%; font-family: var(--font-body); font-size: 1.05rem; color: var(--ink);
-    background: var(--paper); border: 2px solid var(--rule-strong); border-radius: 4px;
-    padding: 0.7rem 0.85rem; resize: vertical;
-  }
-  .pform textarea:focus, .pform input:focus { border-color: var(--profit); outline: none; }
-  .pform__submit {
-    justify-self: start; font-family: var(--font-display); font-weight: 600; font-size: 1rem;
-    color: var(--paper); background: var(--profit); border: 2px solid var(--profit);
-    padding: 0.7rem 1.5rem; border-radius: 4px; cursor: pointer; transition: background 0.12s ease;
-  }
-  .pform__submit:hover { background: var(--profit-deep); border-color: var(--profit-deep); }
-  .pform__submit:disabled { opacity: 0.6; cursor: default; }
-  .pform__note { font-size: 0.7rem; color: var(--ink-soft); margin: 0; }
-
-  .presult { margin-top: 1.5rem; padding: 1.1rem 1.25rem; border-radius: 4px; max-width: 46rem; }
-  .presult--loading { background: var(--paper-2); color: var(--ink-soft); font-family: var(--font-mono); font-size: 0.9rem; }
-  .presult--error { background: color-mix(in srgb, var(--signal) 12%, transparent); border-left: 3px solid var(--signal); }
-  .presult--miss { background: color-mix(in srgb, var(--signal) 8%, transparent); border-left: 3px solid var(--signal); }
-  .presult--hit { background: var(--paper-2); border-left: 3px solid var(--profit); }
-  .presult__label { display: block; font-family: var(--font-mono); font-size: 0.64rem; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 0.35rem; color: var(--profit-deep); }
-  .presult--miss .presult__label, .presult--error .presult__label { color: var(--signal); }
-  .presult__repo { display: block; font-family: var(--font-display); font-size: 1.2rem; overflow-wrap: anywhere; }
-  .presult__why { display: block; color: var(--ink-soft); margin-top: 0.35rem; }
-  .presult__go { display: inline-block; margin-top: 0.6rem; font-family: var(--font-mono); font-size: 0.75rem; color: var(--profit-deep); text-transform: uppercase; letter-spacing: 0.05em; }
-
-  @media (max-width: 620px) {
-    .match { grid-template-columns: 1fr; gap: 0.75rem; }
+  @media (max-width: 560px) {
+    .pitem a { flex-direction: column; align-items: flex-start; gap: 0.5rem; }
+    .pitem__meta { flex-direction: row; align-items: center; gap: 0.75rem; }
   }
 </style>

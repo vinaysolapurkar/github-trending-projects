@@ -1,14 +1,13 @@
 ---
-import { getTotals, getProblemStats } from '../lib/content';
+import { getTotals } from '../lib/content';
 
 interface Props {
   title: string;
   description?: string;
 }
 
-const { title, description = 'Describe a problem. AI marries it to the right trending GitHub tools and writes the how-to.' } = Astro.props;
+const { title, description = 'Describe a problem. AI marries it to the right proven GitHub tools and writes the how-to.' } = Astro.props;
 const totals = getTotals();
-const problems = getProblemStats();
 const year = 2026;
 ---
 
@@ -45,8 +44,8 @@ const year = 2026;
 
     <div class="running-balance">
       <span>{totals.projects} tools on the wall</span>
-      <span>{problems.solved + problems.unmatched} problems on the board</span>
       <span>{totals.days} days scanned</span>
+      <span>any problem welcome</span>
     </div>
 
     <main class="sheet">
