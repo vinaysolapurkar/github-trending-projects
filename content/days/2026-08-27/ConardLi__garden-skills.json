@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-27",
+  "owner": "ConardLi",
+  "name": "garden-skills",
+  "full_name": "ConardLi/garden-skills",
+  "url": "https://github.com/ConardLi/garden-skills",
+  "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+  "language": "CSS",
+  "stars_total": 11322,
+  "stars_today": 415,
+  "one_liner": "A small set of polished ready-made skills that turn an AI agent into a web designer, a video-presentation maker, or an article beautifier.",
+  "buyer": "Freelancers and small studios who want to deliver designed decks, articles, and web pages faster without hiring a designer for every job.",
+  "business_use_cases": [
+    "A consultant turns a plain report into a cinematic web presentation to screen-record as a client video.",
+    "A newsletter writer runs the 'beautiful article' skill to publish magazine-quality posts from rough drafts.",
+    "A small agency uses the web-design skill to spin up landing-page mockups for pitches in minutes."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a done-for-you 'turn your doc into a stunning web presentation' service, priced per deck.", "revenue_model": "one-off" },
+    { "idea": "A subscription that keeps a client's brand theme and auto-formats all their content with it.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Take just the web-video-presentation skill, offer 'your webinar slides as a recorded cinematic video' to course creators for a flat fee per talk.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-08-27T07:00:00Z"
+}

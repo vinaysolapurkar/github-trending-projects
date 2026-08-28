@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-27",
+  "owner": "ComposioHQ",
+  "name": "awesome-claude-skills",
+  "full_name": "ComposioHQ/awesome-claude-skills",
+  "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "description": "A curated list of 1000+ Claude Skills, resources, and tools for customizing Claude AI workflows across coding agents.",
+  "language": "Python",
+  "stars_total": 73608,
+  "stars_today": 130,
+  "one_liner": "A big curated directory pointing to over a thousand ready-made skills that extend what AI coding agents can do.",
+  "buyer": "You don't sell a list like this; you use it to find ideas. The opportunity is spotting a gap in it and shipping the missing skill.",
+  "business_use_cases": [
+    "A builder scans the list, finds no good skill for a niche task, and ships one to fill the gap.",
+    "A team uses it as a shopping catalog to assemble a custom agent workflow quickly.",
+    "Composio itself uses it as a funnel to sell its paid app-integration gateway, which is the real business model here."
+  ],
+  "money_ideas": [
+    { "idea": "Mirror the strategy: publish a hyper-focused 'awesome' list for one industry, then sell the paid tool it funnels to.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Read the list to find the most-requested skill nobody has built well, then build and sell that skill. The list is a free market-research map.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-08-27T07:00:00Z"
+}

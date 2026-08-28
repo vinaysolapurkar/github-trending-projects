@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-27",
+  "owner": "anthropics",
+  "name": "claude-plugins-official",
+  "full_name": "anthropics/claude-plugins-official",
+  "url": "https://github.com/anthropics/claude-plugins-official",
+  "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+  "language": "Python",
+  "stars_total": 34685,
+  "stars_today": 292,
+  "one_liner": "The official app-store-style directory where Claude Code finds and installs plugins.",
+  "buyer": "You don't buy this; you get listed in it. The opportunity belongs to developers who build a plugin worth listing and reach its large built-in audience.",
+  "business_use_cases": [
+    "A tools startup ships a Claude Code plugin and gets discovered by every Claude Code user browsing the directory.",
+    "An agency builds a paid companion service around a free listed plugin (setup, support, custom skills).",
+    "A SaaS adds a plugin as a distribution channel, turning Claude Code users into signups."
+  ],
+  "money_ideas": [
+    { "idea": "Build a genuinely useful plugin, list it free, and upsell a hosted or team version.", "revenue_model": "subscription" },
+    { "idea": "Offer 'we'll build and maintain your company's Claude Code plugin' as an agency service.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Find one boring, repeated task your industry does in Claude Code, ship a small plugin for it this weekend, and get it into this directory before competitors notice.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-08-27T07:00:00Z"
+}

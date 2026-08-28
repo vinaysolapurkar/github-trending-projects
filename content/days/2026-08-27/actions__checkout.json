@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-27",
+  "owner": "actions",
+  "name": "checkout",
+  "full_name": "actions/checkout",
+  "url": "https://github.com/actions/checkout",
+  "description": "Action for checking out a repo",
+  "language": "TypeScript",
+  "stars_total": 8725,
+  "stars_today": 8,
+  "one_liner": "The standard building block that grabs your code at the start of almost every GitHub automation workflow.",
+  "buyer": "No one. This is plumbing every GitHub Actions user already relies on for free. It trends whenever a new major version ships.",
+  "business_use_cases": [
+    "A team pins the new version to keep their CI pipelines secure and working.",
+    "There is no product to build here; it's a dependency, not an opportunity.",
+    "The only lesson worth taking: security-hardening releases (like its safer fork-PR handling) drive attention, a reminder that CI security is a real, sellable concern elsewhere."
+  ],
+  "money_ideas": [
+    { "idea": "Nothing to sell around this directly. If anything, the adjacent opportunity is CI-security auditing services for teams who never update their actions.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Don't build on this. Do go check that your own workflows are on the latest, secure version. That's the actionable takeaway.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-08-27T07:00:00Z"
+}

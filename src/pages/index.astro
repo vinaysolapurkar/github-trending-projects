@@ -1,0 +1,152 @@
+---
+import Base from '../layouts/Base.astro';
+import LedgerRow from '../components/LedgerRow.astro';
+import { getLatestDay, getProjectsForDay, getMashups, getDays } from '../lib/content';
+
+const latest = getLatestDay();
+const projects = latest ? getProjectsForDay(latest) : [];
+const recentDays = getDays().slice(0, 8);
+const topMashup = getMashups()[0] ?? null;
+
+function prettyDate(d: string | null): string {
+  if (!d) return '—';
+  const [y, m, day] = d.split('-').map(Number);
+  const date = new Date(Date.UTC(y, m - 1, day));
+  return date.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
+}
+---
+
+<Base title="The Trending Ledger — GitHub trending, read as business">
+  <section class="hero">
+    <p class="eyebrow">Today&rsquo;s posting &middot; <span class="mono">{latest ?? 'no entries yet'}</span></p>
+    <h1 class="hero__head">
+      Every trending repo,<br />booked as an <span class="hero__accent">opportunity.</span>
+    </h1>
+    <p class="hero__lede">
+      Each morning a scheduled agent reads GitHub&rsquo;s trending list, then
+      writes down who would pay for it, how it makes money, and the one thing
+      you could ship this weekend. One line at a time.
+    </p>
+  </section>
+
+  {latest ? (
+    <section class="today" aria-labelledby="today-h">
+      <div class="today__head">
+        <h2 id="today-h">The book for {prettyDate(latest)}</h2>
+        <span class="today__count mono">{projects.length} entries</span>
+      </div>
+
+      <div class="ledger">
+        {projects.map((p, i) => <LedgerRow project={p} index={i + 1} />)}
+      </div>
+    </section>
+  ) : (
+    <section class="empty">
+      <h2>The book is open, the first posting is due.</h2>
+      <p>
+        No entries have been booked yet. The daily agent posts the first ledger
+        after its next morning run.
+      </p>
+    </section>
+  )}
+
+  {topMashup && (
+    <section class="mashup-peek">
+      <p class="eyebrow">Latest compound entry</p>
+      <a class="mashup-peek__card" href="/mashups/">
+        <h3>{topMashup.title}</h3>
+        <p class="mashup-peek__combo mono">{topMashup.repo_a} &times; {topMashup.repo_b}</p>
+        <p class="mashup-peek__pitch">{topMashup.pitch}</p>
+        <span class="mashup-peek__more">See all compound entries &rarr;</span>
+      </a>
+    </section>
+  )}
+
+  {recentDays.length > 1 && (
+    <section class="recent" aria-labelledby="recent-h">
+      <p class="eyebrow" id="recent-h">Earlier postings</p>
+      <ul class="recent__list">
+        {recentDays.map((d) => (
+          <li>
+            <a href={`/day/${d}/`}>
+              <span class="mono">{d}</span>
+              <span class="recent__count">{getProjectsForDay(d).length} entries</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+      <a class="recent__all" href="/archive/">Full archive &rarr;</a>
+    </section>
+  )}
+</Base>
+
+<style>
+  .hero { padding: clamp(1rem, 3vw, 2rem) 0 clamp(2rem, 5vw, 3.5rem); }
+  .hero__head {
+    font-size: clamp(2.4rem, 8vw, 4.75rem);
+    font-weight: 700;
+    line-height: 0.98;
+    margin: 0.3rem 0 1.25rem;
+    max-width: 16ch;
+  }
+  .hero__accent { color: var(--profit); font-style: normal; }
+  .hero__lede {
+    font-size: clamp(1.1rem, 2.5vw, 1.35rem);
+    max-width: 54ch;
+    color: var(--ink-soft);
+    margin: 0;
+  }
+
+  .today__head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+    border-bottom: 2px solid var(--ink);
+    padding-bottom: 0.6rem;
+    margin-bottom: 0.25rem;
+  }
+  .today__head h2 { font-size: clamp(1.3rem, 3vw, 1.9rem); font-weight: 600; }
+  .today__count { font-size: 0.8rem; color: var(--ink-soft); text-transform: uppercase; letter-spacing: 0.08em; }
+
+  .empty { padding: 3rem 0; }
+  .empty h2 { font-size: clamp(1.5rem, 4vw, 2.25rem); margin-bottom: 0.75rem; }
+  .empty p { max-width: 48ch; color: var(--ink-soft); }
+
+  .mashup-peek { margin-top: clamp(2.5rem, 6vw, 4rem); }
+  .mashup-peek__card {
+    display: block;
+    text-decoration: none;
+    color: var(--ink);
+    background: var(--paper-2);
+    border: 2px solid var(--ink);
+    border-radius: 4px;
+    padding: clamp(1.25rem, 3vw, 1.9rem);
+    box-shadow: 6px 6px 0 var(--rule-strong);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+  }
+  .mashup-peek__card:hover { transform: translate(-2px, -2px); box-shadow: 8px 8px 0 var(--profit); }
+  .mashup-peek__card h3 { font-size: clamp(1.3rem, 3vw, 1.75rem); font-weight: 600; margin-bottom: 0.4rem; }
+  .mashup-peek__combo { color: var(--profit-deep); font-size: 0.85rem; margin: 0 0 0.75rem; }
+  .mashup-peek__pitch { margin: 0 0 1rem; max-width: 60ch; }
+  .mashup-peek__more { font-family: var(--font-mono); font-size: 0.8rem; color: var(--profit-deep); text-transform: uppercase; letter-spacing: 0.06em; }
+
+  .recent { margin-top: clamp(2.5rem, 6vw, 4rem); }
+  .recent__list { list-style: none; margin: 0.75rem 0 1.25rem; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 0.5rem; }
+  .recent__list a {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.5rem;
+    text-decoration: none;
+    color: var(--ink);
+    padding: 0.6rem 0.75rem;
+    border: 1px solid var(--rule-strong);
+    border-radius: 3px;
+    background: color-mix(in srgb, var(--paper-2) 60%, transparent);
+  }
+  .recent__list a:hover { border-color: var(--profit); }
+  .recent__count { font-family: var(--font-mono); font-size: 0.7rem; color: var(--ink-soft); }
+  .recent__all { font-family: var(--font-mono); font-size: 0.8rem; }
+</style>

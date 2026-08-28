@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-26",
+  "owner": "coqui-ai",
+  "name": "TTS",
+  "full_name": "coqui-ai/TTS",
+  "url": "https://github.com/coqui-ai/TTS",
+  "description": "A deep learning toolkit for text-to-speech, battle-tested in research and production.",
+  "language": "Python",
+  "stars_total": 35100,
+  "stars_today": 290,
+  "one_liner": "Turn written text into natural-sounding speech, and even clone a specific voice from a short sample.",
+  "buyer": "Course creators and small publishers who want audio versions of their content without paying a narrator every time they edit a line.",
+  "business_use_cases": [
+    "An online course platform auto-generates an audio track for every lesson so students can listen on a commute.",
+    "A local news site offers a 'listen to this article' button in the founder's own cloned voice.",
+    "A children's book app reads stories aloud in a consistent, friendly character voice."
+  ],
+  "money_ideas": [
+    { "idea": "Sell 'audiobook-in-a-day' for self-published authors: they upload a manuscript, get a narrated file back.", "revenue_model": "one-off" },
+    { "idea": "A subscription that keeps a creator's cloned voice on file and re-narrates whenever they update content.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Build a tiny web app where a Shopify store owner records 30 seconds once, then every new product description is auto-narrated in their voice for the store video.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-08-26T07:00:00Z"
+}

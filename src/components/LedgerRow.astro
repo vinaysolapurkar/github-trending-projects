@@ -1,0 +1,114 @@
+---
+import type { Project } from '../lib/content';
+import { slugFor } from '../lib/content';
+
+interface Props {
+  project: Project;
+  index: number; // 1-based line number
+}
+
+const { project, index } = Astro.props;
+const href = `/project/${project.date}/${slugFor(project)}/`;
+const num = String(index).padStart(2, '0');
+const rating = project.opportunity_rating ?? 0;
+---
+
+<article class="row">
+  <a class="row__no mono" href={href} aria-hidden="true">{num}</a>
+
+  <div class="row__body">
+    <h3 class="row__title">
+      <a href={href}>{project.full_name}</a>
+    </h3>
+    <p class="row__oneliner">{project.one_liner || project.description}</p>
+
+    <dl class="row__meta">
+      <div>
+        <dt>Buyer</dt>
+        <dd>{project.buyer}</dd>
+      </div>
+    </dl>
+  </div>
+
+  <div class="row__figures">
+    {rating > 0 && (
+      <div class="row__rating" title={`Opportunity rating ${rating}/5`} aria-label={`Opportunity rating ${rating} out of 5`}>
+        {Array.from({ length: 5 }).map((_, i) => (
+          <span class={i < rating ? 'pip pip--on' : 'pip'}></span>
+        ))}
+      </div>
+    )}
+    <span class="figure row__stars">{project.stars_today.toLocaleString()}</span>
+    <span class="row__lang mono">{project.language ?? '—'}</span>
+  </div>
+</article>
+
+<style>
+  .row {
+    display: grid;
+    grid-template-columns: 3.25rem 1fr auto;
+    gap: clamp(0.75rem, 3vw, 1.75rem);
+    align-items: start;
+    padding: 1.15rem 0 1.25rem;
+    border-bottom: 1px solid var(--rule-strong);
+  }
+  .row:first-child { border-top: 1px solid var(--rule-strong); }
+
+  .row__no {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--ink-soft);
+    text-decoration: none;
+    padding-top: 0.3rem;
+    text-align: right;
+  }
+  .row__no:hover { color: var(--profit); }
+
+  .row__title {
+    font-size: clamp(1.15rem, 2.5vw, 1.5rem);
+    font-weight: 600;
+    margin-bottom: 0.35rem;
+    overflow-wrap: anywhere;
+  }
+  .row__title a { color: var(--ink); text-decoration: none; }
+  .row__title a:hover { color: var(--profit-deep); text-decoration: underline; text-decoration-color: var(--profit); }
+
+  .row__oneliner { margin: 0 0 0.6rem; max-width: 52ch; }
+
+  .row__meta { margin: 0; }
+  .row__meta dt {
+    font-family: var(--font-mono);
+    font-size: 0.66rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--profit-deep);
+  }
+  .row__meta dd { margin: 0.1rem 0 0; font-size: 0.95rem; color: var(--ink-soft); max-width: 50ch; }
+
+  .row__figures {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 0.35rem;
+    text-align: right;
+    padding-top: 0.3rem;
+  }
+  .row__stars { font-size: 1.1rem; }
+  .row__lang { font-size: 0.72rem; color: var(--ink-soft); }
+
+  .row__rating { display: inline-flex; gap: 3px; }
+  .pip { width: 8px; height: 8px; border: 1px solid var(--rule-strong); border-radius: 50%; display: inline-block; }
+  .pip--on { background: var(--profit); border-color: var(--profit); }
+
+  @media (max-width: 560px) {
+    .row { grid-template-columns: 2.25rem 1fr; }
+    .row__figures {
+      grid-column: 1 / -1;
+      flex-direction: row;
+      align-items: center;
+      justify-content: flex-start;
+      gap: 0.9rem;
+      padding-top: 0.5rem;
+    }
+  }
+</style>

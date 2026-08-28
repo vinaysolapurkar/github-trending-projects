@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-27",
+  "owner": "K-Dense-AI",
+  "name": "scientific-agent-skills",
+  "full_name": "K-Dense-AI/scientific-agent-skills",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "description": "Turn any AI agent into an AI Scientist. 163 validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery.",
+  "language": "Python",
+  "stars_total": 35305,
+  "stars_today": 498,
+  "one_liner": "A giant toolkit that lets an AI agent actually run real science tasks, from gene analysis to drug-molecule screening, using proper scientific databases.",
+  "buyer": "Small biotech and academic labs that can't afford a data-science team but need to run standard bioinformatics and chemistry workflows.",
+  "business_use_cases": [
+    "A tiny biotech screens candidate drug molecules overnight by asking an agent, instead of hiring a computational chemist.",
+    "A university lab lets grad students query genomic databases in plain English rather than learning ten command-line tools.",
+    "A science communicator pulls live pathogen-variant data to produce accurate explainer content."
+  ],
+  "money_ideas": [
+    { "idea": "A hosted 'AI co-scientist' workspace for labs, priced per seat, with these skills preloaded and support included.", "revenue_model": "subscription" },
+    { "idea": "Paid, validated skill packs for regulated workflows (clinical, pharma) where correctness must be certified.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Pick one painful lab workflow (say ADMET drug screening), wrap it in a dead-simple web form on top of these skills, and charge labs per run.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-08-27T07:00:00Z"
+}

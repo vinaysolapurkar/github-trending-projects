@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-27",
+  "owner": "google",
+  "name": "googletest",
+  "full_name": "google/googletest",
+  "url": "https://github.com/google/googletest",
+  "description": "GoogleTest - Google Testing and Mocking Framework",
+  "language": "C++",
+  "stars_total": 39042,
+  "stars_today": 9,
+  "one_liner": "The standard, battle-tested framework C++ developers use to write automated tests for their code.",
+  "buyer": "No one buys this and no one builds a business on it directly. It's foundational infrastructure that C++ teams simply use, for free.",
+  "business_use_cases": [
+    "A C++ team writes reliable tests so their software ships with fewer bugs. That's the whole story.",
+    "A training provider could sell a 'testing C++ well' course that happens to teach it.",
+    "A tooling vendor could build a nicer test-runner UI on top of it, but the market is small and crowded."
+  ],
+  "money_ideas": [
+    { "idea": "The only realistic angle is education or tooling around it (courses, IDE plugins), and both are low-margin, mature markets.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Skip it as a business. If you write C++, just adopt it. It trends because it's a dependable staple, not because there's a new opportunity here.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-08-27T07:00:00Z"
+}

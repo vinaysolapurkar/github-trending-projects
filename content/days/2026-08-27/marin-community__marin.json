@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-27",
+  "owner": "marin-community",
+  "name": "marin",
+  "full_name": "marin-community/marin",
+  "url": "https://github.com/marin-community/marin",
+  "description": "Open-source framework for the research and development of foundation models.",
+  "language": "Python",
+  "stars_total": 2693,
+  "stars_today": 255,
+  "one_liner": "An open recipe book and toolkit for actually training large language models from scratch, with every step and even the failures documented in public.",
+  "buyer": "Not a product for most people. The audience is AI research labs and well-funded teams training their own models, plus universities teaching how it's really done.",
+  "business_use_cases": [
+    "A research lab reproduces a training run cheaply by starting from Marin's documented recipes instead of guessing.",
+    "A university course teaches real model-building using its open experiments and scaling laws.",
+    "A team building a domain-specific model (audio, DNA, protein) uses it as the framework instead of writing infrastructure."
+  ],
+  "money_ideas": [
+    { "idea": "The realistic angle is services around it: consulting or training for teams who want to build a small in-house model.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Not a weekend business. If you consult on ML infrastructure, learning this deeply lets you sell 'we'll help you train a private model' engagements.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-08-27T07:00:00Z"
+}

@@ -1,0 +1,27 @@
+# build output
+dist/
+.astro/
+
+# deps
+node_modules/
+
+# env / secrets
+.env
+.env.*
+!.env.example
+
+# os
+.DS_Store
+Thumbs.db
+
+# vercel
+.vercel
+
+# scraper scratch
+.cache/
+
+# logs
+*.log
+npm-debug.log*
+
+.vercel

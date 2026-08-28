@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-27",
+  "owner": "AgriciDaniel",
+  "name": "claude-obsidian",
+  "full_name": "AgriciDaniel/claude-obsidian",
+  "url": "https://github.com/AgriciDaniel/claude-obsidian",
+  "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own.",
+  "language": "Python",
+  "stars_total": 13995,
+  "stars_today": 634,
+  "one_liner": "Drop any article, PDF, or note in, and an AI files it into a connected, searchable second brain made of plain Markdown files you fully own.",
+  "buyer": "Researchers, consultants, and lawyers who accumulate mountains of sources and need them organized and cited, but refuse to trust a cloud note app with sensitive material.",
+  "business_use_cases": [
+    "A consultant builds a private, source-cited knowledge base per client that answers questions with evidence.",
+    "A researcher ingests hundreds of papers and gets linked notes that flag contradictions between sources.",
+    "A small law office keeps a local, owned archive of case material an AI can search and ground answers in."
+  ],
+  "money_ideas": [
+    { "idea": "A managed setup + hosting service for professionals who want a private AI second brain but can't configure one.", "revenue_model": "subscription" },
+    { "idea": "Sell profession-specific templates (legal, academic, medical) that structure the vault correctly out of the box.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Offer a 'your research library, organized by AI, that never leaves your laptop' setup service to PhD students and consultants for a one-time fee.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-08-27T07:00:00Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-27",
+  "owner": "thedotmack",
+  "name": "claude-mem",
+  "full_name": "thedotmack/claude-mem",
+  "url": "https://github.com/thedotmack/claude-mem",
+  "description": "Persistent context across sessions for every agent. Captures what your agent does, compresses it with AI, and injects relevant context back into future sessions.",
+  "language": "JavaScript",
+  "stars_total": 92273,
+  "stars_today": 143,
+  "one_liner": "Gives your AI coding assistant a memory, so it remembers your project across sessions instead of starting from zero every time.",
+  "buyer": "Development teams and solo builders who lose hours re-explaining their codebase to the agent at the start of every session.",
+  "business_use_cases": [
+    "A dev team keeps shared project memory so any member's agent already knows the architecture and past decisions.",
+    "A consultant juggling ten client repos has each agent instantly recall that client's context on reconnect.",
+    "A long-running project retains 'why we did it this way' so new AI sessions don't repeat old mistakes."
+  ],
+  "money_ideas": [
+    { "idea": "A hosted team-memory service with shared, searchable project context and access controls.", "revenue_model": "subscription" },
+    { "idea": "An enterprise add-on that keeps agent memory on the company's own servers for compliance.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Build a simple 'team brain' web view on top of it: a searchable timeline of what every agent learned about a project, sold to engineering managers.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-08-27T07:00:00Z"
+}

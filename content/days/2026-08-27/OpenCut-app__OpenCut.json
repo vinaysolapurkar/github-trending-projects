@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-27",
+  "owner": "OpenCut-app",
+  "name": "OpenCut",
+  "full_name": "OpenCut-app/OpenCut",
+  "url": "https://github.com/OpenCut-app/OpenCut",
+  "description": "The open-source CapCut alternative. A free video editor for web, desktop, and mobile.",
+  "language": "TypeScript",
+  "stars_total": 87425,
+  "stars_today": 478,
+  "one_liner": "A free, open-source video editor that runs in the browser, on desktop, and on mobile, aiming to replace CapCut, and it's being rebuilt with an AI-agent and plugin core.",
+  "buyer": "Agencies and SaaS builders nervous about CapCut's pricing and privacy who want to embed or white-label a video editor they control.",
+  "business_use_cases": [
+    "A social-media SaaS embeds the editor so users trim and caption clips without leaving the product.",
+    "An agency white-labels it as 'our branded editor' for clients instead of paying per-seat for a closed tool.",
+    "A course platform lets students edit lecture recordings right inside the site."
+  ],
+  "money_ideas": [
+    { "idea": "Managed hosting of a branded editor for other apps, priced per seat or per render.", "revenue_model": "subscription" },
+    { "idea": "Build and sell premium plugins once the plugin architecture lands (transitions, AI captions, brand kits).", "revenue_model": "one-off" }
+  ],
+  "steal_this": "The classic version works today. Host it, add one killer feature (auto-captions), and sell it to a single niche like podcasters clipping episodes.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-08-27T07:00:00Z"
+}

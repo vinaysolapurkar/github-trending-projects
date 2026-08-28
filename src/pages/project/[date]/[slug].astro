@@ -1,0 +1,149 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getAllProjects, getProject, slugFor } from '../../../lib/content';
+
+export function getStaticPaths() {
+  return getAllProjects().map((p) => ({
+    params: { date: p.date, slug: slugFor(p) },
+  }));
+}
+
+const { date, slug } = Astro.params;
+const project = getProject(date!, slug!);
+if (!project) return Astro.redirect('/404');
+
+const rating = project.opportunity_rating ?? 0;
+
+function prettyDate(d: string): string {
+  const [y, m, day] = d.split('-').map(Number);
+  return new Date(Date.UTC(y, m - 1, day)).toLocaleDateString('en-US', {
+    month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC',
+  });
+}
+---
+
+<Base title={`${project.full_name} — The Trending Ledger`} description={project.one_liner}>
+  <p class="crumbs mono">
+    <a href="/">Today</a> / <a href={`/day/${project.date}/`}>{project.date}</a> / {project.full_name}
+  </p>
+
+  <article class="entry">
+    <header class="entry__head">
+      <p class="eyebrow">Ledger entry &middot; booked {prettyDate(project.date)}</p>
+      <h1 class="entry__title">{project.full_name}</h1>
+      <p class="entry__oneliner">{project.one_liner || project.description}</p>
+
+      <div class="entry__figures">
+        <div class="stat">
+          <span class="stat__label mono">Stars today</span>
+          <span class="figure stat__value">{project.stars_today.toLocaleString()}</span>
+        </div>
+        <div class="stat">
+          <span class="stat__label mono">Stars total</span>
+          <span class="stat__value mono">{project.stars_total.toLocaleString()}</span>
+        </div>
+        <div class="stat">
+          <span class="stat__label mono">Language</span>
+          <span class="stat__value mono">{project.language ?? '—'}</span>
+        </div>
+        {rating > 0 && (
+          <div class="stat">
+            <span class="stat__label mono">Opportunity</span>
+            <span class="stat__rating" aria-label={`${rating} out of 5`}>
+              {Array.from({ length: 5 }).map((_, i) => (
+                <span class={i < rating ? 'pip pip--on' : 'pip'}></span>
+              ))}
+            </span>
+          </div>
+        )}
+      </div>
+
+      <a class="entry__repo mono" href={project.url} target="_blank" rel="noopener noreferrer">
+        View repository on GitHub &rarr;
+      </a>
+    </header>
+
+    <section class="block">
+      <h2 class="block__h">Who would pay for this</h2>
+      <p class="block__lead">{project.buyer}</p>
+    </section>
+
+    <section class="block">
+      <h2 class="block__h">Business use cases</h2>
+      <ol class="cases">
+        {project.business_use_cases.map((c) => <li>{c}</li>)}
+      </ol>
+    </section>
+
+    <section class="block">
+      <h2 class="block__h">Ways it makes money</h2>
+      <div class="money">
+        {project.money_ideas.map((m) => (
+          <div class="money__item">
+            <p class="money__idea">{m.idea}</p>
+            <span class="money__model mono">{m.revenue_model}</span>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <section class="block block--steal">
+      <h2 class="block__h">Steal this</h2>
+      <p class="block__lead">{project.steal_this}</p>
+    </section>
+  </article>
+
+  <a class="back mono" href={`/day/${project.date}/`}>&larr; Back to {project.date}</a>
+</Base>
+
+<style>
+  .crumbs { font-size: 0.75rem; color: var(--ink-soft); margin: 0 0 1.5rem; }
+  .crumbs a { color: var(--profit-deep); text-decoration: none; }
+  .crumbs a:hover { text-decoration: underline; }
+
+  .entry__head { border-bottom: 2px solid var(--ink); padding-bottom: 1.5rem; margin-bottom: 2rem; }
+  .entry__title { font-size: clamp(2rem, 6vw, 3.5rem); font-weight: 700; margin: 0.3rem 0 0.75rem; overflow-wrap: anywhere; }
+  .entry__oneliner { font-size: clamp(1.15rem, 2.5vw, 1.4rem); max-width: 56ch; margin: 0 0 1.75rem; }
+
+  .entry__figures { display: flex; flex-wrap: wrap; gap: clamp(1.25rem, 5vw, 3rem); margin-bottom: 1.5rem; }
+  .stat { display: flex; flex-direction: column; gap: 0.25rem; }
+  .stat__label { font-size: 0.66rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--profit-deep); }
+  .stat__value { font-size: 1.5rem; font-weight: 700; }
+  .stat__rating { display: inline-flex; gap: 4px; padding-top: 0.5rem; }
+  .pip { width: 10px; height: 10px; border: 1px solid var(--rule-strong); border-radius: 50%; }
+  .pip--on { background: var(--profit); border-color: var(--profit); }
+
+  .entry__repo { display: inline-block; font-size: 0.85rem; color: var(--profit-deep); text-transform: uppercase; letter-spacing: 0.05em; }
+
+  .block { padding: 1.75rem 0; border-bottom: 1px solid var(--rule-strong); }
+  .block__h { font-size: clamp(1.05rem, 2.5vw, 1.35rem); font-weight: 600; color: var(--profit-deep); margin-bottom: 0.9rem; }
+  .block__lead { font-size: 1.15rem; max-width: 62ch; margin: 0; }
+
+  .cases { margin: 0; padding: 0; list-style: none; counter-reset: c; }
+  .cases li { position: relative; padding-left: 2.5rem; margin-bottom: 0.9rem; max-width: 62ch; counter-increment: c; }
+  .cases li::before {
+    content: counter(c, decimal-leading-zero);
+    position: absolute; left: 0; top: 0.1rem;
+    font-family: var(--font-mono); font-size: 0.85rem; font-weight: 700; color: var(--signal);
+  }
+
+  .money { display: grid; gap: 1rem; }
+  .money__item {
+    display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; flex-wrap: wrap;
+    padding: 1rem 1.1rem; background: var(--paper-2); border-left: 3px solid var(--profit); border-radius: 0 3px 3px 0;
+  }
+  .money__idea { margin: 0; max-width: 52ch; font-size: 1.05rem; }
+  .money__model {
+    font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.08em;
+    color: var(--profit-deep); background: color-mix(in srgb, var(--profit) 15%, transparent);
+    padding: 0.25rem 0.55rem; border-radius: 999px; white-space: nowrap;
+  }
+
+  .block--steal .block__lead {
+    background: color-mix(in srgb, var(--signal) 10%, transparent);
+    border: 2px dashed color-mix(in srgb, var(--signal) 50%, transparent);
+    padding: 1.1rem 1.25rem; border-radius: 4px; max-width: none;
+  }
+
+  .back { display: inline-block; margin-top: 2rem; font-size: 0.85rem; color: var(--profit-deep); }
+</style>

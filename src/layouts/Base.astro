@@ -1,0 +1,246 @@
+---
+import { getTotals } from '../lib/content';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = 'Every morning, GitHub’s trending repos read as business opportunities.' } = Astro.props;
+const totals = getTotals();
+const year = 2026;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='16' fill='%23EEF2EA'/%3E%3Ctext y='72' x='50' text-anchor='middle' font-size='64' font-family='monospace' fill='%231F7A4D'%3E%E2%82%B9%3C/text%3E%3C/svg%3E" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=Space+Mono:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="ledger-margin" aria-hidden="true"></div>
+
+    <header class="masthead">
+      <a href="/" class="masthead__brand">
+        <span class="masthead__mark">₹</span>
+        <span class="masthead__wordmark">The&nbsp;Trending&nbsp;Ledger</span>
+      </a>
+      <nav class="masthead__nav">
+        <a href="/">Today</a>
+        <a href="/mashups/">Mashups</a>
+        <a href="/archive/">Archive</a>
+      </nav>
+    </header>
+
+    <div class="running-balance">
+      <span>{totals.projects} entries booked</span>
+      <span>{totals.days} trading days</span>
+      <span>{totals.mashups} compound entries</span>
+    </div>
+
+    <main class="sheet">
+      <slot />
+    </main>
+
+    <footer class="colophon">
+      <p>
+        <strong>The Trending Ledger.</strong> A self-updating directory. Every
+        morning a scheduled agent reads GitHub&rsquo;s trending repos and books
+        each one as a business opportunity.
+      </p>
+      <p class="colophon__meta">
+        Kept in balance since {year}. Not affiliated with GitHub. Figures are
+        the day&rsquo;s reported stars.
+      </p>
+    </footer>
+
+    <style is:global>
+      :root {
+        /* ledger palette */
+        --paper: #eef2ea;
+        --paper-2: #e6ecdf;
+        --ink: #14201a;
+        --ink-soft: #46554c;
+        --rule: #c9d4c2;
+        --rule-strong: #aab9a1;
+        --profit: #1f7a4d;
+        --profit-deep: #145536;
+        --signal: #e5533c;
+        --gold: #b8863b;
+
+        --font-display: 'Space Grotesk', system-ui, sans-serif;
+        --font-body: 'Newsreader', Georgia, serif;
+        --font-mono: 'Space Mono', ui-monospace, monospace;
+
+        --maxw: 1080px;
+        --gutter: clamp(1rem, 4vw, 3rem);
+      }
+
+      * { box-sizing: border-box; }
+
+      html { scroll-behavior: smooth; }
+      @media (prefers-reduced-motion: reduce) {
+        html { scroll-behavior: auto; }
+        *, *::before, *::after { animation-duration: 0.001ms !important; transition-duration: 0.001ms !important; }
+      }
+
+      body {
+        margin: 0;
+        background-color: var(--paper);
+        /* faint ledger rule lines across the whole page */
+        background-image: repeating-linear-gradient(
+          to bottom,
+          transparent 0,
+          transparent 31px,
+          var(--rule) 31px,
+          var(--rule) 32px
+        );
+        color: var(--ink);
+        font-family: var(--font-body);
+        font-size: 1.075rem;
+        line-height: 1.55;
+        -webkit-font-smoothing: antialiased;
+        position: relative;
+      }
+
+      /* the red margin rule of a ledger sheet */
+      .ledger-margin {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        left: max(calc((100vw - var(--maxw)) / 2 + 0.5rem), 0.5rem);
+        width: 2px;
+        background: color-mix(in srgb, var(--signal) 55%, transparent);
+        z-index: 0;
+        pointer-events: none;
+      }
+      @media (max-width: 720px) { .ledger-margin { left: 14px; } }
+
+      a { color: var(--profit-deep); text-underline-offset: 3px; }
+
+      /* --- masthead --- */
+      .masthead {
+        max-width: var(--maxw);
+        margin: 0 auto;
+        padding: clamp(1.5rem, 4vw, 2.75rem) var(--gutter) 0.75rem;
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: 1rem;
+        flex-wrap: wrap;
+        position: relative;
+        z-index: 1;
+      }
+      .masthead__brand {
+        display: inline-flex;
+        align-items: baseline;
+        gap: 0.5rem;
+        text-decoration: none;
+        color: var(--ink);
+      }
+      .masthead__mark {
+        font-family: var(--font-mono);
+        font-weight: 700;
+        color: var(--profit);
+        font-size: clamp(1.5rem, 4vw, 2rem);
+        border: 2px solid var(--ink);
+        border-radius: 6px;
+        padding: 0 0.35rem;
+        line-height: 1.2;
+      }
+      .masthead__wordmark {
+        font-family: var(--font-display);
+        font-weight: 700;
+        font-size: clamp(1.35rem, 4vw, 2rem);
+        letter-spacing: -0.02em;
+      }
+      .masthead__nav {
+        display: flex;
+        gap: clamp(0.9rem, 3vw, 1.75rem);
+        font-family: var(--font-mono);
+        font-size: 0.8rem;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+      }
+      .masthead__nav a { color: var(--ink-soft); text-decoration: none; padding-bottom: 2px; border-bottom: 2px solid transparent; }
+      .masthead__nav a:hover { color: var(--ink); border-bottom-color: var(--profit); }
+
+      /* --- running balance strip --- */
+      .running-balance {
+        max-width: var(--maxw);
+        margin: 0 auto;
+        padding: 0.4rem var(--gutter);
+        display: flex;
+        gap: clamp(1rem, 4vw, 2.5rem);
+        flex-wrap: wrap;
+        font-family: var(--font-mono);
+        font-size: 0.72rem;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: var(--ink-soft);
+        border-top: 2px solid var(--ink);
+        border-bottom: 1px solid var(--rule-strong);
+        position: relative;
+        z-index: 1;
+      }
+
+      /* --- main sheet --- */
+      .sheet {
+        max-width: var(--maxw);
+        margin: 0 auto;
+        padding: clamp(1.5rem, 5vw, 3.5rem) var(--gutter) 4rem;
+        position: relative;
+        z-index: 1;
+      }
+
+      /* --- shared type --- */
+      h1, h2, h3 { font-family: var(--font-display); letter-spacing: -0.02em; line-height: 1.05; margin: 0; }
+
+      .eyebrow {
+        font-family: var(--font-mono);
+        font-size: 0.72rem;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        color: var(--profit-deep);
+        margin: 0 0 0.6rem;
+      }
+
+      .mono { font-family: var(--font-mono); }
+
+      /* figure chip: the day's stars, styled as a ledger figure */
+      .figure {
+        font-family: var(--font-mono);
+        font-weight: 700;
+        color: var(--signal);
+        white-space: nowrap;
+      }
+      .figure::before { content: '+'; }
+
+      /* --- colophon --- */
+      .colophon {
+        max-width: var(--maxw);
+        margin: 0 auto;
+        padding: 2rem var(--gutter) 3rem;
+        border-top: 2px solid var(--ink);
+        font-size: 0.95rem;
+        color: var(--ink-soft);
+        position: relative;
+        z-index: 1;
+      }
+      .colophon strong { color: var(--ink); font-family: var(--font-display); }
+      .colophon__meta { font-family: var(--font-mono); font-size: 0.72rem; letter-spacing: 0.04em; }
+
+      :focus-visible { outline: 3px solid var(--profit); outline-offset: 2px; }
+    </style>
+  </body>
+</html>

@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-26",
+  "owner": "immich-app",
+  "name": "immich",
+  "full_name": "immich-app/immich",
+  "url": "https://github.com/immich-app/immich",
+  "description": "High performance self-hosted photo and video management solution.",
+  "language": "TypeScript",
+  "stars_total": 62400,
+  "stars_today": 810,
+  "one_liner": "Your own private Google Photos: back up every phone photo to a server you control, with search and face grouping.",
+  "buyer": "Photographers and families with huge libraries who are tired of rising cloud-storage bills and want to own their archive.",
+  "business_use_cases": [
+    "A wedding photographer gives each couple a private, branded gallery that stays online for years without a per-photo cloud fee.",
+    "A real-estate agency keeps every property shoot organized and searchable by address for the whole team.",
+    "A family historian digitizes decades of prints into one searchable, face-tagged archive."
+  ],
+  "money_ideas": [
+    { "idea": "Managed hosting: 'your own photo cloud, we run the server' for a flat monthly fee per family.", "revenue_model": "subscription" },
+    { "idea": "A setup-and-migrate service that moves people off Google Photos for a one-time fee.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Offer local photographers a white-label client-gallery service on top of this, priced per wedding, instead of them paying big per-gallery SaaS fees.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-08-26T07:00:00Z"
+}

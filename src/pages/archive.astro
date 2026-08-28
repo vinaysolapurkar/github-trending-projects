@@ -1,0 +1,70 @@
+---
+import Base from '../layouts/Base.astro';
+import { getDays, getProjectsForDay } from '../lib/content';
+
+const days = getDays();
+
+function prettyDate(d: string): string {
+  const [y, m, day] = d.split('-').map(Number);
+  return new Date(Date.UTC(y, m - 1, day)).toLocaleDateString('en-US', {
+    weekday: 'short', month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC',
+  });
+}
+---
+
+<Base title="Archive — The Trending Ledger">
+  <div class="head">
+    <p class="eyebrow">Bound volumes</p>
+    <h1 class="head__title">The archive</h1>
+    <p class="head__lede">Every posting, back to the first. {days.length} trading days on record.</p>
+  </div>
+
+  {days.length === 0 ? (
+    <p class="empty">No postings yet.</p>
+  ) : (
+    <ul class="days">
+      {days.map((d) => {
+        const projects = getProjectsForDay(d);
+        return (
+          <li class="dayrow">
+            <a href={`/day/${d}/`} class="dayrow__link">
+              <span class="dayrow__date mono">{d}</span>
+              <span class="dayrow__pretty">{prettyDate(d)}</span>
+              <span class="dayrow__count mono">{projects.length} entries</span>
+            </a>
+          </li>
+        );
+      })}
+    </ul>
+  )}
+</Base>
+
+<style>
+  .head { border-bottom: 2px solid var(--ink); padding-bottom: 1.5rem; margin-bottom: 1.5rem; }
+  .head__title { font-size: clamp(2rem, 6vw, 3.5rem); font-weight: 700; margin: 0.3rem 0 0.75rem; }
+  .head__lede { font-size: 1.1rem; color: var(--ink-soft); margin: 0; }
+
+  .empty { color: var(--ink-soft); padding: 2rem 0; }
+
+  .days { list-style: none; margin: 0; padding: 0; }
+  .dayrow__link {
+    display: grid;
+    grid-template-columns: 8rem 1fr auto;
+    gap: 1rem;
+    align-items: baseline;
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--rule-strong);
+    text-decoration: none;
+    color: var(--ink);
+  }
+  .dayrow__link:hover { color: var(--profit-deep); }
+  .dayrow__link:hover .dayrow__date { color: var(--profit); }
+  .dayrow__date { font-weight: 700; font-size: 0.95rem; }
+  .dayrow__pretty { color: var(--ink-soft); }
+  .dayrow__count { font-size: 0.75rem; color: var(--ink-soft); }
+
+  @media (max-width: 560px) {
+    .dayrow__link { grid-template-columns: 1fr auto; }
+    .dayrow__pretty { display: none; }
+  }
+</style>

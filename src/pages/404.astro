@@ -1,0 +1,17 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base title="Not on the books — The Trending Ledger">
+  <div class="nf">
+    <p class="eyebrow mono">Error 404</p>
+    <h1>That entry isn&rsquo;t on the books.</h1>
+    <p>The page you asked for was never posted, or the reference is wrong.</p>
+    <a class="mono" href="/">&larr; Back to today&rsquo;s ledger</a>
+  </div>
+</Base>
+<style>
+  .nf { padding: 4rem 0; }
+  .nf h1 { font-size: clamp(1.8rem, 5vw, 3rem); font-weight: 700; margin: 0.4rem 0 0.75rem; }
+  .nf p { color: var(--ink-soft); max-width: 46ch; }
+  .nf a { display: inline-block; margin-top: 1.5rem; color: var(--profit-deep); }
+</style>

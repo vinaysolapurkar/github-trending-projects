@@ -1,0 +1,9 @@
+{
+  "id": "2026-08-27-001",
+  "date": "2026-08-27",
+  "repo_a": "bilawalsidhu/gods-eye-view",
+  "repo_b": "calesthio/OpenMontage",
+  "title": "An automated 'what's happening on Earth right now' video channel",
+  "pitch": "Point the live 3D globe at a breaking event, record a dramatic flyover of the real air traffic, ships, or earthquake, then hand that footage to the agentic video studio to script, narrate, and edit it into a finished 60-second explainer. One person runs a daily news-in-motion channel with no camera crew and no editor: the globe supplies real, cinematic footage, and the studio turns it into a polished, captioned video for pennies.",
+  "why_now": "Both are free and open-source, short-form 'explain the news visually' content is exploding, and together they replace a footage budget and an editing team with two prompts."
+}

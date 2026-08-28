@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-27",
+  "owner": "rohitg00",
+  "name": "ai-engineering-from-scratch",
+  "full_name": "rohitg00/ai-engineering-from-scratch",
+  "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "description": "Learn it. Build it. Ship it for others. A 511-lesson, 20-phase, ~329-hour free open-source AI engineering curriculum.",
+  "language": "Python",
+  "stars_total": 50164,
+  "stars_today": 552,
+  "one_liner": "A complete, free, hands-on course that takes you from math basics to building and shipping real AI agents, one buildable lesson at a time.",
+  "buyer": "Career-switchers and bootcamps who need a structured, credible AI curriculum and would pay for guidance, not the free content itself.",
+  "business_use_cases": [
+    "A bootcamp uses it as its backbone syllabus and sells cohorts, mentorship, and job support on top.",
+    "A working developer follows it to build a portfolio of shipped AI artifacts for interviews.",
+    "A company uses selected phases as a standardized internal upskilling track for engineers."
+  ],
+  "money_ideas": [
+    { "idea": "Paid cohorts: the lessons are free, but live mentorship, code review, and a certificate are not.", "revenue_model": "one-off" },
+    { "idea": "A subscription study group with weekly accountability and graded projects.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Run a 6-week paid cohort through the agent-building phases. You supply structure, deadlines, and feedback; the free curriculum supplies the content.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-08-27T07:00:00Z"
+}

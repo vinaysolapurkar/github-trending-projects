@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-27",
+  "owner": "tt-a1i",
+  "name": "archify",
+  "full_name": "tt-a1i/archify",
+  "url": "https://github.com/tt-a1i/archify",
+  "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams; self-contained HTML with motion and crisp export.",
+  "language": "JavaScript",
+  "stars_total": 23188,
+  "stars_today": 4239,
+  "one_liner": "Ask your AI coding assistant to map a codebase and it produces a polished, interactive, shareable system diagram you can trust.",
+  "buyer": "Engineering consultancies and solution architects who bill for 'we audited your system' and currently draw diagrams by hand for hours.",
+  "business_use_cases": [
+    "A consultancy hands a client a clean, interactive architecture map as part of every technical audit deliverable.",
+    "A dev team auto-generates a before/after diagram for each big pull request so reviewers see structural changes at a glance.",
+    "A software vendor keeps its docs diagrams always current by regenerating them from the real code on every release."
+  ],
+  "money_ideas": [
+    { "idea": "A paid 'diagram-as-a-service' that connects to a repo and keeps living architecture docs updated automatically.", "revenue_model": "subscription" },
+    { "idea": "Productized architecture audits for small companies, sold as a fixed-price report built on this.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Offer startups a $500 'architecture health check': run this on their repo, deliver the interactive map plus a one-page risk summary.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-08-27T07:00:00Z"
+}

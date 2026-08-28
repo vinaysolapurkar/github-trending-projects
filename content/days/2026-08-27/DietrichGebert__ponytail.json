@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-27",
+  "owner": "DietrichGebert",
+  "name": "ponytail",
+  "full_name": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+  "language": "JavaScript",
+  "stars_total": 114029,
+  "stars_today": 1613,
+  "one_liner": "A skill that stops your AI coding assistant from over-building, so it writes about half as much code while keeping all the safety checks.",
+  "buyer": "Startup engineering leads who pay per token for AI coding and watch agents bloat the codebase with unnecessary wrappers and dependencies.",
+  "business_use_cases": [
+    "A team cuts its AI coding bill by roughly a fifth because the agent writes less code per task.",
+    "A solo founder ships features the agent keeps small and reviewable, instead of drowning in generated boilerplate.",
+    "An agency delivers cleaner client codebases that are cheaper to maintain later."
+  ],
+  "money_ideas": [
+    { "idea": "A team dashboard that measures 'code bloat avoided' and token savings across an org, sold per seat.", "revenue_model": "subscription" },
+    { "idea": "A paid 'clean AI code' consulting package for teams whose agent output has become unmaintainable.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build a tiny report tool that runs on a repo's AI-generated pull requests and shows a manager the lines and dollars saved. Managers pay for proof of savings.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-08-27T07:00:00Z"
+}

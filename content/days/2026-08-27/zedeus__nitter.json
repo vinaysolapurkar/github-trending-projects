@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-27",
+  "owner": "zedeus",
+  "name": "nitter",
+  "full_name": "zedeus/nitter",
+  "url": "https://github.com/zedeus/nitter",
+  "description": "Alternative Twitter front-end",
+  "language": "Nim",
+  "stars_total": 13872,
+  "stars_today": 71,
+  "one_liner": "A private, ad-free, faster way to read Twitter/X pages without an account or tracking.",
+  "buyer": "Honestly, almost no one should build a business on this today. As of August 2026 X Corp sent cease-and-desist letters demanding instances and the repo be taken down.",
+  "business_use_cases": [
+    "Personal use only: read public X profiles privately on a VPS you run yourself.",
+    "Academic archiving of public posts, where permitted, before they disappear.",
+    "A cautionary case study in how fragile a business built on another platform's data can be."
+  ],
+  "money_ideas": [
+    { "idea": "There is no safe money model here. Running a public instance now invites legal action. Treat it as a privacy tool for yourself, not a product.", "revenue_model": "none" }
+  ],
+  "steal_this": "Don't ship this one. The real lesson to steal: if your product depends entirely on scraping one company's site, one letter can end it. Build on data you own or license.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-08-27T07:00:00Z"
+}

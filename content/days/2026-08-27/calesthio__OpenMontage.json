@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-27",
+  "owner": "calesthio",
+  "name": "OpenMontage",
+  "full_name": "calesthio/OpenMontage",
+  "url": "https://github.com/calesthio/OpenMontage",
+  "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files.",
+  "language": "Python",
+  "stars_total": 52352,
+  "stars_today": 1292,
+  "one_liner": "Describe a video in plain words and an AI agent researches, scripts, generates clips, edits, and renders a finished piece, for a few dollars.",
+  "buyer": "Small brands and solo creators who need a steady stream of short videos but can't afford an editor or a $200/month video SaaS.",
+  "business_use_cases": [
+    "A DTC brand pumps out daily TikTok product films for the cost of a coffee each.",
+    "A course creator turns each written lesson into a narrated explainer video automatically.",
+    "A local agency offers 'ten branded shorts a month' to small clients at a price a human editor could never match."
+  ],
+  "money_ideas": [
+    { "idea": "A hosted, no-code version for non-technical creators, billed per finished video or monthly.", "revenue_model": "usage" },
+    { "idea": "A managed 'video content on autopilot' service for small businesses, priced as a monthly retainer.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Offer real-estate agents a $99/month service: send a property's photos and details, get back a narrated listing video the next morning, produced with this.",
+  "opportunity_rating": 5,
+  "generated_at": "2026-08-27T07:00:00Z"
+}

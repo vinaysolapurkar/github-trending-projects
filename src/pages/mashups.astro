@@ -1,0 +1,59 @@
+---
+import Base from '../layouts/Base.astro';
+import { getMashups } from '../lib/content';
+
+const mashups = getMashups();
+---
+
+<Base title="Compound entries — The Trending Ledger" description="Business ideas that combine two trending projects.">
+  <div class="head">
+    <p class="eyebrow">The compound-entry ledger</p>
+    <h1 class="head__title">Two repos, one idea.</h1>
+    <p class="head__lede">
+      A compound entry books two projects from the archive against a single
+      business idea. The agent adds new ones as fresh repos arrive, so this
+      ledger only grows.
+    </p>
+  </div>
+
+  {mashups.length === 0 ? (
+    <p class="empty">No compound entries booked yet. The first arrives with the next daily run.</p>
+  ) : (
+    <div class="mashups">
+      {mashups.map((m) => (
+        <article class="mashup">
+          <p class="mashup__combo mono">{m.repo_a} <span class="x">&times;</span> {m.repo_b}</p>
+          <h2 class="mashup__title">{m.title}</h2>
+          <p class="mashup__pitch">{m.pitch}</p>
+          <p class="mashup__why"><span class="mono">Why now &middot;</span> {m.why_now}</p>
+          <span class="mashup__date mono">{m.date}</span>
+        </article>
+      ))}
+    </div>
+  )}
+</Base>
+
+<style>
+  .head { border-bottom: 2px solid var(--ink); padding-bottom: 1.5rem; margin-bottom: 2rem; }
+  .head__title { font-size: clamp(2rem, 6vw, 3.5rem); font-weight: 700; margin: 0.3rem 0 1rem; }
+  .head__lede { font-size: clamp(1.1rem, 2.5vw, 1.3rem); max-width: 56ch; color: var(--ink-soft); margin: 0; }
+
+  .empty { color: var(--ink-soft); padding: 2rem 0; }
+
+  .mashups { display: grid; gap: 1.5rem; }
+  .mashup {
+    background: var(--paper-2);
+    border: 2px solid var(--ink);
+    border-radius: 4px;
+    padding: clamp(1.25rem, 3vw, 2rem);
+    box-shadow: 6px 6px 0 var(--rule-strong);
+    position: relative;
+  }
+  .mashup__combo { color: var(--profit-deep); font-size: 0.85rem; margin: 0 0 0.6rem; }
+  .mashup__combo .x { color: var(--signal); font-weight: 700; }
+  .mashup__title { font-size: clamp(1.4rem, 3.5vw, 2rem); font-weight: 600; margin-bottom: 0.75rem; }
+  .mashup__pitch { font-size: 1.1rem; max-width: 64ch; margin: 0 0 1rem; }
+  .mashup__why { color: var(--ink-soft); max-width: 64ch; margin: 0 0 0.5rem; }
+  .mashup__why .mono { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--profit-deep); }
+  .mashup__date { font-size: 0.7rem; color: var(--ink-soft); }
+</style>

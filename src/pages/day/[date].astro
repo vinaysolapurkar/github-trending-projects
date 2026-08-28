@@ -1,0 +1,56 @@
+---
+import Base from '../../layouts/Base.astro';
+import LedgerRow from '../../components/LedgerRow.astro';
+import { getDays, getProjectsForDay } from '../../lib/content';
+
+export function getStaticPaths() {
+  return getDays().map((date) => ({ params: { date } }));
+}
+
+const { date } = Astro.params;
+const projects = getProjectsForDay(date!);
+const days = getDays();
+const idx = days.indexOf(date!);
+const newer = idx > 0 ? days[idx - 1] : null;
+const older = idx < days.length - 1 ? days[idx + 1] : null;
+
+function prettyDate(d: string): string {
+  const [y, m, day] = d.split('-').map(Number);
+  return new Date(Date.UTC(y, m - 1, day)).toLocaleDateString('en-US', {
+    weekday: 'long', month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC',
+  });
+}
+---
+
+<Base title={`${date} — The Trending Ledger`}>
+  <p class="crumbs mono"><a href="/">Today</a> / <a href="/archive/">Archive</a> / {date}</p>
+
+  <div class="day__head">
+    <p class="eyebrow">Posting for</p>
+    <h1 class="day__title">{prettyDate(date!)}</h1>
+    <span class="mono day__count">{projects.length} entries booked</span>
+  </div>
+
+  <div class="ledger">
+    {projects.map((p, i) => <LedgerRow project={p} index={i + 1} />)}
+  </div>
+
+  <nav class="daynav mono">
+    {older ? <a href={`/day/${older}/`}>&larr; {older}</a> : <span></span>}
+    {newer ? <a href={`/day/${newer}/`}>{newer} &rarr;</a> : <span></span>}
+  </nav>
+</Base>
+
+<style>
+  .crumbs { font-size: 0.75rem; color: var(--ink-soft); margin: 0 0 1.5rem; }
+  .crumbs a { color: var(--profit-deep); text-decoration: none; }
+  .crumbs a:hover { text-decoration: underline; }
+
+  .day__head { border-bottom: 2px solid var(--ink); padding-bottom: 0.75rem; margin-bottom: 0.5rem; }
+  .day__title { font-size: clamp(1.8rem, 5vw, 3rem); font-weight: 700; margin: 0.25rem 0 0.5rem; }
+  .day__count { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-soft); }
+
+  .daynav { display: flex; justify-content: space-between; margin-top: 2.5rem; font-size: 0.85rem; }
+  .daynav a { color: var(--profit-deep); text-decoration: none; }
+  .daynav a:hover { text-decoration: underline; }
+</style>

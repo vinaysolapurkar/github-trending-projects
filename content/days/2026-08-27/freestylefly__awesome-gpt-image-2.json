@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-27",
+  "owner": "freestylefly",
+  "name": "awesome-gpt-image-2",
+  "full_name": "freestylefly/awesome-gpt-image-2",
+  "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+  "description": "Prompt as Code | GPT-Image2 industrial prompt engine and template library, 530+ reverse-engineered cases, 20+ industrial templates.",
+  "language": "JavaScript",
+  "stars_total": 22993,
+  "stars_today": 2096,
+  "one_liner": "A big, organized cookbook of proven prompts and templates that reliably get GPT-Image-2 to make specific, professional-looking images.",
+  "buyer": "Small marketing agencies and e-commerce sellers who need consistent, on-brand images fast and keep wasting money on trial-and-error prompting.",
+  "business_use_cases": [
+    "An online store generates 200 product-lifestyle shots in one style using the same locked template, instead of a photo shoot.",
+    "A social media manager keeps every client's posts visually consistent by reusing one brand template per client.",
+    "A print-on-demand seller spins up themed collections (retro, minimal, festive) from ready-made template packs."
+  ],
+  "money_ideas": [
+    { "idea": "Sell curated, niche template packs (real estate, food, fashion) as paid add-ons.", "revenue_model": "one-off" },
+    { "idea": "A subscription tool that stores a brand's locked templates and batch-generates images on demand.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Pick one niche (say restaurant menus), package five bulletproof templates, and sell a $29 'menu photos without a photographer' pack to local cafes.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-08-27T07:00:00Z"
+}
