@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-29",
+  "owner": "anthropics",
+  "name": "claude-plugins-official",
+  "full_name": "anthropics/claude-plugins-official",
+  "url": "https://github.com/anthropics/claude-plugins-official",
+  "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+  "language": "Python",
+  "stars_total": 35196,
+  "stars_today": 356,
+  "one_liner": "An official, curated catalog of add-ons for Claude Code, so developers can browse and install trusted extensions in one place.",
+  "buyer": "Not a product for end customers \u2014 the value here is discovery for plugin authors, not something to resell as-is.",
+  "business_use_cases": [
+    "A plugin author submits their tool for listing to reach every Claude Code user searching for that capability.",
+    "A dev tools agency scans the directory for gaps and builds the missing plugin first.",
+    "A security-conscious team builds a paid audit service reviewing plugins before their org installs them (the repo itself warns plugins aren't vetted)."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a 'trusted plugin audit' report for enterprises worried about supply-chain risk from unreviewed plugins.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build and sell a paid security-audit report for the top 20 most-installed Claude Code plugins \u2014 the official docs literally say nobody else is checking.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-08-29T12:15:00Z"
+}

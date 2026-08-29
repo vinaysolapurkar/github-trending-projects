@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-29",
+  "owner": "tailscale",
+  "name": "tailcat",
+  "full_name": "tailscale/tailcat",
+  "url": "https://github.com/tailscale/tailcat",
+  "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+  "language": "Go",
+  "stars_total": 3068,
+  "stars_today": 790,
+  "one_liner": "A simple point-to-point encrypted data-transfer tool that piggybacks on Tailscale's network, without needing a full Tailscale account.",
+  "buyer": "Honestly a sysadmin/developer tool \u2014 not something with a clear non-technical buyer.",
+  "business_use_cases": [
+    "A sysadmin uses it for quick, secure file transfers between two servers without setting up a full VPN.",
+    "A managed-IT provider bundles it into their toolkit for secure ad-hoc client support sessions.",
+    "A DevOps consultancy uses it during incident response to move data securely between machines fast."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer it as a feature inside a broader 'secure remote support' service package for an MSP's paid support tier.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Not a consumer product \u2014 at best, add it as a feature bullet in an MSP's existing secure-remote-support offering.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-08-29T12:15:00Z"
+}

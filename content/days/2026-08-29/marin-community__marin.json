@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-29",
+  "owner": "marin-community",
+  "name": "marin",
+  "full_name": "marin-community/marin",
+  "url": "https://github.com/marin-community/marin",
+  "description": "Open-source framework for the research and development of foundation models.",
+  "language": "Python",
+  "stars_total": 2957,
+  "stars_today": 163,
+  "one_liner": "An open framework for researchers to build and experiment with their own large AI language models from scratch.",
+  "buyer": "An AI research lab or university group, not a typical business buyer.",
+  "business_use_cases": [
+    "A university AI lab uses it to train and publish reproducible research models instead of building infra from scratch.",
+    "A startup building a niche domain-specific model (legal, medical) uses it as its training framework.",
+    "A cloud provider offers a managed 'foundation model training' service built on top of it."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer consulting/managed training services helping companies build custom foundation models on this framework.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Not a weekend build \u2014 this is deep infra for AI research teams, not solo builders.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-08-29T12:15:00Z"
+}

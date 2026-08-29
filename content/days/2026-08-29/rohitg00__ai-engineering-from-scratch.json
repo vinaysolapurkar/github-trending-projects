@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-29",
+  "owner": "rohitg00",
+  "name": "ai-engineering-from-scratch",
+  "full_name": "rohitg00/ai-engineering-from-scratch",
+  "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "description": "Learn it. Build it. Ship it for others.",
+  "language": "Python",
+  "stars_total": 50793,
+  "stars_today": 359,
+  "one_liner": "A free, hands-on course that takes you from zero to actually shipping an AI product, step by step.",
+  "buyer": "An aspiring AI engineer or founder who wants to learn by building, not just watching lectures.",
+  "business_use_cases": [
+    "A bootcamp uses the curriculum as free course material and sells paid mentorship/cohort support on top.",
+    "A corporate L&D team assigns it as internal AI upskilling material for engineers.",
+    "A career coach packages it into a paid 'AI engineer in 90 days' program with accountability check-ins."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell paid cohort-based mentorship/office hours layered on top of this free curriculum.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer a paid 'certificate of completion + portfolio review' add-on for learners who finish it.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Launch a $49 'accountability cohort' this week where learners work through this free curriculum together with weekly check-ins.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-08-29T12:15:00Z"
+}

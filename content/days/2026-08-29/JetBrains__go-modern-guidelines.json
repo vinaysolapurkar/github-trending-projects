@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-29",
+  "owner": "JetBrains",
+  "name": "go-modern-guidelines",
+  "full_name": "JetBrains/go-modern-guidelines",
+  "url": "https://github.com/JetBrains/go-modern-guidelines",
+  "description": "Help AI coding agents write modern Go",
+  "language": "Go",
+  "stars_total": 2722,
+  "stars_today": 294,
+  "one_liner": "A style guide that teaches AI coding assistants to write cleaner, more modern Go code instead of outdated patterns.",
+  "buyer": "Honestly, this is a free reference for developers and AI agents \u2014 not something with a standalone buyer.",
+  "business_use_cases": [
+    "A Go shop feeds these guidelines into their AI coding assistant so generated code matches modern style automatically.",
+    "A coding-agent vendor bundles similar language-specific guideline packs as a selling point for their product.",
+    "A consultancy uses it as a checklist when reviewing a client's AI-generated Go code."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Package a small business selling similarly curated style-guide packs for other languages to dev tool vendors.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Not much of a weekend product here \u2014 at most, bundle the idea into curated agent style-guides for 5 more languages, sold as a pack to dev tool companies.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-08-29T12:15:00Z"
+}

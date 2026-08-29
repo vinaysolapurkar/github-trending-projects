@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-29",
+  "owner": "abhigyanpatwari",
+  "name": "GitNexus",
+  "full_name": "abhigyanpatwari/GitNexus",
+  "url": "https://github.com/abhigyanpatwari/GitNexus",
+  "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+  "language": "TypeScript",
+  "stars_total": 46280,
+  "stars_today": 273,
+  "one_liner": "Drop in any codebase and get an interactive map of how all the files and functions connect, plus a chatbot that answers questions about it \u2014 all running in your browser, no server needed.",
+  "buyer": "A contractor or new engineering hire who needs to understand an unfamiliar, undocumented codebase fast.",
+  "business_use_cases": [
+    "A contractor onboarding onto a client's messy legacy codebase generates a knowledge graph instead of spending a week reading code.",
+    "An engineering manager uses it to spot risky, tangled modules before a big refactor.",
+    "A due-diligence firm evaluating a startup's codebase for acquisition gets an instant architecture overview."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'codebase audit report' service for startups going through acquisition due diligence.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell a hosted team version with saved graphs and collaboration for engineering orgs.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer $200 'understand your legacy codebase in a day' audits to startups this weekend, using this to generate the graph and walk them through it.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-08-29T12:15:00Z"
+}

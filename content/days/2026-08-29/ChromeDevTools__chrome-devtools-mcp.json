@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-29",
+  "owner": "ChromeDevTools",
+  "name": "chrome-devtools-mcp",
+  "full_name": "ChromeDevTools/chrome-devtools-mcp",
+  "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "description": "Chrome DevTools for coding agents",
+  "language": "TypeScript",
+  "stars_total": 50067,
+  "stars_today": 215,
+  "one_liner": "Lets an AI coding assistant open and control a real Chrome browser, so it can click around, take screenshots, and debug web pages on its own.",
+  "buyer": "A QA lead or dev agency wanting to automate browser testing and debugging with an AI agent.",
+  "business_use_cases": [
+    "A QA team lets their AI agent reproduce and screenshot bugs automatically instead of manual repro steps.",
+    "An agency uses it so their AI coding assistant can visually verify a client's site renders correctly after every change.",
+    "A monitoring company builds automated visual-regression checks powered by an AI agent using this as the browser control layer."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'AI-powered QA automation' service for small dev teams built on top of this MCP server.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Build and sell a hosted visual-regression testing product using it as the browser automation backend.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer a $500/month 'AI QA on autopilot' service to small SaaS teams this week, using this to let an agent test their site after every deploy.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-08-29T12:15:00Z"
+}

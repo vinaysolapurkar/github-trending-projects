@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-29",
+  "matches": [
+    {
+      "problem_id": "p001",
+      "repo": "calesthio/OpenMontage",
+      "why": "An agentic video production system scripts, edits, and renders short social videos from a text description, no editor needed.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p002",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "why": "Reverse-engineered, tested prompt templates get an AI image generator to produce consistent, professional product shots.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p003",
+      "repo": "thedotmack/claude-mem",
+      "why": "Gives the coding agent persistent memory so it recalls project context across sessions instead of starting from zero.",
+      "confidence": "medium"
+    },
+    {
+      "problem_id": "p004",
+      "repo": "DietrichGebert/ponytail",
+      "why": "A skill that stops the agent from over-building, keeping generated code minimal instead of bloated.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p005",
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "why": "163 validated skills plus 100+ scientific databases let an agent run standard literature review and bioinformatics workflows.",
+      "confidence": "medium"
+    },
+    {
+      "problem_id": "p006",
+      "repo": "bilawalsidhu/gods-eye-view",
+      "why": "A live 3D globe of real planes, ships, and events gives you dramatic, accurate footage to record for any breaking story.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p007",
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "why": "163 validated skills plus 100+ scientific databases replace a dedicated bioinformatics team for standard workflows.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p008",
+      "repo": null,
+      "why": "Nothing in today's trending list cleanly solves a private, firm-grade AI chat. Tell us and we'll notify you when one trends."
+    },
+    {
+      "problem_id": "p009",
+      "repo": "calesthio/OpenMontage",
+      "why": "Its scripting and narration pipeline can turn written text into a produced, narrated video, though it isn't purpose-built for blog-to-video specifically.",
+      "confidence": "medium"
+    },
+    {
+      "problem_id": "p010",
+      "repo": "AgriciDaniel/claude-obsidian",
+      "why": "A local-first second brain: plain Markdown you own, never locked inside a cloud database.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p011",
+      "repo": "abhigyanpatwari/GitNexus",
+      "why": "Drop the repo in and get an interactive knowledge graph plus a chat agent that answers how the codebase actually connects.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p012",
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "why": "A free, hands-on curriculum that takes you from basics to shipping a real AI product.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p013",
+      "repo": null,
+      "why": "Nothing in today's trending list fits restaurant inventory. Submit it and we'll notify you when a match trends."
+    }
+  ]
+}

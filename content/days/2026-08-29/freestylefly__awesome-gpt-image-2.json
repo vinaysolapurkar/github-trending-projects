@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-29",
+  "owner": "freestylefly",
+  "name": "awesome-gpt-image-2",
+  "full_name": "freestylefly/awesome-gpt-image-2",
+  "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+  "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
+  "language": "JavaScript",
+  "stars_total": 24712,
+  "stars_today": 767,
+  "one_liner": "A library of 500+ tested prompt templates that reliably get an AI image generator to produce professional-looking photos and graphics.",
+  "buyer": "A small e-commerce store owner who can't afford a product photographer.",
+  "business_use_cases": [
+    "An online store generates consistent, professional product photos for every new listing instead of a photo shoot.",
+    "A marketing freelancer offers 'AI product photography' packages to small brands using these proven templates.",
+    "A print-on-demand seller creates dozens of design variations for testing without a designer."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell an 'AI product photography' package service to small e-commerce sellers, charging per photo set.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "License a curated premium template pack to marketing agencies.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Offer $30 'AI product photo pack' gigs to small Etsy/Shopify sellers this weekend using these templates.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-08-29T12:15:00Z"
+}

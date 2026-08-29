@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-29",
+  "owner": "google",
+  "name": "googletest",
+  "full_name": "google/googletest",
+  "url": "https://github.com/google/googletest",
+  "description": "GoogleTest - Google Testing and Mocking Framework",
+  "language": "C++",
+  "stars_total": 39236,
+  "stars_today": 125,
+  "one_liner": "The standard, free toolkit developers use to write and run automated tests for C++ code.",
+  "buyer": "Not really \u2014 this is foundational developer infrastructure that everyone uses for free, not a resellable product.",
+  "business_use_cases": [
+    "A C++ shop adopts it as their standard testing framework instead of building one in-house.",
+    "A consultancy offers 'test coverage audits' for legacy C++ codebases, using it as the framework to backfill tests.",
+    "A training company sells a 'testing C++ the right way' course built around it."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'add test coverage to your legacy C++ codebase' consulting service using it as the framework.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Not a product opportunity \u2014 at most, offer legacy C++ test-writing as a paid consulting gig this month.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-08-29T12:15:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-29",
+  "owner": "DietrichGebert",
+  "name": "ponytail",
+  "full_name": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+  "language": "JavaScript",
+  "stars_total": 115934,
+  "stars_today": 1171,
+  "one_liner": "A skill that stops your AI coding assistant from over-engineering \u2014 it writes the smallest amount of code that actually solves the problem.",
+  "buyer": "A startup engineering lead tired of AI-generated code being bloated and expensive to maintain.",
+  "business_use_cases": [
+    "A startup CTO installs it across the team's AI coding assistants to cut down on bloated, hard-to-maintain generated code.",
+    "A freelance developer uses it to keep client codebases lean, reducing future maintenance billing disputes.",
+    "A coding-bootcamp instructor uses it to teach minimalism by showing before/after diffs."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'AI code hygiene audit' service that installs skills like this and cleans up a company's existing AI-bloated codebase.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Offer a $500 'de-bloat your AI-generated codebase' audit this week, using this skill as part of the cleanup process.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-08-29T12:15:00Z"
+}

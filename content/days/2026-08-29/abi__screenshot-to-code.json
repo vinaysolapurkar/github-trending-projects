@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-29",
+  "owner": "abi",
+  "name": "screenshot-to-code",
+  "full_name": "abi/screenshot-to-code",
+  "url": "https://github.com/abi/screenshot-to-code",
+  "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+  "language": "Python",
+  "stars_total": 75804,
+  "stars_today": 558,
+  "one_liner": "Upload a screenshot or design mockup and get working website code back \u2014 HTML, React, Vue, or Tailwind.",
+  "buyer": "A freelance web developer or agency that wants to turn client mockups into a working site in hours instead of days.",
+  "business_use_cases": [
+    "A freelancer converts a client's Figma screenshot into a working prototype in an afternoon instead of a week.",
+    "A no-code agency offers 'design to live site' as a rush service using this as the first-draft generator.",
+    "A marketing team turns competitor landing pages into internal test variants for A/B testing."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a fast-turnaround 'screenshot to live website' freelance service, charging per page.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build a subscription SaaS wrapper targeting a specific niche, like real-estate landing pages.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer a $150 'turn your mockup into a live site by tomorrow' service on Fiverr this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-08-29T12:15:00Z"
+}

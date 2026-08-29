@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-29",
+  "owner": "bilawalsidhu",
+  "name": "gods-eye-view",
+  "full_name": "bilawalsidhu/gods-eye-view",
+  "url": "https://github.com/bilawalsidhu/gods-eye-view",
+  "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+  "language": "JavaScript",
+  "stars_total": 11823,
+  "stars_today": 1870,
+  "one_liner": "A browser-based 3D globe showing real-time planes, ships, satellites, and public cameras around the world, like a real-life spy-satellite view.",
+  "buyer": "A news/explainer YouTuber or journalist who needs dramatic, accurate visuals for a breaking-news story without stock footage.",
+  "business_use_cases": [
+    "A news channel records live globe footage to illustrate a geopolitical event instead of buying stock footage.",
+    "A logistics company embeds a branded version to let customers track shipping/flight data visually.",
+    "An educator uses it as a live teaching tool for geography or current-events classes."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a white-label/branded embed for media companies who want the globe on their own site.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell premium data layers (higher-res imagery, historical replay) as a paid tier.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Record a week's worth of dramatic globe clips and sell them as a stock-footage pack to news YouTubers this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-08-29T12:15:00Z"
+}

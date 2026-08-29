@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-29",
+  "projects": [
+    "ChromeDevTools__chrome-devtools-mcp",
+    "DietrichGebert__ponytail",
+    "JetBrains__go-modern-guidelines",
+    "K-Dense-AI__scientific-agent-skills",
+    "NationalSecurityAgency__ghidra",
+    "abhigyanpatwari__GitNexus",
+    "abi__screenshot-to-code",
+    "anthropics__claude-plugins-official",
+    "bilawalsidhu__gods-eye-view",
+    "calesthio__OpenMontage",
+    "cursor__plugins",
+    "freestylefly__awesome-gpt-image-2",
+    "google__googletest",
+    "livekit__agents",
+    "marin-community__marin",
+    "rohitg00__ai-engineering-from-scratch",
+    "swoole__typephp",
+    "tailscale__tailcat",
+    "tashfeenahmed__freellmapi",
+    "tt-a1i__archify"
+  ]
+}

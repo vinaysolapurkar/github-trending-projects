@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-29",
+  "owner": "K-Dense-AI",
+  "name": "scientific-agent-skills",
+  "full_name": "K-Dense-AI/scientific-agent-skills",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+  "language": "Python",
+  "stars_total": 37295,
+  "stars_today": 1604,
+  "one_liner": "A giant plug-in pack of ready-made science skills and databases that turns a general AI assistant into a specialized lab research assistant.",
+  "buyer": "A biotech startup founder who can't yet afford a full bioinformatics team but needs to run standard analyses.",
+  "business_use_cases": [
+    "A small biotech lab automates literature review and standard bioinformatics pipelines instead of hiring a specialist.",
+    "A university lab gives every grad student instant access to 100+ scientific databases through one agent.",
+    "A pharma consultancy offers 'AI research assistant setup' as a service to smaller labs."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid onboarding/customization for labs that want the skill set tailored to their specific workflows.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Run a hosted, managed version with usage-based billing for compute-heavy database queries.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Spin up an 'AI Scientist as a service' consulting offer this weekend: install and configure this for a small lab for a flat setup fee.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-08-29T12:15:00Z"
+}

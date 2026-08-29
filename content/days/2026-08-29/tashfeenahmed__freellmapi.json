@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-29",
+  "owner": "tashfeenahmed",
+  "name": "freellmapi",
+  "full_name": "tashfeenahmed/freellmapi",
+  "url": "https://github.com/tashfeenahmed/freellmapi",
+  "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+  "language": "TypeScript",
+  "stars_total": 21908,
+  "stars_today": 612,
+  "one_liner": "One API address that quietly pools together dozens of free AI-model providers, so you can use hundreds of free AI models without juggling separate accounts.",
+  "buyer": "Honestly, the project itself says 'personal experimentation only' \u2014 there isn't a legitimate resale buyer here.",
+  "business_use_cases": [
+    "A hobbyist developer prototypes AI features for free before deciding which paid provider to commit to.",
+    "A student experiments with many different LLMs for coursework without paying for API keys.",
+    "An indie hacker stress-tests prompt ideas across many free models before picking one to pay for in production."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build a paid 'model uptime monitoring' dashboard for developers who want visibility into which free providers are currently up \u2014 a legitimate meta-tool rather than reselling the free tiers themselves.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Use it yourself to prototype for free, but don't build a resale business on it \u2014 the project explicitly says personal use only, and reselling pooled free-tier access breaks the providers' terms of service.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-08-29T12:15:00Z"
+}

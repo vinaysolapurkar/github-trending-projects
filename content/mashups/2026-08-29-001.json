@@ -1,0 +1,9 @@
+{
+  "id": "2026-08-29-001",
+  "date": "2026-08-29",
+  "repo_a": "abhigyanpatwari/GitNexus",
+  "repo_b": "tt-a1i/archify",
+  "title": "The Instant Codebase Onboarding Deck",
+  "pitch": "Point GitNexus at a client's messy legacy repo to extract a full interactive knowledge graph of how every module, class, and function actually connects, then hand that graph to Archify to render it as a polished, animated architecture diagram ready to export as a PDF or slide. A contractor or new engineering hire goes from 'nobody understands this codebase' to a client-ready onboarding deck in an afternoon, work that used to take a senior engineer a week of reading code and drawing whiteboards. Sell it as a fixed-price 'codebase audit + diagram deck' package to any company that just inherited undocumented code.",
+  "why_now": "Both projects are trending today for exactly complementary reasons — one solves 'I don't understand this codebase' and the other solves 'I need to present what I found' — stacking them turns two separate problems into one sellable deliverable."
+}
