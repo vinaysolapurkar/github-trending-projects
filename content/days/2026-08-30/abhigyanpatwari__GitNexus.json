@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-30",
+  "owner": "abhigyanpatwari",
+  "name": "GitNexus",
+  "full_name": "abhigyanpatwari/GitNexus",
+  "url": "https://github.com/abhigyanpatwari/GitNexus",
+  "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+  "language": "TypeScript",
+  "stars_total": 46435,
+  "stars_today": 270,
+  "one_liner": "A tool that reads any codebase and draws you a map of how all its pieces actually connect, right in your browser, no setup required.",
+  "buyer": "A software consultant who needs to quickly understand an unfamiliar client codebase before quoting a project.",
+  "business_use_cases": [
+    "A consulting firm audits a client's undocumented legacy codebase before scoping a rewrite or migration project.",
+    "A new engineering hire self-serves an understanding of an unfamiliar codebase instead of repeatedly interrupting teammates.",
+    "An open-source maintainer generates an architecture overview automatically to help new contributors ramp up."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a fixed-price \"codebase audit report\" package for companies that just inherited undocumented code.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build a hosted team version that keeps the knowledge graph updated automatically as the codebase changes.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer a fixed-price \"legacy codebase audit\" package this weekend to a company that just inherited an undocumented system — point this at their repo and hand them a findings report in a day.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-08-30T12:08:20.307Z"
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-30",
+  "owner": "majd",
+  "name": "ipatool",
+  "full_name": "majd/ipatool",
+  "url": "https://github.com/majd/ipatool",
+  "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+  "language": "Go",
+  "stars_total": 10032,
+  "stars_today": 56,
+  "one_liner": "A command-line tool for searching and downloading iOS app files directly from the App Store.",
+  "buyer": "A mobile QA engineer at a company that needs to test against older versions of their own or competitor apps.",
+  "business_use_cases": [
+    "A QA team downloads a previous version of their own app to reproduce a bug reported against that release.",
+    "A security researcher pulls down an app binary to analyze it for vulnerabilities.",
+    "An enterprise IT team archives specific versions of internal apps for compliance."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Fold it into a broader mobile QA/security consulting offering rather than selling it standalone.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This is a developer utility, not a standalone business. Useful as a component of a QA or security consultancy, not a product on its own.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-08-30T12:08:20.307Z"
+}

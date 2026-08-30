@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-30",
+  "owner": "tt-a1i",
+  "name": "archify",
+  "full_name": "tt-a1i/archify",
+  "url": "https://github.com/tt-a1i/archify",
+  "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+  "language": "JavaScript",
+  "stars_total": 32897,
+  "stars_today": 3902,
+  "one_liner": "An AI skill that turns a description of your codebase or system into a polished, animated, presentation-ready architecture diagram.",
+  "buyer": "A freelance software consultant who needs client-ready technical diagrams fast without hours in a diagramming tool.",
+  "business_use_cases": [
+    "A consulting firm generates a client-ready architecture diagram deck for a codebase audit engagement in an hour instead of a day.",
+    "A startup's solutions engineer builds a polished system diagram for a sales deck to explain the product to a non-technical buyer.",
+    "A new engineering hire documents an undocumented legacy system as they learn it, leaving a diagram for the next hire."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a fixed-price \"architecture diagram deck\" as an add-on to codebase audits or due-diligence reports.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a subscription \"always up to date\" diagram service that regenerates diagrams from a client's repo on every release.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer a $300 \"instant architecture diagram\" service this weekend: point it at a client's repo, hand them a polished PDF within a day.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-08-30T12:08:20.307Z"
+}

@@ -1,0 +1,77 @@
+{
+  "date": "2026-08-30",
+  "matches": [
+    {
+      "problem_id": "p001",
+      "repo": "calesthio/OpenMontage",
+      "why": "An agentic video production system scripts, edits, and renders short social videos from a text description, no manual editing needed.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p002",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "why": "Reverse-engineered, tested prompt templates get an AI image generator to produce consistent, professional product shots.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p003",
+      "repo": null,
+      "why": "Nothing among today's or recent trending repos gives an AI coding assistant persistent memory across sessions; we'll flag it if a tool like that trends again."
+    },
+    {
+      "problem_id": "p004",
+      "repo": "DietrichGebert/ponytail",
+      "why": "A skill that stops the agent from over-building, keeping generated code minimal instead of bloated and over-engineered.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p005",
+      "repo": null,
+      "why": "Today's science-skills tool is built for running research tasks and querying databases, not for organizing an existing personal PDF library — not a genuine fit."
+    },
+    {
+      "problem_id": "p006",
+      "repo": "calesthio/OpenMontage",
+      "why": "Its agentic video production system can script and render explainer visuals from just a topic description, no existing footage required.",
+      "confidence": "medium"
+    },
+    {
+      "problem_id": "p007",
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "why": "A library of 160+ validated research skills covering bioinformatics, drug discovery, and 100+ scientific databases gives a small lab lab-grade research capability without hiring a bioinformatics team.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p008",
+      "repo": null,
+      "why": "Nothing today offers a private, self-hosted AI chat suitable for handling confidential client data; today's LLM-related tools are aggregation or research tools, not privacy-focused deployments."
+    },
+    {
+      "problem_id": "p009",
+      "repo": "calesthio/OpenMontage",
+      "why": "Its text-to-video agentic pipeline can turn a written blog post into a narrated video without a video editor.",
+      "confidence": "medium"
+    },
+    {
+      "problem_id": "p010",
+      "repo": null,
+      "why": "No self-hosted, privacy-first note-taking alternative appeared in today's or recent trending repos."
+    },
+    {
+      "problem_id": "p011",
+      "repo": "abhigyanpatwari/GitNexus",
+      "why": "Drops a whole repository in and generates an interactive knowledge graph of how every module and function connects, exactly the 'how does this fit together' problem it's built for.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p012",
+      "repo": null,
+      "why": "No single tool in today's list is a genuine 'start here' kit for an aspiring AI founder; most are either specialist infrastructure or dev libraries rather than a beginner starting point."
+    },
+    {
+      "problem_id": "p013",
+      "repo": null,
+      "why": "Nothing among today's or recent trending repos addresses restaurant inventory management."
+    }
+  ]
+}

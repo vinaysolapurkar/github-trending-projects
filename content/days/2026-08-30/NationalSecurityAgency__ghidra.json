@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-30",
+  "owner": "NationalSecurityAgency",
+  "name": "ghidra",
+  "full_name": "NationalSecurityAgency/ghidra",
+  "url": "https://github.com/NationalSecurityAgency/ghidra",
+  "description": "Ghidra is a software reverse engineering (SRE) framework",
+  "language": "Java",
+  "stars_total": 73677,
+  "stars_today": 375,
+  "one_liner": "A free tool from the NSA that lets you take apart and understand compiled software you don't have the source code for.",
+  "buyer": "A cybersecurity consultancy that analyzes malware or audits closed-source binaries for clients.",
+  "business_use_cases": [
+    "A security firm reverse-engineers a piece of malware for an incident-response client report.",
+    "A consultancy audits a vendor's closed-source binary for hidden vulnerabilities before a client signs a contract with them.",
+    "A game preservationist reverse-engineers an old game's binary to build a fan patch or port."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Run a paid \"Ghidra bootcamp\" training course for aspiring security researchers and junior analysts.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer malware-triage-as-a-service to smaller companies who can't afford a full in-house security team, using Ghidra's headless mode.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Put together a paid weekend \"reverse engineering for beginners\" course using Ghidra and sell it to junior security analysts wanting to break into the field.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-08-30T12:08:20.307Z"
+}

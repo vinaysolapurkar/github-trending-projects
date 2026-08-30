@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-30",
+  "owner": "pollen-robotics",
+  "name": "microduck_rl",
+  "full_name": "pollen-robotics/microduck_rl",
+  "url": "https://github.com/pollen-robotics/microduck_rl",
+  "description": "RL training environments for Microduck (mjlab)",
+  "language": "Python",
+  "stars_total": 641,
+  "stars_today": 147,
+  "one_liner": "Training software that teaches a small two-legged robot duck how to walk, using computer simulation before it ever touches real hardware.",
+  "buyer": "A robotics hobbyist or small startup building affordable legged robots who wants to test walking behavior without breaking expensive hardware.",
+  "business_use_cases": [
+    "A robotics startup trains and tests new walking gaits in simulation for its small legged robot before deploying to physical units.",
+    "A university robotics lab uses it to teach students reinforcement learning with a real, buyable robot at the end of the pipeline.",
+    "A hobbyist sells a robot kit bundled with pre-trained walking behaviors as a beginner-friendly product."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a robot kit plus a guided course on training your own walking policy.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer custom gait-training consulting to small robotics hardware startups.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "A real niche opportunity but a small, hardware-bound market — good for a robotics educator or kit-seller, not a mass-market weekend project.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-08-30T12:08:20.307Z"
+}

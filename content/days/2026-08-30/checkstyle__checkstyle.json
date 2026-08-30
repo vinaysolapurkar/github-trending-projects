@@ -1,0 +1,26 @@
+{
+  "date": "2026-08-30",
+  "owner": "checkstyle",
+  "name": "checkstyle",
+  "full_name": "checkstyle/checkstyle",
+  "url": "https://github.com/checkstyle/checkstyle",
+  "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+  "language": "Java",
+  "stars_total": 9102,
+  "stars_today": 78,
+  "one_liner": "A tool that automatically checks Java code against a company's coding style rules.",
+  "buyer": "No new buyer here — this is decades-old, free, and already embedded in most Java teams' CI pipelines.",
+  "business_use_cases": [
+    "A Java engineering team runs it automatically in CI to block pull requests that violate style rules.",
+    "A consultancy sets it up as part of a broader \"code quality baseline\" engagement for a client's legacy Java codebase."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Wrap it into a hosted \"code quality dashboard\" for enterprise Java teams as one signal among several.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Not a weekend opportunity — it's mature, free, and the market for standalone style-linting products has already been won by free tooling.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-08-30T12:08:20.307Z"
+}

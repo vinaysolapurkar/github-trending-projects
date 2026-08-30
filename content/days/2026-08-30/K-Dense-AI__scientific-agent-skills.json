@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-30",
+  "owner": "K-Dense-AI",
+  "name": "scientific-agent-skills",
+  "full_name": "K-Dense-AI/scientific-agent-skills",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+  "language": "Python",
+  "stars_total": 38389,
+  "stars_today": 1587,
+  "one_liner": "A library of ready-made research skills that turns any AI assistant into a lab-grade research helper for biology, chemistry, and medicine.",
+  "buyer": "A biotech startup founder who needs bioinformatics-level research support but can't yet afford a bioinformatics hire.",
+  "business_use_cases": [
+    "A two-person biotech startup uses it to run literature reviews, variant lookups, and drug-target screening without a dedicated bioinformatician.",
+    "A university lab wires it into their internal tools so grad students get instant, sourced answers instead of digging through 100+ scientific databases by hand.",
+    "A regulatory consultant speeds up pharmacokinetic and dose-selection literature summaries for client filings."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a \"set it up and train your lab\" consulting package for small biotech and pharma teams who want this running but lack the technical staff.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell a managed, hosted version with usage-based billing for labs that don't want to self-host or maintain it.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Offer a paid one-day \"research assistant setup\" service to a local biotech or university lab this weekend — install it, wire it to their workflow, and train two people to use it.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-08-30T12:08:20.307Z"
+}

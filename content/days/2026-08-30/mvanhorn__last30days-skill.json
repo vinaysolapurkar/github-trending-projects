@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-30",
+  "owner": "mvanhorn",
+  "name": "last30days-skill",
+  "full_name": "mvanhorn/last30days-skill",
+  "url": "https://github.com/mvanhorn/last30days-skill",
+  "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+  "language": "Python",
+  "stars_total": 60295,
+  "stars_today": 272,
+  "one_liner": "An AI research assistant that reads Reddit, X, YouTube, Hacker News, and more to tell you what's really being said about any person, company, or topic right now.",
+  "buyer": "A B2B sales rep who wants a sharp, current briefing on a prospect before a call instead of a stale LinkedIn skim.",
+  "business_use_cases": [
+    "A sales team gets an automatic pre-call brief on a prospect's company: recent news, hiring signals, and what people are saying about them online.",
+    "A journalist or YouTuber gets a same-day synthesis of everything happening on a breaking topic across social platforms.",
+    "A brand manager tracks real-time public sentiment about their company across Reddit and X instead of paying for enterprise social-listening software."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a \"pre-meeting research brief\" subscription to sales teams, delivered automatically before every calendar call.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer one-off deep-research reports on a company or topic for a flat fee.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build a Slack bot this weekend that posts a research brief on every meeting attendee an hour before the call, then sell it to a sales team as a $30/seat/month add-on.",
+  "opportunity_rating": 5,
+  "generated_at": "2026-08-30T12:08:20.307Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-30",
+  "owner": "every-app",
+  "name": "open-seo",
+  "full_name": "every-app/open-seo",
+  "url": "https://github.com/every-app/open-seo",
+  "description": "Open source alternative to Semrush and Ahrefs",
+  "language": "TypeScript",
+  "stars_total": 14879,
+  "stars_today": 517,
+  "one_liner": "A free, self-run alternative to expensive SEO tools like Semrush and Ahrefs, priced pay-as-you-go instead of a flat monthly subscription.",
+  "buyer": "A solo SEO consultant or small marketing agency that can't justify a $200+/month Semrush seat for every client.",
+  "business_use_cases": [
+    "A boutique SEO agency self-hosts it to cut monthly tool costs while still delivering full audits to clients.",
+    "A freelance SEO consultant runs it pay-as-you-go and passes the savings on as a cheaper audit package to small-business clients.",
+    "A solo blogger or course creator runs their own competitor and keyword analysis without paying for enterprise SEO software."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Launch a low-cost, one-off \"SEO health check\" report service for local businesses, undercutting the usual $500+ agency audit price.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a managed hosted version with a cheaper monthly tier than the big incumbents.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Launch a $49 one-off \"SEO health check\" service for local businesses this weekend, using this instead of an expensive Semrush seat.",
+  "opportunity_rating": 5,
+  "generated_at": "2026-08-30T12:08:20.307Z"
+}

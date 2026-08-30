@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-30",
+  "owner": "unclecode",
+  "name": "crawl4ai",
+  "full_name": "unclecode/crawl4ai",
+  "url": "https://github.com/unclecode/crawl4ai",
+  "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+  "language": "Python",
+  "stars_total": 80005,
+  "stars_today": 229,
+  "one_liner": "A tool that turns any website into clean, structured text an AI can actually read and use.",
+  "buyer": "A market-research agency owner who needs continuously updated competitor pricing and content data for clients.",
+  "business_use_cases": [
+    "A market research agency tracks competitor pricing and product pages daily and sells the reports to retail clients.",
+    "A RAG chatbot startup feeds a client's help-center and docs pages into their AI support bot's knowledge base.",
+    "An SEO agency scrapes search results and competitor content for monthly content-gap reports."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build a niche competitor-price-tracking SaaS for a specific vertical (e.g. local retail, real estate listings) billed monthly.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer a pay-per-crawl \"website to clean data\" API for other developers building AI products.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Build a competitor price-tracking dashboard for a local retailer this weekend and charge them $50/month to keep it updated.",
+  "opportunity_rating": 5,
+  "generated_at": "2026-08-30T12:08:20.307Z"
+}

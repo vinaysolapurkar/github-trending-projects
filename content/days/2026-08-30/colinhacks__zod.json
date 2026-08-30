@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-30",
+  "owner": "colinhacks",
+  "name": "zod",
+  "full_name": "colinhacks/zod",
+  "url": "https://github.com/colinhacks/zod",
+  "description": "TypeScript-first schema validation with static type inference",
+  "language": "TypeScript",
+  "stars_total": 43581,
+  "stars_today": 17,
+  "one_liner": "A tool developers use to make sure the data flowing through their app is actually in the shape it's supposed to be.",
+  "buyer": "No direct buyer — this is foundational developer infrastructure, not something a business pays for on its own.",
+  "business_use_cases": [
+    "A dev team uses it under the hood to validate API requests and form input, invisible to the end business.",
+    "A SaaS platform relies on it to reject malformed data before it reaches the database, reducing support tickets from bad input.",
+    "An agency building client web apps standardizes on it to catch data-shape bugs before they reach production."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell paid training or a course on advanced TypeScript validation patterns built around it.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Not a business opportunity by itself — it's plumbing other products are built on top of, not a product a non-technical buyer would ever pay for directly.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-08-30T12:08:20.307Z"
+}

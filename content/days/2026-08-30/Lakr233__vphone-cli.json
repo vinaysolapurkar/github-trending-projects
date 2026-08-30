@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-30",
+  "owner": "Lakr233",
+  "name": "vphone-cli",
+  "full_name": "Lakr233/vphone-cli",
+  "url": "https://github.com/Lakr233/vphone-cli",
+  "description": "",
+  "language": "Swift",
+  "stars_total": 9363,
+  "stars_today": 633,
+  "one_liner": "A command-line tool that boots a fake, fully working virtual iPhone on a Mac — no physical device needed.",
+  "buyer": "A mobile-app security testing firm that needs many jailbroken iOS devices for pentests without buying and maintaining a device farm.",
+  "business_use_cases": [
+    "A mobile app security firm runs client app pentests on disposable virtual iPhones instead of a rack of physical jailbroken devices.",
+    "A jailbreak-tweak developer tests compatibility across many iOS versions in parallel VMs instead of owning one device per iOS version.",
+    "A QA team for an iOS app reproduces version-specific bugs without hunting down old hardware."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a \"virtual device lab\" rental for mobile security researchers billed by hours used.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Bundle it into a mobile pentesting consultancy's toolkit as part of flat-fee security audits.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Not really a weekend business — this is a specialist macOS/security tool. Worth knowing about if you already run a mobile pentesting shop, otherwise skip it.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-08-30T12:08:20.307Z"
+}

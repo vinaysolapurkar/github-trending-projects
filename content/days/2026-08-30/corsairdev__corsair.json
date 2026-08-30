@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-30",
+  "owner": "corsairdev",
+  "name": "corsair",
+  "full_name": "corsairdev/corsair",
+  "url": "https://github.com/corsairdev/corsair",
+  "description": "Connect your users to their apps",
+  "language": "TypeScript",
+  "stars_total": 10768,
+  "stars_today": 99,
+  "one_liner": "Infrastructure that lets an app or AI agent securely connect to a user's other accounts, like Gmail or Slack, without building that login plumbing yourself.",
+  "buyer": "A founder building an AI automation product who needs users to connect their Google Calendar, Slack, or CRM without months of OAuth integration work.",
+  "business_use_cases": [
+    "An AI scheduling assistant startup lets users connect their Google Calendar in one click instead of building OAuth flows for a dozen providers themselves.",
+    "A no-code AI agent builder platform offers \"connect your apps\" as a built-in feature to compete with larger platforms.",
+    "An internal tools team adds one-click connections to company SaaS accounts for employee-facing automations."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Charge per connected account, the standard model for this category of infrastructure.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Offer tiered subscription plans based on number of supported app integrations.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "If you're already building an AI SaaS product, wire this in this weekend to ship a \"connect your apps\" onboarding flow instead of building OAuth integrations yourself.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-08-30T12:08:20.307Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-30",
+  "owner": "THU-MAIC",
+  "name": "OpenMAIC",
+  "full_name": "THU-MAIC/OpenMAIC",
+  "url": "https://github.com/THU-MAIC/OpenMAIC",
+  "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+  "language": "TypeScript",
+  "stars_total": 22913,
+  "stars_today": 907,
+  "one_liner": "An AI that builds a full interactive online course for you from a topic, document, or video — just describe what you want taught.",
+  "buyer": "A corporate L&D manager who needs new employee-onboarding training built fast without hiring an instructional designer.",
+  "business_use_cases": [
+    "A corporate training team turns a 40-page compliance PDF into an interactive course with quizzes in an afternoon instead of a two-week contract with an instructional designer.",
+    "An independent coach converts their webinar recordings into a structured, sellable multi-lesson course.",
+    "A test-prep tutor generates a custom practice course for a student's specific weak topics from their textbook chapters."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Run a \"course-in-a-day\" production service for small coaching businesses and trainers who want a polished course but don't know how to build one.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "White-label the tool as a course-authoring add-on for corporate LMS platforms.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Take a client's existing PDF or slide deck this weekend and turn it into a finished interactive mini-course, then sell it back to them as a $500 done-for-you package.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-08-30T12:08:20.307Z"
+}

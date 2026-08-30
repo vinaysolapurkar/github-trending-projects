@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-30",
+  "owner": "handsomestWei",
+  "name": "patent-disclosure-skill",
+  "full_name": "handsomestWei/patent-disclosure-skill",
+  "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+  "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+  "language": "Python",
+  "stars_total": 5514,
+  "stars_today": 38,
+  "one_liner": "An AI skill that helps Chinese inventors find patentable ideas in their work and draft the formal invention disclosure document.",
+  "buyer": "A small Chinese hardware or manufacturing company that has new designs but no in-house patent expertise.",
+  "business_use_cases": [
+    "A small hardware startup drafts its first invention disclosure without paying a patent agent's hourly rate upfront.",
+    "A patent agency uses it to speed up first-draft disclosures for high-volume filing clients, then reviews and polishes.",
+    "An R&D team tracks relevant patent-policy changes automatically instead of manually monitoring government filings."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer an \"AI-drafted, human-reviewed\" patent disclosure service to small manufacturers who can't afford a full patent agent engagement.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "License it to patent agencies as a productivity tool sold per seat.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Partner with a patent agent this weekend and offer a cut-rate \"first draft disclosure\" service to small manufacturers as a lead-in to full patent filing.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-08-30T12:08:20.307Z"
+}
