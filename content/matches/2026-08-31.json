@@ -1,0 +1,79 @@
+{
+  "date": "2026-08-31",
+  "matches": [
+    {
+      "problem_id": "p001",
+      "repo": "calesthio/OpenMontage",
+      "why": "An agentic video production system scripts, edits, and renders short social videos from a text description, no manual editing needed.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p002",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "why": "Reverse-engineered, tested prompt templates get an AI image generator to produce consistent, professional product shots without hiring a photographer.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p003",
+      "repo": "affaan-m/ECC",
+      "why": "Its memory and instinct layer gives Claude Code, Codex, and other AI coding agents state that persists across sessions instead of starting from zero every time.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p004",
+      "repo": "DietrichGebert/ponytail",
+      "why": "A skill that stops the agent from over-building, keeping generated code minimal instead of bloated and over-engineered.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p005",
+      "repo": null,
+      "why": "firecrawl/pdf-inspector is a fast extraction library for turning PDFs into clean text, not a tool for organizing or searching an existing personal research library — not a genuine fit."
+    },
+    {
+      "problem_id": "p006",
+      "repo": null,
+      "why": "Nothing today or recently turns a text description into finished explainer visuals without existing footage; today's diagram tool (archify) only covers software architecture, not general news topics."
+    },
+    {
+      "problem_id": "p007",
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "why": "165 validated research skills plus 100+ scientific databases covering biology, chemistry, and drug discovery give a small lab genuine bioinformatics capability without hiring a specialist team.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p008",
+      "repo": "Osmantic/ODS",
+      "why": "Installs a full private AI stack — local model inference, chat UI, and retrieval over your own documents — on hardware the firm owns, so client data never leaves the building.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p009",
+      "repo": "calesthio/OpenMontage",
+      "why": "Its agentic text-to-video pipeline can turn a written blog post into a narrated video, though it wasn't built specifically for that workflow.",
+      "confidence": "medium"
+    },
+    {
+      "problem_id": "p010",
+      "repo": null,
+      "why": "Nothing today or recently is a self-hosted note-taking app; Osmantic/ODS is a private AI server, not a notes replacement."
+    },
+    {
+      "problem_id": "p011",
+      "repo": "tt-a1i/archify",
+      "why": "Compiles a codebase or system description straight into an interactive architecture map, showing exactly how the pieces connect.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p012",
+      "repo": "jingyaogong/minimind",
+      "why": "Walks a complete beginner through training a real, if tiny, language model from scratch in about two hours — a genuine hands-on starting point, though it teaches fundamentals rather than a shippable product.",
+      "confidence": "medium"
+    },
+    {
+      "problem_id": "p013",
+      "repo": null,
+      "why": "Nothing among today's or recent trending repos addresses restaurant inventory management."
+    }
+  ]
+}

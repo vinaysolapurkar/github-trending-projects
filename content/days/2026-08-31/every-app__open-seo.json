@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-31",
+  "owner": "every-app",
+  "name": "open-seo",
+  "full_name": "every-app/open-seo",
+  "url": "https://github.com/every-app/open-seo",
+  "description": "Open source alternative to Semrush and Ahrefs",
+  "language": "TypeScript",
+  "stars_total": 15492,
+  "stars_today": 469,
+  "generated_at": "2026-08-31T12:32:58.000Z",
+  "one_liner": "A do-it-yourself SEO toolkit for keyword research, rank tracking, and competitor analysis that you pay for by usage instead of an expensive monthly subscription.",
+  "buyer": "A solo SEO consultant or small marketing agency currently priced out of Semrush or Ahrefs subscriptions.",
+  "business_use_cases": [
+    "A freelance SEO consultant self-hosts it to serve small-business clients without eating Semrush's monthly fee.",
+    "A content marketing agency white-labels the hosted version to offer SEO audits to its own clients.",
+    "An indie SaaS founder self-hosts it to track rankings for their own product's keywords."
+  ],
+  "money_ideas": [
+    {
+      "idea": "White-label the hosted version and resell it to agency clients at a markup.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer a one-off '$99 SEO audit for local businesses' report generated from the tool.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "White-label the hosted version this weekend and sell '$99 SEO audits for local businesses' as a simple one-off report product.",
+  "opportunity_rating": 4
+}

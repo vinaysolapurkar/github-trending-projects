@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-31",
+  "owner": "jingyaogong",
+  "name": "minimind",
+  "full_name": "jingyaogong/minimind",
+  "url": "https://github.com/jingyaogong/minimind",
+  "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+  "language": "Python",
+  "stars_total": 55758,
+  "stars_today": 472,
+  "generated_at": "2026-08-31T12:32:58.000Z",
+  "one_liner": "An open-source recipe and codebase that lets anyone train their own tiny AI language model from scratch, cheaply, in about two hours.",
+  "buyer": "An AI bootcamp or university instructor who wants students to build a real LLM hands-on instead of just calling an API.",
+  "business_use_cases": [
+    "An AI education company builds a paid course or workshop around 'train your own LLM in an afternoon.'",
+    "An ML consultancy uses it as a teaching sandbox for corporate AI-literacy training days.",
+    "A GPU hardware reseller bundles it as a hands-on demo to sell workstations to hobbyists and students."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell seats in a cohort-based weekend course built around the repo.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Produce a paid video tutorial series walking through each training stage.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Turn the repo into a guided, beginner-friendly weekend workshop — 'Build Your Own ChatGPT in a Weekend' — and sell seats to local hobbyists and students.",
+  "opportunity_rating": 3
+}

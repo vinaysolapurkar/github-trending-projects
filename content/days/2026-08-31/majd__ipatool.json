@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-31",
+  "owner": "majd",
+  "name": "ipatool",
+  "full_name": "majd/ipatool",
+  "url": "https://github.com/majd/ipatool",
+  "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+  "language": "Go",
+  "stars_total": 10409,
+  "stars_today": 58,
+  "generated_at": "2026-08-31T12:32:58.000Z",
+  "one_liner": "A command-line tool for downloading iOS app installer files (.ipa) directly from the App Store.",
+  "buyer": "A mobile QA or security team that needs to pull specific historical app builds for testing or malware analysis without going through Xcode.",
+  "business_use_cases": [
+    "A mobile security firm automates ipa retrieval for static-analysis pipelines.",
+    "An enterprise IT team builds internal app archiving for compliance and version rollback.",
+    "A QA shop grabs a specific prior app version to reliably reproduce a reported bug."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Wrap it in a simple internal web UI and sell it as an app-archiving tool to enterprise mobile teams.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Put a small web front-end over it as an internal 'grab any past build of our own app' tool, and offer it to mobile QA teams as a lightweight paid utility.",
+  "opportunity_rating": 2
+}

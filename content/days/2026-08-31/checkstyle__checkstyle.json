@@ -1,0 +1,26 @@
+{
+  "date": "2026-08-31",
+  "owner": "checkstyle",
+  "name": "checkstyle",
+  "full_name": "checkstyle/checkstyle",
+  "url": "https://github.com/checkstyle/checkstyle",
+  "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+  "language": "Java",
+  "stars_total": 9305,
+  "stars_today": 115,
+  "generated_at": "2026-08-31T12:32:58.000Z",
+  "one_liner": "A long-established tool that automatically checks whether Java code follows a consistent coding standard.",
+  "buyer": "Honestly, this already has its buyer: it's free, mature infrastructure already embedded in most Java build pipelines — there's no fresh commercial opening here.",
+  "business_use_cases": [
+    "Teams already use it for free as part of standard Java CI pipelines; there's no new use case to sell.",
+    "A consultancy could bundle Checkstyle configuration into a broader 'set up our CI pipeline' onboarding service, but that's a sliver of a larger engagement, not a business built on this tool."
+  ],
+  "money_ideas": [
+    {
+      "idea": "No realistic new revenue angle — it's mature, free, and widely adopted already.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "There's nothing to steal here — it's a 20-year-old free dev-tooling project doing its job well, not a business opportunity.",
+  "opportunity_rating": 1
+}

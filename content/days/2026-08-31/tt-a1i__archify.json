@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-31",
+  "owner": "tt-a1i",
+  "name": "archify",
+  "full_name": "tt-a1i/archify",
+  "url": "https://github.com/tt-a1i/archify",
+  "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+  "language": "JavaScript",
+  "stars_total": 36915,
+  "stars_today": 3722,
+  "generated_at": "2026-08-31T12:32:58.000Z",
+  "one_liner": "A tool that turns a code description into a polished, interactive diagram of how a system works, viewable right in the browser.",
+  "buyer": "A tech lead or agency that has to produce architecture diagrams for client proposals and sprint reviews.",
+  "business_use_cases": [
+    "A consulting agency auto-generates system architecture diagrams for every client statement of work or pitch deck.",
+    "A dev-tools startup bundles it into an 'explain this codebase' onboarding feature for new engineering hires.",
+    "A technical writer uses it to keep documentation diagrams in sync automatically as the underlying code changes."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Package it as a CI step that auto-refreshes a team's architecture docs on every pull request.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer a one-off 'diagram your legacy codebase' service to teams with no up-to-date documentation.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Wrap it in a GitHub Action that comments a fresh architecture diagram on every PR, and sell it as a paid add-on for teams onboarding new engineers.",
+  "opportunity_rating": 3
+}

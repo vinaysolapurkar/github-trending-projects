@@ -1,0 +1,9 @@
+{
+  "id": "2026-08-31-001",
+  "date": "2026-08-31",
+  "repo_a": "Osmantic/ODS",
+  "repo_b": "firecrawl/pdf-inspector",
+  "title": "The Confidential Filing Cabinet",
+  "pitch": "Combine ODS's one-click private AI server — local model inference plus a chat UI, running entirely on hardware you own — with pdf-inspector's fast, local PDF classification and text extraction, and you get an on-prem 'chat with our case files' appliance for law firms, accountants, and healthcare practices that legally cannot send client documents to a cloud AI service. Incoming PDFs get classified and turned into clean text in milliseconds, skipping OCR entirely when they don't need it, then indexed and made searchable and chattable through ODS's local interface. An IT reseller or MSP sells it as a locked-down mini PC with a monthly maintenance retainer, and privacy-anxious professional-services clients pay a premium for the 'nothing leaves this room' guarantee.",
+  "why_now": "Firms in regulated industries are under growing pressure to adopt AI for productivity but are blocked by confidentiality and data-residency rules, and both a private local-AI stack and a fast local document pipeline trended on the same day — real momentum behind private, local-first AI infrastructure that sidesteps the cloud-privacy problem entirely."
+}

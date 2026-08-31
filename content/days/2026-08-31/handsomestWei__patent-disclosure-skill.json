@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-31",
+  "owner": "handsomestWei",
+  "name": "patent-disclosure-skill",
+  "full_name": "handsomestWei/patent-disclosure-skill",
+  "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+  "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+  "language": "Python",
+  "stars_total": 6089,
+  "stars_today": 62,
+  "generated_at": "2026-08-31T12:32:58.000Z",
+  "one_liner": "An AI skill that helps engineers turn their work into a proper patent application document, and explains existing patents in plain language.",
+  "buyer": "A corporate R&D engineer in China who invented something but has no idea how to write the formal disclosure their company's IP department needs.",
+  "business_use_cases": [
+    "An IP law firm's paralegal team uses it to draft first-pass invention disclosures ahead of inventor interviews, cutting billable hours.",
+    "A corporate R&D department gives it to engineers so more real inventions actually get filed instead of stalling.",
+    "An independent patent agent builds a plain-language 'patent explainer' service for non-lawyers using its digest feature."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a per-document invention-disclosure drafting service to individual inventors.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Run a subscription patent-monitoring and policy-tracking service for a specific industry niche.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer engineers at local startups a 'get your invention patent-ready in a weekend' service, using this to produce the first-draft disclosure.",
+  "opportunity_rating": 3
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-31",
+  "owner": "p-e-w",
+  "name": "heretic",
+  "full_name": "p-e-w/heretic",
+  "url": "https://github.com/p-e-w/heretic",
+  "description": "Fully automatic censorship removal for language models",
+  "language": "Python",
+  "stars_total": 29434,
+  "stars_today": 369,
+  "generated_at": "2026-08-31T12:32:58.000Z",
+  "one_liner": "A tool that automatically strips the built-in safety guardrails out of open AI language models.",
+  "buyer": "An AI safety or red-team researcher studying how models behave once their guardrails are removed, to help build better defenses.",
+  "business_use_cases": [
+    "An AI safety research lab studies unfiltered model outputs to publish findings on failure modes.",
+    "A red-team consultancy stress-tests a client's fine-tuned model after guardrail removal to find gaps before attackers do.",
+    "A hobbyist builds a personal 'uncensored' local chatbot for private use."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer red-teaming and guardrail-hardening consulting to companies shipping their own fine-tuned models.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This isn't a weekend business — it's a legitimate research and red-teaming tool, but reselling 'uncensored' models built with it collides with hosting and provider terms of service fast.",
+  "opportunity_rating": 1
+}

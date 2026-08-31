@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-31",
+  "owner": "kaifcodec",
+  "name": "user-scanner",
+  "full_name": "kaifcodec/user-scanner",
+  "url": "https://github.com/kaifcodec/user-scanner",
+  "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.",
+  "language": "Python",
+  "stars_total": 3948,
+  "stars_today": 462,
+  "generated_at": "2026-08-31T12:32:58.000Z",
+  "one_liner": "A tool that takes an email address or username and checks hundreds of websites to find where that identity has accounts.",
+  "buyer": "A licensed private investigator or a corporate trust-and-safety team doing legitimate background or fraud checks.",
+  "business_use_cases": [
+    "A fraud-investigation team cross-references a suspicious account's footprint across platforms during an internal investigation.",
+    "A journalist verifies a source's online identity before publishing a story.",
+    "A corporate trust-and-safety team checks whether a reported user has a pattern of abuse across services."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'digital footprint report' service strictly to licensed investigators, with legal review of every request.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Be honest with yourself: packaging this as a consumer 'find anyone' product runs straight into privacy law and platform terms of service — not a good weekend business.",
+  "opportunity_rating": 1
+}

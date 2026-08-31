@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-31",
+  "owner": "THU-MAIC",
+  "name": "OpenMAIC",
+  "full_name": "THU-MAIC/OpenMAIC",
+  "url": "https://github.com/THU-MAIC/OpenMAIC",
+  "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+  "language": "TypeScript",
+  "stars_total": 25751,
+  "stars_today": 1370,
+  "generated_at": "2026-08-31T12:32:58.000Z",
+  "one_liner": "A one-click app that spins up a classroom of AI 'characters' who teach and interact with a student together, instead of one chatbot answering questions.",
+  "buyer": "An online tutoring or edtech startup founder building interactive lesson experiences for kids or exam prep.",
+  "business_use_cases": [
+    "An edtech startup builds subject-specific interactive classrooms (a mock historical debate, a science lab walkthrough) for a paid tutoring app.",
+    "A corporate training team creates multi-persona onboarding simulations where new hires talk to several AI 'coworkers' at once.",
+    "A language school offers immersive roleplay conversation practice with multiple AI characters instead of one static bot."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a branded, subject-specific version of the classroom experience to schools or tutoring centers.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "License the multi-agent classroom engine to existing edtech platforms as an add-on feature.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Fork it, pick one subject (say, GCSE history), and build a single polished interactive classroom demo to pitch to a language-learning academy this weekend.",
+  "opportunity_rating": 4
+}

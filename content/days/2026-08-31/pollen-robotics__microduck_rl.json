@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-31",
+  "owner": "pollen-robotics",
+  "name": "microduck_rl",
+  "full_name": "pollen-robotics/microduck_rl",
+  "url": "https://github.com/pollen-robotics/microduck_rl",
+  "description": "RL training environments for Microduck (mjlab)",
+  "language": "Python",
+  "stars_total": 1029,
+  "stars_today": 168,
+  "generated_at": "2026-08-31T12:32:58.000Z",
+  "one_liner": "The training code used to teach a small, toy-sized two-legged robot how to walk, stand up, and do tricks, using reinforcement learning in simulation.",
+  "buyer": "A STEM education company or robotics research lab that wants a compelling, working walking-robot demo without building the sim2real pipeline from scratch.",
+  "business_use_cases": [
+    "A STEM education company uses the trained walking robot as a flagship demo for teaching AI and robotics in schools.",
+    "A robotics research lab reuses the sim2real recipe — actuator physics, domain randomization — to bootstrap training for their own robot.",
+    "A robotics content creator builds and showcases the robot for a maker audience, drawing sponsorship revenue."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a robot kit bundled with an education curriculum built around the trained walking demo.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer sim2real reinforcement-learning consulting to other small-robot teams.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This needs a CUDA GPU, real robot hardware, and deep RL know-how — not a weekend project unless you're already in robotics; the realistic play is packaging the trained policy plus hardware as an education kit.",
+  "opportunity_rating": 2
+}

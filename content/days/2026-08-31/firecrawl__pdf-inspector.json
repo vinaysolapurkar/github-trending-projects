@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-31",
+  "owner": "firecrawl",
+  "name": "pdf-inspector",
+  "full_name": "firecrawl/pdf-inspector",
+  "url": "https://github.com/firecrawl/pdf-inspector",
+  "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+  "language": "Rust",
+  "stars_total": 17147,
+  "stars_today": 199,
+  "generated_at": "2026-08-31T12:32:58.000Z",
+  "one_liner": "A fast tool that looks at a PDF and instantly tells you whether it's real text or a scanned image, then pulls out clean text without expensive OCR when it can.",
+  "buyer": "A document-heavy SaaS — invoicing, legal, or insurance — that's paying to run every PDF through OCR even when most of them don't need it.",
+  "business_use_cases": [
+    "An invoice-processing startup routes incoming PDFs through it first, skipping OCR costs on the roughly half that are already text-based.",
+    "A legal-tech company speeds up contract ingestion by extracting clean, position-aware text before running its AI review.",
+    "A document-management SaaS uses it to auto-tag uploads as 'searchable' versus 'needs OCR' to improve search quality."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Run a hosted 'upload a PDF, get clean Markdown plus a scanned/text verdict' API and charge per page.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "License it as a paid tier feature inside an existing document-management SaaS.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build a tiny hosted API this weekend that returns clean Markdown plus a scanned/text verdict for any uploaded PDF, and charge per page — undercut OCR-only competitors on cost.",
+  "opportunity_rating": 4
+}

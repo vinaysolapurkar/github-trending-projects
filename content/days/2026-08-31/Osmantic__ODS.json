@@ -1,0 +1,31 @@
+{
+  "date": "2026-08-31",
+  "owner": "Osmantic",
+  "name": "ODS",
+  "full_name": "Osmantic/ODS",
+  "url": "https://github.com/Osmantic/ODS",
+  "description": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+  "language": "Python",
+  "stars_total": 5214,
+  "stars_today": 331,
+  "generated_at": "2026-08-31T12:32:58.000Z",
+  "one_liner": "An installer that turns any spare computer into your own private AI server with chat, voice, image generation, and automation, no manual setup required.",
+  "buyer": "A small law firm, accounting practice, or freelancer who wants private, in-house AI tools without sending client data to the cloud.",
+  "business_use_cases": [
+    "An IT reseller sells pre-configured 'AI-in-a-box' mini PCs to local law or accounting firms that need private, on-prem AI for confidentiality.",
+    "A homelab hardware shop bundles ODS with a mini PC as a plug-and-play private AI server for prosumers.",
+    "A managed service provider offers 'private AI server setup and maintenance' as a recurring service to SMB clients."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a pre-configured hardware bundle with ODS already installed and tuned.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Charge a monthly retainer for setup, updates, and support of a client's private AI box.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Buy a mini PC, install ODS on it, and sell it this weekend to one local small business worried about sending client data to ChatGPT.",
+  "opportunity_rating": 4
+}
