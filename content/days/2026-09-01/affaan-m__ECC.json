@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-01",
+  "owner": "affaan-m",
+  "name": "ECC",
+  "full_name": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+  "language": "JavaScript",
+  "stars_total": 245524,
+  "stars_today": 621,
+  "generated_at": "2026-09-01T12:47:40.000Z",
+  "one_liner": "An add-on system that gives AI coding assistants like Claude Code a persistent memory and a set of learned habits, so they stop forgetting your project every time you start a new session.",
+  "buyer": "An indie developer or small dev consultancy that's frustrated with re-explaining their codebase to their AI assistant every session.",
+  "business_use_cases": [
+    "A solo developer keeps a persistent memory of project conventions and past decisions across every coding session, cutting repeated back-and-forth with the AI.",
+    "A dev consultancy configures a shared 'instincts and memory' profile for a client's codebase so every consultant's AI assistant behaves consistently.",
+    "A dev-tools company builds a paid dashboard on top of it for teams to manage and share their agent's memory and skill configuration."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell premium, pre-tuned configuration packs for specific frameworks or codebases.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer paid setup consulting to dev teams who want it configured for their specific stack.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Package a ready-made 'memory profile' for one popular framework (e.g. Next.js or Django) and sell it to indie developers who are tired of re-explaining their stack to their AI assistant — directly answers a common developer complaint.",
+  "opportunity_rating": 3
+}

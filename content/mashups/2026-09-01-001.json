@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-01-001",
+  "date": "2026-09-01",
+  "repo_a": "browser-use/video-use",
+  "repo_b": "debpalash/VoiceStudio",
+  "title": "One-Take Global Studio",
+  "pitch": "video-use turns a folder of raw footage into a finished, subtitled, color-graded video by chatting with an AI editor. VoiceStudio is a free, local ElevenLabs alternative that clones voices and dubs video into 646 languages. Chain them: a creator drops in one raw recording, video-use produces the polished English cut, then VoiceStudio dubs that same cut into Spanish, Hindi, and a dozen other languages using a cloned version of the creator's own voice — no editor, no dubbing studio, no subscription. Sell it as a subscription service to course creators and YouTubers who want to reach international audiences but currently can't justify the cost of a video editor plus a translation agency for every upload.",
+  "why_now": "Both repos trended today and both attack the same wedge — replacing a paid creative-services subscription (a video editor, ElevenLabs) with a self-hosted, agent-driven tool. Solo creators are increasingly expected to publish in multiple languages to grow, and right now that requires stitching together separate editing and dubbing vendors; a single pipeline that does both is a genuinely new, sellable workflow, not just two tools sitting next to each other."
+}

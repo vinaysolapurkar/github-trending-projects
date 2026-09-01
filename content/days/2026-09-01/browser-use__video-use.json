@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-01",
+  "owner": "browser-use",
+  "name": "video-use",
+  "full_name": "browser-use/video-use",
+  "url": "https://github.com/browser-use/video-use",
+  "description": "Edit videos with coding agents",
+  "language": "Python",
+  "stars_total": 22588,
+  "stars_today": 591,
+  "generated_at": "2026-09-01T12:47:40.000Z",
+  "one_liner": "Drop your raw video footage in a folder, chat with an AI assistant, and get back a fully edited video — cuts, color grading, and subtitles included.",
+  "buyer": "A solo content creator or small marketing team that currently spends hours every week manually editing videos and can't afford a full-time editor.",
+  "business_use_cases": [
+    "A solo YouTuber or podcaster turns raw interview footage into a polished, subtitled final cut without touching a timeline editor.",
+    "A social media manager batch-processes a week's worth of raw clips into short, subtitled, color-graded posts for Instagram and TikTok.",
+    "A course creator turns raw screen-recording and talking-head footage into a finished lesson video automatically."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a hosted 'upload footage, get final.mp4 back' service billed by video minute processed.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Sell it as a monthly editing subscription for creators who post multiple videos a week.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build a simple upload-and-download web wrapper around it this weekend and sell it directly to solo creators as 'your AI video editor' — this is a near-exact fix for a problem creators complain about constantly.",
+  "opportunity_rating": 5
+}

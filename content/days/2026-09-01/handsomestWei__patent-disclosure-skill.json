@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-01",
+  "owner": "handsomestWei",
+  "name": "patent-disclosure-skill",
+  "full_name": "handsomestWei/patent-disclosure-skill",
+  "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+  "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+  "language": "Python",
+  "stars_total": 6588,
+  "stars_today": 502,
+  "generated_at": "2026-09-01T12:47:40.000Z",
+  "one_liner": "An AI tool (built for the Chinese patent system) that helps an inventor find the patentable idea in their work and write the formal disclosure document a patent attorney needs.",
+  "buyer": "An engineer at a Chinese tech company who built something patentable but has no in-house patent attorney to help write it up — or a small patent agency wanting to speed up first drafts.",
+  "business_use_cases": [
+    "An R&D engineer drafts a complete invention disclosure (with diagrams and prior-art search) without needing a patent attorney for the first pass.",
+    "A boutique patent agency uses it to produce first drafts for a batch of client inventions faster, then has a human attorney refine them.",
+    "A company's IP department tracks policy and prior-art trends automatically instead of paying for a research subscription."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer it as a paid setup-and-support service to small patent agencies who want it configured for their workflow.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell a done-for-you 'first draft disclosure' service to individual inventors at a flat per-document rate.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Partner with one small China-based patent agency, run their next batch of client disclosures through this tool, and split the time savings as a fee — low risk, immediate proof of value.",
+  "opportunity_rating": 3
+}

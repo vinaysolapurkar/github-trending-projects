@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-01",
+  "owner": "unclecode",
+  "name": "crawl4ai",
+  "full_name": "unclecode/crawl4ai",
+  "url": "https://github.com/unclecode/crawl4ai",
+  "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+  "language": "Python",
+  "stars_total": 80669,
+  "stars_today": 516,
+  "generated_at": "2026-09-01T12:47:40.000Z",
+  "one_liner": "A free, open-source tool that crawls websites and turns messy web pages into clean text an AI can actually use — the same kind of tool paid 'AI-ready web scraping' companies charge for.",
+  "buyer": "A startup founder building any AI product that needs a steady feed of clean web data — competitor pricing, news, product listings, or documentation.",
+  "business_use_cases": [
+    "A local-market entrepreneur builds a competitor price-tracking tool for small retailers by crawling competitor sites daily.",
+    "A startup builds a RAG chatbot over a company's public docs and web presence, using this as the ingestion layer.",
+    "A data broker builds and sells curated, cleaned datasets scraped from a specific niche (e.g. job listings, real estate) to other AI teams."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Host it as a usage-billed 'scrape-as-a-service' API for teams who don't want to run their own crawler infrastructure.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Sell ready-to-use, pre-scraped datasets for a specific niche as a subscription product.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Pick one boring but valuable niche (e.g. permit filings, local restaurant menus, job postings in one city) and sell a clean weekly-updated dataset scraped with this — the underlying business model already works, see Firecrawl.",
+  "opportunity_rating": 4
+}

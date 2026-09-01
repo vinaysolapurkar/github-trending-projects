@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-01",
+  "owner": "3b1b",
+  "name": "manim",
+  "full_name": "3b1b/manim",
+  "url": "https://github.com/3b1b/manim",
+  "description": "Animation engine for explanatory math videos",
+  "language": "Python",
+  "stars_total": 92391,
+  "stars_today": 74,
+  "generated_at": "2026-09-01T12:47:40.000Z",
+  "one_liner": "The animation software behind the famous 3Blue1Brown math videos — lets you script precise, professional-looking explainer animations with code.",
+  "buyer": "A STEM YouTuber or online-course creator who wants their explainer videos to look as polished as 3Blue1Brown's, without hiring a motion designer.",
+  "business_use_cases": [
+    "A YouTuber builds a math or physics explainer channel and monetizes with ads and sponsorships, using manim for all the visuals.",
+    "An online course platform (Udemy, Coursera) creator uses it to produce higher-quality animated lessons that stand out from slide decks.",
+    "A university professor animates lecture concepts for a flipped-classroom video series."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Run a paid 'learn manim' course teaching aspiring edu-YouTubers to make animations like 3Blue1Brown.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer an animation-for-hire studio for course creators who want the look but don't want to learn to code it themselves.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Take one popular but poorly-explained math concept, make a single polished manim explainer video, and use it as a portfolio piece to land freelance animation gigs from course creators.",
+  "opportunity_rating": 3
+}

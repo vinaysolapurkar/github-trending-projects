@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-01",
+  "owner": "iv-org",
+  "name": "invidious",
+  "full_name": "iv-org/invidious",
+  "url": "https://github.com/iv-org/invidious",
+  "description": "Invidious is an alternative front-end to YouTube",
+  "language": "Crystal",
+  "stars_total": 23635,
+  "stars_today": 583,
+  "generated_at": "2026-09-01T12:47:40.000Z",
+  "one_liner": "A stripped-down, ad-free way to watch YouTube videos without an account, ads, or tracking.",
+  "buyer": "Honestly, mostly privacy-conscious hobbyists who self-host it for personal use — there isn't a clean paying business buyer here.",
+  "business_use_cases": [
+    "A privacy-focused individual self-hosts it to watch YouTube without ads or a Google account.",
+    "A digital-rights nonprofit points members to a public instance as part of a 'de-Google your life' guide."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Accept donations to run a public instance for the privacy community.",
+      "revenue_model": "ads"
+    }
+  ],
+  "steal_this": "Not really a business starter kit — it exists to remove monetization, and reselling access likely violates YouTube's terms of service, so there's no honest weekend business here.",
+  "opportunity_rating": 1
+}

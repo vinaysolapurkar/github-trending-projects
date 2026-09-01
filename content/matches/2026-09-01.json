@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-01",
+  "matches": [
+    { "problem_id": "p001", "repo": "browser-use/video-use", "why": "It's built to do exactly this: drop in raw footage and chat with an AI agent to get a finished, subtitled, color-graded video back.", "confidence": "high" },
+    { "problem_id": "p002", "repo": null, "why": "Nothing in today's scrape addresses product photography; we'll notify when it trends." },
+    { "problem_id": "p003", "repo": "affaan-m/ECC", "why": "It adds persistent memory and learned 'instincts' to coding agents like Claude Code so they stop forgetting project context between sessions.", "confidence": "medium" },
+    { "problem_id": "p004", "repo": null, "why": "Nothing today targets code quality or over-engineering specifically; we'll notify when it trends." },
+    { "problem_id": "p005", "repo": "firecrawl/pdf-inspector", "why": "It classifies and cleanly extracts text from PDFs, which is a solid building block for a personal research library — but it's a library, not an out-of-the-box organizer app.", "confidence": "low" },
+    { "problem_id": "p006", "repo": "3b1b/manim", "why": "It's a proven engine for building explanatory animations without needing real footage, though it's tuned for math/science diagrams rather than general news visuals.", "confidence": "medium" },
+    { "problem_id": "p007", "repo": "K-Dense-AI/scientific-agent-skills", "why": "It's a library of validated AI skills covering biology, chemistry, medicine, and drug discovery, built for exactly a small lab without a dedicated bioinformatics team.", "confidence": "high" },
+    { "problem_id": "p008", "repo": null, "why": "No private, self-hosted law-firm chat tool showed up in today's scrape; we'll notify when it trends." },
+    { "problem_id": "p009", "repo": "debpalash/VoiceStudio", "why": "It does local text-to-speech with voice cloning, which turns written text into narrated audio directly — pairing it with a video tool covers the rest.", "confidence": "medium" },
+    { "problem_id": "p010", "repo": null, "why": "Today's privacy-flavored repo (Invidious) replaces YouTube's front end, not a notes app; nothing fits this problem." },
+    { "problem_id": "p011", "repo": null, "why": "Nothing today maps or explains an existing codebase's architecture; we'll notify when it trends." },
+    { "problem_id": "p012", "repo": "jingyaogong/minimind", "why": "It's a hands-on kit for training a real (if tiny) language model from scratch in about two hours — a concrete, low-cost first project for an aspiring AI founder.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "No inventory-management tool for restaurants showed up in today's scrape; we'll notify when it trends." }
+  ]
+}

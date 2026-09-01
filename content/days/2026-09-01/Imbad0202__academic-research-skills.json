@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-01",
+  "owner": "Imbad0202",
+  "name": "academic-research-skills",
+  "full_name": "Imbad0202/academic-research-skills",
+  "url": "https://github.com/Imbad0202/academic-research-skills",
+  "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+  "language": "Python",
+  "stars_total": 44584,
+  "stars_today": 161,
+  "generated_at": "2026-09-01T12:47:40.000Z",
+  "one_liner": "A set of pre-built instructions that walks an AI assistant through writing an academic paper end to end — research, draft, review, revise, and finalize.",
+  "buyer": "A PhD student or postdoc who needs to produce publication-ready papers faster without hiring an editor.",
+  "business_use_cases": [
+    "A university writing center licenses it to grad students as part of a paid 'AI research accelerator' workshop series.",
+    "A freelance academic editor uses it as a first-pass drafting and formatting tool before doing paid human polish, cutting their turnaround time in half.",
+    "A small research lab standardizes every trainee on the same skill set so papers come out in consistent journal-ready format."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Run paid cohort-based workshops teaching grad students to set this up and use it for their thesis or papers.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a premium, curated skill pack tuned for a specific field (e.g. biomedical journals) as a one-time purchase.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build a 'first draft to submission' service for grad students: they send raw notes and data, you run this skill pipeline plus one round of human review, and charge per paper.",
+  "opportunity_rating": 3
+}

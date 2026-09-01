@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-01",
+  "owner": "VoltAgent",
+  "name": "awesome-design-md",
+  "full_name": "VoltAgent/awesome-design-md",
+  "url": "https://github.com/VoltAgent/awesome-design-md",
+  "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+  "language": null,
+  "stars_total": 112278,
+  "stars_today": 487,
+  "generated_at": "2026-09-01T12:47:40.000Z",
+  "one_liner": "A curated list of 'style guide' files copied from well-known brands' design systems — drop one into your project and an AI coding tool will build a UI that looks like that brand.",
+  "buyer": "A freelance developer or small agency who needs to mock up a client's UI in a recognizable, professional style fast.",
+  "business_use_cases": [
+    "A freelancer builds an MVP UI that already looks polished and on-brand for a pitch deck, instead of shipping something generic-looking.",
+    "An agency speeds up early client prototypes by starting from a style close to what the client has in mind."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell an expanded, niche-specific pack (e.g. fintech or healthcare brand styles) as a one-time paid product.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This is fundamentally a curated list, not a product — the honest weekend move is to use it as a free input to your own paid 'brand-matched AI UI' service for agency clients, not to sell the list itself.",
+  "opportunity_rating": 2
+}

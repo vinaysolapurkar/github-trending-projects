@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-01",
+  "owner": "averygan",
+  "name": "reclip",
+  "full_name": "averygan/reclip",
+  "url": "https://github.com/averygan/reclip",
+  "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+  "language": "HTML",
+  "stars_total": 7383,
+  "stars_today": 21,
+  "generated_at": "2026-09-01T12:47:40.000Z",
+  "one_liner": "A simple self-hosted web app for downloading videos or audio from YouTube, TikTok, Instagram, and about a thousand other sites.",
+  "buyer": "Honestly a personal-use tool for individuals who want their own downloader instead of using sketchy ad-covered websites — there isn't a clean commercial buyer here.",
+  "business_use_cases": [
+    "A social media manager self-hosts it to save reference clips for internal use.",
+    "A hobbyist archives their own content or public-domain material for offline viewing."
+  ],
+  "money_ideas": [
+    {
+      "idea": "None that hold up honestly — reselling access to a video downloader runs straight into the terms of service (and often copyright) of the sites it downloads from.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Not a real business starter — dozens of free clones of this already exist and monetizing it invites takedown and legal risk. Fine as a personal tool, not a weekend business.",
+  "opportunity_rating": 1
+}

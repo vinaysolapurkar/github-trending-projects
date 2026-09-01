@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-01",
+  "owner": "K-Dense-AI",
+  "name": "scientific-agent-skills",
+  "full_name": "K-Dense-AI/scientific-agent-skills",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+  "language": "Python",
+  "stars_total": 41260,
+  "stars_today": 914,
+  "generated_at": "2026-09-01T12:47:40.000Z",
+  "one_liner": "A pack of ready-made 'skills' that turns any AI chatbot into a lab assistant that can search scientific databases and help with biology, chemistry, and drug-discovery tasks.",
+  "buyer": "A biotech R&D lead or small lab founder who wants every scientist on the team using AI without each one learning prompt engineering from scratch.",
+  "business_use_cases": [
+    "A small biotech lab gives every bench scientist an AI assistant pre-loaded with literature-search and pathway-analysis skills, replacing work that would otherwise need a dedicated bioinformatician.",
+    "A contract research organization speeds up client due-diligence literature reviews using the built-in scientific database skills.",
+    "A university lab licenses a curated subset of skills to grad students for reproducible, standardized research workflows."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell enterprise support and a vetted, SLA-backed skill pack to biotech and pharma R&D teams.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Run paid workshops teaching scientists how to set it up and use it well.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Pick one narrow vertical (say, patent prior-art search for pharma) and build a focused 'AI research assistant' on top of a subset of these skills, then pitch it to a boutique CRO.",
+  "opportunity_rating": 4
+}

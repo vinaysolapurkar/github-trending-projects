@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-01",
+  "owner": "Gitlawb",
+  "name": "openclaude",
+  "full_name": "Gitlawb/openclaude",
+  "url": "https://github.com/Gitlawb/openclaude",
+  "description": "runs anywhere. uses anything",
+  "language": "TypeScript",
+  "stars_total": 30996,
+  "stars_today": 37,
+  "generated_at": "2026-09-01T12:47:40.000Z",
+  "one_liner": "A universal remote-control terminal for AI coding assistants — one tool that talks to almost any AI model provider instead of locking you into one.",
+  "buyer": "An engineering lead who wants their team using AI coding tools without being locked into a single vendor's pricing or outages.",
+  "business_use_cases": [
+    "A dev shop standardizes every engineer on one CLI, then swaps the underlying model (OpenAI, Gemini, local Ollama) based on cost or client requirements without retraining anyone.",
+    "A consultancy offers 'bring your own model' AI-assisted development to clients who don't want their code touching a specific vendor's cloud.",
+    "An open-source maintainer runs it against a free local model to avoid per-token API costs while still getting agentic coding help."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a managed, pre-configured version with enterprise SSO and audit logs to companies that want multi-provider AI coding without the setup work.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer paid onboarding/consulting to help engineering teams migrate their AI workflows onto it.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Package it with one well-documented local-model config (e.g. Ollama + a strong open model) and sell it as a 'zero API cost AI coding starter kit' to bootcamp grads.",
+  "opportunity_rating": 2
+}

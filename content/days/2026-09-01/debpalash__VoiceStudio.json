@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-01",
+  "owner": "debpalash",
+  "name": "VoiceStudio",
+  "full_name": "debpalash/VoiceStudio",
+  "url": "https://github.com/debpalash/VoiceStudio",
+  "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+  "language": "Python",
+  "stars_total": 13095,
+  "stars_today": 509,
+  "generated_at": "2026-09-01T12:47:40.000Z",
+  "one_liner": "A free, install-it-yourself alternative to ElevenLabs that clones voices, dubs videos into other languages, and turns text into narration — with no monthly subscription.",
+  "buyer": "An indie course creator or audiobook publisher who is currently paying ElevenLabs or a voice actor every month and wants that cost to disappear.",
+  "business_use_cases": [
+    "A course creator dubs their English video course into Spanish, Hindi, and Portuguese overnight to sell into new markets, without paying per-word to a dubbing studio.",
+    "A self-published author turns their ebook into an audiobook using a cloned narrator voice instead of hiring a voice actor for $200+/finished hour.",
+    "A law firm or clinic runs dictation locally on-premise so sensitive audio never touches a third-party cloud API."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a hosted, managed version for people who want the ElevenLabs-quality output without self-hosting, billed by usage.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Sell 'done for you' dubbing as a service to course creators: they send a video, you return it dubbed in 5 languages.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Offer course creators a flat-fee 'dub your course into 5 languages this weekend' service — the tool is free, so your only cost is your own time.",
+  "opportunity_rating": 4
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-01",
+  "owner": "firecrawl",
+  "name": "pdf-inspector",
+  "full_name": "firecrawl/pdf-inspector",
+  "url": "https://github.com/firecrawl/pdf-inspector",
+  "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+  "language": "Rust",
+  "stars_total": 17689,
+  "stars_today": 545,
+  "generated_at": "2026-09-01T12:47:40.000Z",
+  "one_liner": "A fast behind-the-scenes tool that looks at a PDF and instantly tells you whether it's a real digital document or just a scanned image — so you don't waste money running expensive OCR on documents that don't need it.",
+  "buyer": "An engineer building a document-processing or AI chatbot product who needs to cut their OCR bill by not OCR-ing PDFs that are already text.",
+  "business_use_cases": [
+    "A legal-tech startup routes scanned contracts to expensive OCR while sending text-native PDFs straight to fast extraction, cutting processing costs significantly.",
+    "A fintech company building loan-document ingestion uses it to pre-classify thousands of incoming PDFs before deciding how much OCR budget to spend.",
+    "An AI 'chat with your documents' product uses it as the first step in its ingestion pipeline to keep costs down at scale."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Wrap it in a hosted API and charge per document processed for teams who don't want to run Rust infrastructure themselves.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Offer integration consulting for enterprises building document pipelines who want it wired into their existing stack.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Stand up a simple hosted API this weekend — 'upload a PDF, get back scanned-or-not plus clean markdown' — and charge per call; it's pure infrastructure with obvious enterprise demand.",
+  "opportunity_rating": 4
+}

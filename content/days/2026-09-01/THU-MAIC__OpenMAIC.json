@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-01",
+  "owner": "THU-MAIC",
+  "name": "OpenMAIC",
+  "full_name": "THU-MAIC/OpenMAIC",
+  "url": "https://github.com/THU-MAIC/OpenMAIC",
+  "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+  "language": "TypeScript",
+  "stars_total": 28848,
+  "stars_today": 3122,
+  "generated_at": "2026-09-01T12:47:40.000Z",
+  "one_liner": "A one-click virtual classroom where multiple AI 'teachers and classmates' interact with a student together, instead of just one chatbot answering questions.",
+  "buyer": "An online tutoring or corporate-training company that wants to sell a more immersive, classroom-like AI learning product instead of a plain chatbot.",
+  "business_use_cases": [
+    "An after-school tutoring startup offers 'AI classroom' sessions where a student debates with AI classmates and gets corrected by an AI teacher, sold as a premium tier.",
+    "A corporate L&D team runs onboarding simulations where new hires interact with multiple AI 'colleagues' in realistic scenarios.",
+    "A language-learning app adds a group-classroom mode with AI peers so solo learners get conversational practice on demand."
+  ],
+  "money_ideas": [
+    {
+      "idea": "License the platform to tutoring centers and corporate training teams as white-label classroom software.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell direct-to-consumer subscriptions for an 'AI classroom' study companion app built on top of it.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Pick one exam (SAT, a professional certification) and ship a narrow 'AI study group' product using this as the engine — much easier to sell than a generic classroom.",
+  "opportunity_rating": 4
+}
