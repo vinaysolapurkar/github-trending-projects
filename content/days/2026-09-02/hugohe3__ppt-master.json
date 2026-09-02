@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-02",
+  "owner": "hugohe3",
+  "name": "ppt-master",
+  "full_name": "hugohe3/ppt-master",
+  "url": "https://github.com/hugohe3/ppt-master",
+  "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+  "language": "Python",
+  "stars_total": 51382,
+  "stars_today": 349,
+  "one_liner": "Turns a document or a topic you type in into a finished, good-looking PowerPoint presentation — real slide layouts, charts, transitions, and even narrated audio — instead of a plain AI-generated outline.",
+  "buyer": "A management consultant, sales rep, or in-house marketing manager who spends hours every week building client-facing decks and wants a first draft done in minutes.",
+  "business_use_cases": [
+    "A boutique consulting firm generates first-draft client decks from research notes, then only needs to polish rather than build from scratch.",
+    "A sales team turns a product one-pager into a tailored pitch deck for each prospect in minutes.",
+    "A corporate L&D team converts training documents into narrated slide decks for asynchronous onboarding."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Launch a 'docs-to-deck' SaaS with a monthly quota of AI-generated presentations, competing directly with tools like Gamma/Beautiful.ai.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer a done-for-you deck service for consultants/agencies who want polished output without touching the tool themselves.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Stand up a simple landing page this weekend — 'send us your notes, get a polished deck back in an hour' — using this as the engine, and sell it to consultants and job-seekers who need pitch/portfolio decks fast.",
+  "opportunity_rating": 5,
+  "generated_at": "2026-09-02T12:27:39.527Z"
+}

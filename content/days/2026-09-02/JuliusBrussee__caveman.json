@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-02",
+  "owner": "JuliusBrussee",
+  "name": "caveman",
+  "full_name": "JuliusBrussee/caveman",
+  "url": "https://github.com/JuliusBrussee/caveman",
+  "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+  "language": "Go",
+  "stars_total": 102380,
+  "stars_today": 234,
+  "one_liner": "A add-on for AI coding assistants that makes them 'talk' in short, blunt instructions internally to save money — cutting token usage without changing what code actually gets written.",
+  "buyer": "A developer or team with a large monthly AI API bill who wants to cut costs without changing which model they use.",
+  "business_use_cases": [
+    "A startup with heavy Claude Code usage installs it to reduce monthly API spend by roughly a third per the project's own benchmark.",
+    "An AI-tooling educator uses it as a talking point in cost-optimization content.",
+    "A dev-tools reviewer benchmarks it against competitors like ponytail for a comparison post that drives traffic."
+  ],
+  "money_ideas": [
+    {
+      "idea": "No real monetization for an outside operator — it's a free skill; value is the token savings it gives its own users.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Write and publish a head-to-head cost/quality benchmark of caveman vs. ponytail vs. no skill on a real repo — that kind of content earns affiliate/consulting leads even though the tool itself isn't monetizable.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-02T12:27:39.527Z"
+}

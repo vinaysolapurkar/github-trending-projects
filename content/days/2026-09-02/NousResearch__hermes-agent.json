@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-02",
+  "owner": "NousResearch",
+  "name": "hermes-agent",
+  "full_name": "NousResearch/hermes-agent",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "description": "The agent that grows with you",
+  "language": "Python",
+  "stars_total": 239785,
+  "stars_today": 529,
+  "one_liner": "A personal AI assistant that lives on your phone chat apps (Telegram, WhatsApp, etc.), remembers things about you over time, learns new tricks on its own, and can run scheduled tasks like a cheap personal employee.",
+  "buyer": "A solo founder or small-business owner who wants an always-on personal assistant handling reminders, research, and reports across the apps they already use, without paying for a human VA.",
+  "business_use_cases": [
+    "A solo consultant runs it on a $5 VPS as a research and scheduling assistant reachable from Telegram while traveling.",
+    "A small agency deploys a branded instance for a client as a 'company AI' that answers questions and runs nightly reports.",
+    "A course creator uses its scheduled automations to auto-generate and post a daily content summary."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer 'managed Hermes' hosting + setup for non-technical solo founders who want the assistant without touching a VPS.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Build and sell a niche skill pack (e.g. real-estate lead follow-up) on top of its open skill standard.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Deploy it on a cheap VPS this weekend, connect it to your own Telegram, and pitch the finished 'set up your AI assistant in a day' package to three local business owners.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-02T12:27:39.527Z"
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-02",
+  "owner": "protocolbuffers",
+  "name": "protobuf",
+  "full_name": "protocolbuffers/protobuf",
+  "url": "https://github.com/protocolbuffers/protobuf",
+  "description": "Protocol Buffers - Google's data interchange format",
+  "language": "C++",
+  "stars_total": 71880,
+  "stars_today": 16,
+  "one_liner": "Google's standard format for two different pieces of software to exchange structured data quickly and reliably — the invisible wiring behind countless APIs and microservices.",
+  "buyer": "Not a purchasable product — every serious backend engineering team already uses it or something like it for free.",
+  "business_use_cases": [
+    "A microservices company uses it as the contract format between internal services for speed and type-safety.",
+    "A mobile app team uses it to keep API payloads small on slow connections.",
+    "A gaming company uses it for fast client-server state sync."
+  ],
+  "money_ideas": [
+    {
+      "idea": "No direct monetization for an outside operator — it's foundational plumbing, not a product.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "No weekend product here; at most, offer API-migration consulting to teams moving from JSON/REST to protobuf/gRPC for performance reasons.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-02T12:27:39.527Z"
+}

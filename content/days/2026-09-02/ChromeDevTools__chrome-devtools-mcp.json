@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-02",
+  "owner": "ChromeDevTools",
+  "name": "chrome-devtools-mcp",
+  "full_name": "ChromeDevTools/chrome-devtools-mcp",
+  "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "description": "Chrome DevTools for coding agents",
+  "language": "TypeScript",
+  "stars_total": 50507,
+  "stars_today": 140,
+  "one_liner": "Lets an AI coding assistant open a real Chrome browser, click around, and read performance/network data — like giving the AI its own pair of hands and eyes on the web.",
+  "buyer": "Not a product a business buys — it's a free developer tool that AI coding-agent builders wire into their own products.",
+  "business_use_cases": [
+    "An AI coding-agent startup uses it under the hood to let their agent test and debug the web apps it writes.",
+    "A QA automation team uses it to have an agent flag performance regressions on every deploy.",
+    "A freelance web developer uses it locally to have Claude Code diagnose slow pages for clients."
+  ],
+  "money_ideas": [
+    {
+      "idea": "No monetization path for an outside operator; value accrues to whoever builds the end-user agent product on top of it.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Wire it into Claude Code and offer a paid 'website performance audit in an hour' service to small business clients using the trace output as the deliverable.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-02T12:27:39.527Z"
+}

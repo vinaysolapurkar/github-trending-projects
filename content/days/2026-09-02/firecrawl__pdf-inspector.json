@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-02",
+  "owner": "firecrawl",
+  "name": "pdf-inspector",
+  "full_name": "firecrawl/pdf-inspector",
+  "url": "https://github.com/firecrawl/pdf-inspector",
+  "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+  "language": "Rust",
+  "stars_total": 18265,
+  "stars_today": 589,
+  "one_liner": "A fast tool that looks at a PDF and instantly tells you whether it's a real digital document or just a scanned image — so you know whether to extract the text directly or run it through OCR first.",
+  "buyer": "A document-processing SaaS or back-office operations team (invoices, mortgages, legal filings) that needs to route thousands of incoming PDFs to the right processing pipeline without wasting compute on unnecessary OCR.",
+  "business_use_cases": [
+    "An invoice-automation company uses it to instantly route scanned invoices to OCR and digital invoices to direct text extraction, cutting processing cost.",
+    "A mortgage or legal-tech company classifies incoming document batches before running expensive AI extraction only where needed.",
+    "A due-diligence data room tool pre-screens uploaded PDFs to flag which ones need manual review because OCR quality will be poor."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a hosted 'smart document router' API that plugs into existing document pipelines and bills per document classified.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Wrap it in a simple API this weekend that takes a PDF and returns 'scanned' or 'text' plus a routing recommendation, and pitch it to a document-heavy back-office team as a cost-saving preprocessing step.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-02T12:27:39.527Z"
+}

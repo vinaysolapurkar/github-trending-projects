@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-02",
+  "owner": "zyronon",
+  "name": "TypeWords",
+  "full_name": "zyronon/TypeWords",
+  "url": "https://github.com/zyronon/TypeWords",
+  "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
+  "language": "Vue",
+  "stars_total": 9199,
+  "stars_today": 68,
+  "one_liner": "A typing-practice app that teaches English vocabulary by having you type each word letter by letter, with a big library of word lists (exams, TV subtitles, books) to practice from.",
+  "buyer": "A Chinese student or working professional preparing for an English exam (like the college entrance exam or CET) who wants free, low-friction daily vocabulary drilling.",
+  "business_use_cases": [
+    "A language-learning content creator embeds it as a free lead magnet linking to their paid tutoring service.",
+    "A cram school in China deploys a branded, self-hosted version for students to drill assigned word lists.",
+    "An ESL app developer forks its word-list format as a starting dataset for a niche vocabulary product."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a premium tier with progress tracking, spaced repetition, and custom word-list uploads for schools.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Fork it, add one killer word list (e.g. IELTS academic vocabulary) with spaced repetition, and sell it as a $5 one-time app to a niche exam-prep community this weekend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-02T12:27:39.527Z"
+}

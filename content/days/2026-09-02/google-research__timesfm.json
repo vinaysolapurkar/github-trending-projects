@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-02",
+  "owner": "google-research",
+  "name": "timesfm",
+  "full_name": "google-research/timesfm",
+  "url": "https://github.com/google-research/timesfm",
+  "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+  "language": "Python",
+  "stars_total": 28959,
+  "stars_today": 326,
+  "one_liner": "A ready-made AI model that looks at historical numbers (sales, demand, traffic) and predicts what happens next — no need to train your own forecasting model from scratch.",
+  "buyer": "An e-commerce operations manager or FP&A analyst at a mid-size retailer who currently forecasts demand in a spreadsheet and needs better accuracy without hiring a data science team.",
+  "business_use_cases": [
+    "A DTC brand forecasts SKU-level demand for the next 30 days to avoid overordering inventory before a big sale.",
+    "A subscription box company predicts churn-driven revenue dips a quarter ahead to plan cash flow.",
+    "A logistics company forecasts daily parcel volume per warehouse to schedule the right number of temp workers."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a 'forecasting as a service' subscription: customer connects their sales data, gets a weekly demand/revenue forecast dashboard.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer one-off forecasting audits for retailers who want a second opinion on their inventory planning before peak season.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build a single-page tool this weekend: upload a CSV of daily sales, get a 30-day forecast chart back — a Loom demo of that closes the first few customers.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-02T12:27:39.527Z"
+}

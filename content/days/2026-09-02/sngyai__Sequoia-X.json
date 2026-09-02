@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-02",
+  "owner": "sngyai",
+  "name": "Sequoia-X",
+  "full_name": "sngyai/Sequoia-X",
+  "url": "https://github.com/sngyai/Sequoia-X",
+  "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+  "language": "Python",
+  "stars_total": 5904,
+  "stars_today": 195,
+  "one_liner": "An automated stock-screener for the Chinese A-share market that scans price charts every evening after the market closes and pings your phone (via a Chinese chat app) with picks matching classic trading patterns.",
+  "buyer": "An individual retail day-trader in mainland China who currently screens stocks manually and wants automated signals delivered after close without paying for an expensive terminal.",
+  "business_use_cases": [
+    "A retail trader runs it on a home server to get a nightly shortlist of breakout candidates before the next trading day.",
+    "A small trading-education channel uses its signals as free content to attract students to a paid course.",
+    "A part-time quant hobbyist forks the strategies as a base for their own backtesting experiments."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Package it as a hosted signal service with a monthly fee, handling the server/backfill/notification setup for non-technical traders.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Run the backfill once on a cheap VPS this weekend, wire it to your own Feishu/Telegram, and use the daily picks as free content to build a trading newsletter audience — but be upfront that trading-signal tools carry real regulatory and liability risk in most markets.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-02T12:27:39.527Z"
+}

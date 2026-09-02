@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-02",
+  "owner": "pacifio",
+  "name": "atlas",
+  "full_name": "pacifio/atlas",
+  "url": "https://github.com/pacifio/atlas",
+  "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+  "language": "Rust",
+  "stars_total": 2644,
+  "stars_today": 895,
+  "one_liner": "A dashboard for managing several AI coding agents at once, so a developer running multiple Claude/Codex sessions in parallel can see and query what each one changed in one place.",
+  "buyer": "A developer or small engineering team running several AI coding agents in parallel who currently loses track of what each agent touched across scattered terminal windows.",
+  "business_use_cases": [
+    "A solo indie developer runs 3-4 parallel agents on different features and uses it to review diffs before merging.",
+    "A dev tooling startup could white-label it as the 'mission control' layer for their own multi-agent product.",
+    "An engineering team standardizes on it to audit what AI agents changed across the codebase over a sprint."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A hosted team version with shared dashboards and audit logs for engineering managers overseeing multiple agent users.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "It's a dev tool for developers, not really a weekend consumer product — the honest move is contributing/extending it if you already run multi-agent workflows, not building a business on top.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-02T12:27:39.527Z"
+}

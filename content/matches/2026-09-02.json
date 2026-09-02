@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-02",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing in today's scrape is a video-editing tool; we'll notify when it trends." },
+    { "problem_id": "p002", "repo": null, "why": "Nothing in today's scrape addresses product photography; we'll notify when it trends." },
+    { "problem_id": "p003", "repo": "affaan-m/ECC", "why": "It's built specifically to give coding agents like Claude Code and Codex persistent memory and learned 'instincts' so they stop forgetting project context between sessions.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "DietrichGebert/ponytail", "why": "It's a Claude Code skill purpose-built to stop the agent from over-building, with a published benchmark showing real code-size and cost reductions on real feature work.", "confidence": "high" },
+    { "problem_id": "p005", "repo": "firecrawl/pdf-inspector", "why": "It classifies and extracts text from PDFs quickly, a solid building block for a personal research library — but it's a library for developers, not an out-of-the-box organizer.", "confidence": "low" },
+    { "problem_id": "p006", "repo": null, "why": "Nothing today turns a text description into finished explainer visuals without existing footage; we'll notify when it trends." },
+    { "problem_id": "p007", "repo": null, "why": "Nothing in today's scrape addresses bioinformatics or lab science work; we'll notify when it trends." },
+    { "problem_id": "p008", "repo": "superlinked/sie", "why": "It lets a firm self-host the AI models behind search and chat entirely on its own infrastructure, so client documents never leave the building — though it's inference plumbing, not a finished chat app.", "confidence": "medium" },
+    { "problem_id": "p009", "repo": "hugohe3/ppt-master", "why": "It turns written documents into narrated presentations with audio from speaker notes — a close cousin of 'blog post to narrated video' rather than an exact match, since the output is slides, not video.", "confidence": "medium" },
+    { "problem_id": "p010", "repo": null, "why": "Nothing today or recently is a self-hosted notes app; we'll notify when it trends." },
+    { "problem_id": "p011", "repo": null, "why": "Nothing in today's scrape maps or explains an existing codebase's architecture; we'll notify when it trends." },
+    { "problem_id": "p012", "repo": "NousResearch/hermes-agent", "why": "It's a complete, well-documented personal AI agent an aspiring founder can deploy and extend today as a first real product — though it's a mature framework to build on top of, not a from-scratch learning exercise.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "No inventory-management tool for restaurants showed up in today's scrape; we'll notify when it trends." }
+  ]
+}

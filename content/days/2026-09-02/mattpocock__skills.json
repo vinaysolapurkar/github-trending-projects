@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-02",
+  "owner": "mattpocock",
+  "name": "skills",
+  "full_name": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "language": "Shell",
+  "stars_total": 244616,
+  "stars_today": 1103,
+  "one_liner": "A curated collection of ready-to-use instruction files ('skills') that make AI coding assistants better at specific everyday engineering tasks, shared publicly by a well-known TypeScript educator.",
+  "buyer": "A developer who already follows this educator's paid courses and wants the same practical guidance baked directly into their AI coding assistant.",
+  "business_use_cases": [
+    "A solo developer installs the skills to get more consistent AI coding output on TypeScript projects.",
+    "An engineering team adopts the collection as a baseline, then builds internal skills on top of it.",
+    "The author uses the free repo as a funnel into paid courses and workshops (their existing business model)."
+  ],
+  "money_ideas": [
+    {
+      "idea": "The author's own model — free skills as a funnel into paid TypeScript courses and workshops — is the proven playbook here.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "If you have niche expertise (e.g. Django, iOS, DevOps), publish your own curated skills repo this weekend as a lead magnet into a paid course or newsletter, exactly like this author does.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-02T12:27:39.527Z"
+}

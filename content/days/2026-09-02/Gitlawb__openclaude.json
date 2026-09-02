@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-02",
+  "owner": "Gitlawb",
+  "name": "openclaude",
+  "full_name": "Gitlawb/openclaude",
+  "url": "https://github.com/Gitlawb/openclaude",
+  "description": "runs anywhere. uses anything",
+  "language": "TypeScript",
+  "stars_total": 31755,
+  "stars_today": 776,
+  "one_liner": "An early-stage, minimally-described AI agent runtime that claims to 'run anywhere and use anything' — too little public detail yet to know what problem it actually solves for a non-technical user.",
+  "buyer": "Unclear from the available description — likely other developers building agent infrastructure, not an end business buyer.",
+  "business_use_cases": [
+    "A developer experimenting with agent runtimes tries it as an alternative to existing frameworks.",
+    "An infra team evaluates it for flexibility if it truly supports many backends/models.",
+    "A dev-tools reviewer covers it as one of many new agent runtimes."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Too early to monetize — no clear differentiator or business model visible from the repo description yet.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Not enough here yet to steal — worth a second look once the project has real docs and a clearer use case; today it's honestly just a vague, low-signal listing.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-02T12:27:39.527Z"
+}

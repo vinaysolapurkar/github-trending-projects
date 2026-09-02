@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-02",
+  "owner": "Imbad0202",
+  "name": "academic-research-skills",
+  "full_name": "Imbad0202/academic-research-skills",
+  "url": "https://github.com/Imbad0202/academic-research-skills",
+  "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+  "language": "Python",
+  "stars_total": 45355,
+  "stars_today": 801,
+  "one_liner": "A set of instructions that teaches an AI assistant to act like a research collaborator — helping search, write, review, and polish an academic paper step by step instead of just spitting out one draft.",
+  "buyer": "A graduate student or early-career researcher under deadline pressure who wants an AI co-author for literature review and drafting without paying for an editing service.",
+  "business_use_cases": [
+    "A PhD student uses it to speed up the literature-review-to-draft pipeline for a conference submission.",
+    "An academic editing service uses it internally to give junior editors a consistent first-pass review checklist.",
+    "A research-heavy startup (market research, policy) adapts the workflow for internal report writing."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Package a 'AI research assistant' onboarding service for grad students — set up the skill, teach the workflow, charge per semester.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer a flat-fee 'get your literature review AI-assisted in one sitting' session to grad students in your network this weekend, using this skill as the engine.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-02T12:27:39.527Z"
+}

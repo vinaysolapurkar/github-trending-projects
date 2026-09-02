@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-02",
+  "owner": "superlinked",
+  "name": "sie",
+  "full_name": "superlinked/sie",
+  "url": "https://github.com/superlinked/sie",
+  "description": "Open-source inference server and production cluster for all the models your agent needs.",
+  "language": "Python",
+  "stars_total": 2960,
+  "stars_today": 61,
+  "one_liner": "A self-hosted control room that runs dozens of different AI models (for search, reading PDFs, checking for unsafe content, etc.) from one place instead of juggling separate servers for each.",
+  "buyer": "An engineering team building an AI product who wants to run open-source models on their own infrastructure for cost or privacy reasons instead of paying per-call to OpenAI/Anthropic APIs.",
+  "business_use_cases": [
+    "A healthtech company self-hosts it to keep patient documents on their own servers while still using AI extraction models.",
+    "A vertical SaaS company cuts inference costs by running open embedding/rerank models here instead of paying a hosted API per call.",
+    "An MLOps consultancy standardizes client deployments on this stack instead of assembling a custom model-serving pipeline each time."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer managed/hosted deployment and tuning of the cluster for companies that want the cost savings without the ops burden.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Deploy it on one GPU box, benchmark cost-per-1000-embeddings versus a hosted API, and pitch that number as a cost-savings audit to a company you know is burning API spend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-02T12:27:39.527Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-02-001",
+  "date": "2026-09-02",
+  "repo_a": "google-research/timesfm",
+  "repo_b": "hugohe3/ppt-master",
+  "title": "AutoForecast Deck",
+  "pitch": "Pipe a company's historical sales or revenue data through TimesFM to generate a rolling demand/revenue forecast, then hand that forecast straight to ppt-master to auto-assemble a polished, chart-heavy PowerPoint deck every week — no analyst and no designer required. The buyer is a boutique FP&A consultant or an e-commerce ops manager who currently spends a day each week pulling numbers into a spreadsheet and then another day making the deck presentable for leadership; this collapses both steps into an automated pipeline that emails out a client-ready deck on a schedule. Sell it as a small subscription: connect a data source, get a forecast deck in your inbox every Monday.",
+  "why_now": "Both projects landed production-ready capability today: TimesFM 3.0 shipped native multivariate forecasting with covariates (no per-task tuning needed), and ppt-master already generates real native slides with data-backed charts rather than plain text outlines. The missing link — turning a forecast into something a human wants to look at — is now a matter of wiring two off-the-shelf tools together rather than building either the model or the slide renderer from scratch."
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-02",
+  "owner": "DietrichGebert",
+  "name": "ponytail",
+  "full_name": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+  "language": "JavaScript",
+  "stars_total": 120673,
+  "stars_today": 1364,
+  "one_liner": "A add-on for AI coding assistants that nags them to write less code — fewer lines, fewer new files, no gold-plating — which keeps the resulting software cheaper to run and maintain.",
+  "buyer": "An engineering manager at a startup paying per-token for AI coding tools who wants to cut both the AI bill and the code-review burden from bloated AI-generated pull requests.",
+  "business_use_cases": [
+    "A startup CTO installs it org-wide to cut Claude Code token spend by ~20% based on the project's own published benchmark.",
+    "A coding bootcamp uses it to teach students to recognize when an AI is over-engineering a simple feature.",
+    "An agency doing fixed-price AI-assisted development uses it to protect margins by shrinking AI output."
+  ],
+  "money_ideas": [
+    {
+      "idea": "The project's own roadmap (a paid 'Ponytail Pro' waitlist) suggests the natural next step: paid team dashboards showing LOC/cost saved per repo.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Not much to build on top of a free skill — the fastest move is publishing your own before/after benchmark on a codebase your audience cares about, to build authority and consulting leads.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-02T12:27:39.527Z"
+}

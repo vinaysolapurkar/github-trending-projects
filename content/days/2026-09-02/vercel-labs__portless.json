@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-02",
+  "owner": "vercel-labs",
+  "name": "portless",
+  "full_name": "vercel-labs/portless",
+  "url": "https://github.com/vercel-labs/portless",
+  "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
+  "language": "TypeScript",
+  "stars_total": 11504,
+  "stars_today": 69,
+  "one_liner": "Gives your local development servers friendly web addresses (like myapp.local) instead of confusing port numbers, so both humans and AI coding agents can find the right running app.",
+  "buyer": "Not a product end businesses buy — it's a free convenience tool for individual developers running multiple local projects at once.",
+  "business_use_cases": [
+    "A developer running 5+ local projects uses it to stop mixing up which port belongs to which app.",
+    "A dev-tools company (like Vercel) uses adoption of tools like this to build goodwill and drive traffic to their paid platform.",
+    "An AI coding agent uses the stable URLs to reliably test the app it's working on across sessions."
+  ],
+  "money_ideas": [
+    {
+      "idea": "No direct monetization path — this is a marketing/goodwill tool for Vercel, not a standalone business.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Nothing to build here as a business; if anything, use it yourself to speed up your own dev workflow.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-02T12:27:39.527Z"
+}
