@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-03",
+  "owner": "DietrichGebert",
+  "name": "ponytail",
+  "full_name": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+  "language": "JavaScript",
+  "stars_total": 122756,
+  "stars_today": 2138,
+  "one_liner": "A coding-agent add-on that stops AI from writing bloated, over-engineered code — it pushes the AI toward the smallest, simplest fix instead of showing off.",
+  "buyer": "An engineering lead at a startup who's watched AI coding assistants balloon a small bug fix into a 500-line refactor and wants the bill and the codebase both kept small.",
+  "business_use_cases": [
+    "A startup CTO installs it org-wide so every engineer's AI agent defaults to minimal, reviewable diffs instead of sprawling rewrites.",
+    "A dev-tools consultant sells it as part of an 'AI coding cost audit' for companies whose AI token bills have crept up.",
+    "An open-source maintainer requires contributors' AI agents to use it before submitting PRs, to keep the codebase lean."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid benchmarking service: measure a company's AI-generated code bloat before/after adopting it, sold as a report plus rollout.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build a hosted dashboard that tracks code-size and cost savings across a team's repos over time, sold as a subscription.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build a simple before/after 'lines of code and token cost saved' report generator this weekend and pitch it free to a few dev teams as a lead magnet for consulting.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-03T12:26:15.466Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-03",
+  "owner": "obra",
+  "name": "superpowers",
+  "full_name": "obra/superpowers",
+  "url": "https://github.com/obra/superpowers",
+  "description": "An agentic skills framework & software development methodology that works.",
+  "language": "Shell",
+  "stars_total": 281106,
+  "stars_today": 460,
+  "one_liner": "A complete 'how to build software with an AI coding agent, done right' methodology — a set of reusable skills plus a process that keeps the AI disciplined instead of freewheeling.",
+  "buyer": "An engineering leader rolling out AI coding agents across a team who wants a proven process, not just raw AI access, so quality and consistency don't fall apart at scale.",
+  "business_use_cases": [
+    "An engineering org adopts it as the standard methodology every team's AI agent follows across projects.",
+    "A dev-tools consultancy builds a paid 'AI engineering process rollout' offering around installing and training teams on it.",
+    "An open-source project requires contributors to follow this methodology when submitting AI-assisted PRs to keep quality high."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid consulting to roll this methodology out across an engineering org, including training and customization.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build premium extensions or industry-specific skill packs on top of the open framework and sell them.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, run one real client project end-to-end using this methodology, document the before/after quality difference, and use it as a case study to sell the rollout service.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-03T12:26:15.466Z"
+}

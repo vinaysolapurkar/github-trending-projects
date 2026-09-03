@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-03-001",
+  "date": "2026-09-03",
+  "repo_a": "debpalash/VoiceStudio",
+  "repo_b": "hugohe3/ppt-master",
+  "title": "The Global Deck Machine",
+  "pitch": "ppt-master already turns a topic or document into a finished slide deck with narrated audio from speaker notes — but that narration only ships in one voice, in one language. Pair it with VoiceStudio's local voice cloning and 646-language dubbing, and you get a pipeline that takes a single input document and outputs a fully narrated, multilingual presentation: the client's own sales rep 'reads' the deck in English, Spanish, and Mandarin, in a cloned voice that sounds like a real person, not a robot. The buyer is a sales enablement or L&D team at a company selling into multiple regions, who currently pays separate vendors for deck design, voiceover talent, and translation — this collapses all three into one weekend-buildable pipeline they can run themselves, on their own hardware, for the cost of compute instead of three invoices.",
+  "why_now": "ppt-master trended today showing real demand for AI-generated, presentation-ready decks with built-in narration, while VoiceStudio (also trending this week) proves there's a mature, fully local, no-subscription voice-cloning and dubbing stack ready to plug into exactly this kind of workflow — the missing piece was multilingual narration, and it just showed up."
+}

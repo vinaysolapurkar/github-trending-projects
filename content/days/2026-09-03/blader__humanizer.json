@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-03",
+  "owner": "blader",
+  "name": "humanizer",
+  "full_name": "blader/humanizer",
+  "url": "https://github.com/blader/humanizer",
+  "description": "Agent skill that removes signs of AI-generated writing from text",
+  "language": "Python",
+  "stars_total": 41032,
+  "stars_today": 1214,
+  "one_liner": "An AI-writing add-on that rewrites text so it reads less like it came from ChatGPT — smoothing out the telltale patterns AI detectors and readers both notice.",
+  "buyer": "A content marketer or SEO agency worried that obviously AI-sounding copy hurts reader trust or search rankings, who wants their AI-drafted content to read more naturally.",
+  "business_use_cases": [
+    "A content agency runs all AI-drafted blog posts through it before publishing to sound more natural to readers.",
+    "A solo newsletter writer uses it to polish AI-assisted drafts into their own voice.",
+    "A marketing team uses it to make AI-generated ad copy sound less robotic in A/B tests."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Wrap it as a hosted 'humanize my draft' web tool with a monthly content quota for solo creators and small agencies.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Be honest that this sits in a gray area: legitimate use is making stiff AI copy read naturally, but the same tool can be used to evade academic-integrity or AI-disclosure checks — build the honest version (marketing copy polish) and skip any 'beat the detector for schoolwork' framing.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-03T12:26:15.466Z"
+}

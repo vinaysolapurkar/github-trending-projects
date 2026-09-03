@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-03",
+  "owner": "Gitlawb",
+  "name": "openclaude",
+  "full_name": "Gitlawb/openclaude",
+  "url": "https://github.com/Gitlawb/openclaude",
+  "description": "runs anywhere. uses anything",
+  "language": "TypeScript",
+  "stars_total": 32198,
+  "stars_today": 453,
+  "one_liner": "A single terminal app for talking to AI coding assistants that works with almost any AI model or provider, so you're not locked into one company's tool.",
+  "buyer": "A developer or small dev team that wants the flexibility to switch between different AI providers (for cost or capability reasons) without relearning a new tool each time.",
+  "business_use_cases": [
+    "A cost-conscious dev team switches between cheaper and premium AI models per-task using the same interface.",
+    "A dev-tools reviewer or educator uses it to demo and compare multiple AI coding agents side by side.",
+    "An agency serving clients with different AI-provider preferences standardizes on one tool that supports all of them."
+  ],
+  "money_ideas": [
+    {
+      "idea": "No obvious direct monetization for an outside operator — it's an open interface layer; value would come from paid support or hosted team-management features layered on top.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, build a simple cost-comparison dashboard on top of it that shows a team which AI provider is cheapest for which task type.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-03T12:26:15.466Z"
+}

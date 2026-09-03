@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-03",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing in today's scrape is a video-editing tool for social media; we'll notify when it trends." },
+    { "problem_id": "p002", "repo": null, "why": "Nothing in today's scrape addresses product photography; we'll notify when it trends." },
+    { "problem_id": "p003", "repo": "affaan-m/ECC", "why": "It's built specifically to give coding agents persistent memory and learned 'instincts' so they stop forgetting project context between sessions.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "DietrichGebert/ponytail", "why": "It's a Claude Code skill purpose-built to stop the agent from over-building, pushing it toward the smallest working fix instead of a sprawling rewrite.", "confidence": "high" },
+    { "problem_id": "p005", "repo": null, "why": "Today's academic-research skill covers writing and revising papers, not organizing an existing pile of PDFs; nothing today fits this problem well." },
+    { "problem_id": "p006", "repo": null, "why": "Nothing today turns a news topic into finished explainer visuals without existing footage; we'll notify when it trends." },
+    { "problem_id": "p007", "repo": null, "why": "Nothing in today's scrape addresses bioinformatics or lab science work; we'll notify when it trends." },
+    { "problem_id": "p008", "repo": "magnitudedev/magnitude", "why": "It runs AI models entirely on your own hardware and plugs them into the coding/chat agent you already use, so a law firm's client data never leaves the building — though it's inference plumbing, not a finished chat app.", "confidence": "medium" },
+    { "problem_id": "p009", "repo": "debpalash/VoiceStudio", "why": "It clones voices and dubs video/audio locally, so a blogger could narrate written posts in their own voice — though it handles the narration, not turning text into finished video scenes.", "confidence": "medium" },
+    { "problem_id": "p010", "repo": null, "why": "Nothing today or recently is a self-hosted notes app; we'll notify when it trends." },
+    { "problem_id": "p011", "repo": null, "why": "Nothing in today's scrape maps or explains an existing codebase's architecture; we'll notify when it trends." },
+    { "problem_id": "p012", "repo": "NousResearch/hermes-agent", "why": "It's a complete, well-documented personal AI agent an aspiring founder can deploy and extend today as a first real product — though it's a mature framework to build on top of, not a from-scratch learning exercise.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "No inventory-management tool for restaurants showed up in today's scrape; we'll notify when it trends." }
+  ]
+}

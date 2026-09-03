@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-03",
+  "owner": "ByteByteGoHq",
+  "name": "system-design-101",
+  "full_name": "ByteByteGoHq/system-design-101",
+  "url": "https://github.com/ByteByteGoHq/system-design-101",
+  "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+  "language": null,
+  "stars_total": 88095,
+  "stars_today": 158,
+  "one_liner": "A visual guide that explains how big software systems (like the ones behind Netflix or Uber) actually work, using simple diagrams instead of dense technical jargon.",
+  "buyer": "A bootcamp or online-course platform that teaches software engineering interview prep and wants proven, well-loved visual content to build lessons around.",
+  "business_use_cases": [
+    "A coding bootcamp licenses or adapts the visual explanations into its system-design interview-prep curriculum.",
+    "A YouTuber or content creator turns individual diagrams into short-form video explainers with ad or sponsorship revenue.",
+    "A corporate L&D team uses it as a foundation for internal 'system design fundamentals' training for junior engineers."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build a paid, interactive 'practice system design interviews' web app that expands on these diagrams with quizzes and mock interviews.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Turn the best diagrams into a short paid video course for interview prep, sold as a one-time purchase.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, pick five of the clearest diagrams, turn them into a short paid PDF study guide, and sell it to a coding-interview-prep community.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-03T12:26:15.466Z"
+}

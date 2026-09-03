@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-03",
+  "owner": "averygan",
+  "name": "reclip",
+  "full_name": "averygan/reclip",
+  "url": "https://github.com/averygan/reclip",
+  "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+  "language": "HTML",
+  "stars_total": 8163,
+  "stars_today": 673,
+  "one_liner": "A self-hosted app with a clean web page where you paste a video link from almost any site and download it as a video or audio file — no ads, no third-party service.",
+  "buyer": "A journalist, researcher, or content archivist who needs to reliably save source video/audio before it disappears, and doesn't trust free ad-laden download sites with their links.",
+  "business_use_cases": [
+    "A journalist archives source social-media clips for a story before they can be deleted or taken down.",
+    "A podcast producer pulls audio from guest appearances on other shows for personal reference clips (with rights permission).",
+    "A social-media manager downloads a brand's own posted content across platforms to keep a local backup library."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer it as a managed, hosted instance for teams that don't want to self-host, billed monthly.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Be upfront that downloading other people's video/audio content without a license can violate platform terms and copyright law — the honest weekend build is a hosted version for archiving your own or explicitly licensed content, not a general bypass tool.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-03T12:26:15.466Z"
+}

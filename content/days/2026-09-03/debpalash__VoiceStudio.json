@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-03",
+  "owner": "debpalash",
+  "name": "VoiceStudio",
+  "full_name": "debpalash/VoiceStudio",
+  "url": "https://github.com/debpalash/VoiceStudio",
+  "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+  "language": "Python",
+  "stars_total": 15665,
+  "stars_today": 832,
+  "one_liner": "A do-it-yourself, run-on-your-own-computer alternative to paid voice AI services — clone a voice, dub a video into another language, transcribe speech, or generate an audiobook, all without a subscription or account.",
+  "buyer": "An indie podcaster, audiobook narrator, or small localization studio currently paying monthly fees to ElevenLabs-style services who wants the same capability without recurring costs or usage limits.",
+  "business_use_cases": [
+    "An indie audiobook producer generates narration and dubs it into multiple languages without per-minute cloud fees.",
+    "A small dubbing studio offers cheaper multilingual video localization by running it on owned hardware instead of paying per-API-call.",
+    "A podcaster clones their own voice to auto-generate ad reads and intros without re-recording every episode."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a done-for-you dubbing/localization service for indie creators, using this as the backend, priced per video.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Host it as a managed SaaS for creators who want the capability without running their own hardware, billed monthly with usage tiers.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, set it up and offer three YouTubers a free video dub into Spanish as a portfolio piece, then sell the localization service going forward.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-03T12:26:15.466Z"
+}

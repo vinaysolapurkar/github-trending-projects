@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-03",
+  "owner": "f",
+  "name": "prompts.chat",
+  "full_name": "f/prompts.chat",
+  "url": "https://github.com/f/prompts.chat",
+  "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+  "language": "HTML",
+  "stars_total": 168711,
+  "stars_today": 198,
+  "one_liner": "A community-built library of ready-made prompts for AI chatbots, so you can copy a well-tested instruction instead of writing one from scratch — and companies can run their own private version.",
+  "buyer": "A company that wants an internal, private library of vetted prompts for its team to reuse, without sending that library through a public third-party site.",
+  "business_use_cases": [
+    "A marketing agency self-hosts it as an internal prompt library so account managers reuse proven prompts instead of reinventing them.",
+    "A training company packages curated prompt sets from it as part of a paid 'AI literacy for teams' course.",
+    "A SaaS company builds a niche prompt marketplace on top of the same idea for a specific profession (e.g. real estate agents)."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Curate and sell a premium, industry-specific prompt pack (e.g. 'prompts for real estate agents') as a one-time digital product.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a hosted, private-labeled version for companies that want their own internal prompt library, billed per seat.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, curate 30 prompts for one specific profession, package them as a paid PDF or Notion doc, and sell it directly to that audience.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-03T12:26:15.466Z"
+}

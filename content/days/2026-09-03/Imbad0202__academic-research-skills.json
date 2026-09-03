@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-03",
+  "owner": "Imbad0202",
+  "name": "academic-research-skills",
+  "full_name": "Imbad0202/academic-research-skills",
+  "url": "https://github.com/Imbad0202/academic-research-skills",
+  "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+  "language": "Python",
+  "stars_total": 45843,
+  "stars_today": 498,
+  "one_liner": "A step-by-step AI toolkit that walks a researcher through an entire academic paper: researching the topic, writing the draft, reviewing it, revising it, and finalizing it for submission.",
+  "buyer": "A PhD student or early-career researcher juggling multiple papers who wants to speed up the mechanical parts of writing (structure, citations, revision passes) without sacrificing rigor.",
+  "business_use_cases": [
+    "A PhD student uses it to move from literature review to a submission-ready draft faster across multiple papers.",
+    "A university writing center offers it as a supported tool in workshops for graduate students learning academic writing.",
+    "A research consultancy uses it to help non-native-English-speaking academics produce publication-ready manuscripts."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'AI-assisted paper coaching' service for grad students, using this toolkit plus human review as the deliverable.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "License a customized version to university writing centers as part of their student support subscription.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, offer three PhD students a free trial run on a real paper draft, collect feedback, then turn it into a paid coaching package.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-03T12:26:15.466Z"
+}

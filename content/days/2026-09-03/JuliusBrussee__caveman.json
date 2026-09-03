@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-03",
+  "owner": "JuliusBrussee",
+  "name": "caveman",
+  "full_name": "JuliusBrussee/caveman",
+  "url": "https://github.com/JuliusBrussee/caveman",
+  "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+  "language": "Go",
+  "stars_total": 102888,
+  "stars_today": 545,
+  "one_liner": "A Claude Code add-on that makes the AI 'talk' in short, blunt phrases instead of polished sentences internally, cutting how many tokens (and dollars) each coding session costs.",
+  "buyer": "A startup founder or agency running Claude Code heavily across a team, watching the monthly API bill climb, who wants the same output for meaningfully less spend.",
+  "business_use_cases": [
+    "An agency running Claude Code across dozens of client projects installs it to cut its aggregate token spend.",
+    "A solo indie hacker using Claude Code daily adopts it to stretch a fixed monthly API budget further.",
+    "A dev-tools consultant offers a 'cut your AI coding bill' audit that includes installing and tuning it."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'AI coding cost reduction' audit for agencies and startups, using this and similar token-saving skills as the toolkit.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Track one team's actual token spend before and after installing it for a week, then turn that real number into a cold-outreach pitch for cost-audit consulting.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-03T12:26:15.466Z"
+}

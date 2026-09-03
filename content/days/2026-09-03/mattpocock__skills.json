@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-03",
+  "owner": "mattpocock",
+  "name": "skills",
+  "full_name": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "language": "Shell",
+  "stars_total": 246161,
+  "stars_today": 1576,
+  "one_liner": "A ready-made playbook of instructions that teaches AI coding assistants how to write, test, and ship real production code the way an experienced engineer would.",
+  "buyer": "A dev-tools educator or bootcamp who already sells TypeScript/testing training and wants a packaged 'AI-agent add-on' to sell alongside their existing course.",
+  "business_use_cases": [
+    "A coding bootcamp bundles the skill pack with its TypeScript course so students' AI agents write code the same way the curriculum teaches.",
+    "A freelance dev-tools consultant installs it for clients as part of a paid 'set up your team's AI coding agent properly' engagement.",
+    "An engineering manager adopts it internally to keep every developer's AI assistant producing consistent, review-ready code."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'agent onboarding' service: install and customize this and similar skill packs for a company's specific stack and conventions.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Bundle it as a premium add-on inside an existing paid newsletter/course on professional TypeScript engineering.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Package a one-hour 'audit your team's AI agent setup' consulting session this weekend, using this repo as the reference standard you compare clients against.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-03T12:26:15.466Z"
+}

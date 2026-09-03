@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-03",
+  "owner": "NousResearch",
+  "name": "hermes-agent",
+  "full_name": "NousResearch/hermes-agent",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "description": "The agent that grows with you",
+  "language": "Python",
+  "stars_total": 240515,
+  "stars_today": 778,
+  "one_liner": "A personal AI assistant you can run yourself, with both a desktop app and a chat-style interface, that can be extended with new abilities over time.",
+  "buyer": "A small business owner or solo professional who wants a private, customizable AI assistant without depending on a big-tech chatbot subscription.",
+  "business_use_cases": [
+    "A boutique consultancy deploys it as a branded internal assistant for research and drafting, without sending data to a third-party chatbot.",
+    "An indie developer builds and sells a niche vertical assistant (e.g. for real-estate agents) on top of its extensible agent framework.",
+    "A privacy-focused startup offers it as the backbone of a 'your data never leaves your servers' AI product."
+  ],
+  "money_ideas": [
+    {
+      "idea": "White-label it into a industry-specific assistant (legal intake, real estate, insurance) and sell as a hosted subscription.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer paid setup and customization services for businesses that want it self-hosted but can't configure it themselves.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, fork it into a single-purpose branded assistant for one niche (e.g. 'AI assistant for wedding photographers') and demo it to five potential customers.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-03T12:26:15.466Z"
+}

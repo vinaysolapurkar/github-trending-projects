@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-03",
+  "owner": "affaan-m",
+  "name": "ECC",
+  "full_name": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+  "language": "JavaScript",
+  "stars_total": 246713,
+  "stars_today": 749,
+  "one_liner": "A memory and habit-forming layer for AI coding agents so they remember what they've learned about a project and stop repeating the same mistakes every session.",
+  "buyer": "A startup CTO running a team of engineers who all use different AI coding agents and is tired of each one 're-learning' the codebase from scratch every session.",
+  "business_use_cases": [
+    "An engineering team standardizes on it so every developer's coding agent shares the same learned project conventions and security rules.",
+    "A dev-tools consultancy installs and tunes it as a paid 'AI agent memory setup' service for client engineering teams.",
+    "A solo founder building with AI agents daily uses it to avoid re-explaining project architecture in every new session."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid setup, tuning, and 'instinct curation' services for engineering teams adopting it across their codebase.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build a hosted team-sync layer on top so a whole org shares one evolving memory, sold as a per-seat subscription.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, set it up on one real client codebase, measure how much repeated context it saves over a week, and use that as a case study to sell the setup service.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-03T12:26:15.466Z"
+}

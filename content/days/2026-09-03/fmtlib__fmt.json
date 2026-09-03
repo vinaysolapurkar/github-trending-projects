@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-03",
+  "owner": "fmtlib",
+  "name": "fmt",
+  "full_name": "fmtlib/fmt",
+  "url": "https://github.com/fmtlib/fmt",
+  "description": "A modern formatting library",
+  "language": "C++",
+  "stars_total": 24725,
+  "stars_today": 955,
+  "one_liner": "A super-fast, safe way for software to turn numbers and data into readable text — the plumbing behind countless apps' log messages and output, invisible to end users.",
+  "buyer": "Not really a buyer situation — this is infrastructure that C++ engineering teams adopt for free to make their own software faster and safer, not something anyone pays for directly.",
+  "business_use_cases": [
+    "A game studio uses it to format debug logs and in-game text fast enough not to hurt frame rate.",
+    "A trading firm's C++ engine uses it for low-latency logging where iostream would be too slow.",
+    "An embedded-systems team uses it to keep compiled code size small on constrained hardware."
+  ],
+  "money_ideas": [
+    {
+      "idea": "No direct monetization path for an outside operator — the value only shows up inside someone else's product.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "There isn't a weekend product here; if anything, offer paid C++ performance-audit consulting to teams still using slow iostream/printf and show them the before/after numbers.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-03T12:26:15.466Z"
+}

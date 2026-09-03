@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-03",
+  "owner": "bannedbook",
+  "name": "fanqiang",
+  "full_name": "bannedbook/fanqiang",
+  "url": "https://github.com/bannedbook/fanqiang",
+  "description": "翻墙-科学上网",
+  "language": "Kotlin",
+  "stars_total": 51895,
+  "stars_today": 539,
+  "one_liner": "A library of free tools, apps, and guides that help people in countries with heavy internet censorship (most notably China) get around the block and reach the open internet.",
+  "buyer": "Not a commercial buyer situation — this is volunteer-run circumvention software aimed at ordinary citizens under censorship, not a paying customer segment.",
+  "business_use_cases": [
+    "A press-freedom or human-rights nonprofit references it when advising journalists and activists on safe internet access.",
+    "An individual living under internet censorship uses the guides to reach international news and communication tools.",
+    "A digital-rights researcher studies it as a case study of grassroots censorship-circumvention tooling."
+  ],
+  "money_ideas": [
+    {
+      "idea": "No legitimate outside-operator monetization path — building a paid product around censorship circumvention raises real legal and ethical risk depending on jurisdiction, and this project itself is donation/volunteer-run for good reason.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "There's no honest weekend business here — this is humanitarian infrastructure, not a monetizable opportunity, and treating it as one would be the wrong call.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-03T12:26:15.466Z"
+}

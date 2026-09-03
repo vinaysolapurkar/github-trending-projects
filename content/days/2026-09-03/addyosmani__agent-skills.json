@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-03",
+  "owner": "addyosmani",
+  "name": "agent-skills",
+  "full_name": "addyosmani/agent-skills",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "description": "Production-grade engineering skills for AI coding agents.",
+  "language": "JavaScript",
+  "stars_total": 91851,
+  "stars_today": 280,
+  "one_liner": "A library of 'best practice' instruction packs that teach AI coding agents to follow a professional software team's actual workflow — planning, building, testing, and reviewing — instead of just guessing.",
+  "buyer": "An engineering manager who has adopted AI coding agents across the team but is seeing inconsistent quality, and wants every agent to follow the same senior-engineer-approved process.",
+  "business_use_cases": [
+    "An engineering org standardizes every developer's AI agent on this workflow to reduce review churn and bugs.",
+    "A consultancy sells a 'professionalize your team's AI coding workflow' engagement built around installing and tailoring it.",
+    "A solo developer selling SaaS products adopts it to keep their AI-assisted codebase maintainable as it grows."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid workshops teaching engineering teams how to adopt structured agent-skill workflows like this one.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build a companion dashboard that tracks whether a team's agents are actually following the DEFINE-PLAN-BUILD-VERIFY-REVIEW-SHIP steps, sold as a subscription.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Run a half-day workshop this weekend teaching a small dev team to adopt this skill set, record it, and sell the recording as an on-demand course.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-03T12:26:15.466Z"
+}
