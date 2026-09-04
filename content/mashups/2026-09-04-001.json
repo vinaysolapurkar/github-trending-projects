@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-04-001",
+  "date": "2026-09-04",
+  "repo_a": "debpalash/VoiceStudio",
+  "repo_b": "blader/humanizer",
+  "title": "The Global Blog Narrator",
+  "pitch": "Chain Humanizer and VoiceStudio into one pipeline: feed in an AI-drafted blog post, let Humanizer strip out the robotic tells so it reads like a real person wrote it, then hand the cleaned script to VoiceStudio to clone the author's own voice and narrate (and dub) it into dozens of languages — fully offline, with no ElevenLabs bill and no AI-detector red flags. A course creator or blogger who currently pays for both a ghostwriter-polish pass and a paid TTS/dubbing subscription gets both in one local run, and can sell the finished multilingual audio/video as a premium add-on to their audience.",
+  "why_now": "Both tools trended today for the same underlying reason — creators are drowning in AI output that sounds like AI and costs money to convert into other formats. Combining a free 'sound human' step with a free 'sound like you, in any language' step turns two dev-tool skills into a genuine content-production business a non-coder could run."
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-04",
+  "owner": "anthropics",
+  "name": "skills",
+  "full_name": "anthropics/skills",
+  "url": "https://github.com/anthropics/skills",
+  "description": "Public repository for Agent Skills",
+  "language": "Python",
+  "stars_total": 173911,
+  "stars_today": 281,
+  "one_liner": "Anthropic's own official library of example add-ons that teach Claude how to do specialized tasks like making documents or following a brand style guide.",
+  "buyer": "Not really a commercial product on its own — it's a reference/demo repository for developers building on Claude, not something with a paying customer.",
+  "business_use_cases": [
+    "A software vendor studies these examples to build and sell their own custom skill for a vertical (e.g. legal contract review) inside Claude.",
+    "An enterprise IT team uses the patterns here as a template for writing internal, company-specific skills for their staff's Claude access.",
+    "A consultant uses the document-creation skills shown here as a starting point for a client's automated reporting pipeline."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Use these patterns as a foundation to build and sell a niche, paid Claude skill (e.g. industry-specific compliance checklists) on a marketplace.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, pick one under-served niche (e.g. real-estate listing descriptions) and build a paid custom skill using this repo's template as the starting structure.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-04T12:26:27.669Z"
+}

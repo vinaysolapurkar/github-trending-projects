@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-04",
+  "owner": "cathrynlavery",
+  "name": "diagram-design",
+  "full_name": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+  "language": "HTML",
+  "stars_total": 30533,
+  "stars_today": 426,
+  "one_liner": "A set of 38 professionally-styled diagram templates that AI coding assistants can use to draw clean charts and diagrams instead of messy default ones.",
+  "buyer": "A technical writer, startup founder, or content marketer who needs polished diagrams for docs, pitch decks, or blog posts but has no design skill and doesn't want generic-looking auto-generated charts.",
+  "business_use_cases": [
+    "A startup founder uses it to generate clean architecture and process diagrams for investor decks without hiring a designer.",
+    "A technical writer uses it to standardize all diagrams across product documentation so they look consistent and professional.",
+    "A content agency offers 'AI-diagram-illustrated' blog posts to clients as a value-add service using this as the visual engine."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid diagram-generation service: clients describe a process, you generate polished diagrams with this toolkit and deliver them.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build a simple hosted web app around it so non-technical users can generate diagrams without running Claude Code themselves, billed per diagram or monthly.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, build a 'describe your process, get a polished diagram' web tool on top of this template set and sell single diagrams for a few dollars each.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-04T12:26:27.669Z"
+}

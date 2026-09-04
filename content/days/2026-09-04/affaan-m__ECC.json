@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-04",
+  "owner": "affaan-m",
+  "name": "ECC",
+  "full_name": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+  "language": "JavaScript",
+  "stars_total": 247802,
+  "stars_today": 751,
+  "one_liner": "An add-on toolkit that makes AI coding assistants remember more, work more safely, and perform better across long projects.",
+  "buyer": "An engineering team lead running Claude Code or similar agents on a private codebase who's hit problems with the AI losing context, making unsafe changes, or forgetting past decisions.",
+  "business_use_cases": [
+    "A mid-size dev team installs the 'agentshield' security layer to stop their AI coding agent from running risky commands unsupervised.",
+    "A consultancy uses the memory/instincts system so an AI agent retains client-specific conventions across many separate engagements.",
+    "An engineering org pays for the private-repo tier so their proprietary code can safely use these AI-agent enhancements."
+  ],
+  "money_ideas": [
+    {
+      "idea": "The project itself already sells private-repo access starting at $19/seat/month — a reseller or implementation partner could offer paid setup and training on top.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer a paid security review service that audits a company's AI-agent setup and configures this toolkit's safety guards for them.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, offer a fixed-price 'AI agent safety audit' package for small dev shops: install this toolkit, configure the guardrails, and hand over a short report.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-04T12:26:27.669Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-04",
+  "owner": "NousResearch",
+  "name": "hermes-agent",
+  "full_name": "NousResearch/hermes-agent",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "description": "The agent that grows with you",
+  "language": "Python",
+  "stars_total": 241214,
+  "stars_today": 774,
+  "one_liner": "A personal AI assistant that lives on your phone or a cheap server, remembers things about you over time, learns new skills on its own, and can text you back from Telegram, Discord, WhatsApp, or Slack.",
+  "buyer": "A solo consultant or small-business owner who wants an always-on personal assistant handling reminders, research, and routine automation without hiring a human VA or paying per-seat SaaS fees.",
+  "business_use_cases": [
+    "A solopreneur sets up scheduled automations (daily reports, weekly audits) that run unattended and message results straight to their phone.",
+    "A small agency deploys it as a shared team assistant reachable from whichever chat app each client already uses.",
+    "A power user runs it on a cheap VPS as a private, self-hosted alternative to paying for multiple separate SaaS AI-assistant subscriptions."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a done-for-you setup service that configures Hermes Agent with a client's specific automations and integrations.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Run a hosted version with a management dashboard for non-technical users, charging monthly.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, set it up on a $5 VPS with two or three automations (daily inbox summary, weekly competitor check) and sell it as a personal-assistant-as-a-service to solo consultants.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-04T12:26:27.669Z"
+}

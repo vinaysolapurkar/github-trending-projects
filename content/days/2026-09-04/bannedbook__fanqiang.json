@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-04",
+  "owner": "bannedbook",
+  "name": "fanqiang",
+  "full_name": "bannedbook/fanqiang",
+  "url": "https://github.com/bannedbook/fanqiang",
+  "description": "翻墙-科学上网",
+  "language": "Kotlin",
+  "stars_total": 52610,
+  "stars_today": 522,
+  "one_liner": "A tool that helps people in countries with heavy internet censorship reach the open internet.",
+  "buyer": "An expat, journalist, or NGO worker operating in a censored country who needs reliable, low-profile access to blocked services like news sites, email, or messaging apps.",
+  "business_use_cases": [
+    "A press-freedom NGO bundles it into a 'digital safety kit' distributed to journalists working under censorship.",
+    "An expat community maintains and shares configured builds so members can reach home-country services and international news.",
+    "A VPN or circumvention-tool vendor studies its techniques to keep their own commercial product working as blocking methods evolve."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid, supported/hosted version with customer support for non-technical users, since the open-source project itself offers none.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Not a great weekend business — the honest opportunity is donating engineering time to NGOs distributing tools like this, not building a commercial product on top of it.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-04T12:26:27.669Z"
+}

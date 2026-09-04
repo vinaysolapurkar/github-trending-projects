@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-04",
+  "owner": "JuliusBrussee",
+  "name": "caveman",
+  "full_name": "JuliusBrussee/caveman",
+  "url": "https://github.com/JuliusBrussee/caveman",
+  "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+  "language": "Go",
+  "stars_total": 103362,
+  "stars_today": 543,
+  "one_liner": "A setting for AI coding assistants that makes them talk and think in short, blunt phrases instead of long explanations, cutting how many words (and how much money) each request uses.",
+  "buyer": "A startup CTO watching their AI coding tool bill climb who wants an easy way to cut token usage without giving up code quality.",
+  "business_use_cases": [
+    "An engineering team installs it to lower monthly AI-assistant API costs across dozens of developers.",
+    "A cost-conscious solo developer uses it to stretch a limited AI API budget further on side projects.",
+    "A consultancy that bills AI usage to clients uses it to shrink client invoices and stay competitive on price."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'cut your AI coding bill' audit that installs this and similar token-saving skills for a company's dev team.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, build a short case-study post showing a real before/after token-cost comparison using this tool, and use it as a lead magnet for AI-cost-optimization consulting.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-04T12:26:27.669Z"
+}

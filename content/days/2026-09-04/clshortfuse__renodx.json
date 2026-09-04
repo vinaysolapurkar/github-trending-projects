@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-04",
+  "owner": "clshortfuse",
+  "name": "renodx",
+  "full_name": "clshortfuse/renodx",
+  "url": "https://github.com/clshortfuse/renodx",
+  "description": "Renovation Engine for DirectX Games",
+  "language": "HLSL",
+  "stars_total": 3410,
+  "stars_today": 759,
+  "one_liner": "A modding toolkit that upgrades old PC games' graphics — adding HDR, better lighting, and modern visual effects — without needing the original developers to update the game.",
+  "buyer": "A retro/classic PC gaming enthusiast or small modding studio who wants to sell or share visually-remastered versions of beloved older games.",
+  "business_use_cases": [
+    "A modding creator builds and sells premium HDR/ray-tracing visual packs for popular classic games via Patreon or Ko-fi.",
+    "A YouTuber builds a channel around 'this old game with modern graphics' videos, monetized through ads and sponsorships.",
+    "A game preservation group uses it to make older titles visually appealing to new players, growing interest in a legacy title."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid, ready-to-install visual remaster packs for specific popular older games, sold directly or via Patreon tiers.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Take commissions to build custom shader/visual mods for specific games requested by fan communities.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, pick one beloved older game, build a before/after HDR remaster demo video with this toolkit, and launch a Patreon for ongoing mod packs.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-04T12:26:27.669Z"
+}

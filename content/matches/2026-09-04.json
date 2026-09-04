@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-04",
+  "matches": [
+    { "problem_id": "p001", "repo": "OpenCut-app/OpenCut", "why": "A free, open-source browser/desktop video editor built to replace CapCut for exactly this kind of social-video editing workload.", "confidence": "high" },
+    { "problem_id": "p002", "repo": "freestylefly/awesome-gpt-image-2", "why": "A library of tested AI-image prompts for producing professional-looking product photos without hiring a photographer.", "confidence": "medium" },
+    { "problem_id": "p003", "repo": "affaan-m/ECC", "why": "Adds a persistent memory/instincts layer to coding agents like Claude Code and Codex so project context survives between sessions.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "DietrichGebert/ponytail", "why": "Built specifically to stop AI coding agents from over-engineering simple changes, cutting generated code by roughly half.", "confidence": "high" },
+    { "problem_id": "p005", "repo": null, "why": "Nothing recent handles bulk PDF/research organization; we'll notify when a tool like that trends." },
+    { "problem_id": "p006", "repo": null, "why": "No stock-footage or news-visualization tool has trended recently; nothing here genuinely fits." },
+    { "problem_id": "p007", "repo": null, "why": "No bioinformatics-specific tool trended today or recently." },
+    { "problem_id": "p008", "repo": "magnitudedev/magnitude", "why": "Runs AI models fully on your own hardware and plugs into existing coding agents, so no client data ever leaves the firm's machines.", "confidence": "high" },
+    { "problem_id": "p009", "repo": "debpalash/VoiceStudio", "why": "A local voice-cloning and dubbing tool built to turn written or recorded content into narrated audio across hundreds of languages.", "confidence": "high" },
+    { "problem_id": "p010", "repo": null, "why": "No self-hosted personal notes app trended recently; nothing here is a genuine fit." },
+    { "problem_id": "p011", "repo": "cathrynlavery/diagram-design", "why": "Can generate architecture and flow diagrams that make an unfamiliar codebase easier to visualize, though it doesn't analyze the code itself.", "confidence": "low" },
+    { "problem_id": "p012", "repo": "rohitg00/ai-engineering-from-scratch", "why": "A free, hands-on course that walks a beginner from fundamentals to actually shipping a real AI agent.", "confidence": "high" },
+    { "problem_id": "p013", "repo": null, "why": "No restaurant/inventory-management tool has trended recently." }
+  ]
+}

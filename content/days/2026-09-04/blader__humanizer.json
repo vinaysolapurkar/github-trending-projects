@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-04",
+  "owner": "blader",
+  "name": "humanizer",
+  "full_name": "blader/humanizer",
+  "url": "https://github.com/blader/humanizer",
+  "description": "Agent skill that removes signs of AI-generated writing from text",
+  "language": "Python",
+  "stars_total": 42141,
+  "stars_today": 1208,
+  "one_liner": "An AI add-on that rewrites AI-sounding text so it reads like a real person wrote it, without changing the facts.",
+  "buyer": "A content marketing agency producing large volumes of AI-drafted blog posts and social copy that currently reads as obviously robotic and needs to sound human before publishing.",
+  "business_use_cases": [
+    "A marketing agency runs every AI-drafted client blog post through it before publishing, so client-facing copy doesn't sound like a chatbot wrote it.",
+    "A student or professional uses it to clean up AI-assisted writing (emails, cover letters, reports) so it reads naturally rather than screaming 'AI-generated.'",
+    "A newsletter writer who drafts fast with AI uses it as a final polish step to match their personal voice using a sample of their past writing."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Wrap it in a simple paid web app or browser extension aimed at students and marketers who don't want to run it themselves.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer it as a bundled 'final polish' add-on inside an existing AI content/writing SaaS product.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "This weekend, build a one-page tool: paste AI text in, get humanized text out, charge a small per-use or monthly fee, and market it directly to college students and content marketers.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-04T12:26:27.669Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-04",
+  "owner": "magnitudedev",
+  "name": "magnitude",
+  "full_name": "magnitudedev/magnitude",
+  "url": "https://github.com/magnitudedev/magnitude",
+  "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+  "language": "TypeScript",
+  "stars_total": 2153,
+  "stars_today": 161,
+  "one_liner": "Software that runs AI models directly on your own computer instead of the cloud, and plugs that local AI into the coding assistant you already use — so it runs for free and stays private.",
+  "buyer": "A privacy-conscious engineering team or regulated-industry company (finance, healthcare, legal) that can't send code or data to an external AI API but still wants developers using AI coding agents.",
+  "business_use_cases": [
+    "A law firm or healthcare company runs AI coding/research agents entirely on internal hardware to satisfy data-privacy requirements.",
+    "A cash-strapped indie developer runs unlimited local AI coding assistance without paying per-token API fees.",
+    "An enterprise IT team standardizes on it to give engineers AI tooling without a compliance review for cloud data transfer."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid setup and hardware-sizing consulting for companies wanting to run local AI coding infrastructure compliantly.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell pre-configured on-prem appliances (hardware + this software installed) to regulated-industry clients.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, build a one-page 'run your AI coding agent fully offline' setup guide targeted at law firms and healthcare IT teams, and use it to generate consulting leads.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-04T12:26:27.669Z"
+}

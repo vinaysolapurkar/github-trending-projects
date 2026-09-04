@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-04",
+  "owner": "radixark",
+  "name": "miles",
+  "full_name": "radixark/miles",
+  "url": "https://github.com/radixark/miles",
+  "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+  "language": "Python",
+  "stars_total": 2466,
+  "stars_today": 55,
+  "one_liner": "A technical framework for large companies that lets them further train big AI models on their own data and feedback, rather than just using an off-the-shelf model.",
+  "buyer": "An AI infrastructure engineer at a mid-to-large company building a custom fine-tuned model who needs the reinforcement-learning training pipeline, not just a base model.",
+  "business_use_cases": [
+    "An enterprise AI team fine-tunes a customer-support model on their own historical tickets to outperform a generic model.",
+    "A robotics or vision company uses it to post-train a vision-language model on proprietary sensor data.",
+    "An AI startup uses it as the training backbone for a specialized model they plan to sell access to."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer specialized RL fine-tuning consulting for enterprises who have the data and use-case but not the ML infrastructure expertise.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Not a weekend project — this is deep infrastructure for teams already training models; the realistic opportunity is contract ML-engineering work, not a quick product.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-04T12:26:27.669Z"
+}

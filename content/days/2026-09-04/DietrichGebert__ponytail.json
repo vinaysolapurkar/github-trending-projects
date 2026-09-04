@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-04",
+  "owner": "DietrichGebert",
+  "name": "ponytail",
+  "full_name": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+  "language": "JavaScript",
+  "stars_total": 124405,
+  "stars_today": 2128,
+  "one_liner": "A plug-in for AI coding assistants that stops them from over-building simple features, so you get one clean line of code instead of a bloated new library.",
+  "buyer": "A CTO at a small SaaS company who's watched AI coding tools quietly balloon their codebase and cloud bill, and wants a guardrail that keeps AI-written code lean.",
+  "business_use_cases": [
+    "A startup CTO installs it org-wide to cut AI-generated code review time, since diffs are smaller and easier to approve.",
+    "An agency billing clients for AI-assisted development uses it to keep project scope (and invoices) from creeping due to AI over-engineering.",
+    "A solo indie hacker uses it to keep their side-project codebase small enough to maintain alone."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a 'AI code discipline' audit service: scan a company's AI-generated commits and report how much bloat this tool would have prevented.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "License a hosted dashboard version that tracks LOC/cost/time savings across a whole engineering org over time.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, build a simple before/after 'AI bloat report' generator that runs this tool against a client's recent AI-assisted PRs and sells the report as a lead magnet for consulting.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-04T12:26:27.669Z"
+}

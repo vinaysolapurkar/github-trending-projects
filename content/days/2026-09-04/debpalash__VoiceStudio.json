@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-04",
+  "owner": "debpalash",
+  "name": "VoiceStudio",
+  "full_name": "debpalash/VoiceStudio",
+  "url": "https://github.com/debpalash/VoiceStudio",
+  "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+  "language": "Python",
+  "stars_total": 17004,
+  "stars_today": 1672,
+  "one_liner": "A free, run-it-yourself alternative to ElevenLabs that clones voices, designs new ones, dubs videos into other languages, and turns speech into text — all without sending your voice data to a cloud company.",
+  "buyer": "An independent audiobook narrator or small dubbing studio that wants ElevenLabs-quality voice tools without the recurring subscription cost or sending client audio to a third party.",
+  "business_use_cases": [
+    "A podcast network uses it to auto-dub episodes into multiple languages without paying per-minute cloud TTS fees.",
+    "An audiobook publisher clones a narrator's voice once and generates unlimited chapters without re-booking studio time.",
+    "A course creator uses local dictation and voice cloning to produce narrated lessons entirely offline, cheaply."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a done-for-you dubbing/voice-cloning service for indie podcasters and course creators built on this tool, priced per project.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Run it as a hosted SaaS with a simple upload-and-generate interface for non-technical creators, billed by usage.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "This weekend, offer a 'dub your podcast into Spanish' service on Fiverr using this tool to clone the host's voice and generate the translated audio.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-04T12:26:27.669Z"
+}

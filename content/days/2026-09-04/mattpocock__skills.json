@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-04",
+  "owner": "mattpocock",
+  "name": "skills",
+  "full_name": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "language": "Shell",
+  "stars_total": 248867,
+  "stars_today": 1601,
+  "one_liner": "A free bundle of ready-made instruction files that make AI coding assistants like Claude Code work the way an experienced engineer would, instead of guessing.",
+  "buyer": "An engineering manager at a small dev shop who wants every developer's AI assistant to follow the same disciplined process (asking clarifying questions, writing docs, filing tickets) without writing that playbook themselves.",
+  "business_use_cases": [
+    "A freelance developer installs the skill pack so client work goes through a consistent 'grill the client on requirements' step before any code is written, cutting rework.",
+    "An engineering lead standardizes onboarding: every new hire's AI agent runs the same skills, so AI-assisted output looks consistent across the team.",
+    "A solo founder uses the shared-language ('CONTEXT.md') skill to keep their AI agent from re-learning project jargon every session, saving prompting time."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Run paid workshops or a course teaching teams how to adopt and customize this exact skill workflow for their own codebase.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a premium, actively-maintained fork with extra skills (e.g. industry-specific playbooks) behind a subscription.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, package one of these skills (like the 'grill-me' requirements-gathering flow) into a Notion or Gumroad template sold to freelancers who want to look more professional to clients.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-04T12:26:27.669Z"
+}
