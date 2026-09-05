@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-05",
+  "owner": "affaan-m",
+  "name": "ECC",
+  "full_name": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+  "language": "JavaScript",
+  "stars_total": 249057,
+  "stars_today": 1135,
+  "one_liner": "A plugin that makes AI coding assistants remember past work, follow safety rules, and work faster across several different AI coding tools.",
+  "buyer": "A CTO at a small software shop who already pays for Claude Code or Cursor seats and wants those tools to retain project context and enforce security checks without buying a separate enterprise platform.",
+  "business_use_cases": [
+    "A dev shop installs it across every engineer's AI coding tool so security guardrails and memory persist the same way regardless of which tool (Cursor, Codex, Claude Code) a given developer prefers.",
+    "A consultant charges clients a setup fee to configure ECC's memory and skill system on client codebases so the client's own in-house AI assistant performs better after the engagement ends.",
+    "An open-source maintainer uses it to keep an AI agent's understanding of a large codebase consistent across many short contributor sessions."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Charge for the GitHub App / private-repo tier for teams that want managed installs and support.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer paid onboarding to configure ECC's memory and security profile for a specific enterprise codebase.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, write a short paid guide comparing ECC to similar agent-harness tools and sell it to teams evaluating which one to standardize on.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-05T12:09:03.000Z"
+}

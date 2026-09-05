@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-05",
+  "owner": "ruvnet",
+  "name": "ruflo",
+  "full_name": "ruvnet/ruflo",
+  "url": "https://github.com/ruvnet/ruflo",
+  "description": "The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems with adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes integrations.",
+  "language": "TypeScript",
+  "stars_total": 70553,
+  "stars_today": 127,
+  "one_liner": "A free add-on that lets a coding AI assistant coordinate many specialized 'helper agents' working together on a task, and remember lessons learned across sessions.",
+  "buyer": "A technical founder running a small dev team who wants their AI coding assistant to handle bigger, multi-part tasks (like a full feature build) without babysitting every step.",
+  "business_use_cases": [
+    "A small dev agency uses it to run several specialized agents (one for tests, one for docs, one for refactoring) in parallel on a client project, shrinking delivery time.",
+    "A solo founder building an MVP uses the memory/learning features so the AI stops repeating the same mistakes across a multi-week build."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid setup and tuning of multi-agent swarms for specific client codebases, since the configuration surface is large (98 agents, 60+ commands).",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell a curated, opinionated preset ('swarm configs for SaaS startups') as a paid template pack.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This is powerful but has a steep learning curve for non-experts — the realistic weekend project is a short paid video course showing how to configure one useful swarm workflow end to end, not a new product.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-05T12:09:03.000Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-05",
+  "owner": "magnitudedev",
+  "name": "magnitude",
+  "full_name": "magnitudedev/magnitude",
+  "url": "https://github.com/magnitudedev/magnitude",
+  "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+  "language": "TypeScript",
+  "stars_total": 2826,
+  "stars_today": 391,
+  "one_liner": "A free tool that automatically sets up an AI model to run entirely on your own computer instead of the cloud, so your prompts and files never leave your machine and you stop paying per-use API fees.",
+  "buyer": "A lawyer, therapist, or independent developer handling sensitive client data who wants AI coding or writing help but is contractually or ethically barred from sending that data to a cloud API.",
+  "business_use_cases": [
+    "A law firm's in-house developer sets it up so paralegals can use an AI assistant on confidential case files without any data leaving the firm's laptops.",
+    "A freelance developer working on client NDA-covered code uses it to get AI coding help without violating a client's no-cloud-AI policy.",
+    "A budget-conscious indie developer uses it to eliminate ongoing API costs for a side project by running everything locally."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid 'private AI setup' service for regulated small businesses (law, healthcare, finance) who need offline AI but lack technical staff to configure it.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell a curated hardware+software bundle (a pre-configured mini-PC) for professionals who want a plug-and-play private AI box.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, package a done-for-you 'private AI workstation' setup service for solo lawyers and therapists — install Magnitude on their existing laptop, connect it to their preferred agent, charge a flat setup fee plus a small maintenance retainer.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-05T12:09:03.000Z"
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-05",
+  "owner": "humanlayer",
+  "name": "skills",
+  "full_name": "humanlayer/skills",
+  "url": "https://github.com/humanlayer/skills",
+  "description": "Claude Code skills from HumanLayer.",
+  "language": "TypeScript",
+  "stars_total": 2469,
+  "stars_today": 1141,
+  "one_liner": "A free grab-bag of small add-ons for Claude Code that do specific chores, like tightening up a project's instructions file or explaining a topic with a quick diagram.",
+  "buyer": "There's no clear paying buyer for the collection itself — it's a set of free niche developer conveniences, useful but not something most people would pay for on their own.",
+  "business_use_cases": [
+    "A dev team uses the 'improve-claude-md' skill occasionally to keep their project's AI instructions file from drifting into confusing bloat.",
+    "An engineer uses the 'design-control-loop' skill to bootstrap a scheduled automation (like a nightly report) instead of building the scaffolding from scratch."
+  ],
+  "money_ideas": [
+    {
+      "idea": "The company itself likely uses this as marketing for its core paid product (human-in-the-loop AI agent oversight); the skills themselves aren't the revenue driver.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Not much to build here directly — it's a lead-gen freebie for a company's paid platform, not a standalone opportunity for someone else to build on.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-05T12:09:03.000Z"
+}

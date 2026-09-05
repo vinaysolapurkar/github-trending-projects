@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-05",
+  "owner": "mattpocock",
+  "name": "skills",
+  "full_name": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "language": "Shell",
+  "stars_total": 251452,
+  "stars_today": 2758,
+  "one_liner": "A free set of instruction files that make an AI coding assistant ask better questions and follow a disciplined process, instead of just guessing at what you want.",
+  "buyer": "A tech lead at a small agency who wants every client project's AI-assisted work to follow the same requirements-gathering and documentation process, without writing that playbook from scratch.",
+  "business_use_cases": [
+    "A freelance developer installs the 'grill-me' skill so every new client engagement starts with a structured requirements interview, cutting back-and-forth revisions.",
+    "An agency owner standardizes onboarding so every contractor's AI agent behaves the same way, making outsourced work more consistent and easier to review.",
+    "A solo SaaS founder uses the shared-language skill to stop re-explaining project jargon to the agent every session, saving prompting time."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a paid workshop teaching teams how to adapt this exact skill workflow to their own codebase and onboarding process.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Maintain a premium fork with industry-specific skill packs (agency, fintech, healthcare) behind a subscription.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Package the 'grill-me' requirements-gathering skill as a $19 Gumroad template aimed at freelancers who want to look more professional on client calls.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-05T12:09:03.000Z"
+}

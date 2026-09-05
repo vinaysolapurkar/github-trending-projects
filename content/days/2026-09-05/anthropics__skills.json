@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-05",
+  "owner": "anthropics",
+  "name": "skills",
+  "full_name": "anthropics/skills",
+  "url": "https://github.com/anthropics/skills",
+  "description": "Public repository for Agent Skills",
+  "language": "Python",
+  "stars_total": 174360,
+  "stars_today": 511,
+  "one_liner": "Anthropic's official free collection of example 'skills' (instruction packs) that teach Claude how to do specific jobs, like creating Word documents or editing spreadsheets.",
+  "buyer": "A software consultant or agency that builds custom Claude-powered tools for clients and wants a reliable, official reference for how to structure a new skill correctly.",
+  "business_use_cases": [
+    "An agency studies the official document-creation skills (docx, pdf, pptx) as a template, then builds a client-branded version that auto-generates reports in the client's own format.",
+    "A trainer runs corporate workshops teaching non-technical teams how to write their own custom skills for internal workflows, using this repo as the syllabus."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build and sell a niche, well-polished skill (e.g. for a specific industry like legal contract review) modeled on these examples, distributed via a marketplace.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer paid 'skill audits' where you review a company's internal skills against Anthropic's official patterns for reliability.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Pick one under-served niche (e.g. real-estate listing descriptions) and ship a single polished skill this weekend, using the official template-skill folder as your starting point.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-05T12:09:03.000Z"
+}

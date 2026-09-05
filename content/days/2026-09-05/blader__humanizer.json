@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-05",
+  "owner": "blader",
+  "name": "humanizer",
+  "full_name": "blader/humanizer",
+  "url": "https://github.com/blader/humanizer",
+  "description": "Agent skill that removes signs of AI-generated writing from text",
+  "language": "Python",
+  "stars_total": 43106,
+  "stars_today": 1130,
+  "one_liner": "A free tool that rewrites AI-generated text so it reads like a real person wrote it, without changing the facts, by fixing 35 known 'tells' of AI writing (like overused words and fake-sounding lists).",
+  "buyer": "A content marketer, student, or freelance writer who uses AI to draft content but needs the final version to pass as human-written for a client, professor, or platform that penalizes obvious AI text.",
+  "business_use_cases": [
+    "A content agency runs every AI-drafted blog post through it before client delivery, since clients increasingly reject copy that 'sounds like ChatGPT.'",
+    "A student or professional uses it to clean up AI-assisted cover letters and essays so they read naturally in their own voice.",
+    "A social media manager humanizes AI-drafted captions and newsletters so brand voice stays consistent and doesn't feel robotic."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Wrap it as a simple paid web app (paste text, get humanized text back) charging per word or per month, targeting freelancers and students directly.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell it as a Chrome extension that humanizes text inline inside Google Docs or ChatGPT, priced as a one-time purchase or small monthly fee.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Ship a bare-bones 'paste your AI text, get it humanized' website this weekend with a free tier (500 words) and a $9/month unlimited tier — this is a well-understood, high-demand niche with clear willingness to pay.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-05T12:09:03.000Z"
+}

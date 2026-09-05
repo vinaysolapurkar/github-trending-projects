@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-05",
+  "owner": "NousResearch",
+  "name": "hermes-agent",
+  "full_name": "NousResearch/hermes-agent",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "description": "The agent that grows with you",
+  "language": "Python",
+  "stars_total": 241742,
+  "stars_today": 720,
+  "one_liner": "A personal AI assistant you can chat with from Telegram, Discord, or WhatsApp that remembers your conversations, learns new skills on its own, and can run scheduled tasks like a daily report.",
+  "buyer": "A solo consultant or small-business owner who wants a personal assistant that lives in the messaging apps they already use, without paying for a full-time virtual assistant or an enterprise AI platform.",
+  "business_use_cases": [
+    "A real estate agent runs it on a cheap VPS so it drafts listing descriptions and answers routine client questions over WhatsApp while they're showing houses.",
+    "A small e-commerce owner schedules it to send a daily sales and inventory summary to their Telegram every morning, replacing a manual spreadsheet check.",
+    "A niche newsletter writer uses its cross-session memory so it recalls past editions and sources without having to re-paste context every time."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a done-for-you setup service that deploys and configures Hermes Agent on a client's cloud VM with their preferred messaging platform.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell pre-built 'skill packs' (e.g. real-estate assistant, e-commerce assistant) built on top of it, licensed per business.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, deploy it on a $5 VPS pre-configured as a WhatsApp assistant for local service businesses (salons, plumbers) that answers FAQs and books appointments, then sell the setup as a productized service.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-05T12:09:03.000Z"
+}

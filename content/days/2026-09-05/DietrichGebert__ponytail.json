@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-05",
+  "owner": "DietrichGebert",
+  "name": "ponytail",
+  "full_name": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+  "language": "JavaScript",
+  "stars_total": 127143,
+  "stars_today": 1679,
+  "one_liner": "A free add-on that trains your AI coding assistant to write the smallest possible fix instead of over-engineering a solution, saving you code review time and hosting cost.",
+  "buyer": "An engineering manager paying per-token for a team's AI coding usage, who wants smaller diffs and lower cloud spend without policing every pull request personally.",
+  "business_use_cases": [
+    "A startup with a metered AI coding budget installs it to cut token spend and review time, since the agent stops adding unrequested libraries and abstractions.",
+    "A code-review-as-a-service business uses it internally so AI-drafted pull requests are small enough for a human reviewer to approve quickly.",
+    "A bootcamp teaches it to students as an example of prompting discipline, showing measurable before/after diffs."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Run a paid workshop series on 'minimal-diff AI coding' for engineering teams, using this skill as the demo.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build a hosted dashboard that tracks an org's AI-generated LOC/cost before and after adopting the skill, sold as a subscription add-on.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Take the published benchmark numbers (54% less code, 20% cheaper) and turn them into a one-page cost-savings calculator landing page that captures leads for a paid AI-coding-audit service.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-05T12:09:03.000Z"
+}

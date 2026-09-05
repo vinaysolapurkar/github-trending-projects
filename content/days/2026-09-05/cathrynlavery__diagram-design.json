@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-05",
+  "owner": "cathrynlavery",
+  "name": "diagram-design",
+  "full_name": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+  "language": "HTML",
+  "stars_total": 31360,
+  "stars_today": 437,
+  "one_liner": "A free tool that turns a written explanation into a clean, professional-looking diagram (like a flowchart or org chart) automatically, matching your brand's colors, instead of a generic-looking chart.",
+  "buyer": "A startup founder or content marketer who needs polished diagrams for pitch decks, blog posts, and investor updates but can't afford a designer or 30 minutes in Figma per image.",
+  "business_use_cases": [
+    "A B2B SaaS marketing team uses it to auto-generate on-brand architecture and workflow diagrams for blog posts and documentation, replacing outsourced design work.",
+    "A startup founder generates pitch-deck diagrams (funnel, roadmap, org chart) in their brand colors the night before an investor meeting instead of paying a freelance designer a rush fee.",
+    "A technical writer at a mid-size company standardizes all internal documentation diagrams so they look consistent without a shared design system."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'brand-matched diagram pack' service: read a client's website once, then generate a set of on-brand diagram templates for them.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build a hosted version with a simple UI (no coding-agent required) aimed at marketers, priced per month.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, build a simple web form where someone pastes their website URL and a rough diagram description, and get back a branded SVG diagram — charge $10 per diagram or $29/month unlimited.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-05T12:09:03.000Z"
+}

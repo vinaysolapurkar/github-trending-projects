@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-05",
+  "owner": "WorldFlowAI",
+  "name": "everything-claude-code",
+  "full_name": "WorldFlowAI/everything-claude-code",
+  "url": "https://github.com/WorldFlowAI/everything-claude-code",
+  "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+  "language": "JavaScript",
+  "stars_total": 2165,
+  "stars_today": 87,
+  "one_liner": "A free, all-in-one bundle of add-ons for Claude Code (specialized helper agents, shortcuts, and rules) built from one team's ten months of real product-building experience.",
+  "buyer": "A startup CTO who wants their team's Claude Code setup to follow best practices (testing, security review, documentation) immediately, without spending weeks building that configuration themselves.",
+  "business_use_cases": [
+    "A startup installs it as their default Claude Code configuration so every engineer gets the same testing, security-review, and documentation standards automatically.",
+    "A solo developer uses the 'token optimization' and 'memory persistence' guides to cut their own AI tool costs on long projects."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell paid consulting/setup services that adapt this toolkit to a specific company's stack and conventions.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Turn the linked 'guides' (token optimization, verification loops) into a paid course, using the free repo as the lead magnet.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Package the two linked guides into a concise paid PDF/video course ('Claude Code for Production Teams') and use the free plugin as the funnel that drives people to buy it.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-05T12:09:03.000Z"
+}

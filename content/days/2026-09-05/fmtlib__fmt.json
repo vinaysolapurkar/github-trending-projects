@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-05",
+  "owner": "fmtlib",
+  "name": "fmt",
+  "full_name": "fmtlib/fmt",
+  "url": "https://github.com/fmtlib/fmt",
+  "description": "A modern formatting library",
+  "language": "C++",
+  "stars_total": 25528,
+  "stars_today": 688,
+  "one_liner": "A free code library that lets C++ programmers turn numbers and data into readable text (like dates or formatted messages) faster and more safely than the built-in tools.",
+  "buyer": "There isn't really a direct buyer here. It's plumbing used inside other people's software, not something a business pays for on its own.",
+  "business_use_cases": [
+    "A game studio uses it internally to speed up logging and debug output in a performance-critical C++ engine, saving engineering time rather than generating revenue directly.",
+    "A trading firm's C++ systems use it for fast, precise number formatting in logs, valued for speed rather than as a product feature customers see."
+  ],
+  "money_ideas": [
+    {
+      "idea": "The realistic path is consulting: offer paid performance-optimization work to companies with C++ codebases, using fluency in libraries like this as your credibility, not the library itself.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Honestly, there's no weekend product here. This is foundational infrastructure a solo builder would use inside a project, not sell by itself.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-05T12:09:03.000Z"
+}

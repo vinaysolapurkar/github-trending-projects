@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-05",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing in today's scrape touches video editing." },
+    { "problem_id": "p002", "repo": null, "why": "Nothing in today's scrape touches product photography." },
+    { "problem_id": "p003", "repo": "NousResearch/hermes-agent", "why": "Its closed learning loop and cross-session memory are built specifically to stop an agent from forgetting context between sessions.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "DietrichGebert/ponytail", "why": "It's a skill purpose-built to stop an AI coding agent from over-engineering and bloating simple fixes.", "confidence": "high" },
+    { "problem_id": "p005", "repo": null, "why": "No repo today addresses organizing research PDFs." },
+    { "problem_id": "p006", "repo": "cathrynlavery/diagram-design", "why": "It generates polished explainer diagrams, but the problem specifically asks for video footage, which this doesn't produce.", "confidence": "low" },
+    { "problem_id": "p007", "repo": null, "why": "No bioinformatics-relevant tool trended today." },
+    { "problem_id": "p008", "repo": "magnitudedev/magnitude", "why": "It runs AI models entirely on local hardware, which is exactly what a law firm needs to get AI help without any client data leaving the building.", "confidence": "high" },
+    { "problem_id": "p009", "repo": null, "why": "No text-to-narrated-video tool trended today." },
+    { "problem_id": "p010", "repo": null, "why": "No self-hosted notes app trended today." },
+    { "problem_id": "p011", "repo": null, "why": "Nothing today specifically maps or explains an existing messy codebase; we'll notify when one trends." },
+    { "problem_id": "p012", "repo": "anthropics/skills", "why": "It's the official reference and template for building on Claude's platform, a reasonable first stop for someone unsure how to start an AI product, though it's a starting point rather than a finished path.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "No inventory-management tool trended today." }
+  ]
+}

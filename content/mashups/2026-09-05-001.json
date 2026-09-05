@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-05-001",
+  "date": "2026-09-05",
+  "repo_a": "blader/humanizer",
+  "repo_b": "magnitudedev/magnitude",
+  "title": "The Private Ghostwriter",
+  "pitch": "Combine Humanizer's AI-tell-removal skill with Magnitude's fully local model hosting to build an offline writing assistant for people who legally or ethically can't send their drafts to a cloud API: lawyers polishing client letters, journalists protecting sources, therapists writing case notes, or students who don't trust 'AI detector' privacy policies. The pitch: everything runs on the user's own laptop, so a paralegal can draft a demand letter with AI help and have it read naturally, with zero data ever leaving the machine and no subscription to an OpenAI-style API. Sell it as a one-time-purchase desktop app rather than a subscription, since the target buyer already distrusts recurring cloud services.",
+  "why_now": "AI-detection anxiety and data-privacy rules (client confidentiality, GDPR, HIPAA-adjacent concerns) are pushing professionals toward on-device AI at the same time 'sounds like AI' has become a real reputational risk in writing — this mashup lands right at that intersection."
+}
