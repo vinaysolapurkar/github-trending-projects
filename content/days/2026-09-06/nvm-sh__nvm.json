@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-06",
+  "owner": "nvm-sh",
+  "name": "nvm",
+  "full_name": "nvm-sh/nvm",
+  "url": "https://github.com/nvm-sh/nvm",
+  "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+  "language": "Shell",
+  "stars_total": 94987,
+  "stars_today": 151,
+  "one_liner": "A free, essential command-line tool that lets developers install and switch between different versions of Node.js on the same computer. Note: the scraped GitHub description above ends with what looks like a pump.fun crypto token address unrelated to the actual project — that text appears to be spam/vandalism on the repo listing, not a real feature, and we're not treating it as one.",
+  "buyer": "There's no real buyer here — nvm is free, foundational developer infrastructure that virtually every Node.js shop already uses; nobody pays for it and nobody could plausibly charge for it.",
+  "business_use_cases": [
+    "A web dev agency uses it internally so every project can pin its own required Node version without conflicts — purely internal tooling, not a product.",
+    "A bootcamp includes it in every student's setup instructions as the standard way to manage Node versions.",
+    "A CI/CD pipeline uses it (or its logic) to test a library against multiple Node versions before release."
+  ],
+  "money_ideas": [
+    {
+      "idea": "None realistic — this is unmonetizable community infrastructure, and the crypto-token text appended to its description is very likely an attempt to abuse the project's visibility, not a legitimate business signal.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Nothing to build from this repo — it's a dependency everyone already has, not a product opportunity. Ignore the crypto-token string in the description entirely; do not use it or link to it.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-06T12:15:00.000Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-06",
+  "owner": "magnitudedev",
+  "name": "magnitude",
+  "full_name": "magnitudedev/magnitude",
+  "url": "https://github.com/magnitudedev/magnitude",
+  "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+  "language": "TypeScript",
+  "stars_total": 3418,
+  "stars_today": 604,
+  "one_liner": "A free tool that figures out which AI models your own computer can run well, downloads and tunes them, and plugs them into your coding assistant so you get AI help with no subscription and no data leaving your machine.",
+  "buyer": "A law firm, healthcare startup, or any privacy-sensitive business that wants AI coding or writing assistance but is contractually or legally barred from sending data to a third-party cloud API.",
+  "business_use_cases": [
+    "A law firm's IT admin sets it up on partner laptops so associates get AI drafting help with zero risk of client data hitting an external API.",
+    "A hardware reseller bundles it as a pre-configured 'AI-ready developer laptop' selling point, since it auto-tunes for whatever chip is installed.",
+    "An indie developer avoids monthly AI subscription costs entirely by running it on a beefy home machine for all their coding work."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell pre-configured 'AI workstation' hardware bundles (laptop or mini-PC) with Magnitude and a recommended model already set up.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer paid enterprise support/compliance documentation for regulated industries (legal, healthcare) that need to prove no data left the premises.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build and sell a 'zero-cloud AI paralegal' starter kit this weekend: Magnitude plus a local model plus a couple of legal-drafting skills, marketed directly to small law firms worried about client confidentiality.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-06T12:15:00.000Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-06",
+  "owner": "NousResearch",
+  "name": "hermes-agent",
+  "full_name": "NousResearch/hermes-agent",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "description": "The agent that grows with you",
+  "language": "Python",
+  "stars_total": 242238,
+  "stars_today": 520,
+  "one_liner": "A personal AI assistant you can run on a cheap server that lives in apps like Telegram or Slack, remembers your past conversations, and teaches itself new tricks as it works with you.",
+  "buyer": "A solo consultant or small-business owner who wants a personal AI assistant reachable from their phone via chat apps, without paying per-seat SaaS pricing or being locked to one AI provider.",
+  "business_use_cases": [
+    "A freelance consultant runs it on a $5 VPS and talks to it over Telegram to triage client emails and schedule follow-ups while away from their laptop.",
+    "A small e-commerce owner sets up scheduled automations (daily sales report, nightly backup check) delivered straight to a Discord channel, replacing a part-time VA task.",
+    "An agency builds client-specific bots on top of it, each with its own memory and skills, and resells access as a lightweight AI-assistant product."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell managed hosting so non-technical buyers don't have to run their own VPS or set up integrations themselves.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer a 'done-for-you' setup service that configures the agent, its skills, and its chat-platform connections for a small business.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Spin up a hosted 'personal AI assistant in a weekend' offer: you configure Hermes on a cheap VM with Telegram + calendar + email skills for a flat setup fee, then charge a small monthly fee for hosting and updates.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-06T12:15:00.000Z"
+}

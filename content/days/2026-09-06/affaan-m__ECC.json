@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-06",
+  "owner": "affaan-m",
+  "name": "ECC",
+  "full_name": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+  "language": "JavaScript",
+  "stars_total": 250477,
+  "stars_today": 1486,
+  "one_liner": "A plugin that tunes how well your AI coding assistant remembers past work and follows security best practices, so it wastes less time and makes fewer risky mistakes.",
+  "buyer": "The engineering manager at a 10-20 person startup who has several developers on paid AI coding subscriptions and wants to cut wasted tokens and repeated mistakes across the team.",
+  "business_use_cases": [
+    "A startup CTO installs it across the team's Claude Code setups so every engineer's agent shares the same security guardrails, instead of each person configuring their own.",
+    "A solo developer building a paid SaaS uses the memory layer so the agent stops re-learning the same architecture decisions every new session.",
+    "An engineering consultancy standardizes this on every client engagement as a way to demonstrably reduce AI-assisted development costs it can point to in proposals."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid onboarding/setup calls that configure ECC for a company's specific stack and internal security policies.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell a hosted dashboard (already hinted at with ecc.tools pricing) that tracks token savings and security incidents caught across a team.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build a one-page 'before/after token cost' calculator that estimates how much a team would save adopting ECC, and use it as a lead magnet for the paid tier.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-06T12:15:00.000Z"
+}

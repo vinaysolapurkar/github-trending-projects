@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-06",
+  "owner": "BraveOPotato",
+  "name": "FckSignups",
+  "full_name": "BraveOPotato/FckSignups",
+  "url": "https://github.com/BraveOPotato/FckSignups",
+  "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+  "language": "TypeScript",
+  "stars_total": 3084,
+  "stars_today": 436,
+  "one_liner": "A free, browsable directory website listing handy online tools you can use instantly in your browser without creating an account.",
+  "buyer": "Honestly, nobody is buying this directly — it's a free community resource for privacy-conscious internet users, not something with a paying customer on its own.",
+  "business_use_cases": [
+    "A privacy-focused blogger links to it as a resource in a 'tools I actually use' post to drive newsletter signups, but that's marketing for them, not for this project.",
+    "A small business owner bookmarks the site to find a free tool for a one-off task (e.g. converting a file) instead of paying for a SaaS subscription.",
+    "It's mostly useful as inspiration: someone studies which listed tools get the most clicks to spot an underserved niche worth building a paid version of."
+  ],
+  "money_ideas": [
+    {
+      "idea": "The site itself could run non-intrusive ads or a 'submit your tool, get featured' paid placement, but that conflicts with its own no-tracking philosophy and would alienate its audience.",
+      "revenue_model": "ads"
+    }
+  ],
+  "steal_this": "Skip building anything from this repo directly — instead, browse its list, find the most-requested category with the weakest existing free tool, and build a better paid version of that.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-06T12:15:00.000Z"
+}

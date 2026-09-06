@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-06",
+  "owner": "anomalyco",
+  "name": "opencode",
+  "full_name": "anomalyco/opencode",
+  "url": "https://github.com/anomalyco/opencode",
+  "description": "The open source coding agent.",
+  "language": "TypeScript",
+  "stars_total": 204929,
+  "stars_today": 552,
+  "one_liner": "A free, open-source alternative to Claude Code or Cursor that lets you chat with an AI in your terminal or a desktop app to write and edit code, using whichever AI model you prefer.",
+  "buyer": "A developer or small dev team that wants an AI coding assistant without being locked into one vendor's pricing or model, and is comfortable installing developer tools themselves.",
+  "business_use_cases": [
+    "A freelance developer standardizes on it across client projects so they're never locked into one AI provider's pricing changes.",
+    "A dev tooling company builds and sells a specialized plugin or agent pack on top of opencode's open architecture.",
+    "A bootcamp or training company uses it as the free reference AI coding tool in its curriculum instead of paying for seat licenses."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell hosted/managed opencode deployments for teams that want a private, self-hosted AI coding agent without managing the infrastructure.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Build and sell premium desktop-app themes, agent packs, or enterprise SSO/audit add-ons on top of the free core.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Package a curated set of opencode agent configs for one specific stack (e.g. Next.js + Postgres) and sell it as a $29 starter kit to developers who don't want to configure it themselves.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-06T12:15:00.000Z"
+}

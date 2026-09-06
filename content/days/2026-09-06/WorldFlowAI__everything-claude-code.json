@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-06",
+  "owner": "WorldFlowAI",
+  "name": "everything-claude-code",
+  "full_name": "WorldFlowAI/everything-claude-code",
+  "url": "https://github.com/WorldFlowAI/everything-claude-code",
+  "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+  "language": "JavaScript",
+  "stars_total": 2495,
+  "stars_today": 336,
+  "one_liner": "A free, large bundle of pre-built configurations for Claude Code that add specialist helpers (planner, security reviewer, test writer) and shortcuts, built from ten months of one team's real usage.",
+  "buyer": "A dev team lead who wants a mature, battle-tested Claude Code setup (agents, hooks, rules) without spending weeks building their own configuration from scratch.",
+  "business_use_cases": [
+    "An engineering team installs the security-reviewer and code-reviewer agents to add an automatic first pass before human review, catching issues earlier.",
+    "A startup uses the memory-persistence hooks so context survives across sessions, cutting the time engineers spend re-explaining the codebase to the agent.",
+    "A solo dev follows the 'Longform Guide' to set up verification loops and evals, effectively getting a QA process they couldn't otherwise afford to build."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a paid, guided 1:1 setup service that installs and tunes this toolkit for a specific company's stack and conventions.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Turn the 'Shorthand' and 'Longform' guides into a paid video course with hands-on labs for teams adopting AI-assisted development at scale.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Package the token-optimization and memory-persistence guidance into a one-page 'AI coding cost audit' checklist you sell/give to dev teams as a lead magnet for consulting work.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-06T12:15:00.000Z"
+}

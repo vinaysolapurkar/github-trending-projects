@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-06",
+  "owner": "humanlayer",
+  "name": "skills",
+  "full_name": "humanlayer/skills",
+  "url": "https://github.com/humanlayer/skills",
+  "description": "",
+  "language": "TypeScript",
+  "stars_total": 2917,
+  "stars_today": 451,
+  "one_liner": "A free grab-bag of small add-ons for Claude Code that improve its instruction file, tighten up React code, and help you set up automated background coding workflows.",
+  "buyer": "A developer or small engineering team already using Claude Code who wants a few specific quality-of-life fixes (better CLAUDE.md, narrower React types, a GitHub Actions coding loop) without building them from scratch.",
+  "business_use_cases": [
+    "A frontend team installs 'narrow-react-prop-types' to catch prop-type drift that unit tests miss, reducing production bugs.",
+    "A platform engineer uses 'build-iterated-agentic-loop' to stand up an automated, scheduled coding-agent workflow in CI instead of hand-building one.",
+    "A consultant uses 'improve-claude-md' as a quick paid audit tool when onboarding a new client's codebase to Claude Code."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'AI workflow audit' service built around running these skills against a client's repo and codifying the improvements.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Turn 'design-control-loop' into a $99 done-for-you offer: interview a small dev team about their repetitive engineering task and ship them a working scheduled agent workflow by the weekend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-06T12:15:00.000Z"
+}

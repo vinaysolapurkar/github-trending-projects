@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-06",
+  "owner": "DietrichGebert",
+  "name": "ponytail",
+  "full_name": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+  "language": "JavaScript",
+  "stars_total": 128637,
+  "stars_today": 1539,
+  "one_liner": "A free add-on that trains your AI coding assistant to reach for the simplest built-in solution instead of installing extra libraries and writing bloated code.",
+  "buyer": "A startup CTO paying per-token for AI coding tools who is tired of the agent over-engineering simple features and driving up both cost and code review time.",
+  "business_use_cases": [
+    "A small dev shop installs it so client deliverables come back leaner, cutting both AI usage costs and the hours spent trimming bloated PRs.",
+    "A solo indie hacker uses it to keep a side-project codebase small enough that they can still understand and maintain it solo.",
+    "A coding bootcamp uses it as a teaching aid to show students the difference between a native-browser solution and an unnecessary dependency."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Publish a short paid guide ('Ship Smaller: 20 real before/after diffs') built from the benchmark examples, aimed at teams trying to cut AI coding costs.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a code-review-as-a-service add-on that flags over-engineered PRs against this skill's rules for teams that don't want to self-host it.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Turn the benchmark numbers (54% less code, 20% cheaper) into a shareable LinkedIn/X graphic comparing 'agent with vs without a minimalism skill' to drive installs.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-06T12:15:00.000Z"
+}

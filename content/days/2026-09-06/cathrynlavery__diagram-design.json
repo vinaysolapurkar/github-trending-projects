@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-06",
+  "owner": "cathrynlavery",
+  "name": "diagram-design",
+  "full_name": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+  "language": "HTML",
+  "stars_total": 31968,
+  "stars_today": 621,
+  "one_liner": "A free tool that makes an AI assistant draw clean, magazine-quality diagrams (flowcharts, org charts, timelines) instead of the generic, ugly boxes most AI tools produce.",
+  "buyer": "A content marketer or startup founder writing blog posts, pitch decks, or docs who needs professional-looking diagrams fast but can't afford a designer or 30 minutes fighting with Figma.",
+  "business_use_cases": [
+    "A startup founder uses it to generate an architecture diagram and funnel chart for an investor pitch deck in minutes instead of hiring a designer.",
+    "A content agency bakes it into their blog-writing workflow so every explainer post ships with a matching branded diagram.",
+    "A technical writer at a SaaS company uses it to keep documentation diagrams visually consistent across dozens of pages."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'brand kit' service: match the diagram styles to a client's exact brand colors/fonts and deliver a ready-to-use skill config.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Run a diagram-generation service for content agencies who want polished visuals without learning the tool themselves.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Offer a $9 'brand your diagrams' Fiverr gig: take a client's website, read their brand colors, and hand back a pre-configured version of this skill so their diagrams always match their site.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-06T12:15:00.000Z"
+}

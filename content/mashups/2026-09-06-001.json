@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-06-001",
+  "date": "2026-09-06",
+  "repo_a": "magnitudedev/magnitude",
+  "repo_b": "cathrynlavery/diagram-design",
+  "title": "The Offline Diagram Desk",
+  "pitch": "Pair Magnitude's fully local model hosting with Diagram Design's 38 editorial diagram types to build an on-premise 'draw this as a diagram' tool for organizations that can't send internal data to a cloud AI: a hospital IT team mapping a patient-data workflow, a law firm charting a case timeline, or a bank's compliance team diagramming an internal process for an audit. Everything — the model, the diagram generation, the output files — stays on the buyer's own hardware, so nothing sensitive (org structure, financial flows, case details) ever leaves the building. Sell it as a locked-down desktop app or internal server appliance rather than a subscription, priced for the compliance budget rather than the marketing budget.",
+  "why_now": "As more regulated industries want AI help with internal documentation and process mapping, the blocker is almost never capability — it's that cloud AI can't touch their data. Local inference just became good enough to run this kind of on-device generation, and this mashup sits exactly at that gap."
+}

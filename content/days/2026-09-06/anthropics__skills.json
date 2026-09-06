@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-06",
+  "owner": "anthropics",
+  "name": "skills",
+  "full_name": "anthropics/skills",
+  "url": "https://github.com/anthropics/skills",
+  "description": "Public repository for Agent Skills",
+  "language": "Python",
+  "stars_total": 174747,
+  "stars_today": 412,
+  "one_liner": "Anthropic's official, free collection of example instruction packs that teach Claude how to do specific jobs, like editing documents or building websites, plus the template for writing your own.",
+  "buyer": "A solo operator or small agency that wants to build a niche AI-assisted service (e.g. document formatting, branded content creation) without paying a developer to build the underlying capability from scratch.",
+  "business_use_cases": [
+    "A virtual-assistant agency uses the docx/pdf/pptx skills as the engine behind a 'AI-formatted document' service sold to small businesses.",
+    "A freelance developer studies the example skills as templates to build and sell a custom skill for a specific industry (e.g. legal contract review) via skill marketplaces.",
+    "A consultant uses this repo as a training reference when teaching corporate clients how to build their own internal Claude skills."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build and sell a niche, polished skill (industry-specific templates, brand-compliant documents) that goes beyond what's in the example repo.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a 'skills audit and build' consulting service for companies that want custom Claude skills but don't have in-house AI expertise.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Pick one under-served example skill (e.g. a niche document type) and turn it into a paid, better-documented, drop-in skill sold on a skills marketplace this weekend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-06T12:15:00.000Z"
+}

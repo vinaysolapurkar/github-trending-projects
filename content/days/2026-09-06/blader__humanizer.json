@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-06",
+  "owner": "blader",
+  "name": "humanizer",
+  "full_name": "blader/humanizer",
+  "url": "https://github.com/blader/humanizer",
+  "description": "Agent skill that removes signs of AI-generated writing from text",
+  "language": "Python",
+  "stars_total": 43848,
+  "stars_today": 748,
+  "one_liner": "A free tool that rewrites AI-generated text so it stops sounding robotic — killing the em-dashes, forced 'not just X, it's Y' phrasing, and other AI writing tells — without changing what it actually says.",
+  "buyer": "A content marketer, student, or small-business owner who publishes AI-assisted writing (blog posts, emails, LinkedIn posts) and is worried it reads as obviously AI-written or gets flagged.",
+  "business_use_cases": [
+    "A content marketing agency runs every AI-drafted blog post through it before publishing, protecting clients' brand voice and SEO reputation.",
+    "A student or job-seeker uses it to clean up AI-assisted cover letters and essays so they read as genuinely personal.",
+    "A newsletter writer feeds it 2-3 paragraphs of their own past writing to match their voice, cutting editing time on every AI-drafted issue."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Wrap it in a simple web UI (paste text, get humanized text back) and charge a small monthly fee for non-technical users who don't want to install a coding agent.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell it as a plugin/add-on inside existing writing tools (Notion, Google Docs) via a one-time license.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build a no-signup web page this weekend: paste AI text in, get de-AI'd text out, powered by this skill's pattern list, and monetize with a simple usage-based API tier for power users.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-06T12:15:00.000Z"
+}
