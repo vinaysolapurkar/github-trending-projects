@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-07",
+  "owner": "BraveOPotato",
+  "name": "FckSignups",
+  "full_name": "BraveOPotato/FckSignups",
+  "url": "https://github.com/BraveOPotato/FckSignups",
+  "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+  "language": "TypeScript",
+  "stars_total": 3582,
+  "stars_today": 497,
+  "one_liner": "A curated web directory of free tools you can use instantly without creating an account — no logins, no email traps, just tools that work.",
+  "buyer": "This is a content and directory project, not something buyers pay for directly — its natural business model, if any, is advertising or sponsor placement to visitors, not the codebase itself.",
+  "business_use_cases": [
+    "N/A as a codebase — the value here is the curated content and directory itself, not something to build a client business on.",
+    "A media or SEO operator could fork the concept to build a niche 'no-signup tools' directory targeting a specific audience (e.g. teachers or students) and monetize with ads.",
+    "N/A."
+  ],
+  "money_ideas": [
+    { "idea": "Run the directory as a public site and sell 'featured tool' placements or affiliate links to tool makers wanting visibility.", "revenue_model": "ads" }
+  ],
+  "steal_this": "Fork the concept into a tighter niche directory and monetize with a single sponsor slot — directories are a well-worn weekend project, not a differentiated one.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-07T12:24:07.000Z"
+}

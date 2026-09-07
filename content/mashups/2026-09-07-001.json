@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-07-001",
+  "date": "2026-09-07",
+  "repo_a": "pascalorg/editor",
+  "repo_b": "heygen-com/hyperframes",
+  "title": "Floor Plan to Listing Video, Automatically",
+  "pitch": "Pair Pascal's browser-based 3D architectural editor with HyperFrames' HTML-to-video rendering pipeline to build a tool that turns a finished 3D floor plan into a polished walkthrough marketing video with zero manual editing: an agent exports the camera path and room data from Pascal, feeds it into an HTML/CSS template that HyperFrames renders as a deterministic MP4, and out comes a 30-second listing video with title cards, room labels, and a background track. The buyer is a real estate agent or short-term rental host who currently pays $150-$400 for a professional videographer per listing, or skips video entirely because it's too slow to produce. Sell it as a per-listing service or a subscription for agencies managing dozens of active listings a month.",
+  "why_now": "3D floor-plan tools are becoming good enough for non-architects to use directly, and AI-driven video rendering just got fast and reliable enough to run unattended in a pipeline — the two pieces that used to require a designer and a video editor can now be chained into one automated step, right when real estate listings are competing harder than ever on visual quality."
+}

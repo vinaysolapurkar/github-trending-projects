@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-07",
+  "owner": "pascalorg",
+  "name": "editor",
+  "full_name": "pascalorg/editor",
+  "url": "https://github.com/pascalorg/editor",
+  "description": "Create and share 3D architectural projects.",
+  "language": "TypeScript",
+  "stars_total": 22045,
+  "stars_today": 136,
+  "one_liner": "A free, browser-based 3D tool for designing buildings and interior spaces, then sharing the models — like a lightweight alternative to professional CAD software.",
+  "buyer": "A small residential architecture or interior design studio that wants an easy way to visualize and tweak layouts with clients without buying expensive professional CAD licenses.",
+  "business_use_cases": [
+    "An interior design studio uses it to quickly mock up room layouts with clients live on a call, letting them move walls and furniture in real time.",
+    "A real estate developer builds interactive 3D walkthroughs of unbuilt units for pre-sale marketing pages.",
+    "A short-term rental host designs and shares a 3D floor plan of their property for guests and cleaning staff, clarifying layout without a site visit."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid hosted tier with private project storage, team collaboration, and export to professional CAD formats for design studios.", "revenue_model": "subscription" },
+    { "idea": "Sell a 'client presentation package' service: take a studio's rough plans and turn them into a polished shareable 3D model.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build a niche template pack (e.g. pre-made small-apartment or tiny-home layouts) for the editor and sell it to DIY renovators as a $29 starter kit.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-07T12:24:07.000Z"
+}

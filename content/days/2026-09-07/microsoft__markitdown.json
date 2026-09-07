@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-07",
+  "owner": "microsoft",
+  "name": "markitdown",
+  "full_name": "microsoft/markitdown",
+  "url": "https://github.com/microsoft/markitdown",
+  "description": "Python tool for converting files and office documents to Markdown.",
+  "language": "Python",
+  "stars_total": 179275,
+  "stars_today": 771,
+  "one_liner": "A tool that takes almost any file — a Word doc, PDF, PowerPoint, Excel sheet, even a scanned image — and converts it into clean, readable text that AI tools can actually understand.",
+  "buyer": "An operations lead at a mid-size company who needs to feed years of scattered PDFs, contracts, and slide decks into an internal AI search tool or chatbot.",
+  "business_use_cases": [
+    "A law firm converts thousands of scanned contracts and PDFs into searchable text so their internal AI assistant can answer questions across the archive.",
+    "An HR consultancy builds a resume-screening service that ingests documents of any format and normalizes them before running AI analysis.",
+    "A market research firm automatically converts client-submitted PowerPoint decks and Excel data into a unified format for its AI summarization pipeline."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted document-conversion API with volume-based pricing for companies that don't want to run or maintain the Python package themselves.", "revenue_model": "usage" },
+    { "idea": "Bundle it into a 'company knowledge base setup' consulting package: ingest a client's file shares, convert everything, and hand over a ready-to-use AI search tool.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build a simple drag-and-drop web app: upload any file, get back clean Markdown, and offer a paid tier for batch folder uploads — a weekend wrapper around a well-tested library.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-07T12:24:07.000Z"
+}

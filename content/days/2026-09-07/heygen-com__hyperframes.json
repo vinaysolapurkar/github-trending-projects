@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-07",
+  "owner": "heygen-com",
+  "name": "hyperframes",
+  "full_name": "heygen-com/hyperframes",
+  "url": "https://github.com/heygen-com/hyperframes",
+  "description": "Write HTML. Render video. Built for agents.",
+  "language": "TypeScript",
+  "stars_total": 44725,
+  "stars_today": 220,
+  "one_liner": "A tool that turns a webpage-style script (HTML and CSS) into an actual downloadable video file, automatically — no camera, no video editor, no manual rendering.",
+  "buyer": "A marketing ops manager at a SaaS company who needs to auto-generate hundreds of personalized product or usage-recap videos without hiring a video team.",
+  "business_use_cases": [
+    "An e-commerce brand auto-generates a unique product showcase video for every SKU in its catalog by feeding product data into HTML templates.",
+    "A SaaS company builds a 'video report' feature that turns a customer's usage stats into a shareable 30-second recap video, like a corporate Spotify Wrapped.",
+    "An AI content agency offers 'video-from-brief' as a productized service: clients submit a script, the agency's pipeline (built on this) renders the video same-day."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a hosted 'video-as-a-service' API built on top of this that non-technical marketers can call to turn a data feed into branded videos.", "revenue_model": "usage" },
+    { "idea": "Offer a template marketplace of pre-built HTML video templates (social ads, product demos, recap videos) for agencies to license.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build a weekend tool that takes a company's latest blog post and auto-renders a 20-second animated video summary using one of the pre-built templates, then sell it as a 'blog-to-video' add-on.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-07T12:24:07.000Z"
+}

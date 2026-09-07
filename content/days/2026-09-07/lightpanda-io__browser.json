@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-07",
+  "owner": "lightpanda-io",
+  "name": "browser",
+  "full_name": "lightpanda-io/browser",
+  "url": "https://github.com/lightpanda-io/browser",
+  "description": "Lightpanda: the headless browser designed for AI and automation",
+  "language": "Zig",
+  "stars_total": 34635,
+  "stars_today": 116,
+  "one_liner": "A super lightweight headless browser built from scratch, specifically so AI agents and automation scripts can browse the web faster and cheaper than with a full Chrome instance.",
+  "buyer": "A company running thousands of AI web-browsing agents (scraping, testing, or research) who wants to cut hosting costs since this uses far less memory and CPU than headless Chrome.",
+  "business_use_cases": [
+    "A web-scraping SaaS swaps its headless Chrome fleet for this to cut server costs while scraping the same volume of pages.",
+    "A QA automation company runs browser-based tests at much higher parallel density on the same hardware, lowering their CI infrastructure bill.",
+    "An AI agent platform uses it as the default browsing backend to make agent-driven web research cheaper to run at scale."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted 'browser farm' API billed per page-load, undercutting competitors that run costlier Chrome-based infrastructure.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Build a simple benchmarking dashboard comparing cost-per-million-page-loads across this vs. headless Chrome vs. Playwright, and use it as lead-gen content for a hosted browsing API business.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-07T12:24:07.000Z"
+}

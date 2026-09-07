@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-07",
+  "owner": "jo-inc",
+  "name": "camofox-browser",
+  "full_name": "jo-inc/camofox-browser",
+  "url": "https://github.com/jo-inc/camofox-browser",
+  "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+  "language": "JavaScript",
+  "stars_total": 9312,
+  "stars_today": 117,
+  "one_liner": "A browser an AI agent can control that looks like a real human is browsing, so it doesn't get blocked by 'prove you're not a bot' checks.",
+  "buyer": "A lead-gen or price-monitoring agency that needs to scrape sites at scale without constantly fighting Cloudflare and bot blockers.",
+  "business_use_cases": [
+    "A competitor price-monitoring service for e-commerce brands uses it to reliably scrape rival sites that actively block normal scrapers.",
+    "A B2B lead generation agency scrapes public directories and social profiles for prospecting lists without tripping anti-bot defenses.",
+    "A market intelligence firm builds automated 'mystery shopper' bots that check availability, pricing, and promotions across many retail sites daily."
+  ],
+  "money_ideas": [
+    { "idea": "Run it as a hosted 'scraping-as-a-service' API and charge per successful page fetch, targeting agencies who don't want to self-host.", "revenue_model": "usage" },
+    { "idea": "Package it into a done-for-you competitor price-tracker dashboard sold directly to e-commerce store owners.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Spin up a hosted price-tracking dashboard for a narrow niche (e.g. sneaker resellers or grocery delivery apps) using this as the scraping backbone, and sell weekly reports.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-07T12:24:07.000Z"
+}

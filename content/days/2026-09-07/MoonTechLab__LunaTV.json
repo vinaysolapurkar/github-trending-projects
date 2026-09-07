@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-07",
+  "owner": "MoonTechLab",
+  "name": "LunaTV",
+  "full_name": "MoonTechLab/LunaTV",
+  "url": "https://github.com/MoonTechLab/LunaTV",
+  "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+  "language": "TypeScript",
+  "stars_total": 9574,
+  "stars_today": 171,
+  "one_liner": "A self-hosted app that lets you search and stream movies and TV shows from multiple free sources in one place, like building your own private streaming service.",
+  "buyer": "This one is a legal dead end for most buyers: its license explicitly bans any commercial use, and the app itself ships empty of content, relying on whatever streaming sources a user plugs in.",
+  "business_use_cases": [
+    "None that hold up commercially — the project's own license (CC BY-NC-SA) forbids commercialization, and it depends on the user supplying their own content sources of unknown legality.",
+    "A hobbyist could self-host it for personal use, but that isn't a business.",
+    "Not viable as a foundation to build a business on."
+  ],
+  "money_ideas": [
+    { "idea": "None recommended — the non-commercial license and reliance on user-supplied, unverified streaming sources rule out legitimate monetization.", "revenue_model": "n/a" }
+  ],
+  "steal_this": "Skip this one. If you want a legitimate weekend project in this space, build a personal watchlist and tracker app that links out to services you actually hold a license to use.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-07T12:24:07.000Z"
+}

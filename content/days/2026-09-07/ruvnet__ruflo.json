@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-07",
+  "owner": "ruvnet",
+  "name": "ruflo",
+  "full_name": "ruvnet/ruflo",
+  "url": "https://github.com/ruvnet/ruflo",
+  "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+  "language": "TypeScript",
+  "stars_total": 71199,
+  "stars_today": 392,
+  "one_liner": "A toolkit that lets an AI coding assistant split a big task into many specialized sub-agents that coordinate with each other and remember what worked, instead of one agent doing everything alone.",
+  "buyer": "A technical founder running a small dev team who wants to squeeze more parallel throughput out of AI coding tools they're already paying for, and is comfortable with a fairly complex setup.",
+  "business_use_cases": [
+    "A small dev shop uses swarm coordination to split a large feature build across many sub-agents running in parallel, shipping client work faster.",
+    "A solo founder uses the federation feature to run agents across a home machine and a cloud server that securely share context, without a big DevOps budget.",
+    "An agency sells 'AI-accelerated development sprints' to clients, using this as the internal orchestration layer that lets a small team look like a much bigger one."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid setup and tuning services for teams who want the swarm and orchestration benefits but find the large tool surface too much to configure alone.", "revenue_model": "one-off" },
+    { "idea": "The project's own hosted UI hints at the model: sell a simplified, hosted dashboard for non-technical managers to monitor agent swarms.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Record a 20-minute 'zero to working swarm' walkthrough video for one common use case (e.g. parallel bug-fixing across a monorepo) and sell it as a $15 course to developers overwhelmed by the tool's surface area.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-07T12:24:07.000Z"
+}

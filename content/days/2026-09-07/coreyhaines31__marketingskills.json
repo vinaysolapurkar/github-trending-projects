@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-07",
+  "owner": "coreyhaines31",
+  "name": "marketingskills",
+  "full_name": "coreyhaines31/marketingskills",
+  "url": "https://github.com/coreyhaines31/marketingskills",
+  "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+  "language": "JavaScript",
+  "stars_total": 47826,
+  "stars_today": 329,
+  "one_liner": "A free library of ready-made marketing playbooks (for SEO, ad copy, growth, and more) that an AI coding assistant can use to actually do marketing tasks, not just chat about them.",
+  "buyer": "A solo founder or small agency owner who can't afford a full marketing team but already has an AI coding assistant and wants it to act like a competent marketing hire.",
+  "business_use_cases": [
+    "A solo SaaS founder uses the SEO and CRO skills to have their AI assistant audit and rewrite their landing page without hiring a consultant.",
+    "A small agency builds a productized 'AI marketing sprint' offer for clients, using these skills as the operating playbook their AI-assisted team follows.",
+    "A marketing tool vendor pays to be the 'recommended integration' inside a specific skill's docs, reaching every user of that skill."
+  ],
+  "money_ideas": [
+    { "idea": "The project already monetizes via a sponsored 'Verified Partners' program inside the skill docs — a native-ad model for tool vendors wanting distribution.", "revenue_model": "ads" },
+    { "idea": "Sell a paid 'AI CMO' service (as the repo's own linked product hints at) that runs these skills autonomously for a client's marketing operations.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Package three of these skills (e.g. cold-email, ab-testing, competitors) into a single 'AI marketing starter kit' with a short setup video, and sell it for $49 to solo founders.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-07T12:24:07.000Z"
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-07",
+  "owner": "bytedance",
+  "name": "deer-flow",
+  "full_name": "bytedance/deer-flow",
+  "url": "https://github.com/bytedance/deer-flow",
+  "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+  "language": "Python",
+  "stars_total": 81682,
+  "stars_today": 188,
+  "one_liner": "An open-source framework for building a 'super AI agent' that can research, write code, and create content on its own for tasks that take minutes to hours, not just quick chat replies.",
+  "buyer": "A product team at a mid-size company building an internal AI research or automation tool who needs a solid open-source foundation instead of building agent orchestration from scratch.",
+  "business_use_cases": [
+    "An internal tools team builds a company research assistant on top of this that can autonomously compile competitive intelligence reports overnight.",
+    "A consulting firm builds a client-facing 'AI analyst' product on this framework to automate long research and report-writing tasks.",
+    "A dev tools vendor offers a hosted, managed version of this framework for companies that want the capability without running their own agent infrastructure."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted, managed deployment with usage-based billing for teams that don't want to run agent infrastructure themselves.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Build a single vertical application on top of it — e.g. an 'AI due diligence assistant' for small M&A shops — rather than trying to sell the general framework itself.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-07T12:24:07.000Z"
+}

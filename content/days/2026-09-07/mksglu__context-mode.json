@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-07",
+  "owner": "mksglu",
+  "name": "context-mode",
+  "full_name": "mksglu/context-mode",
+  "url": "https://github.com/mksglu/context-mode",
+  "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+  "language": "TypeScript",
+  "stars_total": 20548,
+  "stars_today": 85,
+  "one_liner": "A plugin for AI coding assistants (like Claude Code) that keeps them from getting overwhelmed by huge chunks of tool output, so they stay fast and don't lose track of what they were doing.",
+  "buyer": "This is developer-tooling infrastructure, not something a non-technical buyer purchases directly — it's aimed at engineering teams already deep into AI-assisted coding.",
+  "business_use_cases": [
+    "An engineering team with a large monorepo installs it so their AI coding agents don't blow through context limits and lose track of long refactors.",
+    "A dev tools startup licenses the underlying context-sandboxing approach to build it into their own AI IDE product.",
+    "A consultancy that sells 'AI coding agent tuning' services uses it as one lever to make client teams' Claude Code setups faster and cheaper to run."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid enterprise tier with team-wide session analytics and shared memory across a company's developers.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Not much fresh to build here — the real opportunity is writing the definitive 'AI coding agent context management' comparison guide and selling setup or consulting time to teams evaluating tools like this.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-07T12:24:07.000Z"
+}
