@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-08",
+  "owner": "heygen-com",
+  "name": "hyperframes",
+  "full_name": "heygen-com/hyperframes",
+  "url": "https://github.com/heygen-com/hyperframes",
+  "description": "Write HTML. Render video. Built for agents.",
+  "language": "TypeScript",
+  "stars_total": 47342,
+  "stars_today": 474,
+  "one_liner": "A tool that turns a simple webpage-style description into an actual downloadable video — so an AI can 'write' a video the same way it writes a webpage.",
+  "buyer": "A course creator or marketing freelancer who needs a steady stream of short branded videos (product intros, ad variants, explainer clips) without hiring a video editor for every single one.",
+  "business_use_cases": [
+    "An e-commerce brand generates dozens of 10-second product-intro video ads with different hooks and prices, testing which one converts best, without touching a video editor.",
+    "A course creator turns each lesson's slide deck into a narrated video automatically by describing the layout and letting the tool render the MP4.",
+    "A software company auto-generates changelog/release videos every sprint from a templated HTML script, keeping their YouTube channel active with zero editing time."
+  ],
+  "money_ideas": [
+    { "idea": "Build a 'video ads factory' service: businesses submit a product description and get back 10 ready-to-post video ad variants generated through this pipeline.", "revenue_model": "subscription" },
+    { "idea": "Offer a done-for-you templated video service for course creators — they fill a form, you render and deliver via this tool.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Build a weekend micro-SaaS: a form that takes a product name + 3 bullet points and outputs a 10-second vertical ad video using a couple of the pre-built HyperFrames templates.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-08T12:20:28.939Z"
+}

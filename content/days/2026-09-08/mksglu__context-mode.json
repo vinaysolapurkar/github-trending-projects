@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-08",
+  "owner": "mksglu",
+  "name": "context-mode",
+  "full_name": "mksglu/context-mode",
+  "url": "https://github.com/mksglu/context-mode",
+  "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+  "language": "TypeScript",
+  "stars_total": 21194,
+  "stars_today": 96,
+  "one_liner": "A plug-in for AI coding assistants that stops them from 'forgetting' what they were doing mid-project by cutting the clutter and remembering key details between sessions.",
+  "buyer": "An engineering manager whose team's AI coding sessions keep losing context and re-explaining themselves on long projects, wasting time and increasing API costs.",
+  "business_use_cases": [
+    "A dev team installs it so their AI agent stops losing track of in-progress tasks and files after long working sessions, cutting rework.",
+    "A consultancy that bills AI-assisted development time reduces wasted API spend by cutting redundant context re-sends across a project.",
+    "N/A as a third case — this is purely an internal developer-productivity tool, not something with a customer-facing use."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted/managed version with team-wide shared memory and admin dashboards for engineering orgs, on top of the free open-source core.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Not much new to build — it's a dev-tool utility already solving its own niche well; the fastest move is installing it into your own AI coding workflow.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-08T12:20:28.939Z"
+}

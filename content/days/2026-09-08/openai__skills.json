@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-08",
+  "owner": "openai",
+  "name": "skills",
+  "full_name": "openai/skills",
+  "url": "https://github.com/openai/skills",
+  "description": "Skills Catalog for Codex",
+  "language": "Python",
+  "stars_total": 26297,
+  "stars_today": 351,
+  "one_liner": "OpenAI's official library of pre-built task packages ('skills') for its Codex coding assistant — but the repo itself now says 'deprecated, use the successor instead.'",
+  "buyer": "No buyer — this is a deprecated developer catalog maintained by OpenAI, not a product anyone would purchase or build a company around.",
+  "business_use_cases": [
+    "N/A — deprecated infrastructure repo, not a business asset.",
+    "N/A.",
+    "N/A."
+  ],
+  "money_ideas": [
+    { "idea": "None — it's officially deprecated and points users elsewhere; building on it today means building on something already being retired.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Nothing worth building on a deprecated repo — go look at the replacement (openai/plugins) instead if this pattern interests you.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-08T12:20:28.939Z"
+}

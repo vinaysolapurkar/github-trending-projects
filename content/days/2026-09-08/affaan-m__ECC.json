@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-08",
+  "owner": "affaan-m",
+  "name": "ECC",
+  "full_name": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+  "language": "JavaScript",
+  "stars_total": 253654,
+  "stars_today": 1897,
+  "one_liner": "A toolkit that makes AI coding assistants remember past sessions, follow safer habits, and work faster — like giving your coding AI a persistent memory and a set of good work habits.",
+  "buyer": "An engineering manager at a startup whose team leans heavily on AI coding agents and wants those agents to stop re-explaining context every session and to follow consistent security practices.",
+  "business_use_cases": [
+    "A small dev shop installs it across every client project so their AI agents remember each codebase's conventions between sessions instead of relearning it daily.",
+    "A solo SaaS founder uses the memory feature so their coding agent picks up exactly where it left off after a multi-day feature build, without re-explaining the architecture.",
+    "A security-conscious agency pays for the Pro/GitHub App tier to get the built-in security scanning of agent-written code before it merges."
+  ],
+  "money_ideas": [
+    { "idea": "This project already runs a paid tier itself — private-repo access from $19/seat/month — proving the model: sell memory/security add-ons for AI coding agents to teams.", "revenue_model": "subscription" },
+    { "idea": "Offer paid onboarding/setup consulting for engineering teams who want it wired into their CI and multiple agent harnesses correctly.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Not much to build from scratch here — the fastest move is to just install and use it, or study its paid-tier pricing page as a template for monetizing your own dev-tool skill.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-08T12:20:28.939Z"
+}

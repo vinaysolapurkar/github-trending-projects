@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-08",
+  "owner": "jo-inc",
+  "name": "camofox-browser",
+  "full_name": "jo-inc/camofox-browser",
+  "url": "https://github.com/jo-inc/camofox-browser",
+  "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+  "language": "JavaScript",
+  "stars_total": 10179,
+  "stars_today": 135,
+  "one_liner": "A web browser an AI can control that's disguised to look like a real human is browsing, so it doesn't get blocked by the anti-bot protection most websites use.",
+  "buyer": "A data/growth engineer at a company that needs to scrape or automate interactions with websites (price monitoring, lead sourcing, form filling) that actively try to block bots.",
+  "business_use_cases": [
+    "A price-intelligence company monitors competitor pricing pages that use Cloudflare bot protection, keeping the feed reliable instead of getting blocked daily.",
+    "A lead-generation agency automates data collection from directory sites that block standard scraping tools.",
+    "An AI personal-assistant startup uses it so their agent can complete real tasks on the open web (bookings, form submissions) on sites that would otherwise detect and block automation."
+  ],
+  "money_ideas": [
+    { "idea": "Offer it as a managed scraping API — customers send a URL and task, you run it through this stealth browser and return structured data, charging per request.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Honest caveat first: bypassing bot detection routinely violates target sites' Terms of Service and can create real legal/ethical exposure — treat this as infrastructure to use carefully, not a guaranteed business. If you do, a weekend project is a narrow scraper-as-a-service for one specific, permission-friendly use case (e.g. monitoring your own client's public listing pages) rather than general-purpose stealth scraping.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-08T12:20:28.939Z"
+}

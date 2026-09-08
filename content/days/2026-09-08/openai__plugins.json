@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-08",
+  "owner": "openai",
+  "name": "plugins",
+  "full_name": "openai/plugins",
+  "url": "https://github.com/openai/plugins",
+  "description": "OpenAI Plugins",
+  "language": "JavaScript",
+  "stars_total": 5563,
+  "stars_today": 45,
+  "one_liner": "OpenAI's official set of example add-ons for its Codex coding assistant, showing developers how to build their own add-ons for things like Figma, Notion, and iOS app development.",
+  "buyer": "No direct buyer — this is a free reference/example repo from OpenAI aimed at developers who want to build Codex plugins, not a product a business would purchase.",
+  "business_use_cases": [
+    "N/A — it's a set of official code examples and templates, not a deployable product.",
+    "A tooling vendor (e.g. a project management SaaS) could study these examples to build and publish their own official Codex plugin, increasing their product's reach into AI coding workflows.",
+    "N/A."
+  ],
+  "money_ideas": [
+    { "idea": "If you run a SaaS product, build and publish your own Codex plugin using these examples as a template — it's a distribution channel, not a revenue stream on its own.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "If you already have a SaaS with an API, spend a weekend turning it into a Codex plugin using this repo's examples as scaffolding — free distribution into every Codex user's workflow.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-08T12:20:28.939Z"
+}

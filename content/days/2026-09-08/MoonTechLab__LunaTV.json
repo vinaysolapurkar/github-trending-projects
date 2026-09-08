@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-08",
+  "owner": "MoonTechLab",
+  "name": "LunaTV",
+  "full_name": "MoonTechLab/LunaTV",
+  "url": "https://github.com/MoonTechLab/LunaTV",
+  "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+  "language": "TypeScript",
+  "stars_total": 10073,
+  "stars_today": 197,
+  "one_liner": "A self-hosted app that lets you search and stream movies/TV shows pulled together from multiple free video sources, with your watch history synced across devices — you have to supply your own video sources.",
+  "buyer": "No legitimate commercial buyer — the project's own license explicitly bans any commercial use, and it ships as an empty shell requiring the user to plug in their own (often unlicensed) video sources.",
+  "business_use_cases": [
+    "N/A — the license (CC BY-NC-SA) explicitly forbids commercialization of this project or derivatives.",
+    "N/A — the core function depends on third-party video sources of unclear licensing, which is a legal risk for any business use.",
+    "The only legitimate takeaway is technical: a hobbyist could self-host it purely for personal, non-commercial use, which the license does allow."
+  ],
+  "money_ideas": [
+    { "idea": "None that respect the license or copyright law — building a paid product on top of this specific project is explicitly prohibited and the underlying content-sourcing model raises separate piracy concerns.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Nothing to build commercially here — this is a personal-use media aggregator whose license and content model rule out a business. If the underlying idea (personal cross-device watch-history sync) interests you, build it against sources you actually license.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-08T12:20:28.939Z"
+}

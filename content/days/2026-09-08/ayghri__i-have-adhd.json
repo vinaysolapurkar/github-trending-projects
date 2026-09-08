@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-08",
+  "owner": "ayghri",
+  "name": "i-have-adhd",
+  "full_name": "ayghri/i-have-adhd",
+  "url": "https://github.com/ayghri/i-have-adhd",
+  "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+  "language": "Python",
+  "stars_total": 28170,
+  "stars_today": 422,
+  "one_liner": "A free add-on that trains your AI coding assistant to answer with the action first and the chit-chat cut, instead of burying the fix in a paragraph of preamble.",
+  "buyer": "There isn't really a buyer here — it's a free personal-productivity tweak an individual developer installs for themselves, not something a company would purchase.",
+  "business_use_cases": [
+    "N/A — this is a personality tweak for a coding agent, not a system a business builds a workflow around.",
+    "N/A.",
+    "An internal tools team at a software company could adapt the same 10 rules into their own house style guide for AI-generated code review comments, but that's an internal habit, not a product."
+  ],
+  "money_ideas": [
+    { "idea": "None realistic — it's a single markdown-style rules file; there's no packaging, support burden, or differentiation that would justify a paid product.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Nothing to build here — the entire value is a well-written prompt file you can just read and copy the ideas from directly.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-08T12:20:28.939Z"
+}

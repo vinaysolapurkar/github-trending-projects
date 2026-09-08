@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-08",
+  "owner": "microsoft",
+  "name": "markitdown",
+  "full_name": "microsoft/markitdown",
+  "url": "https://github.com/microsoft/markitdown",
+  "description": "Python tool for converting files and office documents to Markdown.",
+  "language": "Python",
+  "stars_total": 181279,
+  "stars_today": 886,
+  "one_liner": "A free tool that turns messy files — PDFs, Word docs, Excel sheets, PowerPoints, even audio — into clean, readable text that an AI system can actually understand.",
+  "buyer": "An operations manager at a company sitting on years of scanned contracts, reports, and PDFs who needs that pile turned into searchable, AI-readable text before any chatbot or search tool can be useful.",
+  "business_use_cases": [
+    "A law firm converts its archive of contracts and case PDFs into clean text so an in-house AI assistant can search and summarize them instantly.",
+    "An HR team feeds hundreds of resumes (PDF/Word) through it to build a searchable, structured candidate database.",
+    "A market research firm converts client PowerPoint decks and Excel data dumps into Markdown so an AI can compare and summarize findings across dozens of reports at once."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted 'drag-and-drop your files, get clean Markdown back' web service for non-technical office teams who don't want to install Python.", "revenue_model": "usage" },
+    { "idea": "Build a document-ingestion pipeline product for a specific vertical (legal, healthcare, real estate) that wraps this tool with vertical-specific cleanup and delivers ready-to-search knowledge bases.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Build a simple weekend tool: a folder-watcher that runs every new file in a company's Dropbox/Drive through this converter and drops clean Markdown into a searchable Notion or Obsidian vault.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-08T12:20:28.939Z"
+}

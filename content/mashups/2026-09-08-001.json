@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-08-001",
+  "date": "2026-09-08",
+  "repo_a": "microsoft/markitdown",
+  "repo_b": "coreyhaines31/marketingskills",
+  "title": "The Content Graveyard Revival Engine",
+  "pitch": "Most small businesses are sitting on years of old PDFs, case studies, sales decks, and reports that never got repurposed into marketing content because someone would have to read all of it first. Wire markitdown up as the ingestion layer — it turns that entire pile of PDFs, Word docs, and PowerPoints into clean, AI-readable Markdown — then hand that text to marketingskills' copywriting, SEO, and content skills to auto-draft blog posts, LinkedIn threads, and case-study pages from what's already sitting in the client's Drive. A small agency or freelance marketer sells this as a 'content audit + revival' package: dump in a client's old files, get back a stack of ready-to-edit content assets built from material the client already paid to create once.",
+  "why_now": "AI coding-agent skills for both document parsing and marketing tasks trended on the same day, and both are free, open-source, and designed to be chained together via the same agent tooling — there's no integration work beyond wiring one skill's output into the other's input."
+}

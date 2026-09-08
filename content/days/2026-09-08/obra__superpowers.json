@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-08",
+  "owner": "obra",
+  "name": "superpowers",
+  "full_name": "obra/superpowers",
+  "url": "https://github.com/obra/superpowers",
+  "description": "An agentic skills framework & software development methodology that works.",
+  "language": "Shell",
+  "stars_total": 283065,
+  "stars_today": 446,
+  "one_liner": "A structured playbook that makes an AI coding assistant behave like a disciplined engineer — asking clarifying questions, planning before coding, and working autonomously for hours without going off the rails.",
+  "buyer": "An engineering lead at a small software company who has developers using AI coding agents but is frustrated by agents that code first and ask questions never, producing messy, unreviewed work.",
+  "business_use_cases": [
+    "A dev agency standardizes every project's AI agent workflow on this methodology so junior engineers get consistent, spec-then-code discipline out of their tools.",
+    "A solo founder building a product lets the agent run 'subagent-driven development' overnight on a well-scoped feature and reviews a clean, tested diff in the morning.",
+    "N/A as a third case — the value here is process discipline for existing dev teams, not a new customer-facing product."
+  ],
+  "money_ideas": [
+    { "idea": "The project already sells commercial/enterprise support and managed spending for teams adopting this methodology at scale.", "revenue_model": "subscription" },
+    { "idea": "Offer paid workshops teaching engineering teams how to adopt subagent-driven development using this framework.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Not much to build — it's a methodology and plugin, not a product gap; the fastest move is installing it and adapting the workflow to your own team's process.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-08T12:20:28.939Z"
+}

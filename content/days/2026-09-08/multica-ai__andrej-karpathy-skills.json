@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-08",
+  "owner": "multica-ai",
+  "name": "andrej-karpathy-skills",
+  "full_name": "multica-ai/andrej-karpathy-skills",
+  "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+  "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+  "language": null,
+  "stars_total": 211088,
+  "stars_today": 325,
+  "one_liner": "A single text file you drop into a project that nudges an AI coding assistant to stop guessing, stop over-engineering, and ask before it breaks things.",
+  "buyer": "No real buyer — this is a free instructions file any individual developer copies into their own project; it's not something a business would purchase.",
+  "business_use_cases": [
+    "N/A — this is a copy-paste configuration file, not a product with a delivery mechanism.",
+    "N/A.",
+    "N/A."
+  ],
+  "money_ideas": [
+    { "idea": "None realistic — the value is entirely in the free text content itself; there's no service or packaging that would justify charging for it.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Nothing to build — just read the four principles and paste an adapted version into your own CLAUDE.md.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-08T12:20:28.939Z"
+}

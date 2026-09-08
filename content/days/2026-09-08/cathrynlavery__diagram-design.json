@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-08",
+  "owner": "cathrynlavery",
+  "name": "diagram-design",
+  "full_name": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+  "language": "HTML",
+  "stars_total": 33741,
+  "stars_today": 1070,
+  "one_liner": "Free plug-in that makes your AI coding assistant draw good-looking, on-brand diagrams — flowcharts, org charts, roadmaps — instead of the generic boxes-and-arrows look most AI tools produce.",
+  "buyer": "A content marketer, technical writer, or one-person SaaS founder who needs clean diagrams for blog posts, docs, or pitch decks but can't justify a Figma subscription or a designer's time.",
+  "business_use_cases": [
+    "A startup founder writing a 'how it works' blog post asks their AI assistant to generate an architecture diagram that matches their site's brand colors in under a minute.",
+    "A consultant preparing a client deck generates a roadmap or Wardley map diagram on the fly during a working session instead of scheduling design time.",
+    "A dev-tools company standardizes all its documentation diagrams (sequence, ER, deployment) on this skill so every page in the docs site looks consistent without a design system."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted version that renders these diagram types from a simple web form for non-technical marketers who don't use Claude Code directly.", "revenue_model": "subscription" },
+    { "idea": "Sell a premium pack of extra brand themes/templates (e.g. for specific industries) on top of the free open-source skill.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build a tiny web wrapper this weekend: a form where someone pastes their brand colors and picks a diagram type, and it calls this skill's rendering logic to spit out a downloadable SVG — a no-code front end for non-coders.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-08T12:20:28.939Z"
+}

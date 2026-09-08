@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-08",
+  "owner": "browser-use",
+  "name": "browser-use",
+  "full_name": "browser-use/browser-use",
+  "url": "https://github.com/browser-use/browser-use",
+  "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+  "language": "Python",
+  "stars_total": 113073,
+  "stars_today": 330,
+  "one_liner": "A tool that lets an AI 'use' a website the way a person would — clicking, typing, filling forms — so you can describe a task in plain English and have it done on any website automatically.",
+  "buyer": "An operations manager who has a repetitive web task done manually today (filling out supplier portals, applying to job listings, extracting data from a dashboard with no API) and wants it automated without hiring a developer to write brittle scrapers.",
+  "business_use_cases": [
+    "A recruiting agency automates applying to job boards on behalf of candidates with tailored resumes and cover letters at scale.",
+    "A back-office team automates pulling weekly reports out of vendor dashboards that have no API, saving hours of manual copy-paste.",
+    "An e-commerce seller automates cross-listing product data across multiple marketplace admin panels that don't offer bulk APIs."
+  ],
+  "money_ideas": [
+    { "idea": "Build a niche 'browser automation as a service' for one specific painful workflow (e.g. supplier portal data entry) and charge per task completed.", "revenue_model": "usage" },
+    { "idea": "Offer a monthly subscription tool for small businesses that need 3-5 recurring web tasks automated (form-filling, report pulling) without technical setup.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Pick one painfully manual, repetitive web task a local business does weekly (like re-entering data between two systems with no API) and ship a $99/month automation for just that one workflow this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-08T12:20:28.939Z"
+}

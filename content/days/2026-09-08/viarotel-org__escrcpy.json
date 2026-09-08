@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-08",
+  "owner": "viarotel-org",
+  "name": "escrcpy",
+  "full_name": "viarotel-org/escrcpy",
+  "url": "https://github.com/viarotel-org/escrcpy",
+  "description": "📱 Display and control your Android device graphically with scrcpy.",
+  "language": "JavaScript",
+  "stars_total": 11186,
+  "stars_today": 173,
+  "one_liner": "A desktop app that shows your Android phone's screen on your computer and lets you control it with your mouse and keyboard — including controlling several phones at once.",
+  "buyer": "A mobile QA lead or phone-repair shop owner who needs to view and control many Android devices from one desk — for testing apps across devices or diagnosing customer phones without picking each one up.",
+  "business_use_cases": [
+    "A mobile app QA team runs regression tests across a rack of 10 Android test devices simultaneously from a single screen, using the batch screenshot and multi-device control features.",
+    "A phone repair shop remotely diagnoses and configures customer devices on the bench without physically handling each one, speeding up turnaround.",
+    "A 'device farm' rental business (renting real-device access to app developers for testing) uses this as the control layer for its device fleet."
+  ],
+  "money_ideas": [
+    { "idea": "Rent access to a rack of real Android devices for mobile QA teams, using this tool as the remote-control layer, billed by the hour.", "revenue_model": "usage" },
+    { "idea": "The project itself already sells a paid extension (EscrcpyX) for advanced automation features on top of the free core — a proven upsell model to replicate.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Buy 5 cheap used Android phones, wire them into this tool, and offer 'remote real-device testing' to indie app developers as an hourly-rented alternative to expensive device-farm services.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-08T12:20:28.939Z"
+}
