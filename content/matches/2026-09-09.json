@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-09",
+  "matches": [
+    { "problem_id": "p001", "repo": "heygen-com/hyperframes", "why": "It renders short branded videos from a simple description, which covers a lot of the repetitive short-form social video editing work directly.", "confidence": "medium" },
+    { "problem_id": "p002", "repo": "freestylefly/awesome-gpt-image-2", "why": "It's a library of proven prompts specifically for generating professional-looking product photography with AI, which is exactly this problem.", "confidence": "high" },
+    { "problem_id": "p003", "repo": "affaan-m/ECC", "why": "It explicitly adds persistent memory to coding agents so they stop losing project context between sessions.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "obra/superpowers", "why": "Its methodology enforces spec-first planning, TDD, and YAGNI/DRY discipline, which directly targets bloated over-engineered AI output.", "confidence": "high" },
+    { "problem_id": "p005", "repo": null, "why": "Nothing today or recently is built for organizing a personal PDF/article library; we'll notify when a research-management tool trends." },
+    { "problem_id": "p006", "repo": null, "why": "Today's image and video tools are aimed at product marketing and coding, not news-explainer visuals from zero footage." },
+    { "problem_id": "p007", "repo": null, "why": "No bioinformatics or lab-science tool trended today." },
+    { "problem_id": "p008", "repo": null, "why": "vastsa/PI-Desktop is local-first, but it's built for coding agents, not a general private client-data chat tool for a law firm — too much of a stretch to call it a fit." },
+    { "problem_id": "p009", "repo": "heygen-com/hyperframes", "why": "It turns a written description (like a blog post outline) directly into a rendered narrated-style video without manual editing.", "confidence": "medium" },
+    { "problem_id": "p010", "repo": null, "why": "No self-hosted personal notes app trended today." },
+    { "problem_id": "p011", "repo": null, "why": "Nothing today is aimed at explaining or mapping an existing unfamiliar codebase." },
+    { "problem_id": "p012", "repo": "rohitg00/ai-engineering-from-scratch", "why": "It's a free, structured, project-based curriculum that takes someone from zero to shipping an AI product step by step.", "confidence": "high" },
+    { "problem_id": "p013", "repo": null, "why": "No inventory or restaurant-operations tool trended today." }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-09",
+  "owner": "cathrynlavery",
+  "name": "diagram-design",
+  "full_name": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+  "language": "HTML",
+  "stars_total": 36006,
+  "stars_today": 710,
+  "one_liner": "A tool that turns a plain description into a good-looking diagram (flowchart, org chart, timeline, etc.) that actually matches your brand, instead of the generic boxes AI usually draws.",
+  "buyer": "A content marketer, technical writer, or indie SaaS founder who currently avoids adding diagrams to blog posts and decks because Figma takes too long and AI-generated ones look ugly.",
+  "business_use_cases": [
+    "A B2B SaaS content team ships on-brand architecture and workflow diagrams for every blog post and case study without hiring a designer.",
+    "A consultant builds polished process diagrams for client proposals and slide decks in minutes instead of hours in Figma.",
+    "An agency offers a 'diagram refresh' service that redraws clients' messy Mermaid or draw.io diagrams into on-brand editorial visuals."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid library of extra brand-matched diagram themes/templates beyond the free 39 types.", "revenue_model": "one-off" },
+    { "idea": "Run a done-for-you diagram service for content agencies: they send content, you deliver branded diagrams, billed per diagram.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Offer a $29 'brand diagram pack' service this weekend: customer sends their website URL and rough diagram idea, you deliver 3 on-brand SVG diagrams using this skill.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-09T12:20:03.000Z"
+}

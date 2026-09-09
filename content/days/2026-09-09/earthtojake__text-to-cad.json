@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-09",
+  "owner": "earthtojake",
+  "name": "text-to-cad",
+  "full_name": "earthtojake/text-to-cad",
+  "url": "https://github.com/earthtojake/text-to-cad",
+  "description": "A library of agent skills for CAD, CAE and CAM",
+  "language": "Python",
+  "stars_total": 14838,
+  "stars_today": 97,
+  "one_liner": "Lets an AI assistant design real, exportable 3D parts, robot descriptions, and cut-ready drawings from a plain-language description, instead of you learning CAD software.",
+  "buyer": "A hardware startup founder or product designer without in-house CAD expertise who needs quick part iterations (brackets, enclosures, jigs) without hiring a mechanical engineer for every tweak.",
+  "business_use_cases": [
+    "A Kickstarter hardware founder iterates enclosure designs by describing changes in English instead of paying a contract CAD designer per revision.",
+    "A robotics hobbyist shop generates URDF robot description files for custom builds without manually writing XML.",
+    "A small fabrication shop uses the DXF and SendCutSend checks to quote and validate customer-submitted cut files automatically."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a 'design-to-part' service where customers describe a bracket or enclosure and get a manufacturable STEP file back within a day.", "revenue_model": "one-off" },
+    { "idea": "License a hosted version to fabrication shops as an automated quote/file-validation front end for their web store.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Offer a $49 'describe it, get a 3D-printable file' service on a niche like custom cable organizers or desk mounts, using this as the generation engine.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-09T12:20:03.000Z"
+}

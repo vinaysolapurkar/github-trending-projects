@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-09-001",
+  "date": "2026-09-09",
+  "repo_a": "pascalorg/editor",
+  "repo_b": "freestylefly/awesome-gpt-image-2",
+  "title": "Design It, Then Sell It",
+  "pitch": "Combine pascalorg/editor's browser-based 3D room designer with awesome-gpt-image-2's library of tested AI image prompts to build a 'design your room, then get a photorealistic render to share' tool for furniture and home-decor retailers. A shopper drags real product SKUs into a 3D floor plan, then with one click the finished layout is turned into a polished, photorealistic marketing-quality image using proven prompt templates instead of a generic AI render. The retailer gets a shareable, on-brand visual the shopper can post or send to a partner for buy-in, which shortens the path from browsing to purchase. A furniture e-commerce brand or interior-design service would pay for this as an embeddable widget that boosts conversion and social sharing.",
+  "why_now": "Both projects are trending today: one gives precise spatial layout control, the other gives production-quality image generation recipes instead of generic AI slop — together they solve the two biggest gaps (accuracy and photorealism) that keep retailers from trusting AI-generated room visuals for real purchases."
+}

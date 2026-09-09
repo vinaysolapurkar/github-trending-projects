@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-09",
+  "owner": "pascalorg",
+  "name": "editor",
+  "full_name": "pascalorg/editor",
+  "url": "https://github.com/pascalorg/editor",
+  "description": "Create and share 3D architectural projects.",
+  "language": "TypeScript",
+  "stars_total": 22681,
+  "stars_today": 442,
+  "one_liner": "A browser-based 3D room and building designer, like a lightweight, free version of professional architecture software, that runs in your web browser with no install.",
+  "buyer": "An interior designer or small architecture firm who currently pays for expensive CAD/BIM software licenses and wants a fast, shareable way to mock up room layouts for clients.",
+  "business_use_cases": [
+    "A furniture retailer embeds it on their website so customers can drag their actual furniture SKUs into a 3D floor plan before buying.",
+    "An interior design freelancer uses it to produce quick, shareable 3D concepts for clients instead of static mood boards, closing deals faster.",
+    "A real estate agency creates 3D staging previews of empty listings to help buyers visualize furnished spaces."
+  ],
+  "money_ideas": [
+    { "idea": "Build a niche 'room planner' SaaS on top of it for a specific vertical like kitchen remodeling or home staging, charging per project.", "revenue_model": "usage" },
+    { "idea": "Offer a white-labeled embed for furniture and home-goods e-commerce sites, billed monthly per site.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Fork it into a single-purpose 'kitchen layout planner' for a local cabinet or furniture shop and sell it to them as a $500 lead-generation tool for their website this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-09T12:20:03.000Z"
+}

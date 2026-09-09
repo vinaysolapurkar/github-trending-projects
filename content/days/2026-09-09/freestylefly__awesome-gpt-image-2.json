@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-09",
+  "owner": "freestylefly",
+  "name": "awesome-gpt-image-2",
+  "full_name": "freestylefly/awesome-gpt-image-2",
+  "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+  "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+  "language": "JavaScript",
+  "stars_total": 29640,
+  "stars_today": 612,
+  "one_liner": "A giant library of ready-made, tested prompts for generating professional-looking product and marketing images with AI, so you copy a proven recipe instead of guessing.",
+  "buyer": "An e-commerce store owner or social media marketer who can't afford a photographer or designer and needs polished product/campaign images fast.",
+  "business_use_cases": [
+    "An e-commerce seller generates studio-quality product shots and lifestyle scenes for new SKUs without a photoshoot.",
+    "A small marketing agency uses the template library to rapidly produce on-brief campaign visuals for client pitches.",
+    "A print-on-demand shop generates dozens of design variations for merch mockups using the industrial templates."
+  ],
+  "money_ideas": [
+    { "idea": "Curate and sell a premium, niche-specific prompt pack (e.g. jewelry product photography, food menus) as a one-time download.", "revenue_model": "one-off" },
+    { "idea": "Offer a subscription service where customers submit a product photo and get 10 AI-generated marketing variants back weekly.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Package the 20 industrial templates into a $19 'AI product photography starter kit' for Etsy/Shopify sellers and sell it this weekend on Gumroad.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-09T12:20:03.000Z"
+}

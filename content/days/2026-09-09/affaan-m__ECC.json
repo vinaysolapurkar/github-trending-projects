@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-09",
+  "owner": "affaan-m",
+  "name": "ECC",
+  "full_name": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+  "language": "JavaScript",
+  "stars_total": 254751,
+  "stars_today": 1427,
+  "one_liner": "A toolkit that upgrades your AI coding assistant with better memory, security checks, and skills, so it performs more consistently across sessions and projects.",
+  "buyer": "A professional developer or small dev team already spending real money on AI coding tools who wants those tools to remember context and work more reliably, and is willing to pay for a 'Pro' tier.",
+  "business_use_cases": [
+    "A freelance developer installs it to stop re-explaining project context to their AI assistant every session.",
+    "A dev team pays for the GitHub App integration to get shared 'instincts' and guardrails across every engineer's AI usage.",
+    "A security-conscious company relies on its 'agentshield' component to add guardrails before letting AI agents run commands in CI."
+  ],
+  "money_ideas": [
+    { "idea": "The project's own pricing model (ECC Pro, private-repo seats from $19/mo) shows this is already monetized as a subscription upgrade for teams.", "revenue_model": "subscription" },
+    { "idea": "Offer paid custom 'instinct packs' tuned for specific frameworks or companies as one-time purchases.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "If you don't want to compete with an already-monetized project like this, instead build one narrow companion tool (e.g. a memory export/import tool between different agent harnesses) and sell it as a $9 add-on.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-09T12:20:03.000Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-09",
+  "owner": "Tencent",
+  "name": "teamai-cli",
+  "full_name": "Tencent/teamai-cli",
+  "url": "https://github.com/Tencent/teamai-cli",
+  "description": "Make Every Team AI Native",
+  "language": "TypeScript",
+  "stars_total": 2659,
+  "stars_today": 1083,
+  "one_liner": "A shared control panel that keeps every developer's AI coding assistant using the same company playbook (skills, rules, and knowledge), no matter which AI tool each person uses.",
+  "buyer": "An engineering-platform lead at a mid-size company who has 50+ engineers all using different AI coding tools inconsistently and wants one shared source of truth for how those tools should behave.",
+  "business_use_cases": [
+    "A software agency standardizes 'how we write code' rules across every client engagement so any AI assistant any contractor uses behaves consistently.",
+    "An enterprise IT team rolls out a shared knowledge base of internal APIs and coding conventions that every engineer's AI tool automatically pulls in.",
+    "A dev-tools consultancy offers 'AI onboarding as a service' for companies adopting AI coding tools, using this as the backbone."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a managed hosting/sync layer for the shared team repo (private, access-controlled, with audit logs) to companies that don't want to self-host on GitHub.", "revenue_model": "subscription" },
+    { "idea": "Offer a consulting package that writes an org's first 'AI playbook' (skills, rules, guardrails) using this tool as delivery infrastructure.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build a one-page 'AI playbook starter kit' for a specific industry (e.g. fintech compliance rules for AI coding agents) and sell it as a paid template this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-09T12:20:03.000Z"
+}

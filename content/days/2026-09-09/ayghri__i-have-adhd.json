@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-09",
+  "owner": "ayghri",
+  "name": "i-have-adhd",
+  "full_name": "ayghri/i-have-adhd",
+  "url": "https://github.com/ayghri/i-have-adhd",
+  "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+  "language": "Python",
+  "stars_total": 32753,
+  "stars_today": 656,
+  "one_liner": "A plug-in for AI coding assistants that forces them to answer with the next concrete step first, instead of burying it in a paragraph of preamble.",
+  "buyer": "A solo developer who already pays for Claude Code or a similar coding assistant and is tired of scrolling past chatty explanations to find the actual command to run.",
+  "business_use_cases": [
+    "A freelance developer installs it across every client project so every AI session gives numbered, actionable steps instead of essays.",
+    "A coding bootcamp bundles it into their standard toolchain setup so students get terser, easier-to-follow AI guidance.",
+    "An engineering manager standardizes it org-wide as a lightweight house style for how AI assistants talk to the team."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a 'pro' pack of tuned output styles (concise, verbose, exec-summary) for different roles as a one-time purchase.", "revenue_model": "one-off" },
+    { "idea": "Offer a hosted config/preferences dashboard for teams to standardize and sync this style across everyone's agent, billed per seat.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Package three or four 'response style' presets (terse, ADHD-friendly, exec-summary, ELI5) as a $9 one-time Gumroad pack for coding-agent power users this weekend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-09T12:20:03.000Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-09",
+  "owner": "TauricResearch",
+  "name": "TradingAgents",
+  "full_name": "TauricResearch/TradingAgents",
+  "url": "https://github.com/TauricResearch/TradingAgents",
+  "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+  "language": "Python",
+  "stars_total": 103571,
+  "stars_today": 506,
+  "one_liner": "A team of AI 'analysts' (fundamentals, sentiment, technicals) that argue with each other and produce a stock trading recommendation, like a simulated research desk.",
+  "buyer": "A quantitative trading hobbyist or small prop-trading shop that wants a research-augmentation tool to generate and stress-test trade ideas faster, not a fully automated black box.",
+  "business_use_cases": [
+    "A finance content creator uses it to generate daily 'what the AI analysts think' commentary for a newsletter or YouTube channel.",
+    "A small prop desk uses it as a research assistant to pre-screen tickers before a human trader does deeper diligence.",
+    "A fintech educator builds a course around it teaching retail traders how multi-agent research pipelines work."
+  ],
+  "money_ideas": [
+    { "idea": "Run a paid daily newsletter summarizing the framework's multi-agent analysis on a curated watchlist.", "revenue_model": "subscription" },
+    { "idea": "Offer a hosted, API-key-free version for retail users who don't want to set up Python, billed per report generated.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Launch a $10/month newsletter this weekend that runs this framework nightly on 10 popular tickers and emails a plain-English summary each morning — with a clear 'not financial advice' disclaimer.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-09T12:20:03.000Z"
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-09",
+  "owner": "openai",
+  "name": "plugins",
+  "full_name": "openai/plugins",
+  "url": "https://github.com/openai/plugins",
+  "description": "OpenAI Plugins",
+  "language": "JavaScript",
+  "stars_total": 6062,
+  "stars_today": 105,
+  "one_liner": "A curated collection of official add-ons for OpenAI's Codex coding assistant that give it extra skills like designing in Figma, planning in Notion, or building iOS apps.",
+  "buyer": "This is developer infrastructure maintained by OpenAI itself, not something an outside business would buy — it's a reference/example repo for plugin authors, not a product.",
+  "business_use_cases": [
+    "A tooling vendor studies these examples to build and publish their own Codex plugin for their SaaS product.",
+    "An internal platform team copies the plugin manifest pattern to build a private company-specific Codex plugin.",
+    "A developer-tools consultancy offers 'build your product a Codex plugin' as a service using these as reference implementations."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid service building custom Codex/Claude Code plugins for SaaS companies that want AI-agent integration, using these examples as a starting template.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Pick one popular SaaS API without an existing agent plugin, build a minimal Codex plugin for it this weekend, and pitch it to that company as a lead magnet for consulting work.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-09T12:20:03.000Z"
+}
