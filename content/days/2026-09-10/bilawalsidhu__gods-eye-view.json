@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-10",
+  "owner": "bilawalsidhu",
+  "name": "gods-eye-view",
+  "full_name": "bilawalsidhu/gods-eye-view",
+  "url": "https://github.com/bilawalsidhu/gods-eye-view",
+  "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+  "language": "JavaScript",
+  "stars_total": 22247,
+  "stars_today": 1588,
+  "one_liner": "A browser app that shows a realistic 3D globe with live planes, ships, satellites, earthquakes, and public cameras, like a real-time spy-movie map of the world.",
+  "buyer": "A news organization's graphics desk that needs a live, explorable visual of world events (flights, shipping, disasters) for breaking-news broadcasts without building mapping tech in-house.",
+  "business_use_cases": [
+    "A TV news channel embeds a branded version to show live flight-tracking or shipping-lane disruptions during a breaking-news segment.",
+    "A logistics company uses the ship and traffic layers as a public-facing dashboard to show customers real-time shipment visibility.",
+    "A YouTuber or streamer builds a paid course or subscription channel narrating live world events using the tool as their visual backdrop."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a hosted, white-labeled version for newsrooms and streamers with a branding removal fee.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell premium data layers (higher-resolution imagery, historical playback) as an add-on.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Clone it, strip it down to just live flights + ships for one city/region, and sell it as an embeddable widget to local news sites this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-10T12:20:17.000Z"
+}

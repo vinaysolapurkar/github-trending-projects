@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-10",
+  "owner": "Tencent",
+  "name": "teamai-cli",
+  "full_name": "Tencent/teamai-cli",
+  "url": "https://github.com/Tencent/teamai-cli",
+  "description": "Make Every Team AI Native",
+  "language": "TypeScript",
+  "stars_total": 3503,
+  "stars_today": 556,
+  "one_liner": "A tool that lets a whole company share the same AI-assistant settings, rules, and knowledge, so every employee's AI tool behaves the same way and updates automatically.",
+  "buyer": "An engineering manager at a mid-size company rolling out AI coding assistants org-wide who needs consistency instead of every developer configuring their own ad-hoc rules.",
+  "business_use_cases": [
+    "A software agency standardizes coding rules and review agents across every client project and every AI tool (Claude Code, Cursor, Codex) developers happen to use.",
+    "An enterprise IT team pushes security and compliance rules to every engineer's AI assistant from one central repo, with automatic sync.",
+    "A consulting firm sells 'AI-native onboarding' services to clients, using this as the delivery mechanism for shared skills and knowledge."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a hosted 'team dashboard' tier with usage analytics and digest reports (the project's own roadmap hints at this) for a per-seat fee.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell premium starter templates (industry-specific skills and review agents) via the teamai-hub template marketplace.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build one vertical-specific template repo (e.g. 'fintech compliance skills for AI agents') and list it on teamai-hub to capture teams in that niche first.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-10T12:20:17.000Z"
+}

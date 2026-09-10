@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-10",
+  "owner": "ayghri",
+  "name": "i-have-adhd",
+  "full_name": "ayghri/i-have-adhd",
+  "url": "https://github.com/ayghri/i-have-adhd",
+  "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+  "language": "Python",
+  "stars_total": 36614,
+  "stars_today": 4650,
+  "one_liner": "A plug-in for AI coding assistants that makes them stop rambling and just say what to do next, in short numbered steps.",
+  "buyer": "A solo developer who uses an AI coding assistant all day and is tired of scrolling past 'Great question!' preambles to find the actual instruction.",
+  "business_use_cases": [
+    "A coding bootcamp bundles it into their standard AI-assistant setup so students get direct, numbered instructions instead of rambling explanations.",
+    "A freelance developer installs it across every client project to speed up how fast they can act on AI suggestions during paid billable hours.",
+    "A plugin marketplace curator packages it alongside other 'agent behavior' tweaks as a paid 'productivity pack' for AI coding tools."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a 'pro' pack of tuned SKILL.md variants for different personality/communication styles (terse, Socratic, teaching mode).",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a hosted config generator that customizes the rules to a team's own style guide.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Fork the SKILL.md, write a 'no-fluff PM' variant that reformats AI project-status updates the same way, and sell it to teams as a Slack bot.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-10T12:20:17.000Z"
+}

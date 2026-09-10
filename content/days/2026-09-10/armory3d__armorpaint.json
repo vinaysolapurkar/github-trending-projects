@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-10",
+  "owner": "armory3d",
+  "name": "armorpaint",
+  "full_name": "armory3d/armorpaint",
+  "url": "https://github.com/armory3d/armorpaint",
+  "description": "Graphics Creation Tools",
+  "language": "C",
+  "stars_total": 4250,
+  "stars_today": 73,
+  "one_liner": "Free, open-source software for painting realistic textures onto 3D models, similar to professional tools game studios use.",
+  "buyer": "An indie game developer or 3D artist who needs professional texture-painting software but can't justify the cost of the industry-standard commercial tool.",
+  "business_use_cases": [
+    "An indie game studio uses it as their primary texturing tool to avoid expensive commercial software licenses.",
+    "A freelance 3D artist offers texturing services to clients, using the tool's free source build to keep overhead low.",
+    "An asset-store creator sells pre-made texture packs or ArmorPaint project files to other 3D artists."
+  ],
+  "money_ideas": [
+    {
+      "idea": "The project already sells its own pre-built binaries; a similar play is selling paid tutorial courses or preset material packs.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Not much new to build here — the project itself already runs the obvious business model (free source, paid binaries). Better move: sell texture presets or a tutorial course for it.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-10T12:20:17.000Z"
+}

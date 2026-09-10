@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-10",
+  "owner": "vastsa",
+  "name": "PI-Desktop",
+  "full_name": "vastsa/PI-Desktop",
+  "url": "https://github.com/vastsa/PI-Desktop",
+  "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+  "language": "TypeScript",
+  "stars_total": 2062,
+  "stars_today": 417,
+  "one_liner": "A desktop app that gives AI coding agents their own dedicated workspace — projects, chats, file reviews, and plugins all in one place — instead of living inside a terminal or editor plugin.",
+  "buyer": "A freelance developer or small dev team managing several client projects with AI agents who wants one organized workspace instead of juggling terminals, editors, and browser tabs.",
+  "business_use_cases": [
+    "A freelance developer manages multiple client codebases and long-running AI agent sessions from one desktop workspace, billing hours saved on context-switching.",
+    "A small dev agency standardizes on it internally, building custom plugins (panels, tools) tailored to their delivery process.",
+    "A plugin developer builds and sells premium extensions (custom review workflows, industry-specific tools) into its plugin ecosystem."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'teams' tier with shared session history, permissions, and audit logs for agencies managing multiple client agents.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Run a plugin marketplace and take a cut of paid third-party plugin sales.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Build and sell one high-value plugin for it this weekend — e.g. a client-billing time tracker that logs agent session time per project.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-10T12:20:17.000Z"
+}

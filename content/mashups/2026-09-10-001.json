@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-10-001",
+  "date": "2026-09-10",
+  "repo_a": "bilawalsidhu/gods-eye-view",
+  "repo_b": "THU-MAIC/OpenMAIC",
+  "title": "The Live-World Classroom",
+  "pitch": "God's Eye View streams real, live global data onto a photorealistic 3D globe — flights, ships, satellites, earthquakes, public cameras. OpenMAIC turns a single prompt into a full interactive course with slides, quizzes, and activities in one click. Chain them: point the globe at today's actual events (a shipping-lane disruption, an earthquake, a satellite pass) and hand a screen recording plus the live telemetry to OpenMAIC as source material, and it builds a ready-to-teach current-events or geography lesson around something happening in the world right now instead of a canned, static example. A geography teacher or corporate trainer running 'what's happening in the world today' sessions gets a fresh, visually striking lesson generated in minutes instead of building slides from scratch every week.",
+  "why_now": "Both projects trended today for the same underlying reason — turning raw, real data into something ready to present with one click — and stacking them replaces two separate jobs (finding compelling real-world visuals, then building a lesson around them) with a single generated deliverable."
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-10",
+  "owner": "nashsu",
+  "name": "llm_wiki",
+  "full_name": "nashsu/llm_wiki",
+  "url": "https://github.com/nashsu/llm_wiki",
+  "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+  "language": "TypeScript",
+  "stars_total": 17823,
+  "stars_today": 94,
+  "one_liner": "A desktop app that reads all your documents and automatically organizes them into a linked personal wiki, so you can search and browse your own knowledge instead of digging through folders.",
+  "buyer": "A PhD researcher or consultant sitting on hundreds of PDFs and notes who needs an organized, browsable knowledge base but doesn't have time to manually file and cross-link everything.",
+  "business_use_cases": [
+    "A research lab standardizes on it to turn shared papers and reports into a browsable team knowledge base instead of a messy shared drive.",
+    "A consulting firm builds a persistent client-knowledge wiki from meeting notes and documents that any consultant on the account can search.",
+    "A journalist or analyst uses it to organize investigation sources into a linked wiki with source-grounded search for fact-checking."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a hosted team edition with shared wikis and permissions, priced per seat.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell a managed cloud sync/backup add-on for the local wiki data.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Package a narrow version aimed at one niche (e.g. 'research wiki for PhD students') with a guided onboarding flow and sell it directly to grad students this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-10T12:20:17.000Z"
+}

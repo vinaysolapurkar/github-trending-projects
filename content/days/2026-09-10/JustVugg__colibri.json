@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-10",
+  "owner": "JustVugg",
+  "name": "colibri",
+  "full_name": "JustVugg/colibri",
+  "url": "https://github.com/JustVugg/colibri",
+  "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+  "language": "C",
+  "stars_total": 27291,
+  "stars_today": 157,
+  "one_liner": "Software that lets a huge AI model run on an ordinary gaming PC by cleverly loading only the parts of the model it needs from disk, instead of requiring a data-center's worth of memory.",
+  "buyer": "A well-equipped AI hobbyist or researcher with a high-end gaming PC (lots of RAM/VRAM) who wants to run massive AI models privately without renting expensive cloud GPUs.",
+  "business_use_cases": [
+    "A privacy-focused startup runs a huge open-weight model entirely on owned hardware to avoid sending sensitive data to a cloud API.",
+    "A university research lab runs frontier-scale models on existing lab workstations instead of requesting a costly GPU cluster budget.",
+    "A hardware reviewer or YouTuber benchmarks consumer PCs against this tool to demonstrate 'how big a model can your rig run,' driving hardware sales/affiliate revenue."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid consulting to help companies configure multi-tier VRAM/RAM/disk setups for their specific hardware and model choice.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This is deep systems engineering, not a weekend clone — the realistic weekend project is a benchmarking/leaderboard site that ranks consumer PCs by what models they can run with it, monetized via hardware affiliate links.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-10T12:20:17.000Z"
+}

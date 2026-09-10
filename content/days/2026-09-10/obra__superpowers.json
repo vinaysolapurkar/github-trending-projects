@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-10",
+  "owner": "obra",
+  "name": "superpowers",
+  "full_name": "obra/superpowers",
+  "url": "https://github.com/obra/superpowers",
+  "description": "An agentic skills framework & software development methodology that works.",
+  "language": "Shell",
+  "stars_total": 284393,
+  "stars_today": 688,
+  "one_liner": "A structured process that makes an AI coding assistant plan, get your sign-off, then build in small verified steps instead of guessing and rewriting code randomly.",
+  "buyer": "A startup CTO who lets AI agents work autonomously for hours but has been burned by them going off-plan or shipping untested code, and wants a disciplined process baked in.",
+  "business_use_cases": [
+    "A small dev shop adopts it as their default methodology so every AI-assisted client project follows the same spec-first, test-driven process.",
+    "A solo founder uses it to let an AI agent work unsupervised overnight on a feature, trusting the plan-then-build gate to prevent scope creep.",
+    "An enterprise pays for the project's own commercial support and managed-spending add-ons for teams running agents at scale."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid implementation-plan templates tuned for specific stacks (e.g. Rails, Next.js, mobile) that plug into the methodology.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Provide a hosted dashboard that visualizes and audits what autonomous agent sessions did against the approved plan, for engineering managers.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Package a niche 'plan-and-build' skill preset for one specific framework (e.g. a Shopify app methodology) and give it away to build an audience, then sell a paid support tier.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-10T12:20:17.000Z"
+}

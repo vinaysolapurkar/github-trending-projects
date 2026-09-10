@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-10",
+  "owner": "alsk1992",
+  "name": "CloddsBot",
+  "full_name": "alsk1992/CloddsBot",
+  "url": "https://github.com/alsk1992/CloddsBot",
+  "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+  "language": "TypeScript",
+  "stars_total": 1330,
+  "stars_today": 299,
+  "one_liner": "A self-hosted robot trader that watches prediction markets and crypto exchanges around the clock and places bets or trades for you using an AI model.",
+  "buyer": "A crypto-savvy retail trader who already trades prediction markets manually and wants an automated system watching dozens of markets they can't monitor themselves.",
+  "business_use_cases": [
+    "An independent trader runs it on a home server to auto-trade small BTC/ETH prediction markets while at their day job.",
+    "A crypto influencer offers a paid Discord where they share tuned strategy configs for the bot to subscribers.",
+    "A small prop-trading group forks it to add proprietary strategies and runs it as an internal tool across a pooled account."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a curated set of 'strategy configs' or subscription access to a hosted, managed instance for non-technical traders.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer paid setup/'secure your server' consulting for less technical users, since self-hosting with real money at stake is risky.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Take just the Polymarket module, add a dead-simple onboarding wizard, and sell it as a $19/mo 'auto-trade Polymarket for me' product this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-10T12:20:17.000Z"
+}

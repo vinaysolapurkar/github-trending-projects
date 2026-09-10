@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-10",
+  "owner": "AlexsJones",
+  "name": "llmfit",
+  "full_name": "AlexsJones/llmfit",
+  "url": "https://github.com/AlexsJones/llmfit",
+  "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+  "language": "Rust",
+  "stars_total": 35513,
+  "stars_today": 247,
+  "one_liner": "A terminal tool that looks at your computer's specs and tells you which AI models will actually run well on it, instead of you guessing and hitting out-of-memory errors.",
+  "buyer": "A hobbyist or small-business owner buying a new PC specifically to run local AI models, who doesn't want to waste money on hardware that can't run the models they need.",
+  "business_use_cases": [
+    "A computer retailer or system integrator uses it (or its API) to recommend and configure 'AI-ready' PC builds for customers.",
+    "A local-AI hosting reseller uses the benchmark data to publish 'which laptop should I buy for local AI' comparison content that drives affiliate sales.",
+    "An MSP consulting on-prem AI deployments for small businesses uses it to right-size hardware purchases before recommending a rollout."
+  ],
+  "money_ideas": [
+    {
+      "idea": "License the hardware-compatibility engine via the REST API to hardware retailers as a 'will it run' widget on product pages.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Sell a 'build recommendation' report generator for people shopping for an AI workstation.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Wrap the REST API into a simple 'Will This Laptop Run AI?' web widget and pitch it to a PC-building YouTuber or retailer this weekend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-10T12:20:17.000Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-10",
+  "owner": "freestylefly",
+  "name": "awesome-gpt-image-2",
+  "full_name": "freestylefly/awesome-gpt-image-2",
+  "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+  "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+  "language": "JavaScript",
+  "stars_total": 30602,
+  "stars_today": 705,
+  "one_liner": "A free library of over 500 ready-made prompts and templates for generating images with an AI image model, so you can copy a working prompt instead of guessing.",
+  "buyer": "A small e-commerce seller or social media marketer in China who needs professional-looking product images but can't afford a photographer, and wants proven prompts rather than trial and error.",
+  "business_use_cases": [
+    "An e-commerce seller copies industrial-template prompts to generate consistent product photography for a new catalog.",
+    "A social media agency uses the case library to quickly produce on-trend ad creative for multiple clients.",
+    "A course creator packages the templates into a paid 'AI image prompting for marketers' workshop."
+  ],
+  "money_ideas": [
+    {
+      "idea": "The repo itself already monetizes via sponsorships from AI image API resellers — a similar project could sell affiliate/API credits.",
+      "revenue_model": "ads"
+    },
+    {
+      "idea": "Sell a curated, translated (English) premium template pack to non-Chinese marketers as a one-off pack.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Translate and repackage the best 50 templates into an English-language Gumroad pack aimed at Etsy/Shopify sellers this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-10T12:20:17.000Z"
+}

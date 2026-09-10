@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-10",
+  "owner": "diegosouzapw",
+  "name": "OmniRoute",
+  "full_name": "diegosouzapw/OmniRoute",
+  "url": "https://github.com/diegosouzapw/OmniRoute",
+  "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+  "language": "TypeScript",
+  "stars_total": 63825,
+  "stars_today": 591,
+  "one_liner": "A free single connection point that automatically switches between hundreds of AI providers' free tiers, so a developer coding with AI tools rarely has to pay or hit a usage limit.",
+  "buyer": "A cash-strapped indie developer or student who wants to use AI coding tools constantly but can't afford metered API bills, and needs the system to auto-switch providers when one runs out.",
+  "business_use_cases": [
+    "A student or hobbyist developer runs it locally to code all day with AI assistants while spending close to $0 on API costs.",
+    "A small dev team self-hosts it internally to pool and manage multiple providers' free/paid quotas instead of buying redundant separate subscriptions.",
+    "A bootcamp recommends it to students so they can practice AI-assisted coding without needing to pay for API access."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a hosted, zero-setup version with a small markup over the free tiers for people who don't want to self-host.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell a 'pro' team dashboard with quota pooling and usage analytics across a whole company's seats.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Spin up a hosted, one-click version of this (skip the self-host step) and charge a flat monthly fee cheaper than what people currently pay providers directly.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-10T12:20:17.000Z"
+}

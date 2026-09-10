@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-10",
+  "owner": "vercel-labs",
+  "name": "skills",
+  "full_name": "vercel-labs/skills",
+  "url": "https://github.com/vercel-labs/skills",
+  "description": "The open agent skills tool - npx skills",
+  "language": "TypeScript",
+  "stars_total": 30890,
+  "stars_today": 125,
+  "one_liner": "A command-line tool that installs 'skills' (add-on abilities) into whichever AI coding assistant you use, working across dozens of different tools.",
+  "buyer": "None specific for direct resale — this is developer infrastructure (a free CLI) rather than an end-customer product; the closest buyer is an AI tooling company wanting distribution for skills they publish.",
+  "business_use_cases": [
+    "A design-systems company distributes their internal 'skill' (like design guidelines) to every engineer's AI assistant via one shared repo.",
+    "A skills marketplace or vendor uses it as the install mechanism, driving traffic and adoption of their own paid skills.",
+    "An agency standardizes every client project's AI-assistant setup by publishing an internal skills repo and asking new hires to run one command."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Not directly monetizable as a fork — the opportunity is building and selling premium skills that install through this tool, not the installer itself.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Publish a paid, high-quality niche skill (e.g. 'Shopify theme development' or 'HIPAA-compliant code review') distributed through this installer and market it directly to that niche.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-10T12:20:17.000Z"
+}

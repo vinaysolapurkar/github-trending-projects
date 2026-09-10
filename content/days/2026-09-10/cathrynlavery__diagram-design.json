@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-10",
+  "owner": "cathrynlavery",
+  "name": "diagram-design",
+  "full_name": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+  "language": "HTML",
+  "stars_total": 37281,
+  "stars_today": 2249,
+  "one_liner": "A tool that makes an AI assistant draw good-looking diagrams (flowcharts, org charts, timelines) that actually match your brand, instead of generic ugly boxes.",
+  "buyer": "A startup founder or content writer who needs polished diagrams for blog posts, pitch decks, or documentation but doesn't want to hire a designer or fight with Figma.",
+  "business_use_cases": [
+    "A content marketing agency uses it to produce on-brand explainer diagrams for every client blog post in minutes instead of commissioning a designer.",
+    "A solo SaaS founder generates architecture and pricing diagrams for their landing page and investor deck without design skills.",
+    "A technical writer at a startup standardizes all documentation diagrams (flowcharts, sequence diagrams, ER diagrams) on one consistent visual style."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell premium brand-matched theme packs (beyond the default light/dark/editorial variants) to agencies and design-conscious startups.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a hosted 'diagram-as-a-service' API that agencies can call from their own content pipelines.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Build a one-click 'blog post to diagram pack' service: paste a blog draft, get five on-brand diagrams generated with this skill, sell it to content marketers this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-10T12:20:17.000Z"
+}
