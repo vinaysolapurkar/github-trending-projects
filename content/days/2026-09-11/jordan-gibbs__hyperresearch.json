@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-11",
+  "owner": "jordan-gibbs",
+  "name": "hyperresearch",
+  "full_name": "jordan-gibbs/hyperresearch",
+  "url": "https://github.com/jordan-gibbs/hyperresearch",
+  "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
+  "language": "Python",
+  "stars_total": 2233,
+  "stars_today": 118,
+  "one_liner": "Turns your AI coding assistant into a deep-research assistant that reads dozens of sources, checks its own work, and writes a fully-cited report.",
+  "buyer": "A market analyst, consultant, or grad student who currently spends days manually researching and writing reports and wants a first-draft researcher.",
+  "business_use_cases": [
+    "A boutique market-research firm uses it to produce first-draft competitive analysis reports for clients faster, then has a human analyst polish them.",
+    "A consulting freelancer offers 'rapid research report' services to small businesses that can't afford traditional research firms.",
+    "A due-diligence team in a small investment fund uses it to quickly build background dossiers on potential deals."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'research report as a service' business: client sends a question, you run the pipeline and deliver a polished report.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell a hosted version with a nicer UI and higher rate limits to research-heavy teams.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Take three real client research questions this weekend, run them through the pipeline, polish the outputs, and sell them as a 'rapid research' package.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-11T12:17:20.000Z"
+}

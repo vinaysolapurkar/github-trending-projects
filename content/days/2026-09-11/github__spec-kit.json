@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-11",
+  "owner": "github",
+  "name": "spec-kit",
+  "full_name": "github/spec-kit",
+  "url": "https://github.com/github/spec-kit",
+  "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+  "language": "Python",
+  "stars_total": 135497,
+  "stars_today": 985,
+  "one_liner": "A toolkit from GitHub that helps you write a clear spec for what you want to build before you let an AI coding assistant start coding it.",
+  "buyer": "This is a free developer-productivity toolkit backed by GitHub itself — there's no realistic independent business to build directly on top of it, since GitHub already owns the distribution and roadmap.",
+  "business_use_cases": [
+    "An engineering consultancy adopts it as their standard process for AI-assisted client projects, using 'spec-driven development' as a selling point.",
+    "A dev-tools trainer builds paid workshops teaching teams how to write specs that produce reliable AI-generated code.",
+    "A software agency uses it internally to reduce rework from AI-generated code that misunderstood requirements."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell training/consulting services teaching teams to adopt spec-driven AI development using this toolkit.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Not a product to build on — it's GitHub's own free methodology tool. The realistic move is offering a paid workshop teaching teams to adopt it well.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-11T12:17:20.000Z"
+}

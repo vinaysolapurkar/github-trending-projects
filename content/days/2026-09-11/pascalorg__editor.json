@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-11",
+  "owner": "pascalorg",
+  "name": "editor",
+  "full_name": "pascalorg/editor",
+  "url": "https://github.com/pascalorg/editor",
+  "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+  "language": "TypeScript",
+  "stars_total": 23317,
+  "stars_today": 83,
+  "one_liner": "A free, browser-based 3D tool for designing buildings and rooms, that AI agents can also drive directly to help lay things out.",
+  "buyer": "An interior designer, real-estate agent, or furniture retailer who needs to show clients realistic room layouts without expensive CAD software or a hired 3D artist.",
+  "business_use_cases": [
+    "A furniture retailer embeds it as a 'design your room with our products' tool on their e-commerce site to boost conversion and reduce returns.",
+    "A real-estate agent uses it to quickly mock up renovation or staging ideas for listings without hiring a 3D artist.",
+    "An interior-design freelancer uses the CLI/MCP tooling to let an AI agent draft first-pass room layouts from a client brief, then refines them."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build and sell an embeddable 'design your space' widget for furniture and home-decor e-commerce sites.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Offer a done-for-you rendering service: take a client's room photos/specs and deliver a finished 3D layout.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build a simple 'drag our furniture catalog into your room' embed for one local furniture store this weekend using the existing editor and product placement.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-11T12:17:20.000Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-11",
+  "owner": "armory3d",
+  "name": "armorpaint",
+  "full_name": "armory3d/armorpaint",
+  "url": "https://github.com/armory3d/armorpaint",
+  "description": "Graphics Creation Tools",
+  "language": "C",
+  "stars_total": 4599,
+  "stars_today": 72,
+  "one_liner": "Free, open-source software for painting realistic textures onto 3D models — the kind of paint job that makes a game character's armor look scratched, rusty, or worn.",
+  "buyer": "An indie game studio or freelance 3D artist who needs professional texture-painting tools but can't justify a Substance Painter subscription.",
+  "business_use_cases": [
+    "A freelance 3D artist uses it (paying for the compiled binary) to deliver texture work to indie game clients at a lower cost basis than commercial tools.",
+    "A game-asset marketplace seller creates and sells texture packs made with it, undercutting competitors who priced in expensive software licenses.",
+    "An art school teaches texturing fundamentals with it since students can use it for free while learning industry-relevant workflows."
+  ],
+  "money_ideas": [
+    {
+      "idea": "The project already sells compiled binaries directly to fund development — a proven, working model.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell premade texture/material packs built with the tool on asset marketplaces.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Use it to batch-produce a themed texture pack (e.g. 'sci-fi armor materials') this weekend and list it on a game-asset marketplace.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-11T12:17:20.000Z"
+}

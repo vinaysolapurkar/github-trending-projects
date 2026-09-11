@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-11",
+  "owner": "nashsu",
+  "name": "llm_wiki",
+  "full_name": "nashsu/llm_wiki",
+  "url": "https://github.com/nashsu/llm_wiki",
+  "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+  "language": "TypeScript",
+  "stars_total": 18456,
+  "stars_today": 142,
+  "one_liner": "A desktop app that reads through all your documents and automatically builds a tidy, cross-linked wiki out of them, instead of you manually organizing notes.",
+  "buyer": "A researcher, consultant, or small team drowning in PDFs and reports who wants a self-organizing knowledge base without manual tagging.",
+  "business_use_cases": [
+    "A research lab feeds years of papers and reports into it to get an instantly browsable internal wiki instead of a folder of unsearchable PDFs.",
+    "A consulting firm builds a client-knowledge wiki automatically from meeting notes and reports, cutting the time analysts spend organizing findings.",
+    "A journalist or investigator organizes source documents on a long-running investigation into a searchable, linked knowledge base."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a hosted/managed version for teams that don't want to run it themselves, priced per seat.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell a one-time 'wiki migration' service that ingests a client's existing document archive and delivers a finished knowledge base.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Run it against a local nonprofit or small firm's shared drive of old reports this weekend and hand them back a working internal wiki as a paid pilot.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-11T12:17:20.000Z"
+}

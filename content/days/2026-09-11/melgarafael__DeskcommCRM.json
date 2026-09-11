@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-11",
+  "owner": "melgarafael",
+  "name": "DeskcommCRM",
+  "full_name": "melgarafael/DeskcommCRM",
+  "url": "https://github.com/melgarafael/DeskcommCRM",
+  "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+  "language": "TypeScript",
+  "stars_total": 1080,
+  "stars_today": 126,
+  "one_liner": "A self-hosted CRM where AI agents chat with your customers on WhatsApp, qualify leads, and help close sales — you run it on your own server instead of paying a monthly SaaS fee.",
+  "buyer": "A small business owner in Latin America (or anywhere WhatsApp is the primary sales channel) who currently loses leads because no one can respond to WhatsApp messages fast enough.",
+  "business_use_cases": [
+    "A real-estate agency deploys it so an AI agent handles the first round of WhatsApp inquiries about listings overnight and on weekends, only escalating hot leads to a human.",
+    "A local clinic or salon uses it to auto-confirm appointments and answer FAQ questions over WhatsApp without hiring a receptionist.",
+    "A regional e-commerce seller runs it to recover abandoned-cart conversations by chatting with customers directly in WhatsApp."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a done-for-you managed-hosting package (the install kit already targets one VPS provider) with monthly support.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Charge a one-time setup + WhatsApp integration fee for small businesses that don't want to self-host.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Take an affiliate cut from the VPS hosting partnership already built into the install script.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Set up the one-command installer for three local WhatsApp-heavy businesses (salon, clinic, small shop) this weekend and charge a flat setup fee — the installer already does the hard part.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-11T12:17:20.000Z"
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-11",
+  "owner": "nab138",
+  "name": "iloader",
+  "full_name": "nab138/iloader",
+  "url": "https://github.com/nab138/iloader",
+  "description": "User friendly sideloader",
+  "language": "TypeScript",
+  "stars_total": 2795,
+  "stars_today": 36,
+  "one_liner": "A free desktop app that makes it easier to install unofficial apps and jailbreak-adjacent tools onto an iPhone by handling the technical pairing steps for you.",
+  "buyer": "No real paying buyer — this serves hobbyists in the iOS sideloading community who expect free, open-source tools and would resist any paywall.",
+  "business_use_cases": [
+    "A device-repair shop could offer 'app sideloading setup' as an add-on service to walk-in customers, using the tool to do the technical work.",
+    "A tech YouTuber creates sponsored tutorial content around it to drive channel growth, monetizing the audience rather than the tool.",
+    "A niche hardware accessory seller (e.g., pairing cables, dev boards) cross-promotes to the same enthusiast audience."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid, hands-on remote setup sessions for less technical users who don't want to do it themselves.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This is a free community utility, not a product to clone for profit — the honest weekend project is a paid 'we'll do it for you' concierge sideloading service, not the software itself.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-11T12:17:20.000Z"
+}

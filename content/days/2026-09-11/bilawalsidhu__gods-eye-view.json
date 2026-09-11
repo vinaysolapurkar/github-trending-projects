@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-11",
+  "owner": "bilawalsidhu",
+  "name": "gods-eye-view",
+  "full_name": "bilawalsidhu/gods-eye-view",
+  "url": "https://github.com/bilawalsidhu/gods-eye-view",
+  "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+  "language": "JavaScript",
+  "stars_total": 25886,
+  "stars_today": 1762,
+  "one_liner": "A free website that shows a live, spinnable 3D globe with real flights, ships, satellites, earthquakes, and public cameras — like a spy-movie command center anyone can open in a browser.",
+  "buyer": "A media company or corporate training studio that needs dramatic, real-time 'world situation' visuals for broadcasts, briefings, or simulations without building custom mapping software.",
+  "business_use_cases": [
+    "A news channel licenses a hosted, branded version to show live flight/ship disruptions during breaking-news segments instead of static maps.",
+    "A logistics or insurance company embeds the live-tracking layer into a client dashboard to visualize shipping and flight risk in real time.",
+    "An events company builds immersive 'mission control' installations for conferences and trade-show booths using the globe as a centerpiece."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a hosted, white-labeled version with a company's branding and data layers for a monthly fee.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell a one-time 'custom build' service adding a client's proprietary data feed (fleet, assets, stores) onto the globe.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Fork it, add one company's fleet-tracking feed as a custom layer, and pitch it this weekend to a local logistics or delivery company as a live ops dashboard.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-11T12:17:20.000Z"
+}

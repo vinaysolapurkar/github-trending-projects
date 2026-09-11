@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-11",
+  "owner": "alphaXiv",
+  "name": "OpenResearch",
+  "full_name": "alphaXiv/OpenResearch",
+  "url": "https://github.com/alphaXiv/OpenResearch",
+  "description": "Run parallel research agents with any model",
+  "language": "Rust",
+  "stars_total": 1053,
+  "stars_today": 210,
+  "one_liner": "A local app that turns your AI coding assistant into a research assistant that can review papers, form hypotheses, and run experiments for you.",
+  "buyer": "A university lab or R&D team that wants to speed up literature review and hypothesis generation without hiring more research assistants.",
+  "business_use_cases": [
+    "A university research group uses it to accelerate literature review across a large corpus of papers before starting new experiments.",
+    "A corporate R&D team runs exploratory hypothesis generation on internal data before committing budget to full studies.",
+    "A science-focused consultancy offers 'accelerated literature review' as a paid service to clients using this as the engine."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a hosted, managed version for labs that don't want to self-host, priced per seat.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell a 'research acceleration' consulting service using it as the delivery engine for clients.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Run a real literature-review request for a local grad-student group this weekend and charge a flat fee for a delivered summary report.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-11T12:17:20.000Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-11",
+  "owner": "vastsa",
+  "name": "PI-Desktop",
+  "full_name": "vastsa/PI-Desktop",
+  "url": "https://github.com/vastsa/PI-Desktop",
+  "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+  "language": "TypeScript",
+  "stars_total": 2602,
+  "stars_today": 624,
+  "one_liner": "A desktop app that gives AI coding assistants their own workspace — like a control room where you can watch, review, and manage multiple AI coding sessions across projects.",
+  "buyer": "A professional software developer or small dev team already paying for AI coding tools who wants one workspace instead of juggling terminals and editor plugins.",
+  "business_use_cases": [
+    "A dev agency standardizes internal AI-assisted workflows on it to give clients visibility into which AI changes were reviewed and approved.",
+    "A solo indie developer runs several AI agents on side projects in parallel, using it as mission control instead of multiple terminal windows.",
+    "A coding bootcamp uses it to teach students how to safely review and approve AI-generated code changes."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build and sell premium plugins/panels (analytics, team dashboards, compliance logging) on top of the free open-source core.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer a hosted 'team' tier with shared session history and permissions for companies.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This is a crowded, well-funded category (competes with Cursor, established IDEs) — not a realistic weekend clone; the real opportunity is building one paid plugin for it, not the app itself.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-11T12:17:20.000Z"
+}

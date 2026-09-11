@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-11-001",
+  "date": "2026-09-11",
+  "repo_a": "pascalorg/editor",
+  "repo_b": "melgarafael/DeskcommCRM",
+  "title": "Design It On WhatsApp, Buy It On WhatsApp",
+  "pitch": "Pascal's browser-based 3D room editor lets a shopper drag real furniture SKUs into a floor plan and see exactly how a room would look. DeskcommCRM is a self-hosted CRM where an AI agent chats with customers on WhatsApp and can qualify and close sales. Chain them: a furniture retailer sends a customer a link to a pre-loaded Pascal layout of their room, the customer tweaks it and shares a screenshot back into WhatsApp, and DeskcommCRM's AI agent picks up the conversation from there — answering questions about the exact pieces in the layout, checking stock, and pushing the customer to checkout, all inside the same WhatsApp thread the customer already opened. No sales rep has to context-switch between a design tool and a chat inbox. A furniture or home-decor retailer selling through WhatsApp (extremely common in Latin America and parts of Asia) gets a designed room and a closed sale out of one conversation instead of losing the customer between two disconnected tools.",
+  "why_now": "Both projects trended the same day for a shared underlying reason — letting an AI agent carry a customer conversation all the way from 'browsing' to 'ready to buy' without a human in the loop — and WhatsApp-native commerce is exactly the channel where a visual design step has been missing until now."
+}

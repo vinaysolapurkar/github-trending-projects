@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-11",
+  "owner": "ayghri",
+  "name": "i-have-adhd",
+  "full_name": "ayghri/i-have-adhd",
+  "url": "https://github.com/ayghri/i-have-adhd",
+  "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+  "language": "Python",
+  "stars_total": 39999,
+  "stars_today": 3882,
+  "one_liner": "A plugin for AI coding assistants that forces them to answer straight — no rambling, no 'great question!' filler, just the next concrete step.",
+  "buyer": "A freelance developer or small dev-team lead who bills by the hour and is tired of paying for AI assistant chatter instead of code.",
+  "business_use_cases": [
+    "A dev-tools consultancy bundles it into a 'AI coding hygiene' onboarding package for client teams adopting Claude Code or similar.",
+    "A coding bootcamp installs it across student environments so beginners get short, numbered instructions instead of overwhelming AI essays.",
+    "An agency running AI-assisted freelance work standardizes on it to keep AI output consistent and fast to scan across many contractors."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'enterprise tuning' service that customizes the rule set for a company's internal coding standards.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Bundle it as part of a broader paid 'AI agent configuration pack' sold to dev teams.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Package a small marketplace of these tone/behavior tweaks (ADHD-friendly, terse, verbose-for-juniors, etc.) as a $9 'agent personality pack' this weekend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-11T12:17:20.000Z"
+}

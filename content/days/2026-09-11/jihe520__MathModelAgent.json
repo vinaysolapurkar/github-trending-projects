@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-11",
+  "owner": "jihe520",
+  "name": "MathModelAgent",
+  "full_name": "jihe520/MathModelAgent",
+  "url": "https://github.com/jihe520/MathModelAgent",
+  "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+  "language": "Python",
+  "stars_total": 4739,
+  "stars_today": 132,
+  "one_liner": "An AI agent that does mathematical modeling competition work for you — it takes a problem statement and produces a full, submission-ready paper.",
+  "buyer": "A student or small team preparing for math-modeling competitions (like China's national contests) who needs help structuring and writing up a full paper under time pressure.",
+  "business_use_cases": [
+    "A tutoring center offers 'math modeling competition prep' packages built around the tool, guiding students through practice problems with AI-assisted write-ups.",
+    "A university math department's student club uses it to run internal practice sessions ahead of national competitions.",
+    "An education content creator builds paid courses teaching modeling methodology, using the tool to demonstrate full worked examples quickly."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a premium hosted version with faster models and more practice problem sets to competition-prep students.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Partner with tutoring centers to license it as part of a paid exam-prep bundle.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Package it as a paid 'weekend crash course' for a local math-modeling competition team, using it to generate and critique practice papers.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-11T12:17:20.000Z"
+}

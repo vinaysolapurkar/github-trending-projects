@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-11",
+  "owner": "alsk1992",
+  "name": "CloddsBot",
+  "full_name": "alsk1992/CloddsBot",
+  "url": "https://github.com/alsk1992/CloddsBot",
+  "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+  "language": "TypeScript",
+  "stars_total": 1949,
+  "stars_today": 277,
+  "one_liner": "A bot that trades prediction markets and crypto automatically for you, chatting with you over apps like Telegram or Discord about what it's doing.",
+  "buyer": "An active crypto/prediction-market trader who wants automated 24/7 trading but doesn't want to write their own bot — though this is a genuinely risky category to build a business on.",
+  "business_use_cases": [
+    "A crypto trading community offers paid access to a shared, configured instance as a member perk for a Discord/Telegram trading group.",
+    "A freelance dev offers paid setup-and-tuning services to traders who want it running but can't configure it themselves.",
+    "A content creator in the crypto space uses it to generate 'the bot made this trade, here's why' content to drive audience engagement."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Charge for managed setup and strategy tuning, since self-hosting and risk configuration is the main friction point.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell access to a curated set of trading strategies/configs as a subscription.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Be honest: this is a financial/regulatory minefield (unlicensed trading advice, custody of funds, a project-associated memecoin listed in its own README). The safer weekend project is a paid 'setup and monitoring' service, not running money through it yourself.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-11T12:17:20.000Z"
+}
