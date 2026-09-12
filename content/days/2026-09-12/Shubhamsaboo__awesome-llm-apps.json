@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-12",
+  "owner": "Shubhamsaboo",
+  "name": "awesome-llm-apps",
+  "full_name": "Shubhamsaboo/awesome-llm-apps",
+  "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+  "language": "Python",
+  "stars_total": 137347,
+  "stars_today": 237,
+  "one_liner": "A giant free catalog of ready-made AI mini-apps and 'skills' (like a fraud-investigation agent or a home-renovation redesigner) that anyone can clone and run.",
+  "buyer": "A solo developer or small agency owner who wants to quickly demo or ship an AI feature (e.g. an insurance-claim assistant) to a client without building it from scratch.",
+  "business_use_cases": [
+    "A freelance AI developer clones a relevant template (e.g. the AI Fraud Investigation Agent) as the starting point for a paid client project, cutting delivery time dramatically.",
+    "A content creator ('Unwind AI') builds a newsletter and course business teaching people how to use and customize these templates.",
+    "An agency packages the 'Project Graveyard' or 'Self-Improving Agent Skills' templates into a productized consulting offer for other developers' teams."
+  ],
+  "money_ideas": [
+    { "idea": "Run a paid newsletter/course teaching non-experts how to deploy and customize these templates for real business problems.", "revenue_model": "subscription" },
+    { "idea": "Offer 'implementation as a service': take a specific template and customize/host it for a paying small-business client.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Pick one high-demand template (like the insurance claim voice agent) and turn it into a polished, hosted micro-SaaS for a specific vertical this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-12T12:04:51.000Z"
+}

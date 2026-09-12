@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-12",
+  "owner": "Flowseal",
+  "name": "zapret-discord-youtube",
+  "full_name": "Flowseal/zapret-discord-youtube",
+  "url": "https://github.com/Flowseal/zapret-discord-youtube",
+  "description": "",
+  "language": "Batchfile",
+  "stars_total": 33162,
+  "stars_today": 52,
+  "one_liner": "A Windows tool that helps people in countries with internet blocking get Discord and YouTube working again, by tricking the network filters that are censoring them.",
+  "buyer": "No legitimate commercial buyer — this is a free circumvention tool built for individual users facing government internet censorship (primarily in Russia), not a business opportunity.",
+  "business_use_cases": [
+    "None that are ethically or commercially sound — its entire purpose is bypassing state network filtering, which sits outside normal business use cases.",
+    "A VPN or proxy company could study its bypass techniques to improve their own commercial censorship-resistant products, but reselling this tool itself is not viable.",
+    "Community tech-support channels (Telegram/Discord) around it could sustain themselves on donations, not product sales."
+  ],
+  "money_ideas": [
+    { "idea": "None recommended — monetizing a censorship-circumvention tool directly is legally and ethically fraught in its target markets.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Not a legitimate weekend business idea. Skip this one.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-12T12:04:51.000Z"
+}

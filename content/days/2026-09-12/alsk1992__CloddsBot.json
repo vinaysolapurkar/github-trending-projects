@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-12",
+  "owner": "alsk1992",
+  "name": "CloddsBot",
+  "full_name": "alsk1992/CloddsBot",
+  "url": "https://github.com/alsk1992/CloddsBot",
+  "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+  "language": "TypeScript",
+  "stars_total": 2315,
+  "stars_today": 377,
+  "one_liner": "A self-hosted AI robot that watches prediction markets, crypto and futures exchanges around the clock and automatically places trades for you, chatting with you like a personal assistant.",
+  "buyer": "An active retail crypto/prediction-market trader who already trades manually across multiple exchanges and wants an assistant that watches markets and executes strategies while they're away, but is willing to accept real financial risk from an experimental tool.",
+  "business_use_cases": [
+    "A trading educator sells a paid course teaching people how to configure and run their own instance safely with proper risk limits.",
+    "A crypto-focused dev shop offers paid setup, security-hardening, and custom-strategy consulting for traders who want it self-hosted correctly.",
+    "A boutique fund experiments with running a modified version internally as one input into a broader automated trading strategy (high risk, needs strict oversight)."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid 'safe setup and strategy configuration' consulting service, since misconfiguration here can lose real money fast.", "revenue_model": "one-off" },
+    { "idea": "Run a token/community around it (as the project's own $CLODDS token shows) and monetize community access.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Sell a paid onboarding/audit service that reviews someone's config and risk limits before they let it trade real money — the tool is powerful but genuinely risky to run blind.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-12T12:04:51.000Z"
+}

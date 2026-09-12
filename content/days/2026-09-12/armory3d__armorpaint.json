@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-12",
+  "owner": "armory3d",
+  "name": "armorpaint",
+  "full_name": "armory3d/armorpaint",
+  "url": "https://github.com/armory3d/armorpaint",
+  "description": "Graphics Creation Tools",
+  "language": "C",
+  "stars_total": 4826,
+  "stars_today": 237,
+  "one_liner": "Software for painting realistic textures directly onto 3D models, similar in purpose to expensive professional tools used by game and film studios.",
+  "buyer": "An indie game developer or freelance 3D artist who needs professional-grade texture painting but can't afford (or wants an alternative to) Substance Painter's subscription.",
+  "business_use_cases": [
+    "A freelance 3D artist uses it as their primary paid texturing tool for client game-asset commissions, saving on software licensing costs.",
+    "An indie game studio standardizes on it project-wide to avoid recurring Substance Painter subscription fees across a whole art team.",
+    "A 3D-art educator builds a paid tutorial course teaching game texturing specifically using this free tool as an accessible alternative for students."
+  ],
+  "money_ideas": [
+    { "idea": "The project itself already sells paid pre-built binaries to fund development, while source stays free — a proven model worth studying.", "revenue_model": "one-off" },
+    { "idea": "Build and sell texture packs, brushes, or plugins compatible with it to the indie game-dev community.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Create and sell a curated pack of game-ready texture presets/brushes for it, marketed to indie devs looking to avoid Substance Painter subscriptions.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-12T12:04:51.000Z"
+}

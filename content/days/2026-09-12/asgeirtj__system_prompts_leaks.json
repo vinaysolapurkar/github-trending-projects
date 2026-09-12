@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-12",
+  "owner": "asgeirtj",
+  "name": "system_prompts_leaks",
+  "full_name": "asgeirtj/system_prompts_leaks",
+  "url": "https://github.com/asgeirtj/system_prompts_leaks",
+  "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+  "language": "JavaScript",
+  "stars_total": 65004,
+  "stars_today": 216,
+  "one_liner": "A running library of the hidden instructions that popular AI chatbots (ChatGPT, Claude, Gemini, Grok, and more) are secretly given before you type your first message.",
+  "buyer": "An AI prompt-engineering consultant or course creator who wants source material to teach clients how leading AI products are actually instructed to behave.",
+  "business_use_cases": [
+    "A prompt-engineering trainer builds a paid course using these leaked prompts as real-world case studies of professional system prompt design.",
+    "A competitive-intelligence analyst at an AI startup studies competitors' leaked prompts to understand their guardrails and feature roadmaps.",
+    "A journalist or newsletter writer (as already happened with the Washington Post) builds an interactive explainer article sourced from this repo's content."
+  ],
+  "money_ideas": [
+    { "idea": "Publish a paid newsletter or e-book that analyzes and explains the differences between major AI products' system prompts as they evolve.", "revenue_model": "subscription" },
+    { "idea": "Build a searchable, well-organized web app on top of the raw files and monetize with ads or a 'pro' tier with alerts on new leaks.", "revenue_model": "ads" }
+  ],
+  "steal_this": "Build a simple searchable/diffable web viewer over this repo's files so people can compare how a model's system prompt changed version to version, and put ads or an email capture on it.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-12T12:04:51.000Z"
+}

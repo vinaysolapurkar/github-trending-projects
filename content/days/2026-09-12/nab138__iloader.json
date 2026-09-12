@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-12",
+  "owner": "nab138",
+  "name": "iloader",
+  "full_name": "nab138/iloader",
+  "url": "https://github.com/nab138/iloader",
+  "description": "User friendly sideloader",
+  "language": "TypeScript",
+  "stars_total": 2996,
+  "stars_today": 209,
+  "one_liner": "A desktop app that makes it easy to install unofficial apps onto an iPhone without going through Apple's App Store.",
+  "buyer": "Not really a business buyer — this serves individual hobbyists and jailbreak/sideloading enthusiasts who want free apps like emulators that Apple won't allow in its store.",
+  "business_use_cases": [
+    "A niche tech YouTuber builds tutorial content and a Patreon around sideloading and iOS customization, using this tool as the star of their videos.",
+    "A small IT shop that supports enterprise-distributed internal iOS apps could reference its certificate-management workflow, though enterprise MDM tools already do this legitimately.",
+    "A community Discord server for sideloading enthusiasts grows around it and monetizes through donations or sponsorships, not the software itself."
+  ],
+  "money_ideas": [
+    { "idea": "Accept donations/sponsorships from the sideloading community to sustain development; direct monetization of the tool itself is limited by its free, community nature.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Not a real weekend business opportunity — it's a free utility for a hobbyist niche with legal gray areas (bypassing App Store distribution). Content/education around the niche is the only monetizable angle.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-12T12:04:51.000Z"
+}

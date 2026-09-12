@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-12",
+  "owner": "jihe520",
+  "name": "MathModelAgent",
+  "full_name": "jihe520/MathModelAgent",
+  "url": "https://github.com/jihe520/MathModelAgent",
+  "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+  "language": "Python",
+  "stars_total": 4997,
+  "stars_today": 264,
+  "one_liner": "An AI assistant that takes a math-modeling competition problem and automatically writes the code, runs the analysis, and produces a finished, submission-ready paper.",
+  "buyer": "A university student or small tutoring center preparing teams for mathematical modeling competitions (like MCM/ICM) who wants to cut days of paper-writing down to hours.",
+  "business_use_cases": [
+    "A math-competition tutoring center offers a paid 'AI-assisted modeling bootcamp' where students learn using this tool to speed up practice rounds.",
+    "An academic services company sells a hosted version to student teams as exam-season 'writing assistant' access during major competition seasons.",
+    "A freelance tutor bundles access plus personal coaching as a premium package for teams entering MCM/ICM or China's national modeling contest."
+  ],
+  "money_ideas": [
+    { "idea": "Sell seasonal access to a hosted version timed around major competition deadlines (already teased with an online version at mathmodel.top).", "revenue_model": "subscription" },
+    { "idea": "Offer paid template packs and coaching bundled with the tool for competition prep services.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Package the hosted online version with a handful of competition-specific templates and sell timed access during MCM/ICM and national contest seasons.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-12T12:04:51.000Z"
+}

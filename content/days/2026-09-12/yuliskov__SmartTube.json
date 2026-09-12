@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-12",
+  "owner": "yuliskov",
+  "name": "SmartTube",
+  "full_name": "yuliskov/SmartTube",
+  "url": "https://github.com/yuliskov/SmartTube",
+  "description": "Browse media content with your own rules on Android TV",
+  "language": "Java",
+  "stars_total": 33077,
+  "stars_today": 247,
+  "one_liner": "A free alternative YouTube app for Android TVs and streaming boxes that skips ads and sponsor segments and works on older or budget devices.",
+  "buyer": "No real commercial buyer — this is a free hobbyist app for individual cord-cutters wanting an ad-free YouTube experience on their TV, and it competes directly with YouTube's own official (ad-supported) app.",
+  "business_use_cases": [
+    "A refurbished-electronics reseller pre-installs it on budget Android TV boxes as a selling point for a 'better streaming experience' bundle.",
+    "A tech support freelancer offers a paid 'set up your smart TV/streaming box the right way' house-call service that includes installing and configuring apps like this one.",
+    "A YouTube channel about cord-cutting and home theater setups builds an audience and ad revenue around tutorials featuring it."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid in-person or remote tech setup services for older TV boxes, using this as one of several apps installed for clients.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Not a real product opportunity itself — it's a free open-source app whose entire value is skipping ads on someone else's platform. Any business angle is services-around-it, not the software.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-12T12:04:51.000Z"
+}

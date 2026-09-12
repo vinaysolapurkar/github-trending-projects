@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-12",
+  "owner": "SnailSploit",
+  "name": "Claude-Red",
+  "full_name": "SnailSploit/Claude-Red",
+  "url": "https://github.com/SnailSploit/Claude-Red",
+  "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+  "language": "Python",
+  "stars_total": 3348,
+  "stars_today": 99,
+  "one_liner": "A pack of expert 'cheat sheets' that turns an AI coding assistant into a knowledgeable helper for authorized security testing, covering everything from website hacking techniques to exploit writing.",
+  "buyer": "A boutique penetration-testing or bug-bounty firm that wants its consultants to work faster on authorized client engagements by having an AI assistant pre-loaded with structured attack methodology.",
+  "business_use_cases": [
+    "A penetration-testing consultancy standardizes its junior testers on these skills to speed up authorized client engagements and reports.",
+    "A cybersecurity bootcamp builds paid training modules and CTF practice around the skill library to teach students structured offensive methodology.",
+    "A bug-bounty hunter uses it as a personal productivity tool to systematically work through attack surfaces faster, increasing bounty throughput."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid, curated/maintained 'pro' version with updated techniques and vetted quality for security firms who don't want to manage it themselves.", "revenue_model": "subscription" },
+    { "idea": "Build a paid training course or certification program using the skill categories as its curriculum.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build a short paid workshop or cohort course that teaches one category (e.g. web app skills) using this library as the teaching material, clearly scoped to authorized/legal testing.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-12T12:04:51.000Z"
+}

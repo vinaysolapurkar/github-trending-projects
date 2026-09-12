@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-12",
+  "owner": "bilawalsidhu",
+  "name": "gods-eye-view",
+  "full_name": "bilawalsidhu/gods-eye-view",
+  "url": "https://github.com/bilawalsidhu/gods-eye-view",
+  "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+  "language": "JavaScript",
+  "stars_total": 28102,
+  "stars_today": 2265,
+  "one_liner": "A free 3D globe in your browser that shows real, live flights, ships, satellites, earthquakes and public cameras, all in one place, with a voice-controlled camera.",
+  "buyer": "A local TV news station's digital producer who needs quick, dramatic visuals of a breaking event (a wildfire, a ship incident, a storm) without paying for expensive satellite imagery services.",
+  "business_use_cases": [
+    "A news outlet uses it to generate embeddable 'live tracker' widgets for breaking stories about flights, storms, or shipping incidents.",
+    "A logistics consultant offers a paid dashboard built on top of it for clients who want to visually monitor their fleet of trucks or ships alongside public air/sea traffic.",
+    "A corporate training company licenses a branded version as an immersive situational-awareness demo for security and intelligence-analyst courses."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a hosted, white-labeled version with custom branding and extra data layers to newsrooms and logistics companies.", "revenue_model": "subscription" },
+    { "idea": "Offer a one-time paid 'setup and data-key bundle' service for non-technical clients who don't want to configure Cesium/Google Maps keys themselves.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build a niche 'live tracker' embed widget (e.g. just wildfire smoke + flight diversions) for local news sites, sold as a weekly subscription plugin.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-12T12:04:51.000Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-12",
+  "owner": "melgarafael",
+  "name": "DeskcommCRM",
+  "full_name": "melgarafael/DeskcommCRM",
+  "url": "https://github.com/melgarafael/DeskcommCRM",
+  "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+  "language": "TypeScript",
+  "stars_total": 1564,
+  "stars_today": 505,
+  "one_liner": "A customer-relationship system you run yourself where an AI assistant answers, qualifies and sells to customers over WhatsApp, instead of a human sales rep replying to every chat.",
+  "buyer": "A small e-commerce or services business in Brazil that currently handles every sale over WhatsApp by hand and wants to stop losing leads overnight or during busy hours.",
+  "business_use_cases": [
+    "A boutique clothing store connects it to their WhatsApp Business number so an AI agent answers 'is this in stock' questions and books sizes 24/7.",
+    "A dental clinic uses it to qualify appointment requests and automatically confirm bookings without staff manually replying to every WhatsApp message.",
+    "A digital marketing agency resells hosted instances to their small-business clients as a 'WhatsApp sales assistant' add-on service."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a done-for-you hosted deployment (on a partner VPS) for non-technical shop owners who can't self-host.", "revenue_model": "subscription" },
+    { "idea": "Charge a setup fee to configure the WhatsApp connection, AI prompts, and sales flows for a specific business.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Package the HostGator one-command install into a weekend 'WhatsApp AI sales assistant in a box' service targeted at Brazilian small retailers, charging a flat setup fee plus monthly hosting.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-12T12:04:51.000Z"
+}

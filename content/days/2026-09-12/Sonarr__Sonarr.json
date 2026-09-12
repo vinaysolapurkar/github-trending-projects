@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-12",
+  "owner": "Sonarr",
+  "name": "Sonarr",
+  "full_name": "Sonarr/Sonarr",
+  "url": "https://github.com/Sonarr/Sonarr",
+  "description": "Smart PVR for newsgroup and bittorrent users.",
+  "language": "C#",
+  "stars_total": 15834,
+  "stars_today": 228,
+  "one_liner": "Free software that automatically finds and downloads new episodes of your favorite TV shows as soon as they're available, and keeps your collection organized.",
+  "buyer": "No real commercial buyer — this is a mature, community-funded hobbyist tool for people running their own home media servers, and its core use case (automated torrent/usenet downloading) sits in a legal gray area that limits business use.",
+  "business_use_cases": [
+    "A home-server hardware reseller bundles pre-configured 'media server' devices that include it, selling convenience rather than the software itself.",
+    "A hosting provider selling 'seedbox' or self-hosted app hosting includes one-click Sonarr deployment as a value-add for subscribers.",
+    "A tech YouTuber builds a home-lab tutorial series around it to grow an audience, monetizing content rather than the tool."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid managed-hosting or one-click deployment of it as part of a broader self-hosted media server package.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Not really a weekend business idea — it's a mature, donation-funded open-source project. The closest opportunity is a paid setup/hosting service around the broader self-hosted media stack it belongs to.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-12T12:04:51.000Z"
+}

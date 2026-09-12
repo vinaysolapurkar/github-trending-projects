@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-12",
+  "owner": "vxcontrol",
+  "name": "pentagi",
+  "full_name": "vxcontrol/pentagi",
+  "url": "https://github.com/vxcontrol/pentagi",
+  "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+  "language": "Go",
+  "stars_total": 23083,
+  "stars_today": 250,
+  "one_liner": "A self-hosted system of AI agents that can automatically run authorized security tests against a company's own systems and produce a professional vulnerability report.",
+  "buyer": "A mid-sized company's internal security team that wants to run frequent, low-cost automated penetration tests between the expensive annual audits they already pay outside firms for.",
+  "business_use_cases": [
+    "An internal security team runs it continuously in a sandboxed environment to catch new vulnerabilities between scheduled third-party pentests.",
+    "A boutique cybersecurity consultancy uses it to accelerate the reconnaissance and reporting phase of client engagements, taking on more clients with the same headcount.",
+    "A managed security service provider (MSSP) offers 'continuous automated pentesting' as a new subscription tier for small-business clients who can't afford full manual pentests."
+  ],
+  "money_ideas": [
+    { "idea": "Launch an MSSP-style 'continuous automated pentesting' subscription for small and mid-sized businesses built on top of it.", "revenue_model": "subscription" },
+    { "idea": "Offer paid deployment, hardening, and monitoring setup services for security teams who want to run it safely in production.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Package it as a monthly 'automated pentest health check' subscription for small businesses that can't afford traditional manual pentest firms, with a human reviewing the AI's findings before delivery.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-12T12:04:51.000Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-12-001",
+  "date": "2026-09-12",
+  "repo_a": "bilawalsidhu/gods-eye-view",
+  "repo_b": "multimodal-art-projection/YuE",
+  "title": "World Pulse",
+  "pitch": "Wire God's Eye View's live global data feed (flight density, seismic activity, ship traffic, wildfire spread) into YuE2's agentic music generator so the mood, tempo, and instrumentation of a generated soundtrack shift in real time with what's actually happening on Earth right now — calm ambient pads on a quiet night, tense strings when a storm cluster forms over the Atlantic. Sell it as a live 'ambient news score' for Twitch streamers doing 24/7 world-events streams, gallery/art installations, and newsroom livestream backgrounds, priced as a monthly API subscription per channel.",
+  "why_now": "Both projects trended the same day: one gives a rich, constantly-updating stream of real-world signals, the other gives agentic, controllable music generation good enough to score with. Livestreaming and ambient 'world dashboard' content is already popular; nobody has wired a generative soundtrack directly to live planetary data yet."
+}

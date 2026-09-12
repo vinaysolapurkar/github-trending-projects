@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-12",
+  "owner": "multimodal-art-projection",
+  "name": "YuE",
+  "full_name": "multimodal-art-projection/YuE",
+  "url": "https://github.com/multimodal-art-projection/YuE",
+  "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+  "language": "Python",
+  "stars_total": 7022,
+  "stars_today": 193,
+  "one_liner": "An AI that writes and performs full songs (vocals and instruments) from just lyrics and a style prompt, and lets you edit the melody and chords like a musician would.",
+  "buyer": "An indie content creator or small ad agency that needs custom, royalty-free background music or jingles quickly and can't afford a composer or licensed music library subscription.",
+  "business_use_cases": [
+    "A YouTuber or podcaster generates unique intro/outro music and background tracks for every episode instead of paying for stock music licenses.",
+    "A small ad agency creates custom jingles for local business clients (radio spots, social ads) on demand, cheaper than hiring a jingle composer.",
+    "An indie game developer generates a full adaptive soundtrack for their game without a music budget, since it needs a GPU with 24GB VRAM but no ongoing licensing fees."
+  ],
+  "money_ideas": [
+    { "idea": "Run a hosted 'custom jingle/background music on demand' service for small businesses and creators using it on the backend.", "revenue_model": "usage" },
+    { "idea": "Sell packs of pre-generated royalty-free tracks in specific styles to content creators.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Set up a simple website where a small business types a vibe and gets back a custom 30-second jingle, priced per track — powered by this model on a rented GPU.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-12T12:04:51.000Z"
+}

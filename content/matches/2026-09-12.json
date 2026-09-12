@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-12",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing today automates short-form video editing; we'll notify when it trends." },
+    { "problem_id": "p002", "repo": null, "why": "Nothing today generates product photography for e-commerce." },
+    { "problem_id": "p003", "repo": null, "why": "Worktrunk manages parallel git worktrees for agents, but doesn't solve an agent forgetting project context between sessions." },
+    { "problem_id": "p004", "repo": null, "why": "Nothing today addresses AI code quality/over-engineering specifically." },
+    { "problem_id": "p005", "repo": null, "why": "No PDF/research-organization tool trended today." },
+    { "problem_id": "p006", "repo": "bilawalsidhu/gods-eye-view", "why": "It's built exactly for this: a live 3D globe of real flights, ships, satellites and disasters that a news creator can use as visual footage for breaking stories.", "confidence": "high" },
+    { "problem_id": "p007", "repo": null, "why": "No bioinformatics tooling trended today." },
+    { "problem_id": "p008", "repo": null, "why": "DeskcommCRM is self-hosted but built for WhatsApp sales chat, not a general private law-firm AI chat tool; not a genuine fit." },
+    { "problem_id": "p009", "repo": null, "why": "YuE2 generates music, not narrated video from blog text, so it doesn't fit this need." },
+    { "problem_id": "p010", "repo": null, "why": "No self-hosted notes app trended today." },
+    { "problem_id": "p011", "repo": null, "why": "No codebase-comprehension tool trended today." },
+    { "problem_id": "p012", "repo": "Shubhamsaboo/awesome-llm-apps", "why": "It's a library of 100+ ready-to-clone AI agent and RAG app templates, a natural starting point for someone who wants to build an AI product but doesn't know where to begin.", "confidence": "high" },
+    { "problem_id": "p013", "repo": null, "why": "No restaurant inventory tool trended today." }
+  ]
+}
