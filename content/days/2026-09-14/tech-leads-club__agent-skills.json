@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-14",
+  "owner": "tech-leads-club",
+  "name": "agent-skills",
+  "full_name": "tech-leads-club/agent-skills",
+  "url": "https://github.com/tech-leads-club/agent-skills",
+  "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+  "language": "TypeScript",
+  "stars_total": 5897,
+  "stars_today": 265,
+  "one_liner": "A vetted, security-checked library of 'skills' — pre-built instructions and abilities — that you can plug into AI coding assistants like Claude Code or Cursor to give them new capabilities safely.",
+  "buyer": "An engineering lead at a company standardizing which AI-coding-agent add-ons their developers are allowed to install.",
+  "business_use_cases": [
+    "An enterprise runs a private, audited internal skill registry so developers can't install unvetted AI-agent extensions.",
+    "A dev tools company builds a paid marketplace layer on top, taking a cut of premium skill sales.",
+    "A security consultancy offers 'AI agent supply-chain audits' for companies worried about malicious skills."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a private, compliance-audited registry subscription to enterprises deploying AI coding agents at scale.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Take a marketplace commission on paid premium skills sold through a hosted storefront.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "A dev-tool ecosystem play, not a standalone weekend product — the real opportunity is an enterprise security/compliance layer on top, which needs real security expertise to do credibly.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-14T12:20:59.000Z"
+}

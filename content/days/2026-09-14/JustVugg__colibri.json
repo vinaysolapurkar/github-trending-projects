@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-14",
+  "owner": "JustVugg",
+  "name": "colibri",
+  "full_name": "JustVugg/colibri",
+  "url": "https://github.com/JustVugg/colibri",
+  "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+  "language": "C",
+  "stars_total": 31048,
+  "stars_today": 868,
+  "one_liner": "A free program that lets you run huge, expensive AI 'brains' (the kind normally locked behind paid cloud APIs) directly on a computer you already own, by cleverly shuffling data between your hard drive, memory, and graphics card.",
+  "buyer": "A law firm or clinic's IT lead who needs a powerful AI assistant but is legally barred from sending client data to outside cloud servers.",
+  "business_use_cases": [
+    "A boutique law firm runs a large AI model entirely in-house to draft and review contracts, so no client document ever leaves the building.",
+    "A hardware reseller sells pre-configured 'AI-in-a-box' workstations loaded with Colibrì to hospitals and law firms that need private, on-prem AI.",
+    "A managed-IT consultancy offers a one-time setup + support package that installs and tunes Colibrì for a client's specific hardware."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell preloaded 'sovereign AI' mini-PC appliances bundled with a mid-size model, targeting regulated industries.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a paid setup-and-tuning consulting package for firms that want it installed on their own servers.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell an ongoing support/updates subscription for the appliance business above.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Buy a mid-spec mini-PC, preload it with Colibrì and a capable open model, and sell it this weekend to a local law firm or clinic as a 'private ChatGPT, no subscription, no data leaves the building.'",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-14T12:20:59.000Z"
+}

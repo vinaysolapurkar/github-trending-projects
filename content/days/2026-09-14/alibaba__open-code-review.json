@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-14",
+  "owner": "alibaba",
+  "name": "open-code-review",
+  "full_name": "alibaba/open-code-review",
+  "url": "https://github.com/alibaba/open-code-review",
+  "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+  "language": "Go",
+  "stars_total": 24441,
+  "stars_today": 443,
+  "one_liner": "An AI reviewer that reads a programmer's proposed code changes and leaves precise, line-by-line comments pointing out bugs and security holes — like having a very thorough senior engineer check every change before it ships.",
+  "buyer": "An engineering manager at a 20-50 person software company who wants fewer bugs reaching production without hiring more senior reviewers.",
+  "business_use_cases": [
+    "A dev agency wires it into every client project's pull-request pipeline and advertises 'AI-audited code' as a quality guarantee.",
+    "A coding bootcamp uses it to auto-grade and give detailed feedback on every student assignment instead of paying human graders.",
+    "A SaaS wraps it with billing and dashboards and sells it to small dev teams as a hosted 'PR reviewer' service."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Host it as a per-seat SaaS that plugs into a team's GitHub and reviews every pull request automatically.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Charge usage-based fees per pull request reviewed for teams that only want occasional deep audits.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Stand up a hosted 'PR review bot' this weekend, connect it to a few small dev teams' GitHub repos via webhook, and charge a flat monthly fee per repo.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-14T12:20:59.000Z"
+}

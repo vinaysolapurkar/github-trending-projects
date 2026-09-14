@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-14",
+  "owner": "TauricResearch",
+  "name": "TradingAgents",
+  "full_name": "TauricResearch/TradingAgents",
+  "url": "https://github.com/TauricResearch/TradingAgents",
+  "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+  "language": "Python",
+  "stars_total": 105663,
+  "stars_today": 756,
+  "one_liner": "A framework where a team of specialized AI 'analysts' (one for news, one for fundamentals, one for risk, etc.) debate and vote on trading decisions, mimicking how a real investment committee works.",
+  "buyer": "A retail trading enthusiast or small boutique fund that wants to experiment with structured, multi-perspective AI trade analysis.",
+  "business_use_cases": [
+    "A finance content creator publishes a daily 'AI investment committee' newsletter summarizing the framework's analysis and recommendations.",
+    "A boutique research shop offers backtesting-as-a-service, running the framework against a client's strategy ideas.",
+    "A fintech startup uses it as a research layer feeding into a broader robo-advisor product."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Publish a paid daily/weekly newsletter of the framework's analysis, with clear 'not financial advice' disclaimers.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer one-off backtesting reports to small funds evaluating a strategy idea.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Launch a subscription newsletter presenting its daily multi-agent stock analysis as 'food for thought,' not certified advice — real regulatory and liability homework required before charging real money.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-14T12:20:59.000Z"
+}

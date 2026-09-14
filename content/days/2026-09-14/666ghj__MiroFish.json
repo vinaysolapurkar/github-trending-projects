@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-14",
+  "owner": "666ghj",
+  "name": "MiroFish",
+  "full_name": "666ghj/MiroFish",
+  "url": "https://github.com/666ghj/MiroFish",
+  "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+  "language": "Python",
+  "stars_total": 72838,
+  "stars_today": 524,
+  "one_liner": "Feed it a news story, policy draft, or scenario, and it builds a simulated 'digital population' of AI characters who react to it, letting you rehearse how the real world might respond before you act.",
+  "buyer": "A corporate communications director who wants to pressure-test a controversial announcement before it goes out publicly.",
+  "business_use_cases": [
+    "A PR agency sells 'rehearse the backlash' reports that simulate public reaction to a client's press release before it's sent.",
+    "A publisher or scriptwriter uses it to explore alternate endings for a novel or franchise and gauge audience reaction to each.",
+    "A political consultant tests messaging on a simulated electorate before spending real ad budget."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell one-off 'pre-launch reaction simulation' reports to PR and corporate comms teams.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a subscription dashboard for agencies that run these simulations regularly for multiple clients.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer PR agencies a $500 'test your press release before you publish it' simulation report this weekend — but be upfront that this is a rehearsal tool, not a prediction guarantee.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-14T12:20:59.000Z"
+}

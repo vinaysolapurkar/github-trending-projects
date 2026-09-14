@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-14",
+  "owner": "asgeirtj",
+  "name": "system_prompts_leaks",
+  "full_name": "asgeirtj/system_prompts_leaks",
+  "url": "https://github.com/asgeirtj/system_prompts_leaks",
+  "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+  "language": "JavaScript",
+  "stars_total": 66456,
+  "stars_today": 706,
+  "one_liner": "A collection of the secret internal instructions that companies like Anthropic, OpenAI, and Google give their AI chatbots before you ever type a message.",
+  "buyer": "No legitimate commercial buyer — this is a curiosity/research archive of material the AI companies did not intend to be public.",
+  "business_use_cases": [
+    "None that hold up commercially — the content exists because it was extracted against the intent of the companies that wrote it.",
+    "A journalist or educator might reference it for an article explaining how AI chatbots are steered, but that's content, not a product.",
+    "Prompt engineers might study it for learning purposes, but reselling or productizing leaked material is not a sound foundation."
+  ],
+  "money_ideas": [
+    {
+      "idea": "None recommended — there's no ethical, durable revenue model built on redistributing leaked proprietary material.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Not a business opportunity. Skip this one.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-14T12:20:59.000Z"
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-14",
+  "owner": "huggingface",
+  "name": "transformers",
+  "full_name": "huggingface/transformers",
+  "url": "https://github.com/huggingface/transformers",
+  "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+  "language": "Python",
+  "stars_total": 165801,
+  "stars_today": 152,
+  "one_liner": "The foundational free toolkit that most modern AI models (for text, images, and audio) are built and run on — it's the engine under the hood of countless AI products, not a product itself.",
+  "buyer": "No single specific buyer — it's core infrastructure that engineering teams use to build other products, not something a business pays for directly.",
+  "business_use_cases": [
+    "A consultancy offers paid training or implementation services helping companies adopt it for their own ML pipelines.",
+    "A startup fine-tunes one specific model on it to build a narrow product (e.g. a contract-clause classifier) and sells that product.",
+    "An AI trainer runs paid workshops teaching engineering teams how to use it effectively."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid implementation/training consulting to companies adopting it for their ML stack.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This isn't a weekend business on its own — it's the plumbing. Pick one narrow, specific model built on top of it and turn *that* into a product instead.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-14T12:20:59.000Z"
+}

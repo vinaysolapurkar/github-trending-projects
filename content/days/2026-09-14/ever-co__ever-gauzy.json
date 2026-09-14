@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-14",
+  "owner": "ever-co",
+  "name": "ever-gauzy",
+  "full_name": "ever-co/ever-gauzy",
+  "url": "https://github.com/ever-co/ever-gauzy",
+  "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+  "language": "TypeScript",
+  "stars_total": 5675,
+  "stars_today": 191,
+  "one_liner": "A free, all-in-one business management platform that combines a CRM, payroll/HR, hiring, and project management into one system, instead of paying for five separate SaaS subscriptions.",
+  "buyer": "A small agency or consultancy owner who wants one tool for clients, staff, hiring, and projects but can't afford Salesforce-plus-BambooHR-plus-Asana pricing.",
+  "business_use_cases": [
+    "A small consultancy runs its entire client, payroll, and project operation on a self-hosted instance instead of five paid SaaS tools.",
+    "An IT services company hosts it for small-business clients as a managed, affordable Bitrix24 alternative.",
+    "An industry-specific reseller customizes it for a niche (e.g. recruiting agencies) and resells the tailored version."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Run a hosted multi-tenant SaaS version and undercut established all-in-one business platforms on price.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer one-off implementation and customization services for a specific industry vertical.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Stand up a hosted version this weekend and sell it to a few local agencies as a '$29/month replaces your five SaaS subscriptions' offer.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-14T12:20:59.000Z"
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-14",
+  "owner": "peetzweg",
+  "name": "opendisplay",
+  "full_name": "peetzweg/opendisplay",
+  "url": "https://github.com/peetzweg/opendisplay",
+  "description": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+  "language": "Swift",
+  "stars_total": 3345,
+  "stars_today": 314,
+  "one_liner": "A free app that turns a spare iPhone or iPad into an extra screen for your Mac, over USB or WiFi, without paying a subscription like the paid alternatives require.",
+  "buyer": "No strong paying buyer — it's a free, deliberately-not-monetized alternative aimed at people trying to avoid subscription fees for exactly this feature.",
+  "business_use_cases": [
+    "A hardware accessory shop sells mounting stands and cables designed for using a phone/tablet as a second monitor alongside it.",
+    "A tech YouTuber builds content and affiliate revenue around 'best free second-monitor setup' tutorials featuring it."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a physical mounting-stand accessory bundle that rides on the app's popularity, via affiliate/direct sales.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Not a real software business opportunity — its entire value proposition is being the free alternative to paid apps. The only adjacent business is selling the physical mount/cable accessories.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-14T12:20:59.000Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-14-001",
+  "date": "2026-09-14",
+  "repo_a": "ruvnet/RuView",
+  "repo_b": "debpalash/VoiceStudio",
+  "title": "The Silent Sitter",
+  "pitch": "Combine RuView's camera-free WiFi sensing (fall detection, breathing, heart rate) with VoiceStudio's local voice cloning to build a fully private eldercare companion: when the WiFi sensor notices a fall or a worrying change in vitals, the device speaks a check-in in a cloned voice of a family member (\"Grandma, are you okay? I'm calling your daughter now\") and alerts the family, without a single camera or a single byte of health data ever touching the cloud. Sell it as a hardware kit plus a monthly family-monitoring subscription to adult children caring for aging parents who refuse camera-based monitoring on privacy grounds.",
+  "why_now": "Both projects just crossed a real usability bar this week — WiFi-based vital sign sensing without cameras, and local voice cloning good enough to sound like a real family member — and both run entirely offline, which is exactly what privacy-sensitive eldercare buyers have been waiting for instead of a camera-and-cloud baby-monitor-for-grandparents product."
+}

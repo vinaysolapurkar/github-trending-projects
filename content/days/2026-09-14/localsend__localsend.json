@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-14",
+  "owner": "localsend",
+  "name": "localsend",
+  "full_name": "localsend/localsend",
+  "url": "https://github.com/localsend/localsend",
+  "description": "An open-source cross-platform alternative to AirDrop",
+  "language": "Dart",
+  "stars_total": 90994,
+  "stars_today": 213,
+  "one_liner": "A free app that lets you send files between your phone, laptop, and other devices over your own WiFi — like AirDrop, but it works between any brand of phone or computer.",
+  "buyer": "An IT admin at a school or clinic who needs to move files between devices without using cloud storage or paid transfer apps.",
+  "business_use_cases": [
+    "A school IT department deploys it across mixed Android/iPhone/Windows devices so students and staff can share files without a cloud account.",
+    "A hardware maker (NAS or router vendor) embeds it into their device's firmware as a built-in file-sharing feature.",
+    "An MSP bundles it into a 'secure offline file transfer' package for clients in regulated industries who can't use cloud sync."
+  ],
+  "money_ideas": [
+    {
+      "idea": "License the underlying tech to hardware makers who want built-in cross-platform sharing.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer paid enterprise deployment and support contracts for regulated organizations that need offline file transfer.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Not much to 'steal' here since the app itself is already free and mature with 90k+ stars — the opportunity is a support/deployment service around it, not the app itself.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-14T12:20:59.000Z"
+}

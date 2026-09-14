@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-14",
+  "matches": [
+    {
+      "problem_id": "p001",
+      "repo": null,
+      "why": "Nothing in today's (or recent) trending scrape genuinely solves this; we'll notify when something fitting trends."
+    },
+    {
+      "problem_id": "p002",
+      "repo": null,
+      "why": "Nothing in today's (or recent) trending scrape genuinely solves this; we'll notify when something fitting trends."
+    },
+    {
+      "problem_id": "p003",
+      "repo": "rlaope/oh-my-hermes",
+      "why": "It's literally a long-term memory plugin for the Hermes coding agent, built to solve exactly this forgetting problem.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p004",
+      "repo": null,
+      "why": "Nothing in today's (or recent) trending scrape genuinely solves this; we'll notify when something fitting trends."
+    },
+    {
+      "problem_id": "p005",
+      "repo": null,
+      "why": "Nothing in today's (or recent) trending scrape genuinely solves this; we'll notify when something fitting trends."
+    },
+    {
+      "problem_id": "p006",
+      "repo": null,
+      "why": "Nothing in today's (or recent) trending scrape genuinely solves this; we'll notify when something fitting trends."
+    },
+    {
+      "problem_id": "p007",
+      "repo": null,
+      "why": "Nothing in today's (or recent) trending scrape genuinely solves this; we'll notify when something fitting trends."
+    },
+    {
+      "problem_id": "p008",
+      "repo": "JustVugg/colibri",
+      "why": "It runs large, capable AI models entirely on hardware you own, so no client data or chat content ever reaches an outside cloud server.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p009",
+      "repo": "debpalash/VoiceStudio",
+      "why": "Its local narration and voice-cloning engine can turn written blog text into a spoken audio track, the core step in producing a narrated video.",
+      "confidence": "medium"
+    },
+    {
+      "problem_id": "p010",
+      "repo": null,
+      "why": "Nothing in today's (or recent) trending scrape genuinely solves this; we'll notify when something fitting trends."
+    },
+    {
+      "problem_id": "p011",
+      "repo": null,
+      "why": "Nothing in today's (or recent) trending scrape genuinely solves this; we'll notify when something fitting trends."
+    },
+    {
+      "problem_id": "p012",
+      "repo": null,
+      "why": "Nothing in today's (or recent) trending scrape genuinely solves this; we'll notify when something fitting trends."
+    },
+    {
+      "problem_id": "p013",
+      "repo": null,
+      "why": "Nothing in today's (or recent) trending scrape genuinely solves this; we'll notify when something fitting trends."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-14",
+  "owner": "Crosstalk-Solutions",
+  "name": "project-nomad",
+  "full_name": "Crosstalk-Solutions/project-nomad",
+  "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+  "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+  "language": "TypeScript",
+  "stars_total": 36732,
+  "stars_today": 26,
+  "one_liner": "A self-contained box that holds Wikipedia, thousands of books, courses, maps, and an offline AI tutor — a whole library and school that works with zero internet connection.",
+  "buyer": "A homeschooling family or rural school administrator in an area with unreliable internet who wants a reliable offline learning resource.",
+  "business_use_cases": [
+    "A homeschool co-op sells pre-loaded NOMAD devices to member families as a shared curriculum and reference resource.",
+    "An NGO deploys NOMAD boxes to schools in low-connectivity regions as part of an education outreach program.",
+    "A prepper/off-grid retailer sells it alongside solar and off-grid power gear as a 'knowledge survival kit.'"
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell pre-configured hardware appliances (Raspberry Pi/mini-PC + preloaded content) to homeschoolers and off-grid buyers.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a paid periodic content-refresh subscription that pushes new books and courses to deployed devices.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build and sell a 'library in a box' this weekend: a $150 Raspberry Pi preloaded with NOMAD and core content, marketed to homeschool families and cabin owners.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-14T12:20:59.000Z"
+}

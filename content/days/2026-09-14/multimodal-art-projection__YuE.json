@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-14",
+  "owner": "multimodal-art-projection",
+  "name": "YuE",
+  "full_name": "multimodal-art-projection/YuE",
+  "url": "https://github.com/multimodal-art-projection/YuE",
+  "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+  "language": "Python",
+  "stars_total": 8076,
+  "stars_today": 487,
+  "one_liner": "Give it lyrics and a style, and it composes and sings a full original song — including turning an existing song into a cover in a totally different style.",
+  "buyer": "A small business owner or ad agency that needs a custom jingle or background track but can't afford a composer or licensed stock music.",
+  "business_use_cases": [
+    "A wedding or event planner offers a 'custom song from your love story' add-on, generated in a day instead of commissioned from a musician.",
+    "A YouTuber or TikTok creator generates royalty-free custom background music for every video instead of paying for stock licenses.",
+    "A small ad agency produces a custom jingle for a local business's radio spot in an afternoon instead of booking a studio."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell one-off custom song commissions (weddings, birthdays, small-business jingles) for a flat fee.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Run a subscription 'unlimited royalty-free background music' service for content creators.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Open a $75-per-song 'custom jingle for your business' storefront this weekend — take a business description, generate three options, deliver the best one.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-14T12:20:59.000Z"
+}

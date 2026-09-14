@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-14",
+  "owner": "OpenBMB",
+  "name": "VoxCPM",
+  "full_name": "OpenBMB/VoxCPM",
+  "url": "https://github.com/OpenBMB/VoxCPM",
+  "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+  "language": "Python",
+  "stars_total": 37215,
+  "stars_today": 204,
+  "one_liner": "A text-to-speech engine that turns typed text into natural, expressive speech in multiple languages, and can also clone or design custom voices.",
+  "buyer": "An app developer building an e-learning or accessibility product who needs high-quality narration without per-character cloud TTS fees.",
+  "business_use_cases": [
+    "An e-learning platform narrates course text automatically in multiple languages for international students.",
+    "An accessibility-focused app reads articles or documents aloud for visually impaired users.",
+    "A podcast or audio-content studio prototypes voiceovers quickly before committing to a professional voice actor."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Wrap it as a usage-billed TTS API and resell it to app developers at a markup over the compute cost.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Build a simple 'paste text, get natural narration' subscription web app for content creators.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build a bare-bones 'paste your text, download the narration' web tool this weekend and charge a small monthly fee to non-native-English content creators who need clean narration.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-14T12:20:59.000Z"
+}

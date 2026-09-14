@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-14",
+  "owner": "SnailSploit",
+  "name": "Claude-Red",
+  "full_name": "SnailSploit/Claude-Red",
+  "url": "https://github.com/SnailSploit/Claude-Red",
+  "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+  "language": "Python",
+  "stars_total": 4430,
+  "stars_today": 506,
+  "one_liner": "A library of expert 'playbooks' that teach an AI assistant how to think like a professional penetration tester, covering specific attack techniques for authorized security testing.",
+  "buyer": "A boutique penetration-testing firm or freelance security consultant who wants to deliver authorized security assessments faster with AI assistance.",
+  "business_use_cases": [
+    "A freelance security consultant uses it to speed up authorized penetration tests for small-business clients who can't afford big-firm rates.",
+    "A security training company builds a course teaching AI-assisted red-teaming methodology using the skill library as course material.",
+    "An MSP adds 'AI-augmented security assessment' as a new, lower-cost service tier for existing clients."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer discounted AI-augmented penetration testing engagements to small businesses priced out of traditional pentest firms.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell premium, regularly-updated skill packs to security professionals as a subscription.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Launch a boutique 'AI-augmented pentest for small business' service this weekend — but this only works with a genuinely qualified security operator behind it; the tool accelerates a professional, it doesn't replace one.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-14T12:20:59.000Z"
+}

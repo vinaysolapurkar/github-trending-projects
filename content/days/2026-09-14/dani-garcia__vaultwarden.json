@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-14",
+  "owner": "dani-garcia",
+  "name": "vaultwarden",
+  "full_name": "dani-garcia/vaultwarden",
+  "url": "https://github.com/dani-garcia/vaultwarden",
+  "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+  "language": "Rust",
+  "stars_total": 67417,
+  "stars_today": 110,
+  "one_liner": "A lightweight, self-hosted server that works with the official Bitwarden password-manager apps, so a business can run its own private password vault instead of paying per-user fees to Bitwarden's cloud.",
+  "buyer": "A managed IT service provider (MSP) that wants to offer clients secure password management without per-seat Bitwarden licensing costs.",
+  "business_use_cases": [
+    "An MSP hosts and manages Vaultwarden instances for a dozen small-business clients as part of a security bundle.",
+    "A startup self-hosts it for its own team instead of paying for Bitwarden's business tier, then later offers the setup as a service to others.",
+    "A freelance sysadmin offers a one-time 'set up your own private password manager' installation service to small businesses."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Run a hosted-and-managed Vaultwarden service billed per user per month, undercutting official Bitwarden business pricing.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer a one-time setup, migration, and hardening service for businesses that want to self-host it themselves.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Spin up managed Vaultwarden instances on a few cheap VPS boxes this weekend and sell them to small teams at $2-3/user/month — half of Bitwarden's business price.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-14T12:20:59.000Z"
+}

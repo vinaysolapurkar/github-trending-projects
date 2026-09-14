@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-14",
+  "owner": "debpalash",
+  "name": "VoiceStudio",
+  "full_name": "debpalash/VoiceStudio",
+  "url": "https://github.com/debpalash/VoiceStudio",
+  "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+  "language": "Python",
+  "stars_total": 28161,
+  "stars_today": 2632,
+  "one_liner": "A free, offline app that clones voices, narrates text, dubs videos into other languages, and transcribes speech — the same things ElevenLabs charges a subscription for, but running entirely on your own computer.",
+  "buyer": "A self-published author on Amazon KDP who wants an audiobook version of their book without paying a $200+/hour narration studio.",
+  "business_use_cases": [
+    "A self-publishing author produces and sells the audiobook edition of their own novel without hiring a narrator.",
+    "A YouTube channel dubs its videos into Spanish, Hindi, and Portuguese to reach new audiences without hiring voice actors per language.",
+    "A medical or legal practice uses the local dictation and transcription features to convert dictated notes into text without sending audio to a cloud vendor."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Run a for-hire audiobook production service for indie authors, priced per finished hour of audio.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a video-dubbing subscription service for YouTube channels expanding into new language markets.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell dictation/transcription setup as a one-time service to clinics that need on-prem privacy.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Launch a $150-per-audiobook narration side hustle for self-published authors this weekend — undercut professional studios by 80% using free voice cloning.",
+  "opportunity_rating": 5,
+  "generated_at": "2026-09-14T12:20:59.000Z"
+}

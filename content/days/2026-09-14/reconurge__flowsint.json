@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-14",
+  "owner": "reconurge",
+  "name": "flowsint",
+  "full_name": "reconurge/flowsint",
+  "url": "https://github.com/reconurge/flowsint",
+  "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+  "language": "TypeScript",
+  "stars_total": 8144,
+  "stars_today": 279,
+  "one_liner": "A visual tool for investigators that lets them build a map of connections — people, companies, accounts — while researching a case, instead of tracking everything in scattered notes.",
+  "buyer": "A corporate due-diligence or fraud-investigation analyst who needs to map relationships between entities during a vendor or partner background check.",
+  "business_use_cases": [
+    "A due-diligence firm uses it to build and present relationship maps when vetting new business partners or vendors for clients.",
+    "A private investigator uses it to organize and visualize findings across a multi-person fraud case.",
+    "A corporate security team maps insider-threat or supply-chain risk relationships during an internal investigation."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a one-off 'vendor background check' investigation service for small businesses vetting new partners.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Run a hosted, per-seat subscription version for investigation teams that need it regularly.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer small businesses a $300 'know who you're really doing business with' vendor background-check report this weekend, built using this tool.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-14T12:20:59.000Z"
+}
