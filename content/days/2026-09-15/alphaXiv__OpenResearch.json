@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-15",
+  "owner": "alphaXiv",
+  "name": "OpenResearch",
+  "full_name": "alphaXiv/OpenResearch",
+  "url": "https://github.com/alphaXiv/OpenResearch",
+  "description": "Turn your coding agents into research agents",
+  "language": "Rust",
+  "stars_total": 2901,
+  "stars_today": 568,
+  "one_liner": "A tool that turns AI coding assistants like Claude Code into research assistants that read papers, form hypotheses, and help run experiments for you.",
+  "buyer": "A PhD student or R&D team lead drowning in papers who wants an AI to help triage literature and draft experiment plans.",
+  "business_use_cases": [
+    "A PhD researcher points it at a folder of PDFs to get an organized literature-review draft instead of manually reading a hundred papers.",
+    "A biotech or pharma R&D team uses it to generate and rank hypothesis candidates from published research before committing lab time.",
+    "A science-focused newsletter writer uses it to summarize and cross-reference new papers for weekly content."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a managed cloud-compute tier for teams who don't want to run local models (the project already sells this)",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Build a vertical version tuned for one field, such as clinical-trials literature, and sell it to that niche",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Point it at your own field's last fifty papers this weekend, generate a literature-review draft, and post it publicly as proof it works, then use that as the pitch to sell a vertical version.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-15T12:16:37Z"
+}

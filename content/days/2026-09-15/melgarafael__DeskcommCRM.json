@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-15",
+  "owner": "melgarafael",
+  "name": "DeskcommCRM",
+  "full_name": "melgarafael/DeskcommCRM",
+  "url": "https://github.com/melgarafael/DeskcommCRM",
+  "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+  "language": "TypeScript",
+  "stars_total": 2600,
+  "stars_today": 408,
+  "one_liner": "A customer-chat CRM where AI agents answer, qualify, and sell to customers over WhatsApp automatically, running on your own server instead of paying for Intercom or Kommo.",
+  "buyer": "A small business owner (especially in Brazil or another WhatsApp-first market) who sells through WhatsApp chats and is currently paying monthly for Kommo- or Intercom-style tools.",
+  "business_use_cases": [
+    "A local retailer or clinic auto-qualifies WhatsApp leads overnight so a human only steps in once a customer is ready to buy.",
+    "An agency resells 'done-for-you WhatsApp sales bot setup' to small businesses that don't have technical staff to configure it themselves.",
+    "A hosting/VPS provider bundles one-click DeskcommCRM deployments as a value-add for small-business customers, as the project already does with HostGator."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer managed hosting and setup for non-technical small-business owners who don't want to touch a VPS",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "White-label it as a WhatsApp sales-bot agency service sold to local businesses",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Set it up on a cheap VPS this weekend, wire it to one real WhatsApp Business number for a friend's shop, and sell the working demo as a $99/mo managed service to other local shops.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-15T12:16:37Z"
+}

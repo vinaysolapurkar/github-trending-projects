@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-15",
+  "owner": "tonhowtf",
+  "name": "omniget",
+  "full_name": "tonhowtf/omniget",
+  "url": "https://github.com/tonhowtf/omniget",
+  "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+  "language": "Rust",
+  "stars_total": 12447,
+  "stars_today": 1018,
+  "one_liner": "A free app that downloads videos, courses, and books from almost any site, including YouTube and paid course platforms, and lets you watch, read, or listen to them offline in one place.",
+  "buyer": "Mostly individual users wanting free or offline access to content, including paid course platforms — there is no clean legitimate business buyer here.",
+  "business_use_cases": [
+    "A field worker with unreliable internet uses it to archive their own already-purchased courses or YouTube subscriptions for offline viewing.",
+    "A researcher batch-downloads publicly licensed video or audio content for offline analysis."
+  ],
+  "money_ideas": [
+    {
+      "idea": "No clean business here — the tool's headline use case is bulk-downloading paid course platforms (Udemy, Hotmart), which runs straight into those platforms' terms of service, so there's no honest company to build on top of it",
+      "revenue_model": "n/a"
+    }
+  ],
+  "steal_this": "Not a business to build on. The core selling point is bypassing paid platforms' access controls, which is not something worth starting a company around.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-15T12:16:37Z"
+}

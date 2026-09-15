@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-15",
+  "owner": "debpalash",
+  "name": "VoiceStudio",
+  "full_name": "debpalash/VoiceStudio",
+  "url": "https://github.com/debpalash/VoiceStudio",
+  "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+  "language": "Python",
+  "stars_total": 30208,
+  "stars_today": 2081,
+  "one_liner": "An app that clones your voice and lets you generate speech, dub videos into other languages, and turn text into audiobooks, all running on your own computer with no subscription.",
+  "buyer": "An indie audiobook narrator, course creator, or small dubbing studio that wants ElevenLabs-quality voice cloning without ongoing per-minute API fees or sending voice data to the cloud.",
+  "business_use_cases": [
+    "A course creator narrates once, then uses voice cloning to auto-generate dubbed versions of their course in ten languages without hiring voice actors.",
+    "A news/explainer YouTuber dictates a script and gets narration back instantly instead of recording and re-recording takes.",
+    "A small dubbing studio undercuts competitors by dubbing indie films and YouTube content locally, avoiding per-minute cloud TTS costs on high-volume work."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a 'we dub your course or video into five languages' productized service using cloned voices",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build a simple upload-and-dub SaaS wrapper charging per minute processed, undercutting ElevenLabs by running the open engine on your own GPUs",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "This weekend, clone your own voice, batch-dub five of your old YouTube or blog videos into Spanish and Portuguese, and post them as a demo of a paid course-localization service.",
+  "opportunity_rating": 5,
+  "generated_at": "2026-09-15T12:16:37Z"
+}

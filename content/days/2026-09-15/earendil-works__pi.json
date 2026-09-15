@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-15",
+  "owner": "earendil-works",
+  "name": "pi",
+  "full_name": "earendil-works/pi",
+  "url": "https://github.com/earendil-works/pi",
+  "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+  "language": "TypeScript",
+  "stars_total": 105423,
+  "stars_today": 437,
+  "one_liner": "A toolkit for building your own AI coding assistant or AI agent app: one unified way to talk to any AI model (OpenAI, Anthropic, Google), plus the plumbing (agent loop, terminal UI) to build agents on top.",
+  "buyer": "A developer or small startup building their own AI-agent product who doesn't want to build the LLM-switching and agent-loop plumbing from scratch.",
+  "business_use_cases": [
+    "An aspiring AI founder uses it as the backend for a niche vertical AI agent, such as a legal-research assistant, instead of building the agent runtime themselves — directly addressing 'want to build an AI product but don't know where to start.'",
+    "A dev-tools startup builds a custom coding-agent CLI for a specific language or framework on top of pi's agent core rather than starting from zero.",
+    "An internal platform team standardizes on pi's unified LLM API so switching AI providers doesn't require rewriting application code."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build and sell a vertical AI agent product, such as customer support or legal research, using pi as the underlying engine",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer paid integration or consulting for companies wanting to add an AI agent to their product using pi's toolkit",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, build a narrow vertical agent (for example, one that only triages expense reports) on top of pi's agent core, and ship it as a small monthly micro-SaaS.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-15T12:16:37Z"
+}

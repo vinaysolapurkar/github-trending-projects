@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-15",
+  "owner": "MG1937",
+  "name": "ASC",
+  "full_name": "MG1937/ASC",
+  "url": "https://github.com/MG1937/ASC",
+  "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+  "language": "Python",
+  "stars_total": 1015,
+  "stars_today": 122,
+  "one_liner": "A very fast tool for peeking inside Android apps' compiled code, built for security researchers (and AI agents) doing mobile app analysis.",
+  "buyer": "A mobile-security researcher or pentesting firm auditing Android apps for vulnerabilities.",
+  "business_use_cases": [
+    "A mobile app security auditing firm uses it to speed up client APK audits, billing fewer hours per app.",
+    "A bug-bounty hunter specializing in Android apps uses its speed advantage to analyze more targets per week."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Use it as an internal speed advantage inside a mobile-security consulting practice, billed as pentesting or audit services",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Not really a weekend consumer product. It's a specialist speed tool for people who already do Android reverse engineering for a living.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-15T12:16:37Z"
+}

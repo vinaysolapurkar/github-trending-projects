@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-15",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing today or recently trending is a social-video editor; we'll notify when one trends." },
+    { "problem_id": "p002", "repo": null, "why": "No product-photography tool trended today; nothing genuinely fits." },
+    { "problem_id": "p003", "repo": "pacifio/atlas", "why": "Atlas explicitly gives coding agents shared memory across sessions so switching agents mid-task doesn't mean starting over.", "confidence": "medium" },
+    { "problem_id": "p004", "repo": "addyosmani/agent-skills", "why": "It packages senior-engineer workflow gates (spec, plan, build, test, review) that stop AI agents from shipping bloated, over-engineered code.", "confidence": "high" },
+    { "problem_id": "p005", "repo": "alphaXiv/OpenResearch", "why": "It turns a coding agent into a research assistant that reads, organizes, and cross-references piles of papers and PDFs.", "confidence": "high" },
+    { "problem_id": "p006", "repo": null, "why": "No visual-storytelling-from-no-footage tool trended today; nothing genuinely fits." },
+    { "problem_id": "p007", "repo": null, "why": "No bioinformatics-specific tool trended today; nothing genuinely fits." },
+    { "problem_id": "p008", "repo": "danny-avila/LibreChat", "why": "It's a self-hosted ChatGPT-style app that keeps every conversation on the firm's own server, exactly the private-chat setup a law firm needs.", "confidence": "high" },
+    { "problem_id": "p009", "repo": "debpalash/VoiceStudio", "why": "It turns written text into natural narration locally, covering the narration half of 'blog post to video'; it doesn't assemble the video itself, so treat this as a partial fit.", "confidence": "medium" },
+    { "problem_id": "p010", "repo": null, "why": "Nothing trending today is a self-owned notes app; the closest match (a business ERP) isn't the same thing." },
+    { "problem_id": "p011", "repo": null, "why": "No codebase-comprehension/mapping tool trended today; nothing genuinely fits." },
+    { "problem_id": "p012", "repo": "earendil-works/pi", "why": "It's exactly the agent-building toolkit (unified LLM API, agent loop, CLI) an aspiring AI founder needs to start from, instead of building that plumbing themselves.", "confidence": "high" },
+    { "problem_id": "p013", "repo": "ever-co/ever-gauzy", "why": "It's a free, self-hosted ERP that explicitly includes inventory and supply-chain management alongside CRM and invoicing, a real alternative to a paid restaurant-management SaaS.", "confidence": "medium" }
+  ]
+}

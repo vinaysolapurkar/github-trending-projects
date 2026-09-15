@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-15",
+  "owner": "Homebrew",
+  "name": "BrewUI",
+  "full_name": "Homebrew/BrewUI",
+  "url": "https://github.com/Homebrew/BrewUI",
+  "description": "📺 Homebrew's official macOS GUI",
+  "language": "Swift",
+  "stars_total": 1044,
+  "stars_today": 388,
+  "one_liner": "A point-and-click app for installing and managing Mac software through Homebrew, for people who don't want to use the Terminal.",
+  "buyer": "Nobody is really buying this. It's a free official convenience utility for developers who already use Homebrew and occasionally want a GUI.",
+  "business_use_cases": [
+    "A Mac-focused IT-support freelancer could show a non-technical client how to use it instead of the Terminal when installing apps, but that's a footnote in a support engagement, not a product.",
+    "An enthusiast Mac-setup guide or blog could mention it as one step in a 'new Mac setup' tutorial, with no direct monetization of the tool itself."
+  ],
+  "money_ideas": [
+    {
+      "idea": "No credible standalone business — it's an official free GUI for an already-free package manager, with no natural paying audience",
+      "revenue_model": "n/a"
+    }
+  ],
+  "steal_this": "Not a weekend business opportunity. It's a genuinely useful utility, but there's no paying customer behind it.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-15T12:16:37Z"
+}

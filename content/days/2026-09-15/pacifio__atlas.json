@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-15",
+  "owner": "pacifio",
+  "name": "atlas",
+  "full_name": "pacifio/atlas",
+  "url": "https://github.com/pacifio/atlas",
+  "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+  "language": "Rust",
+  "stars_total": 4462,
+  "stars_today": 1091,
+  "one_liner": "A tool that keeps track of what every AI coding assistant did to your codebase, which agent changed what, why, and when, so you're not lost when multiple AI tools touch the same project.",
+  "buyer": "An engineering lead running several AI coding agents (Claude Code, Codex, Cursor) on the same codebase who needs an audit trail of what each one changed.",
+  "business_use_cases": [
+    "A dev team running several AI agents in parallel uses it to see which agent broke a function and why during a post-incident review.",
+    "An engineering manager uses the session history to spot-check AI-generated code quality across the team before it merges.",
+    "A consultancy selling AI-assisted development services uses it to produce a transparent audit trail for clients nervous about AI writing their code."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a team or enterprise tier with shared dashboards and audit exports for compliance-minded engineering orgs",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell it to AI-dev consultancies as the transparency layer that reassures skeptical clients",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "It's already the product, so the move is early adoption: install it on your own multi-agent workflow this weekend and publish the before/after story as content marketing to reach that same audience.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-15T12:16:37Z"
+}

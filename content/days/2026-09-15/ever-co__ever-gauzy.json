@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-15",
+  "owner": "ever-co",
+  "name": "ever-gauzy",
+  "full_name": "ever-co/ever-gauzy",
+  "url": "https://github.com/ever-co/ever-gauzy",
+  "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+  "language": "TypeScript",
+  "stars_total": 6303,
+  "stars_today": 632,
+  "one_liner": "A free, all-in-one business back-office system covering HR, time tracking, sales CRM, invoicing, and project management in one app you run yourself.",
+  "buyer": "A small agency or consultancy owner who's outgrown spreadsheets but doesn't want to pay for five separate SaaS subscriptions (HR tool + CRM + PM tool + invoicing).",
+  "business_use_cases": [
+    "A staffing/outsourcing agency uses its built-in time tracking and invoicing to bill clients per tracked hour without buying Toggl and QuickBooks separately.",
+    "A boutique dev shop runs its whole sales pipeline, project boards, and employee time tracking from one self-hosted system to cut recurring SaaS costs.",
+    "An IT consultant offers 'we'll host and customize Gauzy for your business' as a productized service to small businesses avoiding SaaS fees."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer done-for-you hosting, setup, and customization for small businesses",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Build and sell premium plugins/integrations (payroll, tax, industry-specific modules) on top of the open core",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Deploy a hosted instance this weekend, customize the branding for one specific niche (e.g. freelance agencies), and offer it as a $49/mo 'ops-in-a-box' alternative to stitching five SaaS tools together.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-15T12:16:37Z"
+}

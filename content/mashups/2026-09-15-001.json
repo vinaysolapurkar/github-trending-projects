@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-15-001",
+  "date": "2026-09-15",
+  "repo_a": "debpalash/VoiceStudio",
+  "repo_b": "melgarafael/DeskcommCRM",
+  "title": "The WhatsApp Sales Voice",
+  "pitch": "DeskcommCRM already lets a small business run AI agents that chat, qualify, and sell over WhatsApp, but every reply lands as flat text. Bolt on VoiceStudio's local voice cloning and the same agent can send back short voice notes in the owner's own cloned voice, quoting prices, confirming orders, or following up on an abandoned cart, without a human ever recording anything. Because both tools are self-hosted, the business never has to send its customers' chats or the owner's voice sample to a third-party cloud service, which matters a lot to LGPD-conscious shops in Brazil and anywhere else with strict data rules. An agency could package this as a single VPS deployment and sell it to local retailers and clinics who want their automated sales chat to sound like a real person from the shop, not a bot.",
+  "why_now": "DeskcommCRM is trending today as an open, WhatsApp-first alternative to Kommo/Intercom, and VoiceStudio just landed with a fully local, no-subscription voice-cloning engine strong enough to replace ElevenLabs for dubbing and TTS. Both are self-hosted and privacy-first, so combining them costs nothing in API fees and nothing in data exposure — the exact pitch small WhatsApp-first businesses are already primed to want."
+}

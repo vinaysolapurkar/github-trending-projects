@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-15",
+  "owner": "JustVugg",
+  "name": "colibri",
+  "full_name": "JustVugg/colibri",
+  "url": "https://github.com/JustVugg/colibri",
+  "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+  "language": "C",
+  "stars_total": 33051,
+  "stars_today": 2035,
+  "one_liner": "Software that lets a single home computer run enormous AI chatbot models that normally need a data center, by cleverly shuffling data between disk, memory, and graphics card.",
+  "buyer": "A hobbyist or small AI studio that wants to run cutting-edge open models privately on their own gaming PC instead of paying for cloud API access.",
+  "business_use_cases": [
+    "A local IT consultant sells 'private AI in a box' desktop workstations to law firms and clinics that can't send client data to the cloud.",
+    "A YouTuber/reviewer builds a niche channel benchmarking which consumer GPU setups can run which giant models, monetized via affiliate hardware links.",
+    "A boutique hardware reseller bundles a pre-configured 'local LLM workstation' with Colibrì pre-installed, sold to AI enthusiasts."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build and sell pre-configured 'local AI workstation' hardware bundles",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer paid setup/tuning consulting for people trying to fit a specific model onto their hardware",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, benchmark three different consumer GPU configs running the same model through Colibrì, publish the results as a buyer's guide, and sell hardware affiliate links off the traffic.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-15T12:16:37Z"
+}

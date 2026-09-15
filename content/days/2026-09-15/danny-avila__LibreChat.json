@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-15",
+  "owner": "danny-avila",
+  "name": "LibreChat",
+  "full_name": "danny-avila/LibreChat",
+  "url": "https://github.com/danny-avila/LibreChat",
+  "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+  "language": "TypeScript",
+  "stars_total": 43629,
+  "stars_today": 286,
+  "one_liner": "A self-hosted, ChatGPT-style chat app that can talk to any AI model (OpenAI, Anthropic, and more), so a company can give employees a private 'ChatGPT' without sending data to OpenAI.",
+  "buyer": "An IT director at a mid-size company, or a law firm partner, who wants an internal AI chat tool but can't use public ChatGPT for data-privacy or compliance reasons.",
+  "business_use_cases": [
+    "A law firm deploys it internally as a private AI assistant so client documents never leave their own servers, directly solving the 'need a private AI chat that won't leak client data' problem.",
+    "A managed service provider offers 'private ChatGPT setup and hosting' as a productized service to its small-business clients.",
+    "A company standardizes on it internally so employees stop pasting sensitive data into public ChatGPT or Claude web apps."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer managed hosting plus compliance hardening (SSO, audit logs, model routing) as a subscription for regulated industries",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell one-time setup and integration consulting for companies rolling out an internal AI chat tool",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Deploy it this weekend for a local law firm or clinic contact, wire it to a privacy-respecting model API, and pitch it as their 'private, compliant ChatGPT' for a flat setup fee plus monthly hosting.",
+  "opportunity_rating": 5,
+  "generated_at": "2026-09-15T12:16:37Z"
+}
