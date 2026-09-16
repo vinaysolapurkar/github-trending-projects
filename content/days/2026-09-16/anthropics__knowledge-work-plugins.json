@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-16",
+  "owner": "anthropics",
+  "name": "knowledge-work-plugins",
+  "full_name": "anthropics/knowledge-work-plugins",
+  "url": "https://github.com/anthropics/knowledge-work-plugins",
+  "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+  "language": "Python",
+  "stars_total": 24142,
+  "stars_today": 96,
+  "one_liner": "A library of ready-made 'skill packs' that teach an AI assistant how a specific job actually works \u2014 like a lawyer's, accountant's, or marketer's \u2014 so it produces finished work in that profession's own style instead of generic output.",
+  "buyer": "An operations lead at a professional-services firm (law, accounting, marketing agency) who wants their team's AI output to follow firm-specific process and tone without building that themselves.",
+  "business_use_cases": [
+    "An agency builds and sells industry-specific plugin packs (e.g. a 'real-estate broker pack') to firms using Claude Cowork or Claude Code.",
+    "A consultancy customizes a plugin to match a client's exact intake and QA workflow as a paid implementation engagement.",
+    "An internal ops team builds one company-specific plugin and rolls it out firm-wide so every employee's AI output is consistent."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell custom plugin-development and rollout consulting to professional-services firms",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Run a marketplace of paid, vertical-specific plugin packs",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Pick one profession this weekend, build a polished plugin for it, publish it, and offer paid setup/customization to firms in that niche.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-16T12:15:21Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-16",
+  "owner": "multimodal-art-projection",
+  "name": "YuE",
+  "full_name": "multimodal-art-projection/YuE",
+  "url": "https://github.com/multimodal-art-projection/YuE",
+  "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+  "language": "Python",
+  "stars_total": 9157,
+  "stars_today": 701,
+  "one_liner": "AI that composes and produces full songs \u2014 lyrics, melody, and instrumentation \u2014 from a text prompt or short reference, and can even remix existing songs from scratch.",
+  "buyer": "A content creator, indie game studio, or ad agency that needs original background music on demand without paying licensing fees or hiring a composer.",
+  "business_use_cases": [
+    "A YouTuber or podcaster generates a unique royalty-free track for every episode instead of buying stock music.",
+    "A small game studio generates adaptive soundtrack variations without budget for a composer.",
+    "An ad agency mocks up several music styles for a client pitch before commissioning a real composer for the final track."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell themed, royalty-free generated music packs on a stock-music marketplace",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer an 'unlimited custom tracks' subscription for content creators",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, generate a themed royalty-free music pack (e.g. 'lo-fi coding music') and list it on a stock-music marketplace.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-16T12:15:21Z"
+}

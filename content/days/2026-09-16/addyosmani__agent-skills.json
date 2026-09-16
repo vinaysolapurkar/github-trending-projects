@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-16",
+  "owner": "addyosmani",
+  "name": "agent-skills",
+  "full_name": "addyosmani/agent-skills",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "description": "Production-grade engineering skills for AI coding agents.",
+  "language": "JavaScript",
+  "stars_total": 95131,
+  "stars_today": 307,
+  "one_liner": "A set of quality checklists that force an AI coding assistant to plan, build, test, and review code the way a disciplined senior engineer would, instead of dumping out sloppy first-draft code.",
+  "buyer": "A startup engineering lead worried their AI-generated code is becoming bloated and hard to maintain, who wants guardrails without hiring more senior reviewers.",
+  "business_use_cases": [
+    "An engineering team adopts it company-wide as their standard AI workflow, cutting code-review overhead.",
+    "A dev agency uses it as a selling point ('audited AI-quality workflow') to win more risk-averse enterprise clients.",
+    "A coding bootcamp teaches it as the 'how to actually use AI coding tools well' module of its curriculum."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a half-day onboarding workshop for engineering teams adopting AI coding tools",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a premium extended skill pack with more checks/integrations",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Package a half-day 'ship better AI-generated code' workshop this weekend using it as the core material, and sell it to two startups.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-16T12:15:21Z"
+}

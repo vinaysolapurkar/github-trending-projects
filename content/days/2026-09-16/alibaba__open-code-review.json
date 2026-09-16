@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-16",
+  "owner": "alibaba",
+  "name": "open-code-review",
+  "full_name": "alibaba/open-code-review",
+  "url": "https://github.com/alibaba/open-code-review",
+  "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+  "language": "Go",
+  "stars_total": 30334,
+  "stars_today": 2756,
+  "one_liner": "A tool that automatically reads your team's code changes and leaves detailed comments pointing out bugs and security holes, the way a senior reviewer would.",
+  "buyer": "An engineering manager at a mid-size software shop who wants consistent code reviews without hiring more senior reviewers.",
+  "business_use_cases": [
+    "A dev agency wires it into every client's pull-request pipeline so junior developers' code gets caught before a human reviewer wastes time on it.",
+    "A fintech or healthcare startup uses its built-in SQL-injection/XSS ruleset as an automated security gate before code can merge.",
+    "A code-review-as-a-service consultancy resells it, white-labeled, to smaller dev shops that can't afford a senior reviewer on staff."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a managed/hosted version with dashboards and org-wide policy enforcement",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Charge per-repo or per-seat pricing for teams who don't want to self-host",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Stand up a hosted instance this weekend, connect it to a few open-source repos' PRs for free, and use the visible before/after review quality as a lead magnet for a paid managed offering.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-16T12:15:21Z"
+}

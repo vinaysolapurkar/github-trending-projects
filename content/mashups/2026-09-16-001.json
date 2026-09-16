@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-16-001",
+  "date": "2026-09-16",
+  "repo_a": "multimodal-art-projection/YuE",
+  "repo_b": "jamiepine/voicebox",
+  "title": "Sing It In My Voice",
+  "pitch": "YuE composes an entire original song from a text prompt or reference — lyrics, melody, instrumentation — but the vocals come out in a generic AI singing voice. Pipe that vocal stem into Voicebox's local voice cloning and the song comes out sung in any voice you have a sample of: the customer's own voice, a company founder's voice for a brand jingle, or a loved one's voice for a personalized gift song. Both tools run entirely locally, so nobody's voice sample or lyrics ever touch a cloud API, which matters a lot for a business selling something as personal as 'a song sung by you.' An agency could package this as a simple web form (upload a voice clip, describe the song) and turn around a fully custom, radio-ready track in minutes instead of booking a composer and a singer.",
+  "why_now": "Both YuE2 and Voicebox are trending today, and both are fully self-hosted with no per-use API fees — composition plus voice cloning had always been two separate, expensive, cloud-locked steps until now. Stitching them together turns 'commission a custom song' from a multi-week, multi-vendor project into a same-day automated product."
+}

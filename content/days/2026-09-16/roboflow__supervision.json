@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-16",
+  "owner": "roboflow",
+  "name": "supervision",
+  "full_name": "roboflow/supervision",
+  "url": "https://github.com/roboflow/supervision",
+  "description": "We write your reusable computer vision tools. \ud83d\udc9c",
+  "language": "Python",
+  "stars_total": 50423,
+  "stars_today": 217,
+  "one_liner": "A toolbox of ready-made building blocks for counting, tracking, and drawing boxes around objects in video or photos, so a developer doesn't have to write that computer-vision code from scratch.",
+  "buyer": "A systems integrator building a camera-based product (retail analytics, safety monitoring, agriculture) for a client who needs object detection wired up quickly.",
+  "business_use_cases": [
+    "An integrator builds a 'count cars in the lot' dashboard for a shopping-mall client using existing security cameras.",
+    "A farm-tech startup counts livestock or estimates crop yield from drone footage without a computer-vision team.",
+    "A retail-analytics firm tracks foot traffic and shelf stock levels from in-store cameras for chain retailers."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a vertical-specific computer-vision product (e.g. retail foot-traffic analytics) as a subscription",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Charge for custom camera-integration projects for individual clients",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build a 'count anything in your video feed' demo this weekend for one vertical, like retail foot traffic, and pitch it directly to a local business.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-16T12:15:21Z"
+}

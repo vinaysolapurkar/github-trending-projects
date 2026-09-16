@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-16",
+  "owner": "JustVugg",
+  "name": "colibri",
+  "full_name": "JustVugg/colibri",
+  "url": "https://github.com/JustVugg/colibri",
+  "description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \ud83d\udc26",
+  "language": "C",
+  "stars_total": 34568,
+  "stars_today": 2026,
+  "one_liner": "Lets a regular computer run enormous AI language models by streaming only the parts it needs straight from disk, instead of requiring a rack of expensive GPUs to hold the whole model in memory.",
+  "buyer": "A developer or small AI startup that wants to run a frontier-scale open-source model locally, without paying for cloud GPU inference or buying server hardware.",
+  "business_use_cases": [
+    "An indie AI app avoids per-token cloud inference bills entirely by running the model locally on the user's own machine.",
+    "A hospital or law firm runs a large model on-premises for data-sensitive work, since nothing ever leaves their own hardware.",
+    "A hobbyist or small studio runs a top-tier open model on a Mac mini or gaming PC instead of renting a costly GPU instance."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Package a one-click installer/GUI appliance for non-technical local-AI users and sell it as a license",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer paid setup and hardware-sizing consulting for businesses wanting to self-host large models cheaply",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build a friendly one-click installer/GUI wrapper around it this weekend and sell it to the 'local AI' hobbyist community as a $20 app.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-16T12:15:21Z"
+}

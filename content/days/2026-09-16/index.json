@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-16",
+  "projects": [
+    "alibaba__open-code-review",
+    "cloudflare__security-audit-skill",
+    "JustVugg__colibri",
+    "abue-ammar__tinycast",
+    "jamiepine__voicebox",
+    "Lakr233__vphone-cli",
+    "anthropics__knowledge-work-plugins",
+    "ever-co__ever-gauzy",
+    "ankitects__anki",
+    "NationalSecurityAgency__ghidra",
+    "anthropics__claude-code",
+    "roboflow__supervision",
+    "alphaXiv__OpenResearch",
+    "supabase__supabase",
+    "rlaope__oh-my-hermes",
+    "Tencent__WeKnora",
+    "SnailSploit__Claude-Red",
+    "multimodal-art-projection__YuE",
+    "addyosmani__agent-skills",
+    "cline__cline",
+    "affaan-m__ECC"
+  ]
+}

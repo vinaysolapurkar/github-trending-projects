@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-16",
+  "owner": "alphaXiv",
+  "name": "OpenResearch",
+  "full_name": "alphaXiv/OpenResearch",
+  "url": "https://github.com/alphaXiv/OpenResearch",
+  "description": "Turn your coding agents into research agents",
+  "language": "Rust",
+  "stars_total": 3912,
+  "stars_today": 531,
+  "one_liner": "Turns an AI coding assistant into a research assistant that can read piles of scientific papers, organize them, form hypotheses, and draft findings for you.",
+  "buyer": "A PhD researcher or R&D team at a biotech or pharma company drowning in papers who wants an AI to pre-digest the literature before a human reads it.",
+  "business_use_cases": [
+    "A research lab auto-summarizes and cross-references the week's new papers in its field every Monday morning.",
+    "A VC or industry analyst tracks a fast-moving technical space (batteries, LLMs) and produces weekly technical briefs for clients.",
+    "A freelance science writer speed-drafts literature-review sections for academic or industry clients."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a weekly literature-digest newsletter for a specific fast-moving research niche",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer custom research-agent setup consulting for labs and R&D teams",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Pick one fast-moving research field, run it this weekend, and sell the resulting weekly digest as a paid newsletter.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-16T12:15:21Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-16",
+  "owner": "cline",
+  "name": "cline",
+  "full_name": "cline/cline",
+  "url": "https://github.com/cline/cline",
+  "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+  "language": "TypeScript",
+  "stars_total": 68178,
+  "stars_today": 102,
+  "one_liner": "An AI coding agent that lives inside your code editor and can write, run, and fix code across your whole project on its own, once you describe what you want in plain English.",
+  "buyer": "A software team lead evaluating AI coding agents who wants an open-source, IDE-native option they can customize instead of a closed SaaS tool.",
+  "business_use_cases": [
+    "A dev agency standardizes on it, since it's free and open, to cut their own tooling costs versus paid competitors while keeping margin.",
+    "A platform builds a custom fork or SDK integration and sells a specialized coding-agent product for one industry, like embedded/firmware development.",
+    "A consultancy trains client teams on adopting it as part of a broader 'AI dev tools rollout' service."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell custom integration and rollout consulting for teams adopting it",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a hosted, managed version with team features on top of the free core",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, build a thin custom extension on its SDK for one specific niche workflow (e.g. legacy COBOL migration) and offer it as a paid tool.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-16T12:15:21Z"
+}

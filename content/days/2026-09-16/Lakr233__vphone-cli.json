@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-16",
+  "owner": "Lakr233",
+  "name": "vphone-cli",
+  "full_name": "Lakr233/vphone-cli",
+  "url": "https://github.com/Lakr233/vphone-cli",
+  "description": "",
+  "language": "Swift",
+  "stars_total": 13140,
+  "stars_today": 907,
+  "one_liner": "A command-line tool that boots a full working virtual iPhone inside a window on a Mac, so developers can test iOS apps or study iOS internals without owning a spare physical device.",
+  "buyer": "A mobile QA engineer or security researcher at an app company who needs many disposable iOS test environments without buying racks of physical iPhones.",
+  "business_use_cases": [
+    "A QA team spins up dozens of virtual iPhones in CI to test an app across iOS versions without a physical device farm.",
+    "A security research firm analyzes suspicious apps inside disposable virtual-iPhone sandboxes instead of risking real hardware.",
+    "An app dev agency demos client apps running live on a 'virtual device' during remote client calls without shipping hardware."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Wrap it into a hosted CI action offering on-demand virtual iPhones for automated testing, billed by usage",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Offer paid setup/consulting for teams wanting a virtual device farm for QA",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, wrap it into a CI action that spins up virtual iPhones on demand for automated screenshot testing, and sell it as a usage-billed add-on to app teams.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-16T12:15:21Z"
+}

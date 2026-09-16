@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-16",
+  "owner": "supabase",
+  "name": "supabase",
+  "full_name": "supabase/supabase",
+  "url": "https://github.com/supabase/supabase",
+  "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+  "language": "TypeScript",
+  "stars_total": 109394,
+  "stars_today": 118,
+  "one_liner": "A ready-made backend for apps \u2014 database, logins, file storage, and real-time updates \u2014 all built on regular Postgres, so a small team can launch an app without building that plumbing themselves.",
+  "buyer": "A solo founder or small dev shop building a new app who wants Firebase-like speed without being locked into a proprietary vendor.",
+  "business_use_cases": [
+    "An indie founder launches an MVP in days instead of months by using it as the entire backend.",
+    "An agency standardizes on it across client projects to cut backend build time and increase margin on fixed-price contracts.",
+    "A two-person team builds a niche vertical SaaS (e.g. salon scheduling) entirely on top of it without a backend engineer."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build and launch a vertical SaaS product on top of it, billed monthly to end customers",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer 'Supabase setup and migration' consulting for teams moving off Firebase",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, build and launch a small vertical SaaS MVP on top of it and start charging a subscription within two weeks.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-16T12:15:21Z"
+}

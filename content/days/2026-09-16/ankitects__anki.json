@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-16",
+  "owner": "ankitects",
+  "name": "anki",
+  "full_name": "ankitects/anki",
+  "url": "https://github.com/ankitects/anki",
+  "description": "Anki is a smart spaced repetition flashcard program",
+  "language": "Rust",
+  "stars_total": 30628,
+  "stars_today": 50,
+  "one_liner": "A flashcard app that quizzes you right before you're about to forget something, so you retain facts using far less study time than normal rereading.",
+  "buyer": "A test-prep company or medical/language school that wants to sell a proven study method without building spaced-repetition software from scratch.",
+  "business_use_cases": [
+    "A language-learning tutor sells a professionally built deck plus a short onboarding course on top of the free app.",
+    "A medical-board-exam prep company packages a curated, well-tested deck and charges students for it.",
+    "A corporate training team uses it internally, for free, to help employees retain compliance material longer."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell curated, high-quality decks for a specific exam or subject",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell a companion course that teaches how to study effectively with spaced repetition",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, build and sell one excellent curated deck for a specific certification exam \u2014 the app itself is free and already trusted, so the deck is the whole product.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-16T12:15:21Z"
+}

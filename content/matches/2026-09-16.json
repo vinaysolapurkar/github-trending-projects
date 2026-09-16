@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-16",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing today is a social-video editor; we'll notify when one trends." },
+    { "problem_id": "p002", "repo": null, "why": "No product-photography tool trended today; nothing genuinely fits." },
+    { "problem_id": "p003", "repo": "rlaope/oh-my-hermes", "why": "It's built specifically to give a coding agent long-term memory so it doesn't lose project context between sessions.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "addyosmani/agent-skills", "why": "It packages senior-engineer quality gates (plan, build, test, review) that stop AI agents from shipping bloated, over-engineered code.", "confidence": "high" },
+    { "problem_id": "p005", "repo": "alphaXiv/OpenResearch", "why": "It turns a coding agent into a research assistant that reads, organizes, and cross-references piles of papers and PDFs.", "confidence": "high" },
+    { "problem_id": "p006", "repo": null, "why": "No visual-storytelling-from-no-footage tool trended today; nothing genuinely fits." },
+    { "problem_id": "p007", "repo": null, "why": "No bioinformatics-specific tool trended today; nothing genuinely fits." },
+    { "problem_id": "p008", "repo": "Tencent/WeKnora", "why": "It's a self-hosted platform that turns a firm's own documents into a private, sourced Q&A system, so nothing leaves the firm's servers.", "confidence": "medium" },
+    { "problem_id": "p009", "repo": "jamiepine/voicebox", "why": "It turns written text into natural narration in a cloned voice, running locally; it only covers narration, not assembling the video, so treat this as a partial fit.", "confidence": "medium" },
+    { "problem_id": "p010", "repo": null, "why": "Nothing trending today is a self-owned notes app; nothing genuinely fits." },
+    { "problem_id": "p011", "repo": "anthropics/claude-code", "why": "It reads and explains an entire existing codebase in plain English, which is exactly what a new hire needs to make sense of an inherited mess.", "confidence": "medium" },
+    { "problem_id": "p012", "repo": "supabase/supabase", "why": "It's the database, auth, and storage plumbing an aspiring AI founder would otherwise have to build from scratch before shipping anything.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": "ever-co/ever-gauzy", "why": "It's a free, self-hosted ERP that explicitly includes inventory management alongside CRM and invoicing, a real alternative to a paid restaurant-management SaaS.", "confidence": "medium" }
+  ]
+}

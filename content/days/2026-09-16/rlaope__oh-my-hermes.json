@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-16",
+  "owner": "rlaope",
+  "name": "oh-my-hermes",
+  "full_name": "rlaope/oh-my-hermes",
+  "url": "https://github.com/rlaope/oh-my-hermes",
+  "description": "All in one plugin for Hermes Agent \u269a the coding intelligence, a long-term memory system and model optimized workflow packages",
+  "language": "Python",
+  "stars_total": 2412,
+  "stars_today": 74,
+  "one_liner": "An add-on pack for an AI coding assistant that gives it a long-term memory and pre-optimized workflows, so it remembers your project instead of starting fresh every session.",
+  "buyer": "An indie developer or small dev team frustrated that their AI coding assistant forgets project context between sessions.",
+  "business_use_cases": [
+    "A freelance developer keeps a consistent AI pairing partner across a months-long client project without re-explaining context.",
+    "A dev-tools startup bundles it into a paid 'AI memory layer' add-on for an existing coding-agent product.",
+    "A coding bootcamp packages it as part of a premium AI-assisted curriculum module."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a hosted, managed memory-sync backend as a paid add-on",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell premium pre-built workflow packs on top of the free core",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Package a hosted 'memory as a service' backend for it this weekend, with a free tier to build a user base first.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-16T12:15:21Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-16",
+  "owner": "jamiepine",
+  "name": "voicebox",
+  "full_name": "jamiepine/voicebox",
+  "url": "https://github.com/jamiepine/voicebox",
+  "description": "The open-source AI voice studio. Clone, dictate, create.",
+  "language": "TypeScript",
+  "stars_total": 54077,
+  "stars_today": 409,
+  "one_liner": "Software that clones anyone's voice from a short sample and then reads out anything you type in that voice, running entirely on your own computer with no monthly cloud subscription.",
+  "buyer": "A podcaster, YouTuber, or online course creator who wants professional narration in their own voice without re-recording every script or paying for an ElevenLabs subscription.",
+  "business_use_cases": [
+    "A content creator generates narration for every new video in their cloned voice instead of re-recording audio each time.",
+    "A customer-support team builds a local voice-reply bot for phone/IVR without ever sending customer audio to a third-party cloud service.",
+    "An audiobook publisher batch-narrates backlist books in an author's cloned voice at a fraction of studio-recording cost."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a hosted, managed version for creators who don't want to self-host, billed monthly",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell pre-made, licensed voice packs for creators who don't have their own clean voice sample",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build a browser extension this weekend that reads any webpage aloud in the user's own cloned voice, and sell it as a one-time license.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-16T12:15:21Z"
+}

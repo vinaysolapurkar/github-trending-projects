@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-16",
+  "owner": "cloudflare",
+  "name": "security-audit-skill",
+  "full_name": "cloudflare/security-audit-skill",
+  "url": "https://github.com/cloudflare/security-audit-skill",
+  "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+  "language": "JavaScript",
+  "stars_total": 5522,
+  "stars_today": 1434,
+  "one_liner": "A ready-made playbook that turns any AI coding assistant into a structured security auditor, hunting for vulnerabilities in a codebase and double-checking its own findings before reporting them.",
+  "buyer": "A security consultancy, or a CTO at a startup without a dedicated security team, who wants a rigorous first-pass vulnerability audit before (or instead of) an expensive manual pentest.",
+  "business_use_cases": [
+    "A security consultancy runs it as an automated intake triage before assigning a human pentester, cutting billable hours per engagement.",
+    "A SaaS company with no security team runs it monthly as a continuous, cheap audit layer between annual professional pentests.",
+    "A bug-bounty hunter uses its multi-phase methodology to systematize and speed up their own hunting process on new programs."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer flat-fee 'AI-assisted security audit' reports as a productized service",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell a monthly continuous-audit subscription to SaaS companies between real pentests",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Run it this weekend against a few open-source projects, publish the (responsibly disclosed) findings as a case study, and use that as proof for a paid 'AI security audit' offer.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-16T12:15:21Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-16",
+  "owner": "ever-co",
+  "name": "ever-gauzy",
+  "full_name": "ever-co/ever-gauzy",
+  "url": "https://github.com/ever-co/ever-gauzy",
+  "description": "Ever\u00ae Gauzy\u2122 - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+  "language": "TypeScript",
+  "stars_total": 7067,
+  "stars_today": 634,
+  "one_liner": "A free, all-in-one business back-office app \u2014 CRM, payroll, hiring, project tracking \u2014 that replaces a stack of separate paid subscriptions with one system you run yourself.",
+  "buyer": "A small business owner or agency ops manager currently paying for several separate SaaS tools (CRM, HR, invoicing) who wants to consolidate into one self-hosted system.",
+  "business_use_cases": [
+    "An agency self-hosts it to run client billing, timesheets, and hiring in one place instead of paying for Monday.com, BambooHR, and QuickBooks separately.",
+    "A retail or restaurant chain uses its inventory and HR modules as a cheaper alternative to a paid ERP suite.",
+    "A dev shop white-labels it and resells hosted instances to small businesses as a ready-made 'back office in a box.'"
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a hosted, managed version billed monthly per business",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Charge a one-off fee for migration and setup from a client's existing SaaS stack",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Spin up a hosted instance this weekend pre-configured for one vertical (e.g. restaurants), and sell it as a 'your back office, done' subscription to a handful of local businesses.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-16T12:15:21Z"
+}

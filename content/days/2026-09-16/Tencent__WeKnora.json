@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-16",
+  "owner": "Tencent",
+  "name": "WeKnora",
+  "full_name": "Tencent/WeKnora",
+  "url": "https://github.com/Tencent/WeKnora",
+  "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+  "language": "Go",
+  "stars_total": 24849,
+  "stars_today": 696,
+  "one_liner": "Feeds a company's documents into an AI system that can then answer employee questions accurately, sourced straight from those documents, and keeps a searchable internal wiki updated automatically.",
+  "buyer": "An operations manager at a mid-size company drowning in scattered internal documentation (policies, SOPs, product docs) who wants a reliable internal Q&A chatbot.",
+  "business_use_cases": [
+    "A company deploys it internally so support staff get instant, sourced answers instead of digging through outdated wikis.",
+    "An agency white-labels and resells it as a 'company brain' chatbot product to small and mid-size clients.",
+    "A software vendor uses it to auto-generate and keep its own user-facing documentation continuously up to date."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a hosted, managed 'internal knowledge AI' billed per company per month",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Charge a one-off fee for setup and document-ingestion integration",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Stand up a hosted instance this weekend pre-loaded with one local business's documents, and pitch it as their 'instant answers' chatbot subscription.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-16T12:15:21Z"
+}

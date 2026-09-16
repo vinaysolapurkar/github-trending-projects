@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-16",
+  "owner": "abue-ammar",
+  "name": "tinycast",
+  "full_name": "abue-ammar/tinycast",
+  "url": "https://github.com/abue-ammar/tinycast",
+  "description": "Tinycast \u2014 a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+  "language": "Swift",
+  "stars_total": 5196,
+  "stars_today": 1076,
+  "one_liner": "A tiny, lightning-fast app launcher for Mac that pops up with one keystroke to open apps, run quick commands, and browse what you've recently copied, using almost no memory.",
+  "buyer": "A power-user Mac professional (consultant, developer, designer) who'd pay a small one-time fee for a leaner, faster alternative to Alfred or Raycast.",
+  "business_use_cases": [
+    "Sell it as a paid App Store app targeting the 'Raycast/Alfred feels too heavy' crowd of performance-conscious Mac users.",
+    "An IT department standardizes on it fleet-wide as a lightweight, low-resource productivity tool for company laptops.",
+    "Bundle it with other lean utilities into a 'minimalist productivity pack' sold to freelancers and consultants."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a one-time paid version or Pro unlock on the Mac App Store",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a 'pay what you want' donation tier for the free version",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, package a polished $9 'Pro' version (extra hotkeys, themes) and list it on the Mac App Store aimed squarely at users complaining Raycast is bloated.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-16T12:15:21Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-16",
+  "owner": "SnailSploit",
+  "name": "Claude-Red",
+  "full_name": "SnailSploit/Claude-Red",
+  "url": "https://github.com/SnailSploit/Claude-Red",
+  "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface \u2014 from SQLi to shellcode, EDR evasion to exploit development.",
+  "language": "Python",
+  "stars_total": 5528,
+  "stars_today": 699,
+  "one_liner": "A library of cheat-sheets that teaches an AI assistant to work through offensive-security methodology the way a professional penetration tester would, across attack surfaces from web apps to exploit development.",
+  "buyer": "A licensed penetration-testing or red-team consultancy that wants to speed up its testers' work on already-authorized client engagements.",
+  "business_use_cases": [
+    "A pentest firm uses it to accelerate the recon and exploitation phases of signed, authorized client engagements, improving margins on fixed-price contracts.",
+    "A security-training company builds an 'ethical hacking with AI' course around it for aspiring pentesters.",
+    "An internal red team at a large company uses it to run more frequent authorized internal assessments."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell training/certification content built around it for licensed security professionals",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Package it into an internal 'AI red-team co-pilot' used only on the firm's own authorized engagements",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Honest take: this is only legitimately useful inside signed, authorized engagements. The realistic weekend build is a training workshop for already-licensed testers, not a general product \u2014 the addressable market is narrow and the tool's dual-use nature limits how it can be commercialized responsibly.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-16T12:15:21Z"
+}
