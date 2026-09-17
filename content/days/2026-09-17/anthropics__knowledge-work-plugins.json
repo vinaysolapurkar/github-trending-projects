@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-17",
+  "owner": "anthropics",
+  "name": "knowledge-work-plugins",
+  "full_name": "anthropics/knowledge-work-plugins",
+  "url": "https://github.com/anthropics/knowledge-work-plugins",
+  "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+  "language": "Python",
+  "stars_total": 24424,
+  "stars_today": 287,
+  "one_liner": "A set of ready-made AI 'employees', each one pre-trained on how a specific job (sales, HR, finance) is actually done, that plug into a company's own tools like Slack and Notion.",
+  "buyer": "An operations lead at a mid-size company who wants their team using AI consistently instead of everyone prompting differently.",
+  "business_use_cases": [
+    "An agency customizes the sales plugin with a client's own playbook and connectors, then resells it as a done-for-you AI SDR setup.",
+    "An HR consultancy adapts the productivity/HR plugin to a client's specific policies as a paid implementation package.",
+    "A company standardizes its whole team on one customized plugin so every employee gets consistent output instead of ad hoc prompting."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell white-glove customization and connector setup for a specific plugin per client",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer an ongoing 'plugin maintenance' retainer that keeps the customization current as the client's processes change",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, pick one plugin (e.g. sales), customize it heavily for one local business's actual workflow, and pitch it as a fixed-price implementation.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-17T12:06:56Z"
+}

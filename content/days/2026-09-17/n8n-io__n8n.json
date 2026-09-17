@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-17",
+  "owner": "n8n-io",
+  "name": "n8n",
+  "full_name": "n8n-io/n8n",
+  "url": "https://github.com/n8n-io/n8n",
+  "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+  "language": "TypeScript",
+  "stars_total": 204780,
+  "stars_today": 225,
+  "one_liner": "A drag-and-drop tool for connecting your apps together and automating repetitive tasks, like 'when a new order comes in, add it to my spreadsheet and text me', without needing to write code.",
+  "buyer": "A small business owner or ops manager doing repetitive manual data entry between apps (orders, spreadsheets, email, CRM) who can't afford custom software.",
+  "business_use_cases": [
+    "A local business owner automates order-to-invoice-to-inventory updates across their existing apps instead of manually copying data between them.",
+    "A freelance automation consultant builds and sells custom workflows to small businesses, charging per workflow built.",
+    "An agency builds AI-powered customer-service or lead-qualification workflows for clients using its native AI nodes."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a business-process-automation service, building and maintaining custom workflows for small business clients",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell one-off custom workflow builds for a specific repetitive task a client describes",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, find one local business doing a repetitive manual task (like copying orders into a spreadsheet), automate it with a single workflow, and charge a flat setup fee plus a small monthly maintenance fee.",
+  "opportunity_rating": 5,
+  "generated_at": "2026-09-17T12:06:56Z"
+}

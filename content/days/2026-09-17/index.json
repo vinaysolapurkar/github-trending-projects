@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-17",
+  "projects": [
+    "alibaba__open-code-review",
+    "cloudflare__security-audit-skill",
+    "addyosmani__agent-skills",
+    "Tencent__BrowserSkill",
+    "alphaXiv__OpenResearch",
+    "anthropics__claude-code",
+    "NationalSecurityAgency__ghidra",
+    "anthropics__knowledge-work-plugins",
+    "Tencent__WeKnora",
+    "abue-ammar__tinycast",
+    "cilium__cilium",
+    "jamiepine__voicebox",
+    "affaan-m__ECC",
+    "roboflow__supervision",
+    "JustVugg__colibri",
+    "TencentCloud__Octop",
+    "ever-co__ever-gauzy",
+    "cline__cline",
+    "coder__coder",
+    "n8n-io__n8n"
+  ]
+}

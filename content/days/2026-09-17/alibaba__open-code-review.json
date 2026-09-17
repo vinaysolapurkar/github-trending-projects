@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-17",
+  "owner": "alibaba",
+  "name": "open-code-review",
+  "full_name": "alibaba/open-code-review",
+  "url": "https://github.com/alibaba/open-code-review",
+  "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+  "language": "Go",
+  "stars_total": 33565,
+  "stars_today": 3290,
+  "one_liner": "A tool that automatically reads your team's code changes and leaves smart, specific comments, catching bugs and security holes before a human reviewer even looks.",
+  "buyer": "An engineering manager at a mid-size software agency who needs consistent code review quality without hiring more senior reviewers.",
+  "business_use_cases": [
+    "A dev shop runs it on every pull request across all client projects so junior devs' code gets senior-level scrutiny before it ships.",
+    "A fintech startup uses its security ruleset (SQL injection, XSS checks) to satisfy a compliance audit requirement cheaply.",
+    "A code-quality consultancy offers 'automated review setup' as an onboarding service for new clients."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell setup and custom ruleset consulting for teams adopting it in regulated industries",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a hosted, managed version with dashboards as a subscription add-on for teams that don't want to self-host",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, package a pre-configured ruleset for one specific stack (e.g. Django + Postgres) and sell it as a one-click 'security review starter kit' to freelance devs.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-17T12:06:56Z"
+}

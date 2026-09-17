@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-17",
+  "owner": "Tencent",
+  "name": "WeKnora",
+  "full_name": "Tencent/WeKnora",
+  "url": "https://github.com/Tencent/WeKnora",
+  "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+  "language": "Go",
+  "stars_total": 25952,
+  "stars_today": 1123,
+  "one_liner": "Turns a pile of a company's own documents into a searchable, chatty knowledge base: ask it a question in plain language and it answers using only your files, not the open internet.",
+  "buyer": "An operations manager at a firm with lots of internal documentation (policies, contracts, manuals) that staff constantly dig through manually.",
+  "business_use_cases": [
+    "A law firm builds a private, self-hosted Q&A system over its case files and precedent documents so associates get answers in seconds instead of searching folders.",
+    "A manufacturer turns its equipment manuals and SOPs into a chat interface for the shop floor.",
+    "An IT consultancy offers 'internal knowledge base setup' as a fixed-price package for clients drowning in scattered documentation."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer fixed-price 'private knowledge base' implementation for firms with sensitive documents that can't use cloud AI",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Charge a monthly fee for hosting, updates, and support of the deployed system",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, deploy it against one local business's public documents (manuals, policies) as a live demo, then pitch the paid private version.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-17T12:06:56Z"
+}

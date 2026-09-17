@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-17",
+  "owner": "ever-co",
+  "name": "ever-gauzy",
+  "full_name": "ever-co/ever-gauzy",
+  "url": "https://github.com/ever-co/ever-gauzy",
+  "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+  "language": "TypeScript",
+  "stars_total": 7528,
+  "stars_today": 469,
+  "one_liner": "A free, all-in-one business software suite covering customer relationships, HR, project management, and hiring, that a small business can run itself instead of paying for five separate subscriptions.",
+  "buyer": "A small business owner (a restaurant, agency, or trades business) paying for multiple SaaS tools who wants to consolidate and cut costs.",
+  "business_use_cases": [
+    "A small agency replaces separate CRM, HR, and project-management subscriptions with one self-hosted system, cutting its monthly software spend.",
+    "A local restaurant chain uses its inventory and HR/ATS modules to manage staff scheduling and stock instead of a paid restaurant-management SaaS.",
+    "An MSP offers 'we host and customize your business software' as a service to small businesses that don't want to run servers themselves."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer white-glove setup, customization, and migration-from-other-SaaS services for small businesses",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Run a managed-hosting version and charge a monthly fee per company",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, deploy it for one real small business currently paying for three or more separate SaaS tools, migrate their data, and charge a flat setup fee plus a small monthly hosting fee.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-17T12:06:56Z"
+}

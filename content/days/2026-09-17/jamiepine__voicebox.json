@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-17",
+  "owner": "jamiepine",
+  "name": "voicebox",
+  "full_name": "jamiepine/voicebox",
+  "url": "https://github.com/jamiepine/voicebox",
+  "description": "The open-source AI voice studio. Clone, dictate, create.",
+  "language": "TypeScript",
+  "stars_total": 54727,
+  "stars_today": 665,
+  "one_liner": "An app that clones any voice from a short recording, turns typed text into speech in that voice, and lets you dictate into any other app, all running privately on your own computer.",
+  "buyer": "An indie audiobook producer or podcast creator who wants professional narration without hiring a studio or paying per-minute cloud TTS fees.",
+  "business_use_cases": [
+    "An audiobook producer narrates books in a licensed narrator's cloned voice at a fraction of studio recording cost.",
+    "A course creator turns written lesson scripts into narrated video lessons in their own voice without recording every take.",
+    "A dubbing studio offers foreign-language dubbing that preserves the original speaker's voice characteristics."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a 'narrate your book or course in your own voice' production service, billed per finished minute",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "License custom voice models to studios for recurring dubbing and narration work",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, clone your own voice, narrate a short public-domain story, and sell narration-as-a-service to local podcasters and course creators who hate hearing their own voice.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-17T12:06:56Z"
+}

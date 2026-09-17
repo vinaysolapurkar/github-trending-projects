@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-17",
+  "owner": "addyosmani",
+  "name": "agent-skills",
+  "full_name": "addyosmani/agent-skills",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "description": "Production-grade engineering skills for AI coding agents.",
+  "language": "JavaScript",
+  "stars_total": 95787,
+  "stars_today": 680,
+  "one_liner": "A packaged set of best-practice checklists and slash commands that make an AI coding assistant behave like a disciplined senior engineer instead of a sloppy one.",
+  "buyer": "A solo developer or small startup CTO who doesn't have a senior engineer on staff to enforce code quality.",
+  "business_use_cases": [
+    "A no-code-to-code bootcamp bundles it into their curriculum so students' AI-generated projects don't collapse under technical debt.",
+    "A fractional CTO installs it across every client repo as part of their engagement to instantly raise code quality.",
+    "An agency uses its /ship and /review commands as a repeatable QA gate before client delivery, replacing a manual checklist."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a 'fractional CTO in a box' setup service bundling this plus a short training call",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build and sell a custom industry-specific skill pack (e.g. a HIPAA-aware code review skill) as an add-on",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, package a niche add-on skill (e.g. 'HIPAA-aware code review') on top of this framework and sell it to solo devs in that space.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-17T12:06:56Z"
+}

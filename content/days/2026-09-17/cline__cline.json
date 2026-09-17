@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-17",
+  "owner": "cline",
+  "name": "cline",
+  "full_name": "cline/cline",
+  "url": "https://github.com/cline/cline",
+  "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+  "language": "TypeScript",
+  "stars_total": 68537,
+  "stars_today": 381,
+  "one_liner": "An AI coding assistant, similar to Claude Code, that can be embedded directly in your code editor, run from the command line, or built into your own product via its SDK.",
+  "buyer": "A software team lead evaluating AI coding assistants who wants one that plugs into their existing IDE workflow.",
+  "business_use_cases": [
+    "A dev tools company embeds its SDK into their own product to add 'AI pair programmer' features without building an agent from scratch.",
+    "An agency standardizes its developers on it to keep consistent AI-assisted workflows across projects.",
+    "A trainer builds and sells a course on effective agentic coding workflows using it as the reference tool."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer 'AI coding agent integration' consulting for companies embedding its SDK into their own products",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build and sell a training course on advanced agentic-coding workflows",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, embed its SDK into one small internal tool as a proof of concept, and pitch that integration pattern to a product company as a paid feature.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-17T12:06:56Z"
+}

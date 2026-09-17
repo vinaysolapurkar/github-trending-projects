@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-17",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing trending today is a social-video editor; we'll notify when one trends." },
+    { "problem_id": "p002", "repo": null, "why": "No product-photography tool trended today; nothing genuinely fits." },
+    { "problem_id": "p003", "repo": "affaan-m/ECC", "why": "It's built specifically to give AI coding agents like Claude Code persistent memory and instincts so they stop losing project context between sessions.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "addyosmani/agent-skills", "why": "It packages senior-engineer quality gates (plan, build, test, review, simplify) that stop AI agents from shipping bloated, over-engineered code.", "confidence": "high" },
+    { "problem_id": "p005", "repo": "alphaXiv/OpenResearch", "why": "It turns a coding agent into a research workspace that reads, organizes, and cross-references piles of papers and PDFs.", "confidence": "high" },
+    { "problem_id": "p006", "repo": null, "why": "No visual-storytelling-from-no-footage tool trended today; nothing genuinely fits." },
+    { "problem_id": "p007", "repo": null, "why": "OpenResearch is a general research agent, not a bioinformatics-specific tool, so it's not an honest fit for a biotech lab's needs today." },
+    { "problem_id": "p008", "repo": "TencentCloud/Octop", "why": "It's a self-hosted, multi-user AI assistant a law firm can run entirely on its own servers, so no client data ever reaches an external AI vendor.", "confidence": "high" },
+    { "problem_id": "p009", "repo": "jamiepine/voicebox", "why": "It turns written text into natural narration in a cloned voice, running locally; it only covers narration, not assembling the video, so treat this as a partial fit.", "confidence": "medium" },
+    { "problem_id": "p010", "repo": null, "why": "Nothing trending today is a self-owned notes app; nothing genuinely fits." },
+    { "problem_id": "p011", "repo": "anthropics/claude-code", "why": "It reads and explains an entire existing codebase in plain English, which is exactly what a new hire needs to make sense of an inherited mess.", "confidence": "medium" },
+    { "problem_id": "p012", "repo": "n8n-io/n8n", "why": "Its native AI nodes let someone with no coding background wire up a working AI-powered product (a chatbot, a lead-qualifier) to real data sources today, a genuine starting point.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": "ever-co/ever-gauzy", "why": "It's a free, self-hosted ERP that explicitly includes inventory management alongside CRM and HR, a real alternative to a paid restaurant-management SaaS.", "confidence": "high" }
+  ]
+}

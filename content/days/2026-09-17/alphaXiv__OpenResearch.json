@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-17",
+  "owner": "alphaXiv",
+  "name": "OpenResearch",
+  "full_name": "alphaXiv/OpenResearch",
+  "url": "https://github.com/alphaXiv/OpenResearch",
+  "description": "Turn your coding agents into research agents",
+  "language": "Rust",
+  "stars_total": 4835,
+  "stars_today": 940,
+  "one_liner": "A workspace that turns an AI coding assistant into a research assistant: it can read scientific papers, propose experiments, run them, and track what worked, like a lab notebook that also does the lab work.",
+  "buyer": "A PhD student or small ML startup that needs to run many experiments but can't afford a full research team.",
+  "business_use_cases": [
+    "A small ML startup runs dozens of hyperparameter and architecture experiments in parallel overnight instead of one engineer babysitting one run at a time.",
+    "A PhD researcher uses the paper-discovery command to keep a literature review current without manually trawling arXiv every week.",
+    "A research-tools consultancy sets it up on client compute clusters as a paid onboarding service for academic labs."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer setup and integration consulting for academic labs connecting it to their compute clusters",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell managed compute and hosting for labs that don't want to run their own GPUs",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "This weekend, set it up against one open dataset, let it run an overnight autoresearch loop, and publish the experiment trail as a case study to attract lab customers.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-17T12:06:56Z"
+}

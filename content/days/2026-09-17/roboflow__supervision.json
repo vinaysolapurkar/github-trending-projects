@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-17",
+  "owner": "roboflow",
+  "name": "supervision",
+  "full_name": "roboflow/supervision",
+  "url": "https://github.com/roboflow/supervision",
+  "description": "We write your reusable computer vision tools. 💜",
+  "language": "Python",
+  "stars_total": 50738,
+  "stars_today": 327,
+  "one_liner": "A toolbox of ready-made building blocks for computer vision projects, counting objects in video, drawing boxes around detected items, tracking things across frames, so you don't code that from scratch.",
+  "buyer": "A computer-vision engineer at a retail or security company building a custom video-analytics product who doesn't want to reinvent basic detection and tracking plumbing.",
+  "business_use_cases": [
+    "A retail analytics startup quickly builds a 'count customers per hour' or 'track shelf stock' product for small stores from off-the-shelf camera feeds.",
+    "A parking-lot operator builds a low-cost license-plate and vehicle counting system instead of buying an expensive proprietary one.",
+    "A freelance CV developer builds bespoke video-analytics dashboards for warehouses, farms, and construction sites using it as the core toolkit."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build and sell a specific vertical video-analytics product (e.g. a retail footfall counter) using it as the engine",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer custom computer-vision development services for small businesses that can't afford enterprise CV vendors",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, wire it to a cheap webcam and build one narrow, sellable demo, like a 'how many cars pass this driveway' counter, and pitch it to one local business.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-17T12:06:56Z"
+}

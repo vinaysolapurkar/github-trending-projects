@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-17",
+  "owner": "abue-ammar",
+  "name": "tinycast",
+  "full_name": "abue-ammar/tinycast",
+  "url": "https://github.com/abue-ammar/tinycast",
+  "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+  "language": "Swift",
+  "stars_total": 5922,
+  "stars_today": 738,
+  "one_liner": "A tiny, fast app launcher for Mac that pops up with one keypress and lets you search files, run commands, and access your clipboard history, a lightweight alternative to Raycast or Alfred.",
+  "buyer": "An individual Mac power-user who wants a fast, free, privacy-respecting launcher and doesn't need enterprise features.",
+  "business_use_cases": [
+    "A solo developer sells small, focused Raycast-style extensions built specifically for this launcher to fellow power users.",
+    "A productivity YouTuber builds an audience and affiliate income comparing it to paid launcher alternatives.",
+    "Honestly, most of the value here is personal productivity, not something a company can be built on top of."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Accept tips and sponsorships from users (already built in) and grow toward a small pro-support tier",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, build and publish one well-made extension for it and list it for tips; the realistic ceiling here is a side income, not a company.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-17T12:06:56Z"
+}

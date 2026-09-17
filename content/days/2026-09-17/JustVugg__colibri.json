@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-17",
+  "owner": "JustVugg",
+  "name": "colibri",
+  "full_name": "JustVugg/colibri",
+  "url": "https://github.com/JustVugg/colibri",
+  "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+  "language": "C",
+  "stars_total": 35417,
+  "stars_today": 872,
+  "one_liner": "Lets you run today's biggest AI models on an ordinary computer instead of expensive cloud servers, by cleverly shuffling parts of the model between disk, memory, and graphics card.",
+  "buyer": "A small AI startup or privacy-conscious business that wants to run powerful AI models in-house without paying ongoing cloud API fees.",
+  "business_use_cases": [
+    "A startup burning money on API calls switches its backend to self-hosted inference on existing hardware, cutting a major recurring cost.",
+    "A company with strict data-privacy requirements (legal, healthcare) runs frontier-scale AI entirely on-premises instead of sending data to a cloud API.",
+    "A hardware reseller bundles a 'run your own AI' workstation pre-configured with it as a product."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer 'self-hosted AI migration' consulting for companies trying to cut cloud AI API bills",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell pre-configured hardware bundles optimized for running it",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, benchmark one popular model's cost on cloud APIs vs. running it locally with this on a mid-range PC, and use the savings number as a sales pitch to one API-heavy startup.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-17T12:06:56Z"
+}

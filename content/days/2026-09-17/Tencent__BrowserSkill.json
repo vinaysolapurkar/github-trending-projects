@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-17",
+  "owner": "Tencent",
+  "name": "BrowserSkill",
+  "full_name": "Tencent/BrowserSkill",
+  "url": "https://github.com/Tencent/BrowserSkill",
+  "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+  "language": "TypeScript",
+  "stars_total": 3594,
+  "stars_today": 1350,
+  "one_liner": "Lets an AI assistant borrow your already-logged-in web browser to do tasks for you, filling forms, checking sites, clicking through workflows, without you having to hand over passwords or build a bot.",
+  "buyer": "A small e-commerce operator who needs recurring manual browser tasks (price checks, marketplace inventory updates, form submissions) done without hiring a virtual assistant.",
+  "business_use_cases": [
+    "An e-commerce seller has an agent log into supplier and marketplace dashboards nightly to reconcile inventory, using their real logged-in session.",
+    "A local real-estate agent has an agent check and re-list properties on portals that don't offer an API.",
+    "A small agency offers 'browser task automation' as a service for clients whose tools have no API, billing per automated workflow."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build and sell pre-made automation recipes for common no-API business tasks (marketplace relisting, portal form-filling)",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a managed automation service where you build and maintain browser workflows for non-technical clients",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, build one automation recipe for a task real small businesses do by hand (e.g. reposting a listing across three marketplaces) and sell it as a done-for-you service.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-17T12:06:56Z"
+}

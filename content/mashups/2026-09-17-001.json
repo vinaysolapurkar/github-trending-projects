@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-17-001",
+  "date": "2026-09-17",
+  "repo_a": "n8n-io/n8n",
+  "repo_b": "Tencent/WeKnora",
+  "title": "Support Tickets That Answer Themselves",
+  "pitch": "n8n listens for new support tickets across any channel a small business already uses, email, Zendesk, a web form, Slack, and hands the customer's question to WeKnora, which has been fed the company's own manuals, policies, and past resolved tickets. WeKnora returns a grounded answer sourced from those documents, and n8n either posts it as a draft for a human to approve or auto-sends it for a low-risk queue like 'what's your return policy.' Both tools are fully self-hosted, so a company handling confidential customer or case data never has to send its internal documentation to an external AI vendor to get this. The buyer is a support-ops lead at a mid-size company drowning in repetitive tickets who can't justify hiring another agent but also can't get sign-off to pipe customer data through a public AI API. An agency could package this as a 'private AI support agent' installed on a client's own servers, charging a setup fee plus a monthly retainer for keeping the knowledge base current as policies change.",
+  "why_now": "n8n and WeKnora are both trending today, and WeKnora specifically ships a self-maintaining Wiki that keeps a knowledge base current as source documents change. Wiring that always-current knowledge base into n8n's triggers turns it from a chat window someone has to remember to open into an actual response pipeline, which is the missing piece for a sellable support-automation product."
+}

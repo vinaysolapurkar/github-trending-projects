@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-17",
+  "owner": "coder",
+  "name": "coder",
+  "full_name": "coder/coder",
+  "url": "https://github.com/coder/coder",
+  "description": "Secure environments for developers and their agents",
+  "language": "Go",
+  "stars_total": 14690,
+  "stars_today": 83,
+  "one_liner": "Gives every developer, and their AI coding assistants, a consistent, secure, cloud-hosted workspace instead of installing everything locally on their own laptop.",
+  "buyer": "An engineering manager at a company with strict security requirements who needs to give contractors or remote developers safe access to code without it touching their personal laptops.",
+  "business_use_cases": [
+    "A company with sensitive IP gives contractors access only through hosted, sandboxed dev environments that never let code leave company infrastructure.",
+    "A dev-tools consultancy sets up and manages cloud dev environments for engineering teams as a fixed monthly service.",
+    "A team running many AI coding agents in parallel gives each agent its own isolated, disposable environment instead of risking the shared local machine."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer managed hosting and setup of secure dev environments for security-conscious companies",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell a fixed-price 'contractor onboarding in a day' package built around it",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, set up a demo environment for a company that currently onboards contractors by mailing them a laptop, and pitch same-day secure access instead.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-17T12:06:56Z"
+}

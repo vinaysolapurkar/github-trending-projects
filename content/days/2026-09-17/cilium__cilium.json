@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-17",
+  "owner": "cilium",
+  "name": "cilium",
+  "full_name": "cilium/cilium",
+  "url": "https://github.com/cilium/cilium",
+  "description": "eBPF-based Networking, Security, and Observability",
+  "language": "Go",
+  "stars_total": 25265,
+  "stars_today": 20,
+  "one_liner": "The plumbing that lets big companies' cloud computers talk to each other securely and efficiently: the invisible networking and security layer underneath services like Kubernetes.",
+  "buyer": "A platform engineering lead at a mid-to-large company running Kubernetes at scale who needs better network security and visibility than the defaults provide.",
+  "business_use_cases": [
+    "A cloud consultancy offers 'Kubernetes network security hardening' engagements built around configuring it correctly for clients.",
+    "A managed-Kubernetes provider bundles it as a premium networking and observability tier.",
+    "An enterprise support company sells paid support contracts for teams running it in production who can't afford downtime."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer implementation and hardening consulting for enterprises migrating to it",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell an ongoing managed-support retainer for production clusters",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, write a very specific 'migrate from X to Cilium in a weekend' guide for one common stack and use it as consulting lead-gen; this is an infrastructure play, not a solo product.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-17T12:06:56Z"
+}
