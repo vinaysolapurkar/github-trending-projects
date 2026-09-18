@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-18",
+  "owner": "Fission-AI",
+  "name": "OpenSpec",
+  "full_name": "Fission-AI/OpenSpec",
+  "url": "https://github.com/Fission-AI/OpenSpec",
+  "description": "Spec-driven development (SDD) for AI coding assistants.",
+  "language": "TypeScript",
+  "stars_total": 69066,
+  "stars_today": 298,
+  "one_liner": "A tool that makes an AI coding assistant write down exactly what it's about to build and get approval before it writes any code, so you don't end up with a feature you didn't ask for.",
+  "buyer": "A non-technical startup founder or product manager who directs AI-built features but keeps getting surprised by what the AI actually shipped.",
+  "business_use_cases": [
+    "A solo founder building their product with AI assistance uses it to review a plain-English spec before code gets written, catching misunderstandings early and cheaply.",
+    "An agency uses it to create a client-approvable spec document as a billable milestone before any AI-assisted development work begins.",
+    "A product manager team standardizes on it so every AI-built feature has a paper trail of what was intended versus built, useful for audits and handoffs."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a 'spec-first AI development' service where you write and get sign-off on specs, then build, billed per milestone", "revenue_model": "one-off" },
+    { "idea": "Build a hosted spec-review dashboard for teams to track and approve AI-generated specs, sold per seat", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This weekend, offer a fixed-price 'spec sprint': turn a founder's vague feature idea into an approved spec document they can hand to any developer or AI tool.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-18T12:14:43Z"
+}

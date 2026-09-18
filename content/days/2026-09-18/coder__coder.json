@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-18",
+  "owner": "coder",
+  "name": "coder",
+  "full_name": "coder/coder",
+  "url": "https://github.com/coder/coder",
+  "description": "Secure environments for developers and their agents",
+  "language": "Go",
+  "stars_total": 15047,
+  "stars_today": 478,
+  "one_liner": "Lets a company give every developer (and every AI coding agent) a full, secure development computer in the cloud instead of on their laptop, so nothing sensitive ever sits on a personal device.",
+  "buyer": "An IT security lead at a company with contractors or remote developers who needs consistent, controllable dev environments without shipping laptops or trusting home machines.",
+  "business_use_cases": [
+    "A company with remote contractors gives each one a locked-down cloud dev environment instead of company laptops, cutting hardware costs and security risk.",
+    "An enterprise running AI coding agents at scale isolates each agent's work in its own disposable environment, so a bad agent action can't touch production systems.",
+    "A managed-IT provider offers 'developer environment as a service' for startups that don't want to run their own infrastructure for this."
+  ],
+  "money_ideas": [
+    { "idea": "Offer managed setup and hosting of team-wide cloud dev environments for companies", "revenue_model": "subscription" },
+    { "idea": "Provide security-hardening consulting for companies running AI agents in production-adjacent environments", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, package a pre-configured, security-hardened environment template for a specific compliance need (e.g. SOC 2 dev environments) and sell it as a starter kit.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-18T12:14:43Z"
+}

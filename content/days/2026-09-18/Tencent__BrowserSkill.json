@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-18",
+  "owner": "Tencent",
+  "name": "BrowserSkill",
+  "full_name": "Tencent/BrowserSkill",
+  "url": "https://github.com/Tencent/BrowserSkill",
+  "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+  "language": "TypeScript",
+  "stars_total": 4869,
+  "stars_today": 1319,
+  "one_liner": "Lets an AI assistant borrow your already-logged-in browser tab to do a task on a website, then hand it back, without you having to log in again or lose your place.",
+  "buyer": "An ops or growth person who wants an AI agent to fill forms, check dashboards, or scrape data from sites that require a real logged-in session (no API available).",
+  "business_use_cases": [
+    "A small e-commerce operator has their AI agent check supplier portals or marketplace dashboards daily and summarize changes, without re-authenticating each time.",
+    "An agency offers 'AI browser automation setup' for clients whose internal tools have no API, wiring up repetitive logged-in tasks (report downloads, status checks).",
+    "A recruiter automates checking job-board or ATS dashboards that require a logged-in session, freeing time for actual candidate outreach."
+  ],
+  "money_ideas": [
+    { "idea": "Sell custom browser-automation workflows for specific no-API business tools", "revenue_model": "one-off" },
+    { "idea": "Offer a managed automation service that runs recurring logged-in-browser tasks for non-technical clients", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This weekend, build one automation for a common no-API SaaS dashboard (like a specific supplier portal) and sell it as a done-for-you service to small businesses using that tool.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-18T12:14:43Z"
+}

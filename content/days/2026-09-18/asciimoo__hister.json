@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-18",
+  "owner": "asciimoo",
+  "name": "hister",
+  "full_name": "asciimoo/hister",
+  "url": "https://github.com/asciimoo/hister",
+  "description": "Your own search engine",
+  "language": "Go",
+  "stars_total": 4665,
+  "stars_today": 842,
+  "one_liner": "A private search engine that indexes every webpage you've visited and every file you keep, so you can actually find that article or document again by searching, without it ever leaving your machine.",
+  "buyer": "A privacy-conscious knowledge worker (researcher, journalist, consultant) who constantly loses track of articles and documents they read weeks ago.",
+  "business_use_cases": [
+    "A researcher or journalist indexes years of browsing and local files so any past source is instantly searchable, replacing a messy bookmarks folder.",
+    "A privacy-focused IT consultant offers it as a 'self-hosted personal search' setup service for clients wary of Big Tech tracking their browsing history.",
+    "A consulting firm deploys it internally so staff can search across everything they've read and saved for a client, without that history living on a vendor's servers."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid setup and configuration for non-technical users who want it but can't self-host", "revenue_model": "one-off" },
+    { "idea": "Provide a hosted, privacy-first version for professionals who want the convenience without running their own server", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This weekend, package a one-click installer plus a short setup video and sell it to privacy-conscious professionals as a $20 'own your search history' kit.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-18T12:14:43Z"
+}

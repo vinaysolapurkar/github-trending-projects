@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-18",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing trending today is a social-video editor; nothing genuinely fits." },
+    { "problem_id": "p002", "repo": null, "why": "No product-photography tool trended today; nothing genuinely fits." },
+    { "problem_id": "p003", "repo": "affaan-m/ECC", "why": "It's built specifically to give AI coding agents like Claude Code, Codex, and Cursor persistent memory and instincts so they stop losing project context between sessions.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "addyosmani/agent-skills", "why": "It packages senior-engineer quality gates (plan, build, test, review, ship) that stop AI coding agents from shipping bloated, over-engineered code.", "confidence": "high" },
+    { "problem_id": "p005", "repo": null, "why": "No research-organization or PDF-management tool trended today; nothing genuinely fits." },
+    { "problem_id": "p006", "repo": null, "why": "No visual-storytelling-from-no-footage tool trended today; nothing genuinely fits." },
+    { "problem_id": "p007", "repo": null, "why": "No bioinformatics-specific tool trended today; nothing genuinely fits." },
+    { "problem_id": "p008", "repo": "TencentCloud/Octop", "why": "It's a self-hosted, multi-user AI assistant a law firm can run entirely on its own servers, so no client data ever reaches an external AI vendor.", "confidence": "high" },
+    { "problem_id": "p009", "repo": null, "why": "No blog-to-narrated-video tool trended today; nothing genuinely fits." },
+    { "problem_id": "p010", "repo": null, "why": "hister is a private self-hosted search engine over browsing history and files, not a notes app, so it's not an honest fit for this problem today." },
+    { "problem_id": "p011", "repo": "ahmedkhaleel2004/gitdiagram", "why": "It turns any GitHub repository into an interactive architecture diagram in seconds, exactly what a new hire needs to make sense of an inherited codebase.", "confidence": "high" },
+    { "problem_id": "p012", "repo": "supabase/supabase", "why": "It bundles a database, authentication, storage, and a vector/embeddings toolkit, giving a first-time AI founder a real starting backend instead of building infrastructure from scratch.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "No restaurant or inventory-management tool trended today; nothing genuinely fits." }
+  ]
+}

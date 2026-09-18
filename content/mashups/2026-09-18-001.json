@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-18-001",
+  "date": "2026-09-18",
+  "repo_a": "TencentCloud/Octop",
+  "repo_b": "asciimoo/hister",
+  "title": "The Firm's Own Private Brain",
+  "pitch": "Octop gives a small firm (law, accounting, consulting) a self-hosted, multi-user AI assistant that never sends a document to an outside vendor. Hister quietly indexes everything the firm's staff read and save, every case-law page, client memo, and internal doc, into a private, full-text-searchable index on the firm's own servers. Wire Hister's index in as Octop's knowledge source, and every staff member gets an AI assistant that can actually answer 'what did we decide about the Henderson contract last spring' by searching the firm's real history, not a generic model with no memory of the firm's own work. The buyer is the same IT director juggling confidentiality rules who can't use ChatGPT for this today. An MSP could sell it as 'private firm memory' setup, a fixed install fee plus a small monthly maintenance retainer to keep both services patched and running.",
+  "why_now": "Octop and Hister both trended today from opposite angles of the same problem, a private AI brain and a private searchable memory, and neither alone is a complete product. Combined, they're the two missing halves of a genuinely sellable 'private company AI' package for regulated small businesses that can't touch public AI vendors."
+}

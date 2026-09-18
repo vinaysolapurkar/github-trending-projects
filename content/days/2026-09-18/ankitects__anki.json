@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-18",
+  "owner": "ankitects",
+  "name": "anki",
+  "full_name": "ankitects/anki",
+  "url": "https://github.com/ankitects/anki",
+  "description": "Anki is a smart spaced repetition flashcard program",
+  "language": "Rust",
+  "stars_total": 31063,
+  "stars_today": 430,
+  "one_liner": "A flashcard app that shows you each card right before you're about to forget it, so studying anything (a language, medical terms, exam material) takes far less time to actually stick.",
+  "buyer": "A medical or nursing student who has thousands of facts to memorize for board exams and needs the most efficient possible study method.",
+  "business_use_cases": [
+    "A tutoring business sells pre-made, subject-specific flashcard decks (bar exam law, USMLE medicine, language vocabulary) as a paid product bundled with tutoring.",
+    "A corporate training company builds spaced-repetition decks for compliance or product-knowledge certification, cutting re-training time.",
+    "A language-learning coach offers a 'done-for-you deck' service, building custom vocabulary decks from a client's own reading material."
+  ],
+  "money_ideas": [
+    { "idea": "Sell curated, subject-specific flashcard deck packs for high-stakes exams", "revenue_model": "one-off" },
+    { "idea": "Offer a custom-deck-building service where clients send material and get back a ready-to-study deck", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, build and sell one polished, well-sourced deck for a specific certification exam that currently has no good free deck available.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-18T12:14:43Z"
+}

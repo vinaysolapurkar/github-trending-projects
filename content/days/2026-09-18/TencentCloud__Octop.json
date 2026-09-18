@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-18",
+  "owner": "TencentCloud",
+  "name": "Octop",
+  "full_name": "TencentCloud/Octop",
+  "url": "https://github.com/TencentCloud/Octop",
+  "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+  "language": "Python",
+  "stars_total": 3771,
+  "stars_today": 571,
+  "one_liner": "A ChatGPT-style AI assistant that a company runs entirely on its own servers, with support for multiple employees and multiple specialized AI 'agents', so no company data ever leaves the building.",
+  "buyer": "An IT director at a law firm, hospital, or financial firm who wants staff to use AI chat but is barred from sending confidential data to public AI vendors.",
+  "business_use_cases": [
+    "A law firm deploys it internally so associates can draft and research with AI without client documents ever touching an outside API.",
+    "A managed-IT provider offers 'private company ChatGPT' installation and maintenance as a service for regulated small businesses.",
+    "A healthcare clinic uses it for internal documentation help while staying compliant with patient-data rules."
+  ],
+  "money_ideas": [
+    { "idea": "Offer white-glove installation and hosting of a private instance for regulated businesses", "revenue_model": "one-off" },
+    { "idea": "Run ongoing maintenance, updates, and support as a monthly managed-service contract", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This weekend, package a one-click deployment for a specific regulated industry (e.g. small law firms) and sell it as a fixed-price 'private AI in a box' setup.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-18T12:14:43Z"
+}

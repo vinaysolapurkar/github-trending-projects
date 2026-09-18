@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-18",
+  "owner": "tradesdontlie",
+  "name": "tradingview-mcp",
+  "full_name": "tradesdontlie/tradingview-mcp",
+  "url": "https://github.com/tradesdontlie/tradingview-mcp",
+  "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+  "language": "JavaScript",
+  "stars_total": 6346,
+  "stars_today": 64,
+  "one_liner": "A bridge that lets an AI assistant look at your own TradingView charts and help write trading scripts, running entirely on your own computer with your own paid subscription.",
+  "buyer": "An active retail trader who already pays for TradingView and wants AI help writing custom indicators and reading their own charts, without sending trade data anywhere.",
+  "business_use_cases": [
+    "An individual trader automates repetitive Pine Script indicator tweaks that used to take an afternoon of manual scripting.",
+    "A trading educator builds AI-assisted chart-analysis tutorials for students who already use TradingView.",
+    "A freelance quant offers custom Pine Script development services to retail traders, using the AI bridge to work faster."
+  ],
+  "money_ideas": [
+    { "idea": "Sell custom Pine Script indicator development for retail traders, delivered faster using the AI bridge", "revenue_model": "one-off" },
+    { "idea": "Package a paid tutorial course on AI-assisted chart analysis for existing TradingView subscribers", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, build and sell three or four popular custom indicators built with AI assistance, since it's this project's whole reason for existing.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-18T12:14:43Z"
+}

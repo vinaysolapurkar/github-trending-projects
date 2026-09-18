@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-18",
+  "owner": "anthropics",
+  "name": "knowledge-work-plugins",
+  "full_name": "anthropics/knowledge-work-plugins",
+  "url": "https://github.com/anthropics/knowledge-work-plugins",
+  "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+  "language": "Python",
+  "stars_total": 24709,
+  "stars_today": 300,
+  "one_liner": "A set of ready-made 'job packs' that turn a general AI assistant into a specialist for a specific role, like sales, HR, or finance, already knowing that role's tools and workflows.",
+  "buyer": "An operations manager at a small-to-mid-size company who wants non-technical staff to get real value from AI without custom-building prompts themselves.",
+  "business_use_cases": [
+    "An HR consultancy customizes the HR-focused plugin with a client's own policies and templates, then sells it as a packaged 'AI HR assistant' rollout.",
+    "A boutique agency builds and sells a niche plugin (e.g. for property management or nonprofit grant-writing) not covered by the official 11.",
+    "A company customizes an existing plugin with its internal terminology and tools, then trains staff on it as part of an AI-adoption initiative."
+  ],
+  "money_ideas": [
+    { "idea": "Sell custom plugin development and configuration for a company's specific role and tools", "revenue_model": "one-off" },
+    { "idea": "Build and sell a niche industry plugin not covered by the official marketplace", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, build one plugin for an underserved role (e.g. property manager or nonprofit fundraiser) and list it for sale to agencies serving that niche.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-18T12:14:43Z"
+}

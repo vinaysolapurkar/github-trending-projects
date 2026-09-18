@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-18",
+  "owner": "ahmedkhaleel2004",
+  "name": "gitdiagram",
+  "full_name": "ahmedkhaleel2004/gitdiagram",
+  "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+  "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+  "language": "TypeScript",
+  "stars_total": 16246,
+  "stars_today": 145,
+  "one_liner": "Turns any GitHub codebase into a clickable diagram of how it's put together, in seconds, so a new hire or reviewer can understand the system without reading every file.",
+  "buyer": "An engineering manager onboarding new hires who wastes hours walking people through 'how the codebase fits together' every time someone joins.",
+  "business_use_cases": [
+    "A company adds it to onboarding docs so new engineers get an instant visual map of the codebase before their first 1-on-1 walkthrough.",
+    "A due-diligence firm evaluating a startup's codebase (for acquisition or investment) uses it to quickly understand architecture without a lengthy code review.",
+    "An open-source maintainer embeds a generated diagram in the README to help contributors orient themselves without asking basic questions in issues."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid private-repo tier with saved, shareable diagrams for team documentation", "revenue_model": "subscription" },
+    { "idea": "Sell 'codebase onboarding kits' (diagram plus written architecture summary) as a one-off service for teams", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, offer a fixed-price 'instant architecture report' service for messy legacy codebases: diagram plus a plain-English writeup a new hire could actually use.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-18T12:14:43Z"
+}

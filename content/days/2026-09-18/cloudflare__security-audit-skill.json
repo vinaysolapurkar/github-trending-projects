@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-18",
+  "owner": "cloudflare",
+  "name": "security-audit-skill",
+  "full_name": "cloudflare/security-audit-skill",
+  "url": "https://github.com/cloudflare/security-audit-skill",
+  "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+  "language": "JavaScript",
+  "stars_total": 11890,
+  "stars_today": 3019,
+  "one_liner": "A recipe that turns an AI coding assistant into a security auditor: it maps out a codebase, hunts for vulnerabilities, double-checks every finding with a second AI, and hands back a clean report.",
+  "buyer": "A CTO at a small SaaS company who needs a security review before a big enterprise deal but can't afford a $20k pentest firm.",
+  "business_use_cases": [
+    "A freelance security consultant runs it against client codebases as the first pass, then spends billable hours only on the confirmed findings instead of manual grep-and-guess triage.",
+    "A startup runs it before every quarterly SOC 2 audit to catch obvious issues (SQL injection, missing auth checks) before the paid auditor bills for finding them.",
+    "An agency bundles it into a 'security checkup' add-on service sold alongside code review retainers to existing clients."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a flat-fee 'AI-assisted security audit' report as a productized service for small dev shops", "revenue_model": "one-off" },
+    { "idea": "Run it as a hosted CI check that gates pull requests, billed per repo per month", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This weekend, wrap it in a simple web form: paste a GitHub repo URL, get a PDF security report back, charge $49 per report.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-18T12:14:43Z"
+}

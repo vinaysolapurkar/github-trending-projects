@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-18",
+  "owner": "supermemoryai",
+  "name": "supermemory",
+  "full_name": "supermemoryai/supermemory",
+  "url": "https://github.com/supermemoryai/supermemory",
+  "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+  "language": "TypeScript",
+  "stars_total": 30030,
+  "stars_today": 140,
+  "one_liner": "A plug-in memory system that lets any AI app remember things about a user across conversations, instead of forgetting everything the moment the chat window closes.",
+  "buyer": "A founder building an AI chatbot product (customer support, personal assistant, coaching app) who doesn't want to build memory infrastructure from scratch.",
+  "business_use_cases": [
+    "A customer-support SaaS adds persistent memory to its AI chatbot so it remembers a returning customer's past issues, reducing repeat-explanation friction.",
+    "An AI coaching or journaling app uses it to give the assistant continuity across sessions, a key feature customers pay for.",
+    "A dev agency offers 'add memory to your AI product' as a scoped integration project for startups whose chatbots currently reset every session."
+  ],
+  "money_ideas": [
+    { "idea": "Offer integration consulting to add persistent memory to an existing AI product", "revenue_model": "one-off" },
+    { "idea": "Run a hosted, managed version for teams that don't want to self-host, billed by usage", "revenue_model": "usage" }
+  ],
+  "steal_this": "This weekend, build a small demo showing a popular open-source chatbot gaining persistent memory with it, then pitch the integration as a paid gig to indie chatbot builders.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-18T12:14:43Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-18",
+  "owner": "rustfs",
+  "name": "rustfs",
+  "full_name": "rustfs/rustfs",
+  "url": "https://github.com/rustfs/rustfs",
+  "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+  "language": "Rust",
+  "stars_total": 32933,
+  "stars_today": 559,
+  "one_liner": "A self-hosted alternative to Amazon S3 file storage that a company can run on its own hardware, cutting cloud storage bills while keeping the same file-upload tools it already uses.",
+  "buyer": "A CTO at a data-heavy startup (video, AI training data, backups) whose S3 storage bill has grown large enough to justify running their own storage servers.",
+  "business_use_cases": [
+    "A video or media company self-hosts it on owned hardware to cut a growing monthly S3 storage bill while keeping existing S3-compatible tooling.",
+    "A managed-hosting provider offers 'private S3-compatible storage' as a differentiated product for clients wary of cloud vendor lock-in.",
+    "An AI training-data company uses it as cheap, fast local storage for large datasets instead of paying cloud egress fees repeatedly."
+  ],
+  "money_ideas": [
+    { "idea": "Offer managed hosting and migration services from S3/MinIO for companies wanting to cut storage costs", "revenue_model": "subscription" },
+    { "idea": "Provide paid support and SLA contracts for companies self-hosting it in production", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This weekend, write a clear migration guide and calculator showing exactly how much a mid-size S3 bill would drop by switching, then sell migration setup as a fixed-price service.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-18T12:14:43Z"
+}

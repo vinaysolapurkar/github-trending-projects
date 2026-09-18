@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-18",
+  "owner": "supabase",
+  "name": "supabase",
+  "full_name": "supabase/supabase",
+  "url": "https://github.com/supabase/supabase",
+  "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+  "language": "TypeScript",
+  "stars_total": 109962,
+  "stars_today": 586,
+  "one_liner": "An all-in-one backend for apps, database, user logins, file storage, and instant APIs, so a developer can launch a real app without hand-building server infrastructure.",
+  "buyer": "A solo developer or small startup building a web or mobile app who needs a working backend fast without hiring backend engineers.",
+  "business_use_cases": [
+    "An indie developer launches an MVP in days by using it for login, database, and file storage instead of building each piece separately.",
+    "A no-code/low-code agency builds client apps faster by using it as the standard backend, cutting delivery time on every project.",
+    "A startup building an AI product uses its vector/embeddings toolkit as the storage layer for an AI feature, skipping separate vector-database infrastructure."
+  ],
+  "money_ideas": [
+    { "idea": "Offer 'launch your app backend in a week' setup services for non-technical founders", "revenue_model": "one-off" },
+    { "idea": "Build and sell app templates pre-wired with authentication, database, and payments on top of it", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, build a niche app starter template (e.g. for booking systems or membership sites) pre-configured on it and sell it to other indie builders.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-18T12:14:43Z"
+}
