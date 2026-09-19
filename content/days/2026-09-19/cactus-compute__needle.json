@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-19",
+  "owner": "cactus-compute",
+  "name": "needle",
+  "full_name": "cactus-compute/needle",
+  "url": "https://github.com/cactus-compute/needle",
+  "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+  "language": "Python",
+  "stars_total": 11410,
+  "stars_today": 207,
+  "one_liner": "A tiny AI brain — small enough to run on a smartwatch, smart speaker, or even a basic microcontroller — that can understand simple spoken or typed commands and act on them, with no internet connection required.",
+  "buyer": "A smart-home or wearable device manufacturer who wants voice/text command understanding on-device, without sending user data to the cloud or paying per-request API fees.",
+  "business_use_cases": [
+    "A smart home device maker adds offline voice command parsing (\"turn off the lights in the bedroom\") without a cloud round-trip.",
+    "A wearable fitness tracker startup adds simple typed/voice command support that works with no phone connection.",
+    "A robotics or industrial IoT company uses it for structured data extraction from sensor readings or operator commands directly on the device."
+  ],
+  "money_ideas": [
+    { "idea": "License the model per device shipped to hardware manufacturers.", "revenue_model": "usage" },
+    { "idea": "Offer custom fine-tuning services for a manufacturer's specific product commands and vocabulary.", "revenue_model": "one-off" },
+    { "idea": "Support/maintenance subscription for companies embedding it in shipped products.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Build a demo this weekend: a $20 microcontroller kit that responds to 5 voice commands entirely offline, and pitch it to a smart-home hobbyist hardware maker as a proof of concept.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-19T12:04:42Z"
+}

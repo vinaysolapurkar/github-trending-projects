@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-19",
+  "owner": "trycua",
+  "name": "cua",
+  "full_name": "trycua/cua",
+  "url": "https://github.com/trycua/cua",
+  "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+  "language": "HTML",
+  "stars_total": 23875,
+  "stars_today": 383,
+  "one_liner": "Gives an AI agent a virtual computer it can click around on, type into, and take screenshots of, just like a human employee would use software that has no API.",
+  "buyer": "An operations manager at an insurance or logistics company who is stuck with an old desktop application that has no API and no plans to ever get one.",
+  "business_use_cases": [
+    "Automate data entry into a 20-year-old legacy insurance claims application that only has a Windows GUI.",
+    "Run overnight QA test suites that click through a web or desktop app exactly like a real tester would, catching visual regressions.",
+    "Offer 'RPA replacement' service to back-office teams still paying for expensive robotic process automation licenses."
+  ],
+  "money_ideas": [
+    { "idea": "Sell managed automation setups for specific legacy apps (insurance, healthcare back-office) as a service.", "revenue_model": "subscription" },
+    { "idea": "Charge per cloud-desktop-hour for companies that don't want to run their own fleet infrastructure.", "revenue_model": "usage" },
+    { "idea": "Consulting engagements to script one-off automations for a client's specific painful manual workflow.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Pick one boring, repetitive desktop task (e.g. copying data from an old ERP screen into a spreadsheet) and sell it as a done-for-you automation to a single local business this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-19T12:04:42Z"
+}

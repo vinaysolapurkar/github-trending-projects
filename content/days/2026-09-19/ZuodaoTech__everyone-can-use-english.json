@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-19",
+  "owner": "ZuodaoTech",
+  "name": "everyone-can-use-english",
+  "full_name": "ZuodaoTech/everyone-can-use-english",
+  "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+  "description": "人人都能用英语",
+  "language": "TypeScript",
+  "stars_total": 37658,
+  "stars_today": 31,
+  "one_liner": "An AI-powered app and browser extension that helps you learn English by practicing with real videos, flashcards, and pronunciation feedback, built around 'record yourself for 1,000 hours' training method.",
+  "buyer": "An independent English tutor or small language school (especially serving Chinese-speaking students) who wants a branded practice app for their students instead of building one from scratch.",
+  "business_use_cases": [
+    "A language school white-labels the app as their own student practice platform, keeping students engaged between lessons.",
+    "An individual tutor sells access to a customized version bundled with their paid course content (videos, ebooks).",
+    "A corporate training company offers it as an English-fluency tool for employees at companies expanding into English-speaking markets."
+  ],
+  "money_ideas": [
+    { "idea": "Bundle a customized version with paid tutoring or course packages, charging per student per month.", "revenue_model": "subscription" },
+    { "idea": "Sell curated content packs (structured video/podcast courses) as one-time purchases inside the app.", "revenue_model": "one-off" },
+    { "idea": "Freemium browser extension with premium features (advanced flashcards, unlimited recordings) as an upsell.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Pick one YouTube channel's content, load it into the app, and sell 'guided English practice with this show' to one small tutoring business as a pilot this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-19T12:04:42Z"
+}

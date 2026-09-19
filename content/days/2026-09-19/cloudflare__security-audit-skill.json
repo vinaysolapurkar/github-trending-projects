@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-19",
+  "owner": "cloudflare",
+  "name": "security-audit-skill",
+  "full_name": "cloudflare/security-audit-skill",
+  "url": "https://github.com/cloudflare/security-audit-skill",
+  "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+  "language": "JavaScript",
+  "stars_total": 14989,
+  "stars_today": 3006,
+  "one_liner": "A recipe that turns an AI coding assistant into an automated security inspector for a piece of software, and double-checks its own work before reporting problems.",
+  "buyer": "A freelance security consultant or small pentest shop that wants to triple the number of codebase audits they can sell per month without hiring.",
+  "business_use_cases": [
+    "A boutique security consultancy runs it as a first-pass audit before a human reviewer spends billable hours, cutting audit turnaround from a week to a day.",
+    "A SaaS company bolts it into their CI pipeline as a pre-release gate so every deploy gets an automated vulnerability sweep.",
+    "A bug bounty hunter runs it against public repos overnight to surface candidate findings to investigate by hand the next morning."
+  ],
+  "money_ideas": [
+    { "idea": "Offer 'AI-assisted security audit' as a fixed-price add-on service, using this skill to do the first pass and a human to verify.", "revenue_model": "one-off" },
+    { "idea": "Run it as a hosted CI check that companies pay per repo per month to have every PR scanned.", "revenue_model": "subscription" },
+    { "idea": "Charge per audit run for teams that don't want to set up the agent infrastructure themselves.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Wrap it in a simple web form: paste a GitHub repo URL, get a PDF security report emailed to you in an hour, charge $99 per report.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-19T12:04:42Z"
+}

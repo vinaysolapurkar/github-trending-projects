@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-19",
+  "owner": "yynxxxxx",
+  "name": "Codex-X",
+  "full_name": "yynxxxxx/Codex-X",
+  "url": "https://github.com/yynxxxxx/Codex-X",
+  "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+  "language": "Rust",
+  "stars_total": 3314,
+  "stars_today": 64,
+  "one_liner": "A desktop app that gives you visual buttons and menus for managing your OpenAI Codex CLI settings — API keys, prompt templates, sessions — instead of hand-editing config files.",
+  "buyer": "A freelance developer or small dev studio in China juggling multiple AI coding API providers and client accounts who is tired of manually editing TOML config files.",
+  "business_use_cases": [
+    "A freelance developer managing several clients' separate API keys and prompt setups switches between them with one click instead of editing config files per project.",
+    "A small dev studio standardizes prompt templates across the team so every developer uses the same vetted, tested prompts.",
+    "A power user resells curated prompt template packs to other Codex CLI users through the app's template sync feature."
+  ],
+  "money_ideas": [
+    { "idea": "Sell curated, tested prompt template packs as an in-app one-time purchase.", "revenue_model": "one-off" },
+    { "idea": "Offer a 'pro' tier with team-sharing of provider configs and templates for small dev studios.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This is a niche power-user utility for people already using Codex CLI — the realistic move is translating/localizing it for a non-Chinese audience and offering setup support, not building a new company around it.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-19T12:04:42Z"
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-19",
+  "owner": "docling-project",
+  "name": "docling",
+  "full_name": "docling-project/docling",
+  "url": "https://github.com/docling-project/docling",
+  "description": "Get your documents ready for gen AI",
+  "language": "Python",
+  "stars_total": 66734,
+  "stars_today": 94,
+  "one_liner": "Turns messy real-world documents — PDFs, Word files, scanned contracts, spreadsheets, even audio and video — into clean, structured text that an AI system can actually read and understand.",
+  "buyer": "An operations lead at a law firm or insurance company who has thousands of scanned contracts or claims PDFs sitting unsearchable in a shared drive.",
+  "business_use_cases": [
+    "A law firm digitizes decades of scanned contracts into searchable, structured text for an internal AI research assistant.",
+    "An insurance company automatically converts incoming claims PDFs and emails into structured data for faster claims processing.",
+    "A RAG-chatbot vendor uses it as the ingestion layer so their AI can actually answer questions about a client's uploaded documents accurately."
+  ],
+  "money_ideas": [
+    { "idea": "Run it as a hosted document-ingestion API and charge per page/document processed.", "revenue_model": "usage" },
+    { "idea": "Build a vertical SaaS on top for a specific industry (legal, insurance, healthcare records) with a monthly seat price.", "revenue_model": "subscription" },
+    { "idea": "One-off integration projects wiring a client's document pile into their existing AI chatbot or search tool.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build a simple 'drag in your PDFs, get clean searchable text out' web app this weekend and sell it to one local small business (accountant, law office) drowning in paper.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-19T12:04:42Z"
+}

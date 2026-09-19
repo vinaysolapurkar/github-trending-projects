@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-19",
+  "owner": "higgsfield-ai",
+  "name": "higgsfield",
+  "full_name": "higgsfield-ai/higgsfield",
+  "url": "https://github.com/higgsfield-ai/higgsfield",
+  "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+  "language": "Jupyter Notebook",
+  "stars_total": 4679,
+  "stars_today": 325,
+  "one_liner": "Software plumbing that lets a team of engineers train giant AI models across many computers without the whole job crashing when one machine fails.",
+  "buyer": "An ML infrastructure engineer at a well-funded AI startup that owns or rents its own GPU cluster and is tired of babysitting failed training runs.",
+  "business_use_cases": [
+    "An AI startup uses it internally to train its own large models more reliably, saving GPU-hours that would otherwise be wasted on crashed jobs.",
+    "A GPU cloud provider (renting out Nvidia clusters) bundles it as part of a 'managed training' offering to differentiate from raw compute rental.",
+    "An MLOps consultancy uses it to deliver reliable multi-node training setups for clients who don't have in-house infra expertise."
+  ],
+  "money_ideas": [
+    { "idea": "Consulting/setup service for companies who want reliable distributed training but lack the infra team to build it.", "revenue_model": "one-off" },
+    { "idea": "Managed training-cluster offering on top of a GPU cloud, billed per GPU-hour.", "revenue_model": "usage" }
+  ],
+  "steal_this": "This is deep infrastructure for teams already training frontier-scale models — there isn't a realistic weekend consumer product here; the honest move is to skip it unless you're already in the GPU-cluster business.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-19T12:04:42Z"
+}

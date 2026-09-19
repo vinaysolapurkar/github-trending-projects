@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-19",
+  "owner": "coder",
+  "name": "coder",
+  "full_name": "coder/coder",
+  "url": "https://github.com/coder/coder",
+  "description": "Secure environments for developers and their agents",
+  "language": "Go",
+  "stars_total": 15440,
+  "stars_today": 478,
+  "one_liner": "Lets a company give every developer (or every AI coding agent) a ready-to-use cloud computer instead of setting one up by hand, and shuts it down automatically when nobody's using it to save money.",
+  "buyer": "A platform engineering lead at a mid-size tech company (200+ engineers) who is tired of new hires spending their first week just getting their laptop set up.",
+  "business_use_cases": [
+    "Onboard new engineers in minutes with a pre-built cloud workspace instead of a multi-day local setup process.",
+    "Run AI coding agents inside isolated, auditable company infrastructure so no API keys or code ever touch an unmanaged laptop.",
+    "Cut cloud spend by auto-shutting-down idle developer workspaces instead of paying for always-on EC2 instances."
+  ],
+  "money_ideas": [
+    { "idea": "Sell the managed/premium tier with SSO, audit logging, and support to companies too busy to self-host.", "revenue_model": "subscription" },
+    { "idea": "Offer implementation consulting to set up Terraform templates for a company's specific infra.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Package a one-click 'Coder for [your framework]' template (e.g. a pre-configured Rails or Next.js workspace) and sell setup + support to small dev shops that don't have a platform team.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-19T12:04:42Z"
+}

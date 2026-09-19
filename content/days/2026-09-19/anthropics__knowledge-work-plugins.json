@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-19",
+  "owner": "anthropics",
+  "name": "knowledge-work-plugins",
+  "full_name": "anthropics/knowledge-work-plugins",
+  "url": "https://github.com/anthropics/knowledge-work-plugins",
+  "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+  "language": "Python",
+  "stars_total": 24978,
+  "stars_today": 299,
+  "one_liner": "Ready-made add-ons that teach Claude to act like a specialist for a specific job — sales, legal, finance, HR — connecting it to the tools that role already uses, like Slack, Jira, or HubSpot.",
+  "buyer": "An operations consultant who helps mid-size companies adopt AI tools and wants a fast, credible starting point instead of building integrations from scratch for every client.",
+  "business_use_cases": [
+    "A consulting firm customizes the 'legal' plugin for a client's specific contract templates and terminology, then charges for the implementation.",
+    "An agency offers 'Claude for Sales Teams' as a packaged rollout service, wiring up a client's CRM and Slack via the sales plugin.",
+    "An internal ops team at a mid-size company customizes the finance plugin to match their close process and chart of accounts, saving hours per month."
+  ],
+  "money_ideas": [
+    { "idea": "Charge a flat implementation fee to customize and deploy a plugin for a specific client's tools and terminology.", "revenue_model": "one-off" },
+    { "idea": "Offer ongoing managed support/updates for a company's customized plugin set.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Pick one plugin (e.g. customer-support), customize it this weekend for a specific local business's actual tools and tone, and pitch it to them as a done-for-you AI setup.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-19T12:04:42Z"
+}

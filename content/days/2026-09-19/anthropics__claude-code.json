@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-19",
+  "owner": "anthropics",
+  "name": "claude-code",
+  "full_name": "anthropics/claude-code",
+  "url": "https://github.com/anthropics/claude-code",
+  "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+  "language": "TypeScript",
+  "stars_total": 146517,
+  "stars_today": 444,
+  "one_liner": "A command-line assistant that reads your codebase, writes and fixes code, and handles git for you, just by typing plain English instructions.",
+  "buyer": "This is a tool developers use directly, not something a non-technical buyer purchases separately — the real buyer is any engineering team already paying for AI coding tools.",
+  "business_use_cases": [
+    "A dev agency uses it to take on more client projects per engineer, since routine coding tasks get automated.",
+    "A solo founder builds and maintains an entire product without hiring a development team.",
+    "A consultancy builds custom plugins/skills on top of it and sells them to enterprise clients as workflow add-ons."
+  ],
+  "money_ideas": [
+    { "idea": "Build and sell custom plugins, skills, or integrations on top of it for specific industries.", "revenue_model": "one-off" },
+    { "idea": "Offer 'AI-augmented development' consulting where you deliver software faster/cheaper because you use it internally.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This is Anthropic's own product, not a repo to clone into a business. The realistic angle is building a niche plugin or skill for it and selling that, not the tool itself.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-19T12:04:42Z"
+}

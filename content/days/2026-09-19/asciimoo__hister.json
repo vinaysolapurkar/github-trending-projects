@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-19",
+  "owner": "asciimoo",
+  "name": "hister",
+  "full_name": "asciimoo/hister",
+  "url": "https://github.com/asciimoo/hister",
+  "description": "Your own search engine",
+  "language": "Go",
+  "stars_total": 5085,
+  "stars_today": 889,
+  "one_liner": "A private Google just for you: it remembers every web page and file you've looked at and lets you search all of it later, without sending your data to a big tech company.",
+  "buyer": "A privacy-conscious independent researcher, journalist, or consultant who reads hundreds of sources and constantly can't find that one article again.",
+  "business_use_cases": [
+    "A research consultant sells 'personal knowledge base setup' as a service to clients who read constantly and lose track of sources.",
+    "A small law firm runs a shared instance so every associate's browsing and case-file research becomes searchable across the team.",
+    "A journalist or analyst uses it to instantly recall a fact or quote from something they read weeks ago without re-Googling."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted, managed version for non-technical users who don't want to self-host.", "revenue_model": "subscription" },
+    { "idea": "Sell setup and support contracts to small teams (law firms, agencies) wanting a shared internal search tool.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Host it for yourself this weekend, then offer to set it up for one busy professional friend (a lawyer, researcher, or writer) for a flat fee plus a small monthly hosting charge.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-19T12:04:42Z"
+}

@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-19",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing trending today is a social-video editing tool; nothing genuinely fits." },
+    { "problem_id": "p002", "repo": null, "why": "No product-photography tool trended today; nothing genuinely fits." },
+    { "problem_id": "p003", "repo": null, "why": "Nothing trending today addresses an AI coding assistant losing project memory between sessions; nothing genuinely fits." },
+    { "problem_id": "p004", "repo": "addyosmani/agent-skills", "why": "It packages senior-engineer quality gates, including a dedicated code-simplify step, so an AI coding agent stops shipping bloated, over-engineered code.", "confidence": "high" },
+    { "problem_id": "p005", "repo": "docling-project/docling", "why": "It converts research PDFs into clean, structured text an AI assistant can search and summarize, the key enabler for taming a pile of unorganized papers.", "confidence": "medium" },
+    { "problem_id": "p006", "repo": null, "why": "No visual-storytelling-from-no-footage tool trended today; nothing genuinely fits." },
+    { "problem_id": "p007", "repo": null, "why": "No bioinformatics-specific tool trended today; nothing genuinely fits." },
+    { "problem_id": "p008", "repo": null, "why": "Nothing trending today is a private, self-hosted AI chat assistant for confidential firm data; nothing genuinely fits today." },
+    { "problem_id": "p009", "repo": null, "why": "No blog-to-narrated-video tool trended today; nothing genuinely fits." },
+    { "problem_id": "p010", "repo": null, "why": "hister is a private search engine over browsing history and files, not a notes app, so it's not an honest fit for this problem." },
+    { "problem_id": "p011", "repo": null, "why": "No codebase-visualization or architecture-mapping tool trended today; nothing genuinely fits." },
+    { "problem_id": "p012", "repo": null, "why": "Nothing trending today serves as a general starting point for a first AI product idea; nothing genuinely fits." },
+    { "problem_id": "p013", "repo": null, "why": "No restaurant or inventory-management tool trended today; nothing genuinely fits." }
+  ]
+}

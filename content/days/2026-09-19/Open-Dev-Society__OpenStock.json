@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-19",
+  "owner": "Open-Dev-Society",
+  "name": "OpenStock",
+  "full_name": "Open-Dev-Society/OpenStock",
+  "url": "https://github.com/Open-Dev-Society/OpenStock",
+  "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+  "language": "TypeScript",
+  "stars_total": 15701,
+  "stars_today": 477,
+  "one_liner": "A free, ready-made stock-tracking website — like a stripped-down Bloomberg Terminal — that shows live prices, lets you set alerts, and shows company details.",
+  "buyer": "A small independent brokerage or financial newsletter publisher who wants to offer clients a branded market-data dashboard without paying for an expensive platform license.",
+  "business_use_cases": [
+    "A regional brokerage white-labels it as their client-facing portal instead of licensing an expensive vendor platform.",
+    "A financial newsletter or Discord community for retail traders offers it as a members-only alerts dashboard.",
+    "A financial advisor uses it internally as a free client-meeting screen-share tool to show live portfolio company data."
+  ],
+  "money_ideas": [
+    { "idea": "White-label and host it for small brokerages/advisors, charging a monthly fee for hosting, branding, and support.", "revenue_model": "subscription" },
+    { "idea": "Add a premium alerts tier (SMS/priority alerts) on top of the free base and charge end users directly.", "revenue_model": "subscription" },
+    { "idea": "One-off customization projects for firms that want specific data sources or branding integrated.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Deploy it this weekend, plug in a free market-data API, and pitch it to one local financial advisor as their new client portal for a flat setup fee.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-19T12:04:42Z"
+}

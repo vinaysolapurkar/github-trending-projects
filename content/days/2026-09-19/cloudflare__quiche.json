@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-19",
+  "owner": "cloudflare",
+  "name": "quiche",
+  "full_name": "cloudflare/quiche",
+  "url": "https://github.com/cloudflare/quiche",
+  "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+  "language": "Rust",
+  "stars_total": 11864,
+  "stars_today": 5,
+  "one_liner": "Low-level plumbing code that lets computers talk to each other faster over the internet using a newer, quicker version of the technology behind HTTPS.",
+  "buyer": "There isn't a realistic non-technical buyer here — this is internal networking infrastructure used by engineers building browsers, CDNs, or network hardware, not a product a business purchases.",
+  "business_use_cases": [
+    "A CDN or edge-networking company uses it to serve web traffic faster over HTTP/3.",
+    "A hardware or telecom vendor embeds it to add modern QUIC support to a networking product.",
+    "An app with heavy mobile traffic (video, gaming) integrates it to reduce connection latency on flaky networks."
+  ],
+  "money_ideas": [
+    { "idea": "No direct end-customer monetization path; value is captured indirectly by companies who already sell networking/CDN products.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Honestly, there's no realistic weekend business here. This is protocol-level infrastructure for teams already building networking products, not a starting point for a new venture.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-19T12:04:42Z"
+}

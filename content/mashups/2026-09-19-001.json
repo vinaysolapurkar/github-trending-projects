@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-19-001",
+  "date": "2026-09-19",
+  "repo_a": "docling-project/docling",
+  "repo_b": "asciimoo/hister",
+  "title": "The Filing Cabinet That Finally Understands Itself",
+  "pitch": "Hister is a private, self-hosted search engine that indexes every page you visit and every file you keep, but it only sees documents as raw text or HTML, so a scanned contract, a messy financial PDF, or a PowerPoint deck full of tables mostly slips past it unindexed. Docling exists to solve exactly that gap: it turns any document format, including scanned PDFs, Word files, spreadsheets, and even audio, into clean structured text built for AI to read. Wire Docling in as a pre-processing step before Hister indexes a folder, and a small firm's shared drive of scanned invoices, contracts, and reports becomes fully searchable by content for the first time, not just by filename. The buyer is an office manager or paralegal at a small firm who has a decade of scanned paperwork nobody can find anything in, sold as a one-time 'make your file server searchable' project plus a small monthly hosting fee.",
+  "why_now": "Both tools trended today from opposite ends of the same unsolved problem: Hister gives you a private search box but is only as good as what it can read, and Docling can read almost anything but has no search interface of its own. Neither alone is a finished product for an office with a decade of scanned paperwork; together they are."
+}

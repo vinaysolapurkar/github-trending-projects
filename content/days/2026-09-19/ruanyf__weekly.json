@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-19",
+  "owner": "ruanyf",
+  "name": "weekly",
+  "full_name": "ruanyf/weekly",
+  "url": "https://github.com/ruanyf/weekly",
+  "description": "科技爱好者周刊，每周五发布",
+  "language": null,
+  "stars_total": 102963,
+  "stars_today": 144,
+  "one_liner": "A weekly Chinese-language newsletter, published as plain text files on GitHub, curating interesting tech news and links.",
+  "buyer": "No real buyer — this is a free personal newsletter archive with no product, service, or software to sell around it.",
+  "business_use_cases": [
+    "A reader learns about weekly curation formats and starts their own niche newsletter in a different language or industry, inspired by its longevity and format.",
+    "A recruiter reads the linked 'who's hiring' issue threads for candidate sourcing leads.",
+    "A content aggregator scrapes it (with permission) as one source among many for a broader tech-news digest product."
+  ],
+  "money_ideas": [
+    { "idea": "The author's own version already monetizes via sponsorships/donations, which isn't something to replicate as a new business — treat it as content, not a product.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "There's nothing here to build a business on; it's a personal reading list, not a tool or product. If anything, start your own weekly curated newsletter in a niche you know — but that's a content habit, not this repo.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-19T12:04:42Z"
+}
