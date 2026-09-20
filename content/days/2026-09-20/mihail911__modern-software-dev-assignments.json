@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-20",
+  "owner": "mihail911",
+  "name": "modern-software-dev-assignments",
+  "full_name": "mihail911/modern-software-dev-assignments",
+  "url": "https://github.com/mihail911/modern-software-dev-assignments",
+  "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+  "language": "Python",
+  "stars_total": 4412,
+  "stars_today": 174,
+  "one_liner": "A set of homework assignments from a Stanford university course on modern software development.",
+  "buyer": "Nobody pays for this directly; it's free coursework material for students, not a product.",
+  "business_use_cases": [
+    "A bootcamp instructor borrows the assignment structure as inspiration for their own paid curriculum.",
+    "A student uses it for self-study to build a portfolio project, with no direct monetization.",
+    "An online course creator adapts one assignment into a paid tutorial video, though this stretches the intent of the material."
+  ],
+  "money_ideas": [
+    { "idea": "None realistic; this is educational material, not a productizable asset.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Honestly, nothing to steal here as a business — at most, borrow one assignment idea as inspiration for your own paid course content, with credit.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-20T12:10:00Z"
+}

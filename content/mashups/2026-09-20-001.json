@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-20-001",
+  "date": "2026-09-20",
+  "repo_a": "paperless-ngx/paperless-ngx",
+  "repo_b": "anthropics/financial-services",
+  "title": "The Bookkeeping Vault",
+  "pitch": "Paperless-ngx turns a shoebox of scanned invoices and receipts into a searchable digital archive, but it doesn't know what any of those numbers mean or whether they add up. Anthropics' financial-services agents, particularly the GL Reconciler and Month-End Closer, know exactly how to find breaks, trace root causes, and draft accruals and commentary, but they need clean, structured documents to work from. Wire the two together: every scanned receipt and invoice lands in Paperless-ngx, gets tagged and OCR'd, and then an AI reconciliation agent reads the archive each month to flag mismatches and draft the close before a human bookkeeper signs off. The buyer is a small accounting practice or a solo bookkeeper serving several small-business clients, who can now offer 'AI-reviewed monthly books' as a premium tier without hiring another staff accountant.",
+  "why_now": "Both trended today from opposite ends of the same back-office problem: one captures and archives the paperwork, the other reasons about the numbers inside it. Neither is a finished bookkeeping product alone, but together they cover the whole pipeline from paper to reconciled books."
+}

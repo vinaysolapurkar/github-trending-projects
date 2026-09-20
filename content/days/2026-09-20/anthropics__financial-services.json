@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-20",
+  "owner": "anthropics",
+  "name": "financial-services",
+  "full_name": "anthropics/financial-services",
+  "url": "https://github.com/anthropics/financial-services",
+  "description": "",
+  "language": "Python",
+  "stars_total": 35194,
+  "stars_today": 236,
+  "one_liner": "A pack of ready-made AI assistants for finance jobs like building pitch decks, reconciling accounts, and prepping client meetings, that draft the work for a human to check.",
+  "buyer": "An operations lead at a small private-equity fund or wealth-management shop who can't justify hiring another analyst but is drowning in reconciliations and memo drafting.",
+  "business_use_cases": [
+    "A small wealth-management firm uses the Meeting Prep Agent to auto-generate a briefing pack before every client call instead of paying an analyst to compile it.",
+    "A boutique fund's back office uses the GL Reconciler to find and explain accounting breaks before month-end close, instead of a manual line-by-line review.",
+    "An independent financial consultant uses the Model Builder to spin up DCF and LBO models directly in Excel for clients much faster than building from scratch."
+  ],
+  "money_ideas": [
+    { "idea": "Stand up a boutique 'AI-augmented back office' service for small funds, using these agents to do reconciliations and reporting at a fraction of a full-time hire's cost.", "revenue_model": "subscription" },
+    { "idea": "Customize one agent (e.g. Statement Auditor) for a specific fund-admin niche and sell it as a deployed Managed Agent to multiple small funds.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Deploy the GL Reconciler for one local small-business bookkeeper this weekend and charge them monthly for 'AI-assisted books review' instead of hourly bookkeeping.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-20T12:10:00Z"
+}

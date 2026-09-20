@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-20",
+  "owner": "vercel-labs",
+  "name": "json-render",
+  "full_name": "vercel-labs/json-render",
+  "url": "https://github.com/vercel-labs/json-render",
+  "description": "The Generative UI framework",
+  "language": "TypeScript",
+  "stars_total": 16981,
+  "stars_today": 585,
+  "one_liner": "Lets an AI generate a working screen (buttons, cards, charts) on the fly from a written request, using only pre-approved building blocks so it can't break the app.",
+  "buyer": "A product manager at a SaaS company who wants an 'ask for a custom dashboard view' AI feature without engineers hand-building every possible layout.",
+  "business_use_cases": [
+    "A B2B analytics SaaS lets customers type 'show me revenue by region as a chart' and get a real, safe dashboard view generated on demand.",
+    "An internal-tools team lets non-technical staff request custom report views from an AI instead of filing tickets with engineering.",
+    "An agency builds one 'AI dashboard generator' product and resells it, white-labeled, to multiple small SaaS clients."
+  ],
+  "money_ideas": [
+    { "idea": "Build a white-label 'AI-generated dashboard' add-on and license it to SaaS products that lack the engineering time to build one.", "revenue_model": "subscription" },
+    { "idea": "Offer implementation services adding generative-UI dashboards to existing client products.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build a small 'ask for a chart' generative-UI plugin for one popular no-code/analytics tool's ecosystem and sell it as an add-on this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-20T12:10:00Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-20",
+  "owner": "BuilderIO",
+  "name": "agent-native",
+  "full_name": "BuilderIO/agent-native",
+  "url": "https://github.com/BuilderIO/agent-native",
+  "description": "A framework for building agentic apps",
+  "language": "TypeScript",
+  "stars_total": 4975,
+  "stars_today": 89,
+  "one_liner": "A toolkit for building apps where an AI assistant and a normal on-screen interface both use the exact same buttons and actions, so nothing gets out of sync.",
+  "buyer": "A startup CTO building a SaaS product who wants to bolt an AI chat assistant onto their app without maintaining two separate code paths.",
+  "business_use_cases": [
+    "A project-management SaaS adds 'ask the assistant to reschedule this sprint' by wiring the same action the UI button already calls.",
+    "An internal-tools team builds an ops dashboard where employees can either click through screens or delegate the same tasks to an agent.",
+    "An agency spins up client MVPs faster by starting from one of the included open-source agent apps (Clips, Design, Slides) as a template."
+  ],
+  "money_ideas": [
+    { "idea": "Build a vertical SaaS product (e.g. an agent-native CRM or support desk) on top of the framework.", "revenue_model": "subscription" },
+    { "idea": "Offer 'add an AI copilot to your existing app' as a fixed-scope implementation service for other startups.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Clone one of the included example apps (like the Slides agent) and re-skin it for a specific niche, e.g. real-estate listing decks, and sell it as a subscription tool this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-20T12:10:00Z"
+}

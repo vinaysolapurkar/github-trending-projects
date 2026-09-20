@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-20",
+  "owner": "affaan-m",
+  "name": "ECC",
+  "full_name": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+  "language": "JavaScript",
+  "stars_total": 263259,
+  "stars_today": 1012,
+  "one_liner": "A memory and habits upgrade for your AI coding assistant, so it remembers your project and follows good practices instead of starting from zero every session.",
+  "buyer": "A freelance or indie developer who already pays for Claude Code or Cursor and is frustrated re-explaining their codebase every session.",
+  "business_use_cases": [
+    "A solo developer installs it so their AI coding agent keeps a running memory of project decisions across sessions instead of re-discovering them each time.",
+    "A small dev shop standardizes every engineer's coding agent on the same 'instincts' and security checks so juniors don't ship risky code.",
+    "A plugin author builds and sells a custom skill pack on top of ECC for a specific stack (e.g. Rails, Unity) and distributes it through the GitHub App marketplace."
+  ],
+  "money_ideas": [
+    { "idea": "Sell private-repo access to the hosted GitHub App (ECC Pro) as the maintainer already does.", "revenue_model": "subscription" },
+    { "idea": "Build and sell an industry-specific skill/instinct pack (fintech compliance, healthcare privacy) on top of the open framework.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Package a narrow, high-value skill pack (e.g. 'PCI-compliant payments code review') for ECC and sell it directly to teams in that niche this weekend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-20T12:10:00Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-20",
+  "owner": "trycua",
+  "name": "cua",
+  "full_name": "trycua/cua",
+  "url": "https://github.com/trycua/cua",
+  "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+  "language": "HTML",
+  "stars_total": 24874,
+  "stars_today": 859,
+  "one_liner": "Gives an AI agent its own remote computer it can click around and operate, like a robot temp worker using any desktop app through a screen and mouse.",
+  "buyer": "An operations manager at a small company drowning in repetitive desktop tasks (data entry into an old desktop app, filling out portal forms) who can't get IT to build a proper API integration.",
+  "business_use_cases": [
+    "A back-office outsourcing firm automates form-filling in a legacy desktop application that has no API, using an agent that operates it like a human would.",
+    "A QA team spins up isolated cloud desktops to run automated UI regression tests across real operating systems.",
+    "An agency builds and sells narrow 'RPA bots' for clients stuck with old Windows-only software, billed per automated workflow."
+  ],
+  "money_ideas": [
+    { "idea": "Build a niche RPA agency automating one specific painful legacy-software workflow (e.g. insurance portal data entry) and sell it to that industry.", "revenue_model": "subscription" },
+    { "idea": "Resell managed cloud-desktop capacity plus a pre-built automation as a turnkey package for a specific task.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Pick one tedious desktop-only workflow at a local business (e.g. entering orders into an old POS system) and build a paid automation for it this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-20T12:10:00Z"
+}

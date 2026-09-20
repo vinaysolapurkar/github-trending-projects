@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-20",
+  "owner": "addyosmani",
+  "name": "agent-skills",
+  "full_name": "addyosmani/agent-skills",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "description": "Production-grade engineering skills for AI coding agents.",
+  "language": "JavaScript",
+  "stars_total": 97393,
+  "stars_today": 556,
+  "one_liner": "A packaged set of 'good habits' (spec first, test everything, review before merge) that makes an AI coding assistant work like a disciplined senior engineer instead of a fast-and-sloppy one.",
+  "buyer": "An engineering lead who has adopted AI coding agents on the team but is worried about quality and consistency across different developers' setups.",
+  "business_use_cases": [
+    "A dev team standardizes every engineer's AI coding agent on the same spec-plan-build-test-review workflow so output quality doesn't vary by who's using it.",
+    "A solo developer uses '/code-simplify' and '/review' to catch over-engineered AI-generated code before it ships.",
+    "A consultancy builds a custom industry-specific skill (e.g. HIPAA-compliant code review) on top of the framework and licenses it to healthcare dev teams."
+  ],
+  "money_ideas": [
+    { "idea": "Build and sell a specialized compliance or industry skill pack that plugs into this framework.", "revenue_model": "one-off" },
+    { "idea": "Offer 'AI coding agent setup and training' consulting for teams adopting it.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Package a niche compliance skill (e.g. GDPR-aware code review) for this framework and sell it directly to teams in a regulated industry this weekend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-20T12:10:00Z"
+}

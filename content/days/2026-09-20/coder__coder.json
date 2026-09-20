@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-20",
+  "owner": "coder",
+  "name": "coder",
+  "full_name": "coder/coder",
+  "url": "https://github.com/coder/coder",
+  "description": "Secure environments for developers and their agents",
+  "language": "Go",
+  "stars_total": 15809,
+  "stars_today": 402,
+  "one_liner": "Gives every developer (and every AI coding agent) their own ready-to-code computer in the cloud that spins up in seconds and shuts down automatically when idle.",
+  "buyer": "An engineering manager at a mid-size company who wants to onboard new hires in minutes instead of days and control which AI models touch company code.",
+  "business_use_cases": [
+    "A company with strict security requirements self-hosts it so AI coding agents run on company infrastructure with no API keys ever touching developer laptops.",
+    "A dev-heavy company shortens new-hire onboarding from days to minutes by giving every engineer a pre-configured cloud workspace on day one.",
+    "A platform team cuts cloud spend by auto-shutting down idle developer environments instead of paying for always-on VMs."
+  ],
+  "money_ideas": [
+    { "idea": "Sell managed hosting and setup of Coder for mid-size engineering teams that don't want to run it themselves.", "revenue_model": "subscription" },
+    { "idea": "Offer a fixed-price 'migrate your dev team to cloud workspaces' consulting engagement.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Package a 'set up your team's AI-agent-ready dev environments in a day' consulting offer for companies still using laptops for everything.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-20T12:10:00Z"
+}

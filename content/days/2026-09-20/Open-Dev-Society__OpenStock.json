@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-20",
+  "owner": "Open-Dev-Society",
+  "name": "OpenStock",
+  "full_name": "Open-Dev-Society/OpenStock",
+  "url": "https://github.com/Open-Dev-Society/OpenStock",
+  "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+  "language": "TypeScript",
+  "stars_total": 16442,
+  "stars_today": 472,
+  "one_liner": "A free, self-hostable stock-tracking website with live prices, price alerts, and company info, like a do-it-yourself Yahoo Finance.",
+  "buyer": "A fintech content creator or small investment newsletter who wants a branded market-data dashboard for their audience without paying for expensive market-data platform licenses.",
+  "business_use_cases": [
+    "An investing newsletter or YouTuber self-hosts and re-brands it as a free companion tool that drives traffic and email signups.",
+    "A local investment club runs it internally to track a shared watchlist without paying for a commercial terminal.",
+    "A developer forks it to add premium features (custom alerts, portfolio analytics) and sells it as a subscription product to retail investors."
+  ],
+  "money_ideas": [
+    { "idea": "Fork it, add premium alerting/analytics features, and sell subscriptions to retail investors.", "revenue_model": "subscription" },
+    { "idea": "White-label it for finance content creators as a branded 'watchlist' tool that funnels to their paid newsletter.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Deploy a re-branded instance for a finance YouTuber's audience this weekend as free lead-gen for their paid newsletter.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-20T12:10:00Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-20",
+  "owner": "paperless-ngx",
+  "name": "paperless-ngx",
+  "full_name": "paperless-ngx/paperless-ngx",
+  "url": "https://github.com/paperless-ngx/paperless-ngx",
+  "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+  "language": "Python",
+  "stars_total": 45350,
+  "stars_today": 32,
+  "one_liner": "Scans and files away all your paper documents into a searchable digital cabinet, so you can throw out the filing cabinet and still find anything in seconds.",
+  "buyer": "A small law firm's office manager or a solo accountant still buried in physical invoices, contracts, and receipts.",
+  "business_use_cases": [
+    "A small accounting practice scans every client receipt and invoice on arrival so tax season searches take seconds instead of hours of physical filing.",
+    "A local law firm digitizes decades of paper case files into a searchable, tagged archive that any paralegal can query instantly.",
+    "A property management company runs it self-hosted to keep leases, inspection reports, and maintenance receipts in one searchable place for compliance."
+  ],
+  "money_ideas": [
+    { "idea": "Offer 'digitize your office' as a one-time setup-and-migration service for small firms still on paper.", "revenue_model": "one-off" },
+    { "idea": "Host and maintain it for non-technical small businesses who don't want to self-host, charging a monthly hosting fee.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Set up a hosted instance for one local small business this weekend, scan their backlog of receipts, and bill them a flat monthly fee to keep it running.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-20T12:10:00Z"
+}

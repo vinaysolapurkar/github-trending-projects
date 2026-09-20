@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-20",
+  "owner": "higgsfield-ai",
+  "name": "higgsfield",
+  "full_name": "higgsfield-ai/higgsfield",
+  "url": "https://github.com/higgsfield-ai/higgsfield",
+  "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+  "language": "Jupyter Notebook",
+  "stars_total": 5138,
+  "stars_today": 196,
+  "one_liner": "Plumbing that lets a team of many computers with graphics cards train a giant AI model together without everything crashing when one machine fails.",
+  "buyer": "An ML infrastructure engineer at a well-funded AI startup training their own large models, not a typical small-business owner.",
+  "business_use_cases": [
+    "An AI startup training its own foundation model uses it to keep multi-node training jobs running reliably across cloud GPU clusters.",
+    "A GPU cloud provider offers it pre-configured as part of a managed 'train your own LLM' service.",
+    "An ML infrastructure consultancy sets it up for well-funded startups who need distributed training but lack in-house platform engineers."
+  ],
+  "money_ideas": [
+    { "idea": "Offer GPU-cluster setup and training-pipeline consulting for AI startups using this framework.", "revenue_model": "one-off" },
+    { "idea": "Bundle it into a managed 'foundation-model training as a service' offering on rented GPU capacity.", "revenue_model": "usage" }
+  ],
+  "steal_this": "This is deep infrastructure for teams already training large models — honestly not a weekend-buildable business for most people; the realistic angle is consulting for the rare startup that needs exactly this.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-20T12:10:00Z"
+}
