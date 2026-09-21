@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-21",
+  "owner": "akitaonrails",
+  "name": "ai-memory",
+  "full_name": "akitaonrails/ai-memory",
+  "url": "https://github.com/akitaonrails/ai-memory",
+  "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+  "language": "Rust",
+  "stars_total": 7410,
+  "stars_today": 114,
+  "one_liner": "A shared notebook for AI coding assistants: it remembers what you were working on and lets you switch between different AI coding tools (Claude Code, Codex, Cursor, etc.) without re-explaining everything.",
+  "buyer": "An engineering manager at a small dev team who wants everyone's AI coding sessions to share project context instead of each developer re-explaining the codebase to their assistant every day.",
+  "business_use_cases": [
+    "A dev team self-hosts one memory server so every engineer's coding agent shares the same project knowledge and handoff notes.",
+    "A freelance developer runs it locally to resume AI-assisted projects across laptops without losing prior context.",
+    "A consultancy offers 'AI agent setup' packages for clients that include configuring shared memory across their engineering org."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a managed/hosted version of the memory server with team auth and audit logs for engineering orgs.", "revenue_model": "subscription" },
+    { "idea": "Sell 'AI coding agent onboarding' consulting that includes setting this up for a client's dev team.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This is a developer-infrastructure tool, not something to resell as-is; the realistic weekend project is offering a done-for-you setup/consulting session for teams already using multiple AI coding CLIs.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-21T12:20:00Z"
+}

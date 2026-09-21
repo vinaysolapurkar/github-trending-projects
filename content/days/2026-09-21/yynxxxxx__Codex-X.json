@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-21",
+  "owner": "yynxxxxx",
+  "name": "Codex-X",
+  "full_name": "yynxxxxx/Codex-X",
+  "url": "https://github.com/yynxxxxx/Codex-X",
+  "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+  "language": "Rust",
+  "stars_total": 3584,
+  "stars_today": 210,
+  "one_liner": "A visual control panel for people who use OpenAI's Codex coding assistant, letting them switch API providers, manage prompt templates, and sync sessions without hand-editing config files.",
+  "buyer": "A developer or small dev team already using Codex CLI/desktop across multiple AI providers who wants to manage settings visually instead of editing TOML files by hand.",
+  "business_use_cases": [
+    "A freelance developer juggling several AI API providers uses it to switch between them quickly without touching config files.",
+    "A small dev team standardizes prompt templates and MCP/skill configs across members using the shared visual management layer.",
+    "A power user builds and sells a curated pack of prompt templates and Skills/MCP configs compatible with this tool."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a curated pack of prompt templates, Skills, and MCP configs designed to drop into this tool.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This is a niche developer utility for a specific tool's power users. Honest take: useful for that audience, but too narrow to build a standalone business around; a template pack is the realistic side-project.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-21T12:20:00Z"
+}

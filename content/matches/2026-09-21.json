@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-21",
+  "matches": [
+    { "problem_id": "p001", "repo": "zhouxiaoka/autoclip", "why": "It automatically finds and cuts highlight moments from long video, which is exactly the tedious editing work this problem describes.", "confidence": "high" },
+    { "problem_id": "p002", "repo": null, "why": "Nothing in today's or recent scrapes addresses product photography directly." },
+    { "problem_id": "p003", "repo": "akitaonrails/ai-memory", "why": "It's built specifically to give coding agents persistent memory and handoffs across sessions and even across different agent vendors.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "addyosmani/agent-skills", "why": "It packages disciplined engineering habits (spec first, test everything, review before merge) that push AI coding agents away from bloated, over-engineered output.", "confidence": "high" },
+    { "problem_id": "p005", "repo": "paperless-ngx/paperless-ngx", "why": "It's a document management system built for scanning, indexing, and searching large piles of PDFs, which covers a disorganized research library.", "confidence": "medium" },
+    { "problem_id": "p006", "repo": null, "why": "Nothing recent generates explainer footage from news text or images." },
+    { "problem_id": "p007", "repo": null, "why": "No bioinformatics-specific tooling trended today." },
+    { "problem_id": "p008", "repo": "coder/coder", "why": "It runs developer and AI-agent environments entirely on infrastructure a firm controls, but it's built for coding workspaces, not a law-firm chat product, so this is a partial fit at best.", "confidence": "low" },
+    { "problem_id": "p009", "repo": null, "why": "AutoClip cuts existing footage; it doesn't generate narrated video from written blog text, so it's not a genuine fit." },
+    { "problem_id": "p010", "repo": "akitaonrails/ai-memory", "why": "Its memory lives in a self-hosted, git-backed plain-markdown wiki you fully own, which fits the spirit of a self-owned notes alternative even though it's aimed at coding agents.", "confidence": "medium" },
+    { "problem_id": "p011", "repo": null, "why": "Nothing today specifically maps and explains an unfamiliar codebase's structure." },
+    { "problem_id": "p012", "repo": "BuilderIO/agent-native", "why": "It ships a framework plus several ready-made example agent apps, giving a beginner a concrete starting point for a small AI product.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "No restaurant or inventory management tooling trended today." }
+  ]
+}

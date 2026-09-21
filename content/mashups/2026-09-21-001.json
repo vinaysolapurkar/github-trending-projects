@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-21-001",
+  "date": "2026-09-21",
+  "repo_a": "trycua/cua",
+  "repo_b": "anthropics/financial-services",
+  "title": "Legacy GL Autopilot",
+  "pitch": "Most small and mid-size finance teams still reconcile the general ledger inside decades-old desktop accounting software that has no API — someone has to click through screens by hand. Pair trycua/cua's computer-use driver, which lets an agent operate any desktop app like a human would, with the GL Reconciler and Month-End Closer skills from anthropics/financial-services, which already know how to find reconciliation breaks and draft variance commentary. The result is a service that opens the client's actual legacy accounting software, walks through the close process, flags breaks, and drafts the write-up for a human controller to review and sign off. Sell it to small accounting firms and fund administrators who can't justify a full ERP migration but are drowning in manual month-end work.",
+  "why_now": "Both repos trended the same day for related reasons: businesses want AI agents doing real operational work, not just chat. Computer-use agents finally reached the point where they can reliably drive GUI-only software, and purpose-built financial skills mean you don't have to write the accounting logic from scratch — you're just wiring the two together."
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-21",
+  "owner": "mvt-project",
+  "name": "mvt",
+  "full_name": "mvt-project/mvt",
+  "url": "https://github.com/mvt-project/mvt",
+  "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+  "language": "Python",
+  "stars_total": 13363,
+  "stars_today": 177,
+  "one_liner": "A forensic toolkit that scans a phone's backup for hidden traces of spyware (like Pegasus), built for investigators checking whether someone's phone has been hacked.",
+  "buyer": "A digital forensics consultant or human-rights organization's security team that investigates whether journalists, activists, or executives have been targeted by spyware.",
+  "business_use_cases": [
+    "A digital-rights nonprofit offers free or low-cost phone-compromise checks to journalists and activists using this toolkit.",
+    "A corporate security consultancy adds spyware-detection scans to its executive-protection offerings for high-risk clients.",
+    "A digital forensics examiner uses it as one tool in paid mobile-device incident-response engagements."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid mobile-device compromise assessments to at-risk individuals or corporate security teams, using this as part of the toolkit.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This is a specialist forensics tool, not a consumer product. Honest take: it's valuable to a narrow, high-stakes niche (investigators, human-rights orgs), but it's not a broad weekend business idea for most people.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-21T12:20:00Z"
+}

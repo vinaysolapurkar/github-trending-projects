@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-21",
+  "owner": "coder",
+  "name": "coder",
+  "full_name": "coder/coder",
+  "url": "https://github.com/coder/coder",
+  "description": "Secure environments for developers and their agents",
+  "language": "Go",
+  "stars_total": 16269,
+  "stars_today": 461,
+  "one_liner": "Lets a company run all its developers' coding setups (and their AI coding agents) on company-controlled servers instead of individual laptops, so nothing sensitive lives on a personal machine.",
+  "buyer": "A CTO or IT security lead at a mid-size company who needs to onboard developers fast and keep code and API keys off personal laptops for compliance reasons.",
+  "business_use_cases": [
+    "A regulated company (fintech, healthcare) uses it so contractors and new hires never have source code or credentials on their own machines.",
+    "An engineering org runs AI coding agents inside company-controlled workspaces with centralized cost tracking and audit logs instead of scattered personal API keys.",
+    "A dev-tools consultancy sells 'set up self-hosted cloud dev environments' as a fixed-scope engagement for companies not ready to pay for the commercial version."
+  ],
+  "money_ideas": [
+    { "idea": "Offer managed hosting and setup of self-hosted Coder deployments for companies that want control but not the ops burden.", "revenue_model": "subscription" },
+    { "idea": "Sell implementation/consulting to configure Terraform templates and AI-agent governance for a client's engineering org.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Package a one-day 'secure AI coding agent rollout' consulting offer for a security-conscious startup, using this as the underlying infrastructure.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-21T12:20:00Z"
+}

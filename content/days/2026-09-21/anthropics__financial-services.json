@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-21",
+  "owner": "anthropics",
+  "name": "financial-services",
+  "full_name": "anthropics/financial-services",
+  "url": "https://github.com/anthropics/financial-services",
+  "description": "",
+  "language": "Python",
+  "stars_total": 35619,
+  "stars_today": 425,
+  "one_liner": "A ready-made pack of AI assistants for finance jobs like building pitch decks, checking company earnings, and reconciling accounting records, that a finance team can install and start using right away.",
+  "buyer": "A boutique investment bank or private equity associate's manager who wants junior-analyst-style work (comps, memos, reconciliations) drafted faster without hiring more analysts.",
+  "business_use_cases": [
+    "A boutique advisory firm installs the Pitch Agent to draft comps, precedents, and an LBO into a branded deck before a client meeting, then has an analyst review it.",
+    "A small fund's back office uses the GL Reconciler and Month-End Closer agents to catch reconciliation breaks faster during monthly close.",
+    "A wealth management shop uses the Meeting Prep Agent to auto-build a briefing pack ahead of every client call."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a 'set up and customize these financial agents for your firm' implementation service to boutique funds and advisory shops.", "revenue_model": "one-off" },
+    { "idea": "Build and sell a niche add-on agent (e.g. for a specific regulatory filing type) tailored to a vertical this pack doesn't cover.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Install the Market Researcher agent, run it against a niche sector nobody else is covering, and sell the resulting research note to a handful of independent investors this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-21T12:20:00Z"
+}

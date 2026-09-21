@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-21",
+  "owner": "ruanyf",
+  "name": "weekly",
+  "full_name": "ruanyf/weekly",
+  "url": "https://github.com/ruanyf/weekly",
+  "description": "科技爱好者周刊，每周五发布",
+  "language": null,
+  "stars_total": 103770,
+  "stars_today": 621,
+  "one_liner": "A long-running Chinese-language tech newsletter, published every Friday and archived here as plain text files, covering interesting software, articles, and industry news.",
+  "buyer": "Not really a buyer situation: it's a personal newsletter archive, not a product. At most, a Chinese-reading tech audience who follows it for free curated links.",
+  "business_use_cases": [
+    "A reader mines back issues for story and product ideas to write about in their own newsletter.",
+    "A translator republishes selected issues in English for a non-Chinese-reading tech audience.",
+    "An aggregator includes it as one of several sources for a weekly 'best of tech reads' digest."
+  ],
+  "money_ideas": [
+    { "idea": "Curate and translate select issues into an English digest and monetize via a paid tier for non-Chinese readers.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Honestly, this is a personal content archive, not a business opportunity. The one legitimate weekend project is a translated-highlights newsletter for an English-speaking audience, credited to the original author.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-21T12:20:00Z"
+}

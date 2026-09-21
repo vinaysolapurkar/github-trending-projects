@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-21",
+  "owner": "Crosstalk-Solutions",
+  "name": "project-nomad",
+  "full_name": "Crosstalk-Solutions/project-nomad",
+  "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+  "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+  "language": "TypeScript",
+  "stars_total": 37580,
+  "stars_today": 360,
+  "one_liner": "A little box you set up once that gives you Wikipedia, thousands of books, courses, maps, and even an offline AI chatbot, with no internet connection needed at all.",
+  "buyer": "A rural school administrator, off-grid homesteader, or disaster-preparedness organization that needs reliable access to knowledge and education in places without dependable internet.",
+  "business_use_cases": [
+    "A prepper/outdoor-gear retailer bundles a pre-configured NOMAD device as a premium add-on to emergency kits.",
+    "An NGO deploys it in rural schools or refugee camps that lack reliable internet, as part of an education program.",
+    "A boat or RV outfitter sells it as an offline entertainment-and-reference package for long trips with no connectivity."
+  ],
+  "money_ideas": [
+    { "idea": "Sell pre-built, plug-and-play NOMAD hardware boxes to preppers, off-grid communities, and RV/boat owners.", "revenue_model": "one-off" },
+    { "idea": "Offer paid setup and content-curation service (custom book/course packs) for schools and NGOs deploying it at scale.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Buy a cheap mini-PC, install NOMAD, and sell it pre-loaded as a 'grab-and-go offline library' on a marketplace like Etsy or a local prepper forum this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-21T12:20:00Z"
+}

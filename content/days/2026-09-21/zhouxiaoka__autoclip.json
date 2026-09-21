@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-21",
+  "owner": "zhouxiaoka",
+  "name": "autoclip",
+  "full_name": "zhouxiaoka/autoclip",
+  "url": "https://github.com/zhouxiaoka/autoclip",
+  "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+  "language": "Python",
+  "stars_total": 7996,
+  "stars_today": 395,
+  "one_liner": "A tool that watches a long video (like a stream or lecture from YouTube or Bilibili) and automatically pulls out the exciting or highlight moments as short clips, ready to post.",
+  "buyer": "A social media manager for a streamer, coach, or podcaster who currently pays an editor to comb through hours of footage for shareable clips.",
+  "business_use_cases": [
+    "A clipping agency uses it to speed up turning long Twitch/YouTube streams into short-form clips for TikTok and Reels, taking on more clients at the same team size.",
+    "A conference or webinar organizer auto-generates highlight reels from hours of recorded talks for marketing use.",
+    "A course creator turns long lecture recordings into bite-size highlight clips to promote the full paid course."
+  ],
+  "money_ideas": [
+    { "idea": "Run a 'done for you' clipping service for streamers and podcasters, using this to do the first pass and a human to polish.", "revenue_model": "subscription" },
+    { "idea": "Sell one-off highlight-reel packages to event organizers and course creators.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Take one local streamer's or podcaster's backlog, run it through AutoClip, and pitch them a week's worth of ready-to-post highlight clips as a paid trial.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-21T12:20:00Z"
+}

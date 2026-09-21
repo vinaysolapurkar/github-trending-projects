@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-21",
+  "owner": "trycua",
+  "name": "cua",
+  "full_name": "trycua/cua",
+  "url": "https://github.com/trycua/cua",
+  "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+  "language": "HTML",
+  "stars_total": 25472,
+  "stars_today": 609,
+  "one_liner": "Gives an AI agent its own virtual computer it can click around, type into, and take screenshots of, so it can operate normal desktop apps the way a human would.",
+  "buyer": "An automation agency owner who currently pays staff to click through legacy desktop or web apps that have no API, and wants to replace that manual work with an agent.",
+  "business_use_cases": [
+    "An outsourcing shop automates repetitive back-office data entry into an old Windows desktop app that was never given an API.",
+    "A QA team spins up isolated cloud desktops to run automated UI regression tests across macOS, Windows, and Linux builds.",
+    "A researcher builds and sells a benchmark or training-data pack for evaluating computer-use agents on a specific vertical (e.g. insurance claims software)."
+  ],
+  "money_ideas": [
+    { "idea": "Offer 'RPA replacement' automation services for businesses stuck on GUI-only legacy software.", "revenue_model": "usage" },
+    { "idea": "Sell managed cloud-desktop capacity plus pre-built automation recipes to teams evaluating computer-use agents.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Pick one tedious GUI-only workflow (e.g. exporting reports from an old accounting app) and ship a paid weekend automation for a single small-business client.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-21T12:20:00Z"
+}
