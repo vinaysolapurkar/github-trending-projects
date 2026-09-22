@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-22",
+  "owner": "davila7",
+  "name": "claude-code-templates",
+  "full_name": "davila7/claude-code-templates",
+  "url": "https://github.com/davila7/claude-code-templates",
+  "description": "CLI tool for configuring and monitoring Claude Code",
+  "language": "Python",
+  "stars_total": 30928,
+  "stars_today": 33,
+  "one_liner": "A library of ready-made settings, AI helper agents, and shortcuts that developers install into Claude Code with one command, instead of configuring it from scratch.",
+  "buyer": "A solo developer or small dev team using Claude Code who wants proven agent and command setups (code review, testing, security checks) instead of writing custom prompts.",
+  "business_use_cases": [
+    "A freelance developer installs the 'code-reviewer' and 'test-generator' templates to speed up client projects without writing custom prompts.",
+    "A dev-tools agency uses the built-in analytics dashboard to monitor Claude Code usage across a client's engineering team.",
+    "A coding bootcamp instructor has every student install a standardized set of templates so every student's AI coding setup is consistent."
+  ],
+  "money_ideas": [
+    { "idea": "Sell premium, curated template bundles for specific stacks (e.g. a full Next.js + Stripe SaaS starter set of agents/commands) beyond the free catalog.", "revenue_model": "one-off" },
+    { "idea": "Offer a hosted, team-wide analytics and monitoring dashboard for Claude Code usage as a paid tier for engineering managers.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Package a tight, opinionated bundle of 5-10 templates for one specific job (e.g. 'Shopify app developer') and sell it as a $19 one-time pack this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-22T12:20:00Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-22",
+  "owner": "google",
+  "name": "ax",
+  "full_name": "google/ax",
+  "url": "https://github.com/google/ax",
+  "description": "Google's open agentic orchestration runtime",
+  "language": "Go",
+  "stars_total": 6789,
+  "stars_today": 2324,
+  "one_liner": "A Kubernetes-style control system for running huge numbers of AI agent tasks in locked-down sandboxes at once, built by Google.",
+  "buyer": "A platform or infrastructure engineer at a company that needs to run many autonomous coding or automation agents safely and cheaply at scale.",
+  "business_use_cases": [
+    "An AI-powered QA company uses ax to spin up thousands of isolated test-running agents per day, each with locked-down network access.",
+    "A dev-tools startup builds a 'run any coding agent in the cloud' product on top of ax instead of building its own orchestrator.",
+    "An enterprise security team uses ax's Gateway feature to enforce that internal agents can only reach an approved allowlist of hosts."
+  ],
+  "money_ideas": [
+    { "idea": "Offer managed 'ax-as-a-service' hosting for companies that want agent orchestration without running their own Kubernetes cluster.", "revenue_model": "subscription" },
+    { "idea": "Consulting to help enterprises adopt ax's security/gateway model for compliance-sensitive agent deployments.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "The README flags major breaking changes before a stable release, so the honest move is to watch this one, not build a paid product on it yet — it's not a weekend project today.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-22T12:20:00Z"
+}

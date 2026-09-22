@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-22",
+  "owner": "dream-num",
+  "name": "univer",
+  "full_name": "dream-num/univer",
+  "url": "https://github.com/dream-num/univer",
+  "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+  "language": "TypeScript",
+  "stars_total": 14923,
+  "stars_today": 202,
+  "one_liner": "A toolkit developers use to build their own spreadsheet, document, and slides editor right inside their own app or website — instead of sending users off to Excel or Google Docs.",
+  "buyer": "A SaaS product manager who needs to add 'edit this spreadsheet without leaving our app' to industry-specific software (construction, logistics, property management).",
+  "business_use_cases": [
+    "A construction management SaaS embeds Univer so customers can edit a project budget spreadsheet directly inside the app instead of exporting to Excel.",
+    "An internal-tools team at a logistics company builds a lightweight, branded 'Office in a browser tab' for warehouse staff who don't have Microsoft licenses.",
+    "An AI note-taking startup uses Univer's headless Node.js mode to let an AI agent edit a customer's spreadsheet server-side and hand back the result."
+  ],
+  "money_ideas": [
+    { "idea": "Build and sell a vertical-specific embedded spreadsheet product (e.g. a budgeting tool for property managers) on top of Univer.", "revenue_model": "subscription" },
+    { "idea": "Offer integration and consulting services helping SaaS companies embed Univer into their existing products.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Wrap Univer's headless mode in a tiny API that takes a spreadsheet plus a plain-English instruction and returns the edited file — a 'spreadsheet macro via chat' weekend project.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-22T12:20:00Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-22",
+  "owner": "superdesigndev",
+  "name": "treg",
+  "full_name": "superdesigndev/treg",
+  "url": "https://github.com/superdesigndev/treg",
+  "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+  "language": "Python",
+  "stars_total": 1977,
+  "stars_today": 197,
+  "one_liner": "A single billing account and API key that lets an AI agent call thousands of paid data and tool services — finding someone's email, checking backlinks — and pay per use, instead of signing up for dozens of separate $100-a-month subscriptions.",
+  "buyer": "A solo developer or small agency building AI agents who needs occasional access to expensive tools (SEO data, people-lookup, scraping) without paying for a full subscription to each provider.",
+  "business_use_cases": [
+    "A lead-gen agency's agent looks up a prospect's email and company info per-call through treg instead of paying for a $59/seat Apollo subscription nobody else on the team uses.",
+    "A solo SEO consultant's agent checks backlink data for a client site once a month via treg instead of paying $139/month for Semrush access.",
+    "An indie hacker building an AI research agent taps treg's catalog for trend and social data without integrating and paying for a dozen separate APIs."
+  ],
+  "money_ideas": [
+    { "idea": "treg itself is the business model here: a markup on per-call pricing across its catalog of 3,000+ endpoints, billed against team balances.", "revenue_model": "usage" },
+    { "idea": "Build a niche vertical agent (e.g. a 'competitor intelligence bot') that resells treg-powered lookups bundled into a simple monthly report.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Build a tiny Telegram bot this weekend that takes a company name and returns a one-page competitor snapshot (backlinks, socials, hiring signals) using treg calls billed per request.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-22T12:20:00Z"
+}

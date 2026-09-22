@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-22-001",
+  "date": "2026-09-22",
+  "repo_a": "browser-use/video-use",
+  "repo_b": "superdesigndev/treg",
+  "title": "AutoCut Studio",
+  "pitch": "video-use already turns raw footage into an edited video by chatting with an AI agent; treg gives that same agent one billing account for thousands of paid data and tool APIs, priced per call. Combine them into a hosted 'AutoCut Studio' subscription for solo creators: drop your footage, and the editing agent doesn't just cut and grade it — it also pulls trending-audio suggestions, checks a few competitor channels for pacing/thumbnail ideas, and grabs licensed stock B-roll on demand, all billed as cents-per-call add-ons through treg instead of the creator juggling five separate subscriptions they'd rarely fully use. The buyer is the same solo YouTuber or course creator video-use already targets, now paying a flat monthly fee for editing plus metered fees for the extras they actually use.",
+  "why_now": "Both repos are trending on the same day and solve adjacent problems: video-use removes the editing bottleneck, treg removes the 'which of 60 vendors do I sign up with' bottleneck. Neither alone gets a solo creator all the way to a research-informed, polished upload — together they do, without the creator ever seeing an API key."
+}

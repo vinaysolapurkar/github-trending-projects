@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-22",
+  "owner": "browser-use",
+  "name": "video-use",
+  "full_name": "browser-use/video-use",
+  "url": "https://github.com/browser-use/video-use",
+  "description": "Edit videos with coding agents",
+  "language": "Python",
+  "stars_total": 25514,
+  "stars_today": 155,
+  "one_liner": "Drop your raw video footage in a folder, chat with an AI coding agent, and get back a fully edited video — cuts, color grading, subtitles and all — with no video editing software.",
+  "buyer": "A solo YouTuber, podcaster, or course creator who currently either edits their own videos for hours each week or pays a freelance editor per video.",
+  "business_use_cases": [
+    "A solo YouTuber drops raw talking-head footage into a folder overnight and wakes up to a cut, color-graded, subtitled video ready to upload.",
+    "A course creator turns a week of raw lecture recordings into polished lesson videos without hiring an editor.",
+    "A social media manager for a small business batch-edits raw interview clips into short, subtitled clips for Instagram and TikTok."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a done-for-you 'send us your footage, get final.mp4 back' editing service built on top of video-use for creators who don't want to set up the tooling themselves.", "revenue_model": "subscription" },
+    { "idea": "Package it as a hosted product that skips the ffmpeg/API-key setup and charge per video processed.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Set up video-use this weekend, connect it to a Telegram or Discord bot, and offer 'drop your footage, get a rough cut back in an hour' to a few YouTuber friends as a paid trial.",
+  "opportunity_rating": 5,
+  "generated_at": "2026-09-22T12:20:00Z"
+}
