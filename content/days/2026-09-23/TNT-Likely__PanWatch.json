@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-23",
+  "owner": "TNT-Likely",
+  "name": "PanWatch",
+  "full_name": "TNT-Likely/PanWatch",
+  "url": "https://github.com/TNT-Likely/PanWatch",
+  "description": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+  "language": "Python",
+  "stars_total": 1364,
+  "stars_today": 175,
+  "one_liner": "A private, self-hosted app that watches your stock portfolio around the clock and uses a team of AI analysts to argue out a buy/sell/hold decision, pushing the verdict straight to your phone.",
+  "buyer": "An individual retail investor trading Chinese A-shares, Hong Kong, or US stocks who wants AI-assisted analysis on their own holdings without handing their portfolio data to a commercial platform.",
+  "business_use_cases": [
+    "A retail investor self-hosts it to get a daily pre-market briefing and post-market recap on their exact holdings, pushed to Telegram or WeChat.",
+    "An independent trading educator deploys a branded instance for their community as a value-add instead of building portfolio software themselves.",
+    "A small family office uses the multi-account portfolio view to track several members' holdings privately, without a brokerage-side data leak."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a hosted, managed version for retail investors who don't want to run Docker themselves.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "License a white-labeled version to independent trading educators/newsletter writers for their communities.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Deploy it this weekend for a small group of trader friends as a shared, privately-hosted alert service and charge a flat monthly fee for hosting and upkeep.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-23T12:20:00Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-23",
+  "owner": "BuilderIO",
+  "name": "agent-native",
+  "full_name": "BuilderIO/agent-native",
+  "url": "https://github.com/BuilderIO/agent-native",
+  "description": "A framework for building agentic apps",
+  "language": "TypeScript",
+  "stars_total": 6366,
+  "stars_today": 609,
+  "one_liner": "A developer toolkit for building apps where an AI agent and a human use the exact same buttons behind the scenes, so a company can ship one product that works for both.",
+  "buyer": "A startup CTO building a SaaS product (like a design tool or analytics dashboard) that wants an AI chat assistant baked in from day one without maintaining two separate codepaths for 'what the UI does' and 'what the AI does'.",
+  "business_use_cases": [
+    "A SaaS founder builds a project-management tool where the same 'create task' action is triggered by a button click or by asking the built-in AI assistant.",
+    "A dev agency builds a white-label 'AI copilot' add-on for a client's existing internal tool using the shared-action pattern instead of bolting on a chatbot.",
+    "A startup automates recurring reports by scheduling the same actions the UI uses, via the framework's built-in automations."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer 'add an AI copilot to your existing app' implementation services for SaaS companies.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build and host a vertical app on top of it (e.g. an AI-native CRM) and charge monthly.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This is a framework, not a product — the buildable weekend project is a tiny vertical demo app (e.g. an AI-native to-do list) to show a client what 'agent-native' means, not a business on its own.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-23T12:20:00Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-23",
+  "owner": "browser-use",
+  "name": "video-use",
+  "full_name": "browser-use/video-use",
+  "url": "https://github.com/browser-use/video-use",
+  "description": "Edit videos with coding agents",
+  "language": "Python",
+  "stars_total": 26245,
+  "stars_today": 191,
+  "one_liner": "A tool that turns a folder of raw phone or camera footage into a finished, edited video by just chatting with an AI agent — no video-editing software needed.",
+  "buyer": "A solo YouTuber, course creator, or small business owner who films their own talking-head or tutorial videos but doesn't have time or budget to hire an editor.",
+  "business_use_cases": [
+    "A solo content creator drops a week's raw footage in a folder and gets a cut, captioned, color-graded video back by chatting with the agent instead of hiring an editor.",
+    "A course creator turns raw lecture recordings into polished lesson videos with subtitles and animated overlays automatically.",
+    "A small business owner turns product-demo footage into short social clips without learning editing software."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a 'done for you' video-editing subscription for creators using this pipeline behind the scenes.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Run it as a paid editing service via the hosted Browser Use Cloud offering for clients who don't want to self-host.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Set it up this weekend on a friend's backlog of unedited footage, deliver a finished video same-day, and use that as the demo to sell a 'video editing, but instant' service to local creators.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-23T12:20:00Z"
+}

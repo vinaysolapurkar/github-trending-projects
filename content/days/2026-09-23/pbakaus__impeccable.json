@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-23",
+  "owner": "pbakaus",
+  "name": "impeccable",
+  "full_name": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "description": "The design language that makes your AI harness better at design.",
+  "language": "JavaScript",
+  "stars_total": 70066,
+  "stars_today": 287,
+  "one_liner": "A style guide and automatic checker that stops AI-built websites and apps from all looking like the same generic template, so an AI-made product looks like it was designed by a professional.",
+  "buyer": "A solo or two-person startup founder shipping their own product's frontend with an AI coding agent, who is embarrassed that it looks like every other 'AI app' (same purple gradient, same rounded icon tiles).",
+  "business_use_cases": [
+    "An indie SaaS founder runs it before launch to catch and fix the generic 'AI-made' visual tells before showing investors.",
+    "A no-code/low-code agency uses it as a final polish pass on every client site built with AI tools, differentiating their delivery quality.",
+    "A freelance developer sells a 'design audit and polish' add-on service using the 61 automated detector rules as the deliverable checklist."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'AI design audit' service: run it against a founder's app and deliver a prioritized fix list.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell an industry-specific design-rule pack (e.g. fintech-appropriate visual language) as a premium add-on.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Run it against three live 'built with AI' SaaS landing pages this weekend, fix the flagged issues, and use the before/after as the pitch for a paid design-audit service.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-23T12:20:00Z"
+}

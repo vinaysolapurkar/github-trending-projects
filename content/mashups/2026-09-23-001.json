@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-23-001",
+  "date": "2026-09-23",
+  "repo_a": "harry7557558/spirula-studio",
+  "repo_b": "browser-use/video-use",
+  "title": "Listing Reel Machine",
+  "pitch": "spirula-studio turns a phone walkthrough video into a realistic 3D scan of a property, and video-use turns raw footage into a finished, captioned, color-graded video just by chatting with an AI agent. Combine them into a single 'film your listing, get everything back' service for real-estate agents: the agent films one walkthrough on their phone, and gets back both an explorable 3D tour (from spirula-studio) and a polished 60-second highlight reel with captions and music cuts for social media (from video-use) — two deliverables agents currently pay two different specialists for, from one ten-minute video. The buyer is the same local real-estate agent or small brokerage who currently either skips 3D tours entirely (too expensive) or hires separate photographers and editors for the listing photos, the 3D tour, and the Instagram reel.",
+  "why_now": "Both repos are trending the same day and each solves half of the same real-estate content problem — one for spatial 3D walkthroughs, one for short-form video — and both are designed to run from a single piece of raw phone footage with no specialized crew, making the combined pitch buildable by one person this weekend."
+}

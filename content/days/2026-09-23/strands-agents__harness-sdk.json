@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-23",
+  "owner": "strands-agents",
+  "name": "harness-sdk",
+  "full_name": "strands-agents/harness-sdk",
+  "url": "https://github.com/strands-agents/harness-sdk",
+  "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+  "language": "Python",
+  "stars_total": 7616,
+  "stars_today": 96,
+  "one_liner": "A code toolkit for programmers to build their own custom AI agents in a few lines of code, instead of wiring up a model API from scratch.",
+  "buyer": "A software consultancy that builds custom AI automations for clients and wants a maintained, production-grade SDK (with an official CLI and MCP server) instead of hand-rolling agent plumbing per project.",
+  "business_use_cases": [
+    "A dev consultancy uses it as their standard toolkit to deliver custom internal AI agents to clients faster, billing for the customization rather than the plumbing.",
+    "A startup builds a customer-support agent on it and swaps the underlying model provider without rewriting the app, since it's model-agnostic.",
+    "An enterprise IT team stands up an internal MCP server with it to expose company data safely to any agent."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer 'build your first production agent' consulting packages for companies new to agent development.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build and sell a vertical agent template (e.g. an insurance-claims triage agent) on top of the SDK.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "It's a developer SDK, not an end product — nothing here is sellable by itself this weekend beyond a demo agent used to pitch consulting work.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-23T12:20:00Z"
+}

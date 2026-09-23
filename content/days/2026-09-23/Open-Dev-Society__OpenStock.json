@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-23",
+  "owner": "Open-Dev-Society",
+  "name": "OpenStock",
+  "full_name": "Open-Dev-Society/OpenStock",
+  "url": "https://github.com/Open-Dev-Society/OpenStock",
+  "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+  "language": "TypeScript",
+  "stars_total": 18549,
+  "stars_today": 832,
+  "one_liner": "A free, open-source stock-market app — live prices, alerts, company research — that anyone can run themselves instead of paying for a commercial trading platform.",
+  "buyer": "An independent financial newsletter writer or small advisory who wants to launch a branded stock-alerts app for a specific niche (e.g. dividend stocks, a single country's market) without building a market-data platform from scratch.",
+  "business_use_cases": [
+    "A finance newsletter operator self-hosts a branded fork to give paying subscribers a live watchlist and alert tool as a value-add.",
+    "A small RIA (registered investment advisor) deploys it internally as a free client-facing portfolio dashboard instead of paying for an expensive vendor platform.",
+    "A fintech hobbyist forks it to build a niche screener for one market (e.g. emerging-market small caps) that big platforms ignore."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Host a managed, branded version for niche newsletter operators and charge per-seat.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer paid setup/hosting for advisors who want it running but don't want to manage Docker and MongoDB themselves.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Fork it, restrict it to one under-served market or stock niche, and launch it as a paid-alerts Telegram bot by Monday — the market-data and alert plumbing is already built.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-23T12:20:00Z"
+}

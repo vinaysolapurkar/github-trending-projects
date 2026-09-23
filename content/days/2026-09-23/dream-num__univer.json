@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-23",
+  "owner": "dream-num",
+  "name": "univer",
+  "full_name": "dream-num/univer",
+  "url": "https://github.com/dream-num/univer",
+  "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+  "language": "TypeScript",
+  "stars_total": 16050,
+  "stars_today": 255,
+  "one_liner": "A software kit that lets any company bolt a full spreadsheet-and-document editor — like a mini Excel and Google Docs — directly into their own product.",
+  "buyer": "A SaaS founder building an internal-tools or BI platform who needs spreadsheet editing inside their app (budgets, data grids, reports) but doesn't want to license Google Sheets or build a grid engine from scratch.",
+  "business_use_cases": [
+    "A vertical SaaS for restaurant inventory embeds a live spreadsheet view so owners can edit stock counts the way they already know how to use Excel.",
+    "An internal-tools platform for finance teams embeds document and slide editing so budget memos and board decks stay inside the company's own product.",
+    "An AI agent platform uses the headless Node.js mode to let an agent read and edit a user's spreadsheet server-side without opening a browser."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build a niche vertical product on top of it (e.g. spreadsheet-based inventory management for small retailers) and charge monthly.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer integration consulting for companies that want spreadsheet/doc editing embedded but lack the engineering time to wire it up.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Wire up the headless Node.js mode this weekend to build a 'chat with your spreadsheet' AI agent demo — a genuinely sellable feature for any BI tool.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-23T12:20:00Z"
+}

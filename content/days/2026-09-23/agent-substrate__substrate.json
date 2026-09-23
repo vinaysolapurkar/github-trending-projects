@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-23",
+  "owner": "agent-substrate",
+  "name": "substrate",
+  "full_name": "agent-substrate/substrate",
+  "url": "https://github.com/agent-substrate/substrate",
+  "description": "Agent Substrate: the core system",
+  "language": "Go",
+  "stars_total": 3247,
+  "stars_today": 245,
+  "one_liner": "Infrastructure software that lets a company run millions of AI agent sandboxes cheaply on the same servers — like a hotel that packs many guests into few rooms because most guests are barely ever in them.",
+  "buyer": "A platform engineering lead at a company building an AI agent product (a coding assistant, an automation platform) who needs to run huge numbers of agent sessions without paying for a full server per agent.",
+  "business_use_cases": [
+    "An AI coding-assistant startup uses Substrate to host thousands of customer coding sessions on a small fleet of servers, cutting hosting costs.",
+    "A company selling 'AI employee' automation uses it to pause and resume idle customer agents instantly instead of leaving servers running around the clock.",
+    "An MCP tooling vendor uses Substrate to run sandboxed MCP servers securely, isolating one customer's tool calls from another's."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer managed hosting of Substrate clusters for AI startups that don't want to run their own Kubernetes infra.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Consulting: migrate a company's existing per-agent-VM setup onto Substrate and bill for the infra savings delivered.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "The README says this is early development and not production-ready, with APIs likely to break — the honest move is to watch it and revisit once it stabilizes, not build a paid product on it this weekend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-23T12:20:00Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-23",
+  "owner": "DeusData",
+  "name": "codebase-memory-mcp",
+  "full_name": "DeusData/codebase-memory-mcp",
+  "url": "https://github.com/DeusData/codebase-memory-mcp",
+  "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+  "language": "C",
+  "stars_total": 44295,
+  "stars_today": 201,
+  "one_liner": "A tool that reads a company's entire codebase once and turns it into a fast lookup index, so an AI coding assistant can find what it needs instantly instead of re-reading thousands of files every time — cutting the AI's usage bill.",
+  "buyer": "An engineering lead at a company running AI coding agents across a large codebase who is watching their monthly AI API bill climb because agents keep re-reading the same files for context.",
+  "business_use_cases": [
+    "An engineering team indexes a large monorepo once so every developer's coding agent gets instant, cheap context instead of expensive repeated file reads.",
+    "A dev tools vendor bundles it into their AI coding product to cut their own inference costs while answering 'where is X used' questions faster.",
+    "A consultancy auditing a client's inherited codebase uses the generated knowledge graph to quickly map function and service dependencies."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a managed/hosted version with a dashboard for teams that don't want to run and maintain the indexer themselves.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell 'cut your AI coding-agent token bill' consulting engagements that install and tune this for a client's repo.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "It's a free, install-and-run binary — the sellable weekend project is a managed-hosting or dashboard layer on top, not reselling the tool itself.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-23T12:20:00Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-23",
+  "owner": "davila7",
+  "name": "claude-code-templates",
+  "full_name": "davila7/claude-code-templates",
+  "url": "https://github.com/davila7/claude-code-templates",
+  "description": "CLI tool for configuring and monitoring Claude Code",
+  "language": "Python",
+  "stars_total": 31311,
+  "stars_today": 64,
+  "one_liner": "A shop of pre-built configuration packs — agents, commands, integrations — for Claude Code, so a developer doesn't have to set everything up from a blank slate.",
+  "buyer": "An independent developer or small dev shop that uses Claude Code daily and wants a working setup (code reviewer, test generator, GitHub integration) in minutes instead of hand-writing configuration files.",
+  "business_use_cases": [
+    "A freelance developer installs the 'frontend-developer' agent and 'generate-tests' command bundle to speed up client work without building tooling from scratch.",
+    "A small agency standardizes every client project on the same curated template set so any teammate can pick up any codebase's AI setup instantly.",
+    "A team lead uses the built-in analytics dashboard to see which developers' AI sessions are stalling or burning excess tokens."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a curated 'premium' template pack (industry-specific agents, security hardening) beyond the free community ones.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer paid consulting to install and customize an agent/command stack for a company's specific codebase.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "It's a free installer for other people's configurations — the honest weekend project is picking one underserved niche (e.g. a Rails-specific agent pack) and selling that expertise, not the tool itself.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-23T12:20:00Z"
+}

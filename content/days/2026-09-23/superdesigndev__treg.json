@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-23",
+  "owner": "superdesigndev",
+  "name": "treg",
+  "full_name": "superdesigndev/treg",
+  "url": "https://github.com/superdesigndev/treg",
+  "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+  "language": "Python",
+  "stars_total": 2478,
+  "stars_today": 230,
+  "one_liner": "One subscription that gives an AI agent access to thousands of paid data and tool services — company lookups, SEO data, image generation — billed by the call, so nobody has to sign up for dozens of separate accounts.",
+  "buyer": "A solo builder or small agency running AI agents that need occasional access to expensive data APIs (Semrush, Crunchbase, Apollo) but can't justify a $99–$139/month subscription to each one for occasional use.",
+  "business_use_cases": [
+    "A one-person lead-gen agency queries company enrichment data per-lead through treg instead of paying for a full Apollo seat.",
+    "A content agency's AI agent pulls backlink and trend data per report instead of the agency buying a Semrush license nobody uses daily.",
+    "A dev team registers their own paid API keys and internal CLIs (Stripe, GitHub) so every teammate's agent can use them without ever seeing the credentials."
+  ],
+  "money_ideas": [
+    {
+      "idea": "This is treg's own business model — self-hosting it and reselling metered access to a curated tool set for a specific vertical (e.g. real-estate data) is a direct copy-the-idea play.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Offer a done-for-you 'connect your team's tools to your AI agents safely' setup service.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Self-host it for a small team this weekend, register three or four paid tools everyone already pays for individually, and immediately cut everyone's per-seat vendor bill.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-23T12:20:00Z"
+}

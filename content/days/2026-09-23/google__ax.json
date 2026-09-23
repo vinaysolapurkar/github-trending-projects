@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-23",
+  "owner": "google",
+  "name": "ax",
+  "full_name": "google/ax",
+  "url": "https://github.com/google/ax",
+  "description": "Google's open agentic orchestration runtime",
+  "language": "Go",
+  "stars_total": 8316,
+  "stars_today": 2305,
+  "one_liner": "Infrastructure software that lets a company run huge numbers of AI 'agent' tasks reliably on its own servers, packing many idle agents onto few machines the way a hotel overbooks rooms nobody sleeps in all day.",
+  "buyer": "A platform engineering lead at a company building an AI agent product (a coding assistant, an automation platform) who needs to run thousands of agent sessions without paying for a dedicated server per agent.",
+  "business_use_cases": [
+    "An AI coding-assistant startup uses AX to host thousands of customer coding sessions on a small fleet of Kubernetes nodes, cutting hosting costs.",
+    "An 'AI employee' automation vendor uses AX's suspend/resume to pause idle customer agents instantly instead of paying for always-on compute.",
+    "An MCP tooling vendor uses AX's sandbox and network gateway to isolate one customer's tool calls and API keys from another's."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer managed hosting of AX clusters for AI startups that don't want to run their own Kubernetes control plane.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Consulting: migrate a company's per-agent-VM setup onto AX and bill against the measured infra savings.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "This is Kubernetes-operator-grade infrastructure the README itself calls pre-stable with breaking changes likely — nothing buildable this weekend beyond a proof-of-concept demo cluster.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-23T12:20:00Z"
+}

@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-23",
+  "matches": [
+    { "problem_id": "p001", "repo": "browser-use/video-use", "why": "video-use turns raw footage into an edited video by chatting with an AI agent, directly solving the weekly video-editing grind.", "confidence": "high" },
+    { "problem_id": "p002", "repo": null, "why": "Nothing today does AI product photography." },
+    { "problem_id": "p003", "repo": null, "why": "codebase-memory-mcp indexes code structure for faster lookups, but it doesn't give an AI coding assistant persistent memory of project decisions or conversation history between sessions." },
+    { "problem_id": "p004", "repo": "obra/superpowers", "why": "Its methodology explicitly enforces spec-first planning, true red/green TDD, and YAGNI/DRY discipline to stop an AI agent from writing bloated, over-engineered code.", "confidence": "medium" },
+    { "problem_id": "p005", "repo": null, "why": "Nothing today is a research-PDF organizer." },
+    { "problem_id": "p006", "repo": null, "why": "video-use edits existing footage but doesn't generate visuals from a text story with no footage, so it's not a real fit here." },
+    { "problem_id": "p007", "repo": null, "why": "Nothing today is a bioinformatics tool for a small lab." },
+    { "problem_id": "p008", "repo": null, "why": "Nothing today is a private, law-firm-safe AI chat tool." },
+    { "problem_id": "p009", "repo": null, "why": "video-use edits raw footage rather than generating narrated video from written text, so it doesn't quite solve this one." },
+    { "problem_id": "p010", "repo": null, "why": "Nothing today is a self-hosted notes app." },
+    { "problem_id": "p011", "repo": "DeusData/codebase-memory-mcp", "why": "It builds a persistent knowledge graph of a codebase's functions, classes, call chains, and routes, which is exactly what's needed to make sense of an inherited codebase.", "confidence": "high" },
+    { "problem_id": "p012", "repo": "davila7/claude-code-templates", "why": "Gives a beginner a ready-made set of Claude Code agents and commands so they can start building instead of configuring everything from scratch.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "Nothing today is a restaurant inventory tool." }
+  ]
+}
