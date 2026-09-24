@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-24",
+  "owner": "google",
+  "name": "ax",
+  "full_name": "google/ax",
+  "url": "https://github.com/google/ax",
+  "description": "Google's open agentic orchestration runtime",
+  "language": "Go",
+  "stars_total": 9682,
+  "stars_today": 1543,
+  "one_liner": "An early-stage, Kubernetes-style control system for running huge numbers of AI agent tasks safely in isolated sandboxes at once.",
+  "buyer": "A platform engineer at a mid-size tech company who needs to run thousands of AI coding-agent jobs in parallel without them stepping on each other or leaking network access.",
+  "business_use_cases": [
+    "An internal-tools team runs nightly 'AI agent does routine maintenance PRs across 500 repos' jobs, using it to sandbox and audit every run.",
+    "An AI coding-agent startup uses it as the execution backend so customer agent runs are isolated per-tenant instead of sharing one server.",
+    "A security team uses the network-fencing feature to run untrusted third-party agents against internal codebases without risking data exfiltration."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer platform-engineering consulting to stand up an agent-orchestration cluster for a company adopting AI coding agents at scale.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Run a managed hosted version for smaller teams who don't want to operate the cluster themselves.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This isn't weekend-project material — it's pre-1.0 infrastructure with breaking changes expected. The realistic 'steal this' is writing the missing 'getting started in 10 minutes' guide and selling setup consulting off the back of it.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-24T12:25:00Z"
+}

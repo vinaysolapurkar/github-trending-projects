@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-24",
+  "owner": "anthropics",
+  "name": "financial-services",
+  "full_name": "anthropics/financial-services",
+  "url": "https://github.com/anthropics/financial-services",
+  "description": "",
+  "language": "Python",
+  "stars_total": 37196,
+  "stars_today": 664,
+  "one_liner": "A ready-made set of AI assistants that draft investment-banking pitch decks, equity research notes, and financial reconciliations for a human to review before anything goes out.",
+  "buyer": "A boutique investment bank or independent wealth-management firm that can't afford a large analyst team but needs research memos and pitch materials drafted fast.",
+  "business_use_cases": [
+    "A boutique M&A advisory firm uses the Pitch Agent to draft first-pass comps and pitch decks overnight, so junior bankers start from a draft instead of a blank slide.",
+    "A small wealth-management shop uses the Market Researcher agent to produce daily client-ready market briefs without hiring a dedicated research analyst.",
+    "An independent bookkeeping firm deploys the GL Reconciler agent to speed up month-end reconciliation for small-business clients, billing the time saved."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a 'deploy Claude's finance agents for your firm' setup and customization service for boutique banks and advisors.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Run a managed version for smaller advisory firms, charging monthly per seat with compliance review included.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Package the Market Researcher agent as a done-for-you 'daily client brief' service for three local independent financial advisors who can't afford a research team — deliver the first week free, then charge monthly.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-24T12:25:00Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-24",
+  "owner": "strands-agents",
+  "name": "harness-sdk",
+  "full_name": "strands-agents/harness-sdk",
+  "url": "https://github.com/strands-agents/harness-sdk",
+  "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+  "language": "Python",
+  "stars_total": 8074,
+  "stars_today": 115,
+  "one_liner": "A developer kit for building the control system ('harness') that runs an AI agent end-to-end, so companies don't have to build agent infrastructure from scratch.",
+  "buyer": "An engineering team at a company building a custom AI agent product who needs production-grade agent infrastructure instead of duct-taping their own.",
+  "business_use_cases": [
+    "A startup building a custom vertical AI agent (e.g. legal-research agent) uses it as the underlying harness instead of writing agent orchestration code themselves.",
+    "A systems integrator standardizes every client's custom agent build on this SDK, cutting delivery time on future projects.",
+    "An enterprise platform team uses it to run the same agent across AWS and their own cloud without rewriting orchestration logic per provider."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer custom agent-build consulting for companies standardizing on this SDK.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Provide a managed hosting/ops layer for companies who want the SDK's flexibility without running their own infrastructure.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build one small reference agent (e.g. a 'research assistant' that searches and summarizes) on top of it, publish it as a template, and offer paid customization to the first company that wants their own version.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-24T12:25:00Z"
+}

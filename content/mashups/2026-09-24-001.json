@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-24-001",
+  "date": "2026-09-24",
+  "repo_a": "julyx10/lap",
+  "repo_b": "leejet/stable-diffusion.cpp",
+  "title": "The Shoebox Restorer",
+  "pitch": "Lap is a private, local-first photo manager for browsing and organizing a lifetime of family photos without uploading them anywhere, and stable-diffusion.cpp runs AI image generation directly on a laptop's own chip, no cloud, no API key, no per-image fee. Combine them into an offline 'digitize the shoebox' app: point it at a folder of scanned old prints, and it uses Lap's local library and search to organize them while stable-diffusion.cpp's on-device pipeline colorizes faded black-and-white photos, removes scratches, and upscales blurry scans, entirely on the user's own machine. The buyer is the same privacy-conscious family (or a genealogy hobbyist) who already wants a local, non-cloud alternative to Google Photos, but who also has a literal shoebox of old prints they've been meaning to restore and are wary of uploading grandma's photos to a random cloud AI-restoration website.",
+  "why_now": "Both repos are trending the same day and both lean on the identical pitch — real AI power without sending your personal photos to someone else's server — so a combined 'organize and restore your family photos, 100% offline' tool is a natural, buildable extension of what each project already does alone."
+}

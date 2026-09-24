@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-24",
+  "owner": "superdesigndev",
+  "name": "treg",
+  "full_name": "superdesigndev/treg",
+  "url": "https://github.com/superdesigndev/treg",
+  "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+  "language": "Python",
+  "stars_total": 2946,
+  "stars_today": 506,
+  "one_liner": "A single subscription-free gateway that lets an AI agent pay a few cents to use thousands of paid business tools (SEO data, scraping, enrichment, image generation) instead of you signing up for dozens of $99/month tools yourself.",
+  "buyer": "An AI agency or indie developer building client-facing AI agents who needs access to dozens of paid data/tool APIs without paying for dozens of separate subscriptions upfront.",
+  "business_use_cases": [
+    "An AI marketing agency builds a client-reporting agent that pulls SEO and backlink data pay-per-call through it instead of buying a $139/month Semrush seat per client.",
+    "A solo developer builds a lead-enrichment side project that calls company/people-enrichment endpoints per lookup instead of committing to an Apollo subscription.",
+    "A dev team gives every engineer's coding agent safe, centralized access to the team's internal tools and paid API keys without the credentials ever touching an individual laptop."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build a vertical AI agent product (e.g. an SEO research agent) priced per-use on top of it and keep the margin between your price and treg's per-call cost.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Resell 'bring your own team keys' gateway setup as a service to agencies that want centralized, auditable tool access for their staff's agents.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Pick one expensive tool category (like backlink data) that a niche of freelancers needs occasionally, build a thin one-off 'ask a question, get a report' agent on top of treg's pay-per-call pricing, and sell single reports for a flat fee.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-24T12:25:00Z"
+}

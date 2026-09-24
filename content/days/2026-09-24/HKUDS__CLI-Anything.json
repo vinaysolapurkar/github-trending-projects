@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-24",
+  "owner": "HKUDS",
+  "name": "CLI-Anything",
+  "full_name": "HKUDS/CLI-Anything",
+  "url": "https://github.com/HKUDS/CLI-Anything",
+  "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+  "language": "Python",
+  "stars_total": 50144,
+  "stars_today": 57,
+  "one_liner": "A tool that lets any command-line program be controlled directly by AI agents, turning ordinary developer software into something an AI can operate on its own.",
+  "buyer": "A developer-tools company that wants its existing CLI product to work seamlessly with AI coding agents like Claude Code or Cursor, without a custom integration for each one.",
+  "business_use_cases": [
+    "A CLI-based SaaS (e.g. a deployment tool) wraps its tool with this so AI coding agents can drive deployments directly instead of needing a bespoke plugin.",
+    "An internal platform team makes 40 in-house scripts agent-callable at once, so engineers can just ask an AI agent to 'run the migration' instead of memorizing flags.",
+    "A dev-tools startup lists its product on the CLI-Hub directory to get discovered by teams building AI agent workflows."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer integration consulting to make an existing CLI product 'agent-native' for dev-tool companies.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Charge dev-tool vendors a listing/placement fee on the CLI-Hub directory for visibility to agent builders.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Pick one popular open-source CLI tool that isn't agent-friendly yet, wrap it with this over a weekend, and publish it as the first entry in a niche 'agent-ready CLI tools' directory.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-24T12:25:00Z"
+}

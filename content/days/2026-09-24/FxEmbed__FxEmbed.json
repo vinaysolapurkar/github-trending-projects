@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-24",
+  "owner": "FxEmbed",
+  "name": "FxEmbed",
+  "full_name": "FxEmbed/FxEmbed",
+  "url": "https://github.com/FxEmbed/FxEmbed",
+  "description": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
+  "language": "TypeScript",
+  "stars_total": 5263,
+  "stars_today": 165,
+  "one_liner": "A free tool that fixes broken video, poll, and photo previews when you paste an X/Twitter or Bluesky link into Discord or Telegram.",
+  "buyer": "A large Discord community owner or Telegram channel admin whose members constantly share social links that render as ugly, broken previews.",
+  "business_use_cases": [
+    "A large gaming Discord server bakes fxtwitter link-rewriting into its welcome bot so shared clips always preview correctly for members.",
+    "A news-aggregation Telegram channel self-hosts an instance to guarantee uptime and branding control instead of depending on the public fxtwitter.com service.",
+    "A social-media management agency offers 'guaranteed working embeds' as a small value-add when setting up community Discord servers for clients."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid, guaranteed-uptime hosted instance for communities that don't want to self-host.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Bundle self-hosted setup as a line item in broader 'Discord server setup' consulting gigs.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Self-host one instance behind a memorable custom domain and offer it free to three Discord communities you're already in, in exchange for a shoutout — this is a reputation/goodwill play, not really a business.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-24T12:25:00Z"
+}

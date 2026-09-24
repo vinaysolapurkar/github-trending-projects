@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-24",
+  "owner": "NVIDIA",
+  "name": "Model-Optimizer",
+  "full_name": "NVIDIA/Model-Optimizer",
+  "url": "https://github.com/NVIDIA/Model-Optimizer",
+  "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+  "language": "Python",
+  "stars_total": 3885,
+  "stars_today": 22,
+  "one_liner": "A toolkit that shrinks and speeds up AI models (making them smaller and cheaper to run) without needing a PhD in machine learning.",
+  "buyer": "An ML infrastructure lead at an AI startup whose GPU inference bill is too high and needs to cut model size without retraining from scratch.",
+  "business_use_cases": [
+    "An AI startup running a chatbot in production uses it to quantize their model, cutting their monthly cloud GPU bill by shrinking model size.",
+    "A hardware-constrained startup (on-device AI, robotics) uses it to compress a model to fit on cheaper edge hardware instead of a costly custom chip.",
+    "An MLOps consultant runs a 'cut your inference costs' audit for clients, using it to benchmark before/after savings as the pitch."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'inference cost audit' service for AI startups, using it to quantify and deliver savings.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Charge a percentage of the GPU-cost savings achieved as a performance-based consulting fee.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "This is a dev library for ML engineers, not an end-user product — the buildable weekend project is a one-page 'before/after cost calculator' demo you can show a startup CTO to sell the audit service, not a standalone app.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-24T12:25:00Z"
+}

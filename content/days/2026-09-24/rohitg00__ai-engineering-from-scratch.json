@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-24",
+  "owner": "rohitg00",
+  "name": "ai-engineering-from-scratch",
+  "full_name": "rohitg00/ai-engineering-from-scratch",
+  "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "description": "Learn it. Build it. Ship it for others.",
+  "language": "Python",
+  "stars_total": 55918,
+  "stars_today": 310,
+  "one_liner": "A free, 523-lesson online course that teaches anyone to build and ship real AI products, step by step, in plain English.",
+  "buyer": "A bootcamp operator or corporate L&D manager who needs a ready-made AI-engineering curriculum instead of writing one from scratch.",
+  "business_use_cases": [
+    "A coding bootcamp licenses the lesson structure as the backbone of a paid 12-week 'AI Engineer' cohort, adding live mentorship on top of the free material.",
+    "A corporate trainer runs an internal 'AI upskilling' workshop series for a non-tech company's engineers, using the roadmap as the syllabus and charging per seat.",
+    "A YouTuber records a paid 'watch me build every lesson' companion series with code reviews and office hours for viewers who want accountability."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a cohort-based course with live mentorship built on top of the free curriculum.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer corporate team-training workshops using the roadmap as the syllabus.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Turn the roadmap into a paid 4-week 'accountability cohort' with a private Discord and weekly live code review — the content is already written, you're selling structure and feedback.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-24T12:25:00Z"
+}

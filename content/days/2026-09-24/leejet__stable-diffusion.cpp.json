@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-24",
+  "owner": "leejet",
+  "name": "stable-diffusion.cpp",
+  "full_name": "leejet/stable-diffusion.cpp",
+  "url": "https://github.com/leejet/stable-diffusion.cpp",
+  "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+  "language": "C++",
+  "stars_total": 7147,
+  "stars_today": 33,
+  "one_liner": "Software that generates AI images directly on your own computer's chip, with no internet connection, cloud bill, or Python installation required.",
+  "buyer": "An indie app developer who wants to add AI image generation to a desktop or offline app without paying per-image API fees or requiring users to be online.",
+  "business_use_cases": [
+    "An indie developer builds a one-time-purchase desktop app for generating local product mockups or avatars, with zero per-image API cost since generation runs on-device.",
+    "A game studio embeds local offline texture/asset generation into a level editor so artists can iterate without waiting on or paying for cloud API calls.",
+    "A privacy-focused creative tool for a regulated industry (e.g. medical illustration drafts) uses on-device generation so no image data ever leaves the user's machine."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a one-time-purchase desktop app with unlimited local image generation instead of a per-image subscription.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "License an embeddable offline generation module to other app developers who want to avoid cloud API costs.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Wrap it in a minimal desktop UI ('type a prompt, get a local image, no account needed') and sell it as a $15 one-time app to people who are tired of paying per-generation on cloud image tools.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-24T12:25:00Z"
+}

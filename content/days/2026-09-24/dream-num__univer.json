@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-24",
+  "owner": "dream-num",
+  "name": "univer",
+  "full_name": "dream-num/univer",
+  "url": "https://github.com/dream-num/univer",
+  "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+  "language": "TypeScript",
+  "stars_total": 17082,
+  "stars_today": 1142,
+  "one_liner": "A toolkit developers can drop into any app to add real spreadsheets, documents, slides, and PDFs that behave like Excel and Google Docs, without licensing Microsoft or Google.",
+  "buyer": "A vertical-SaaS founder (e.g. construction-quoting software, clinic billing software) who needs a real spreadsheet or document editor inside their product but can't afford to build one.",
+  "business_use_cases": [
+    "A construction-estimating SaaS embeds a live spreadsheet grid for quotes instead of a clunky custom table, so customers can use familiar formulas.",
+    "A legal-tech startup embeds a Word-like document editor for contract drafting directly in its web app, avoiding a Google Docs iframe hack.",
+    "An agency builds white-label 'internal tools' for clients (budgets, trackers, report decks) on one shared office engine instead of separate libraries per format."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Charge implementation fees to embed a branded spreadsheet/doc editor into a client's existing product.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build and host a niche vertical app (e.g. an embeddable budget planner widget) on top of it and charge monthly per workspace.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build a single embeddable 'quote sheet' widget (spreadsheet + PDF export) and sell it this weekend to one local trade business (contractor, caterer) that currently emails Excel files back and forth.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-24T12:25:00Z"
+}

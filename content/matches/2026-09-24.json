@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-24",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing today is a video-editing tool; FxEmbed only fixes link previews, it doesn't edit footage." },
+    { "problem_id": "p002", "repo": "leejet/stable-diffusion.cpp", "why": "It generates images locally at no per-image cost, which can produce product mockups, though it isn't a specialized product-photography tool, so this is a partial fit.", "confidence": "medium" },
+    { "problem_id": "p003", "repo": "vectorize-io/hindsight", "why": "It's built specifically to give AI agents persistent, learning memory across sessions, directly solving the 'my assistant forgets everything' problem.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "obra/superpowers", "why": "Its methodology forces spec-first planning and real TDD discipline before an AI agent writes code, which is exactly what curbs bloated, over-engineered output.", "confidence": "medium" },
+    { "problem_id": "p005", "repo": null, "why": "Nothing today organizes or searches research PDFs." },
+    { "problem_id": "p006", "repo": null, "why": "stable-diffusion.cpp generates static images, not the kind of narrated explainer footage a news YouTuber needs, so it isn't a real fit." },
+    { "problem_id": "p007", "repo": null, "why": "Nothing today is a bioinformatics tool for a small lab." },
+    { "problem_id": "p008", "repo": null, "why": "anthropics/financial-services covers finance workflows, not a private law-firm chat tool, so nothing today fits." },
+    { "problem_id": "p009", "repo": null, "why": "Nothing today turns written text into narrated video." },
+    { "problem_id": "p010", "repo": null, "why": "julyx10/lap is a private local-first app, but it manages photos, not notes, so it doesn't quite match this problem." },
+    { "problem_id": "p011", "repo": null, "why": "Nothing today maps or explains an existing codebase's structure." },
+    { "problem_id": "p012", "repo": "rohitg00/ai-engineering-from-scratch", "why": "A free, structured 523-lesson roadmap is exactly what a beginner needs to start building an AI product instead of guessing where to begin.", "confidence": "high" },
+    { "problem_id": "p013", "repo": null, "why": "Nothing today is a restaurant inventory tool." }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-24",
+  "owner": "obra",
+  "name": "superpowers",
+  "full_name": "obra/superpowers",
+  "url": "https://github.com/obra/superpowers",
+  "description": "An agentic skills framework & software development methodology that works.",
+  "language": "Shell",
+  "stars_total": 290983,
+  "stars_today": 474,
+  "one_liner": "A structured playbook that makes AI coding assistants stop and plan properly before writing code, instead of jumping straight into messy, over-engineered solutions.",
+  "buyer": "A startup engineering lead whose team's AI-assisted code is getting sloppy and hard to maintain, and wants a proven process to enforce discipline.",
+  "business_use_cases": [
+    "An engineering lead installs it across the team's coding agents to enforce spec-first planning and real test-driven development before any code ships.",
+    "A solo indie developer uses it to keep a single AI coding agent from over-engineering a side project into something unmaintainable.",
+    "A dev-tools consultant runs paid 'AI coding agent onboarding' workshops for engineering teams, using this framework as the curriculum."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid workshops teaching engineering teams how to set up and enforce this methodology across their AI coding agents.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Provide ongoing consulting support for teams customizing the skill set to their own codebase conventions.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Run a free one-hour workshop for a local dev meetup showing how to wire this into Claude Code, then offer paid follow-up sessions to teams who want it rolled out company-wide.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-24T12:25:00Z"
+}

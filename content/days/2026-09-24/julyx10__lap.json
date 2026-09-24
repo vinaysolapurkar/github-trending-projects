@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-24",
+  "owner": "julyx10",
+  "name": "lap",
+  "full_name": "julyx10/lap",
+  "url": "https://github.com/julyx10/lap",
+  "description": "An offline-first photo manager for large local libraries",
+  "language": "Vue",
+  "stars_total": 2688,
+  "stars_today": 71,
+  "one_liner": "A private photo-organizing app that runs entirely on your own computer, with no forced upload to the cloud, so your family photos stay yours.",
+  "buyer": "A privacy-conscious professional or parent with tens of thousands of family photos scattered across drives who doesn't want to trust them to Google or Apple's cloud.",
+  "business_use_cases": [
+    "A family that's been paying for Google Photos storage for years switches to it to organize a decade of photos on an external drive with local AI search, no subscription.",
+    "A wedding or event photographer uses it to manage and quickly search huge local shoot libraries by content without uploading client photos to any cloud service.",
+    "A privacy-focused consumer-tech reviewer or YouTuber features it as 'the Google Photos alternative that doesn't spy on you,' driving install growth."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a paid Pro tier with advanced local AI search, face-grouping, or NAS-sync features on top of the free core app.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer a paid 'migrate off Google Photos' concierge service that helps non-technical families export and organize their library.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Package a simple paid guide + script bundle: 'Export everything from Google Photos and organize it in Lap this weekend,' sold to privacy-conscious families who keep meaning to leave the cloud but never get around to it.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-24T12:25:00Z"
+}

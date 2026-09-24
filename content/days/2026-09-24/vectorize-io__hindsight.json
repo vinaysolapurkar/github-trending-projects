@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-24",
+  "owner": "vectorize-io",
+  "name": "hindsight",
+  "full_name": "vectorize-io/hindsight",
+  "url": "https://github.com/vectorize-io/hindsight",
+  "description": "Hindsight: Agent Memory That Learns",
+  "language": "Python",
+  "stars_total": 26931,
+  "stars_today": 1607,
+  "one_liner": "A memory system for AI agents so they remember past conversations and actually learn from them instead of starting fresh every time.",
+  "buyer": "A SaaS founder building a customer-support or sales AI agent who needs it to remember each customer across sessions without building memory infrastructure themselves.",
+  "business_use_cases": [
+    "A customer-support SaaS adds 'remembers every past ticket per customer' as a premium feature, powered by this instead of a custom vector-store build.",
+    "An AI sales-assistant startup uses it so the agent recalls a prospect's stated budget and objections across multiple calls instead of re-asking every time.",
+    "An agency building custom AI agents for clients standardizes on it as their memory layer, cutting weeks off every new client build."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Charge implementation fees to integrate persistent memory into a client's existing AI agent.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Resell the hosted 'Hindsight Cloud' tier bundled with your own agent product at a markup.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build a tiny demo: a support-chat widget that visibly remembers a returning visitor's last three questions, and pitch it to one SaaS founder as 'this is what your bot could do by Monday.'",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-24T12:25:00Z"
+}
