@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-25",
+  "owner": "paperclipai",
+  "name": "paperclip",
+  "full_name": "paperclipai/paperclip",
+  "url": "https://github.com/paperclipai/paperclip",
+  "description": "The open-source app everyone uses to manage agents at work",
+  "language": "TypeScript",
+  "stars_total": 83422,
+  "stars_today": 1853,
+  "one_liner": "A dashboard that lets a non-technical manager see, start, and check on a whole team of AI agents at once, instead of everyone juggling their own chat windows.",
+  "buyer": "An operations manager at a small agency who has five different employees each running their own AI coding or research agents and has no visibility into what any of them are doing.",
+  "business_use_cases": [
+    "A digital agency gives its account managers a shared board of client-work agents so a manager can see 'website redesign for Client X' is 80% done without pinging the developer.",
+    "A remote ops team runs recurring AI agents (invoice chasing, lead research) and uses the dashboard as the single place to check they actually ran today.",
+    "A consultancy demos 'AI-powered delivery' to a prospective client by showing them the live agent board instead of a slide deck."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a hosted, managed version for teams who don't want to self-host it.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell setup/integration services wiring a client's existing AI agents into the dashboard.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Stand up a self-hosted instance for one local agency this weekend and charge them a flat fee to connect their existing 2-3 AI tools into it as a 'command center'.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-25T12:21:50.560Z"
+}

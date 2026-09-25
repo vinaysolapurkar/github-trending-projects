@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-25",
+  "owner": "derv82",
+  "name": "wifit3",
+  "full_name": "derv82/wifit3",
+  "url": "https://github.com/derv82/wifit3",
+  "description": "Wifite but USB-only & cross-platform.",
+  "language": "Python",
+  "stars_total": 689,
+  "stars_today": 168,
+  "one_liner": "A tool professional security testers plug a USB Wi-Fi adapter into to check how easily a company's wireless network could be broken into.",
+  "buyer": "An independent penetration tester or small security-consulting firm doing authorized Wi-Fi security audits for small businesses.",
+  "business_use_cases": [
+    "A security consultant runs it during an authorized on-site audit of a retail chain's guest Wi-Fi and hands over a findings report.",
+    "An IT provider for small businesses uses it as part of an annual 'network health check' add-on service.",
+    "A cybersecurity trainer uses it in a hands-on workshop teaching Wi-Fi security fundamentals."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Charge per Wi-Fi security audit engagement using it as one of several tools.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This is a professional security tool, not a productizable weekend app — the business is the audit service around it, which needs real certification and client trust, not a weekend build.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-25T12:21:50.560Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-25-001",
+  "date": "2026-09-25",
+  "repo_a": "pbakaus/impeccable",
+  "repo_b": "dream-num/univer",
+  "title": "The No-Slop Ops App",
+  "pitch": "Impeccable stops AI coding agents from shipping the same generic purple-gradient SaaS look, and Univer gives those same agents production-grade spreadsheets, documents, and PDFs to embed instead of hand-rolling brittle custom tables. Combine them into a one-command 'vibe-coded ops app' starter kit: point an AI coding agent at a client's spreadsheet-heavy workflow (quoting, invoicing, project trackers) and it uses Univer for the real data grid while Impeccable's design rules keep the layout from looking like an AI template. The buyer is the freelance 'AI app builder' who takes paid gigs from local businesses currently running their operations out of a pile of loose Excel files and wants the delivered app to look like a proper custom build, not a demo.",
+  "why_now": "Both projects are trending the same day and solve opposite halves of the same problem AI coding agents have right now — generic-looking UI and no real spreadsheet primitives — so wiring them together into one starter kit is a natural, buildable weekend project."
+}

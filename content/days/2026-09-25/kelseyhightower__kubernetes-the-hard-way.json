@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-25",
+  "owner": "kelseyhightower",
+  "name": "kubernetes-the-hard-way",
+  "full_name": "kelseyhightower/kubernetes-the-hard-way",
+  "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+  "description": "Bootstrap Kubernetes the hard way. No scripts.",
+  "language": null,
+  "stars_total": 50015,
+  "stars_today": 105,
+  "one_liner": "A free, step-by-step written tutorial that teaches you to build a Kubernetes cluster manually, by hand, so you understand every piece.",
+  "buyer": "No direct buyer — it's a free educational tutorial, explicitly not meant for production or resale.",
+  "business_use_cases": [
+    "A platform engineer follows it once to deeply understand Kubernetes internals before running a managed cluster in production.",
+    "A training company references its structure as inspiration for their own paid Kubernetes course.",
+    "A job candidate works through it to prepare for a Kubernetes-heavy technical interview."
+  ],
+  "money_ideas": [
+    {
+      "idea": "None directly — the author explicitly licenses it non-commercially; any money is in teaching around it, not reselling it.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Not a product opportunity — it's a well-known, free learning resource with an explicit non-commercial license.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-25T12:21:50.560Z"
+}

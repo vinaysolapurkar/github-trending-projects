@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-25",
+  "projects": [
+    "paperclipai__paperclip",
+    "anthropics__claude-plugins-official",
+    "vectorize-io__hindsight",
+    "obra__superpowers",
+    "mattpocock__skills",
+    "dream-num__univer",
+    "anthropics__skills",
+    "androoAGI__starnet",
+    "derv82__wifit3",
+    "kelseyhightower__kubernetes-the-hard-way",
+    "rohitg00__ai-engineering-from-scratch",
+    "shy3130__tick-stock-panel",
+    "google__ax",
+    "NVIDIA__Model-Optimizer",
+    "pbakaus__impeccable",
+    "openbao__openbao"
+  ]
+}

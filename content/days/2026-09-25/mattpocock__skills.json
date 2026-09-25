@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-25",
+  "owner": "mattpocock",
+  "name": "skills",
+  "full_name": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "language": "Shell",
+  "stars_total": 269393,
+  "stars_today": 671,
+  "one_liner": "One developer's personal collection of instructions he feeds his own AI coding agent, shared publicly as an example.",
+  "buyer": "No distinct buyer — this is a personal reference other developers copy from for free, not a product.",
+  "business_use_cases": [
+    "A developer copies a few of these skill files into their own AI agent setup instead of writing them from scratch.",
+    "A team uses it as inspiration for writing their own internal 'house style' skills.",
+    "A newsletter/course creator references it as a teaching example of good AI-agent practice."
+  ],
+  "money_ideas": [
+    {
+      "idea": "None directly monetizable — value here is personal-brand marketing (the author's newsletter/course), not the repo itself.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Not a weekend business — at most, cherry-pick a couple of skill files for your own workflow.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-25T12:21:50.560Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-25",
+  "owner": "androoAGI",
+  "name": "starnet",
+  "full_name": "androoAGI/starnet",
+  "url": "https://github.com/androoAGI/starnet",
+  "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+  "language": "JavaScript",
+  "stars_total": 292,
+  "stars_today": 113,
+  "one_liner": "A game-like desktop app that shows your AI agents as little characters working in a virtual station, so you can watch at a glance who's doing what, using your own AI keys.",
+  "buyer": "A solo consultant or indie developer running several AI agents at once for different clients who wants a single visual screen to check progress instead of five separate terminal windows.",
+  "business_use_cases": [
+    "A freelance 'AI ops' consultant runs client agents inside it and screen-shares the dashboard on client calls as a tangible sign of 'here's your AI team at work'.",
+    "A small dev shop uses it internally as a morale/visibility tool so non-technical founders can see agent progress without reading logs.",
+    "A solo indie hacker running multiple side projects uses it to track which project's agent is stuck versus actively working."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid, hosted/managed version with team seats for agencies.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell branded/white-labeled versions to agencies who want it in their own visual style for client demos.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Set it up for your own 2-3 active AI side projects this weekend and use the visual board as a demo when pitching an 'AI-run studio' to a client.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-25T12:21:50.560Z"
+}

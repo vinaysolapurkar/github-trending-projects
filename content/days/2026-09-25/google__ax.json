@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-25",
+  "owner": "google",
+  "name": "ax",
+  "full_name": "google/ax",
+  "url": "https://github.com/google/ax",
+  "description": "Google's open agentic orchestration runtime",
+  "language": "Go",
+  "stars_total": 11073,
+  "stars_today": 1373,
+  "one_liner": "Infrastructure software from Google for running huge numbers of AI agent tasks reliably on a cluster of computers, like Kubernetes but for AI agents instead of web apps.",
+  "buyer": "A platform/infra engineer at a mid-size company running many automated AI agent workloads who needs them to run reliably at scale instead of as fragile scripts.",
+  "business_use_cases": [
+    "A company running hundreds of daily AI research or coding agent jobs uses it to schedule and sandbox them reliably instead of ad-hoc cron jobs.",
+    "A cloud consultancy offers 'agent infrastructure setup' as a service for clients scaling past a handful of manual AI workflows.",
+    "An AI SaaS company builds its backend job-runner on top of it instead of building agent orchestration from scratch."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Consulting/implementation services setting it up for a client's infrastructure.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This is early-stage, breaking-changes-expected infra software for engineering teams — not a weekend consumer product; the near-term money is in implementation consulting, and even that is risky given how early it is.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-25T12:21:50.560Z"
+}

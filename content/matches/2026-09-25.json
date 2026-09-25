@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-25",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing today edits short-form video; today's list is agent infra, dev tooling, and educational content." },
+    { "problem_id": "p002", "repo": null, "why": "Nothing today generates or touches product photography." },
+    { "problem_id": "p003", "repo": "vectorize-io/hindsight", "why": "It's built specifically to give AI agents persistent, learning memory across sessions, directly solving 'my assistant forgets everything'.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "obra/superpowers", "why": "Its spec-first, test-driven methodology for coding agents is designed to curb exactly the bloated, over-engineered output this problem describes.", "confidence": "medium" },
+    { "problem_id": "p005", "repo": null, "why": "Nothing today organizes or searches research PDFs or articles." },
+    { "problem_id": "p006", "repo": null, "why": "Nothing today produces visual footage or explainer video for news." },
+    { "problem_id": "p007", "repo": null, "why": "Nothing today is a bioinformatics tool for a small lab." },
+    { "problem_id": "p008", "repo": null, "why": "Nothing today is a private AI chat product; openbao secures secrets/keys, not client conversations, so it isn't a real fit." },
+    { "problem_id": "p009", "repo": null, "why": "Nothing today turns written text into narrated video." },
+    { "problem_id": "p010", "repo": null, "why": "androoAGI/starnet is local-first, but it's an agent dashboard, not a notes app, so it doesn't match this problem." },
+    { "problem_id": "p011", "repo": null, "why": "Nothing today maps or explains the structure of an existing codebase." },
+    { "problem_id": "p012", "repo": "rohitg00/ai-engineering-from-scratch", "why": "A free, structured 500+ lesson roadmap is exactly what a beginner needs to start building an AI product instead of guessing where to begin.", "confidence": "high" },
+    { "problem_id": "p013", "repo": null, "why": "Nothing today is a restaurant inventory tool." }
+  ]
+}

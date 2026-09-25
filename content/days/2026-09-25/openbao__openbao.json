@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-25",
+  "owner": "openbao",
+  "name": "openbao",
+  "full_name": "openbao/openbao",
+  "url": "https://github.com/openbao/openbao",
+  "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+  "language": "Go",
+  "stars_total": 7520,
+  "stars_today": 16,
+  "one_liner": "Free, open-source software for safely storing and handing out passwords, API keys, and certificates to other software, so secrets aren't scattered in plain text files.",
+  "buyer": "An IT lead at a mid-size company who wants to stop paying for (or trusting) a commercial secrets-management vendor and self-host their own instead.",
+  "business_use_cases": [
+    "A company migrates off an expensive commercial secrets-management license onto a self-hosted instance to cut licensing costs.",
+    "A managed-hosting provider offers 'secrets management as a service' built on it for clients who don't want to run it themselves.",
+    "A security consultancy includes it in a hardening engagement for a client storing API keys insecurely in code or spreadsheets."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a managed/hosted version with support for companies that don't want to run it themselves.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Paid migration and hardening consulting for companies moving off insecure secret storage.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Set it up this weekend for one small business still storing API keys in a spreadsheet or Slack messages, and charge a flat fee for the migration.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-25T12:21:50.560Z"
+}

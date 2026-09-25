@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-25",
+  "owner": "pbakaus",
+  "name": "impeccable",
+  "full_name": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "description": "The design language that makes your AI harness better at design.",
+  "language": "JavaScript",
+  "stars_total": 70929,
+  "stars_today": 527,
+  "one_liner": "A style guide and rulebook that stops AI coding tools from producing the same generic-looking website every time, so AI-built apps look custom-designed instead of templated.",
+  "buyer": "A solo founder or freelancer who builds their product's frontend almost entirely with AI coding tools and is embarrassed that it looks like every other 'AI-built SaaS'.",
+  "business_use_cases": [
+    "A no-code-adjacent founder installs it before building their MVP so investors and early users don't immediately clock it as 'AI slop'.",
+    "A freelance 'AI app builder' uses it on every client project as a quality/differentiation guarantee.",
+    "A design agency offers a 'polish pass' service that runs a client's AI-generated app through this ruleset and fixes what it flags."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'design polish' service for founders whose AI-built app looks generic.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell a premium extended rule pack / theme pack beyond the free base tool.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Run it against three AI-built landing pages you can find this weekend, fix the flagged issues, and offer the before/after as a 'free audit' to land your first paying design-polish client.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-25T12:21:50.560Z"
+}
