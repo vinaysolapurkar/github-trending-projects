@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-26",
+  "owner": "NVIDIA",
+  "name": "Model-Optimizer",
+  "full_name": "NVIDIA/Model-Optimizer",
+  "url": "https://github.com/NVIDIA/Model-Optimizer",
+  "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+  "language": "Python",
+  "stars_total": 4597,
+  "stars_today": 359,
+  "one_liner": "A toolbox that shrinks and speeds up AI models so they run cheaper and faster on real servers, without needing to retrain them from scratch.",
+  "buyer": "An ML infrastructure lead at a company with a real AI product whose monthly GPU inference bill is too high and needs it cut without hurting quality.",
+  "business_use_cases": [
+    "An AI startup uses it to cut inference costs on their production model before a funding round scrutinizes burn rate.",
+    "An MLOps consultancy offers a 'cut your inference bill by 30%' audit service built around this toolkit.",
+    "A hardware-constrained edge-AI company (on-device features) uses it to fit a model onto cheaper hardware."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid 'model optimization audits' for companies with expensive inference bills.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Retainer-based ongoing model optimization as a company's models evolve.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Pick one open-source model, optimize it with this toolkit this weekend, and pitch the before/after cost numbers to a startup you know is burning money on inference.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-26T12:04:03Z"
+}

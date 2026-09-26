@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-26",
+  "owner": "dream-num",
+  "name": "univer",
+  "full_name": "dream-num/univer",
+  "url": "https://github.com/dream-num/univer",
+  "description": "The Office Harness for AI Agents \u2014 Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+  "language": "TypeScript",
+  "stars_total": 18946,
+  "stars_today": 1050,
+  "one_liner": "An embeddable office suite (spreadsheets, docs, slides) that developers can drop into their own app, so AI agents and users can edit real documents inside a product instead of exporting to Excel.",
+  "buyer": "A product manager at a vertical SaaS company (e.g. a CRM or ops tool) who keeps losing deals because customers want native spreadsheet/document editing inside the product.",
+  "business_use_cases": [
+    "A vertical SaaS (e.g. construction or logistics software) embeds it to offer 'built-in spreadsheets' instead of telling customers to use Excel on the side.",
+    "An AI agent startup uses it as the canvas where its agents actually edit a real spreadsheet or doc live in front of the user.",
+    "An internal-tools team builds a lightweight Notion/Airtable-style app for a client using it as the document engine."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Paid integration/customization service embedding it into a client's existing SaaS product.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Template/plugin marketplace for pre-built spreadsheet and document components.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Embed it in a demo app this weekend showing an AI agent editing a live spreadsheet, and pitch it to a SaaS product missing document features.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-26T12:04:03Z"
+}

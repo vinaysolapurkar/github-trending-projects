@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-26",
+  "owner": "vercel",
+  "name": "next.js",
+  "full_name": "vercel/next.js",
+  "url": "https://github.com/vercel/next.js",
+  "description": "The React Framework",
+  "language": "JavaScript",
+  "stars_total": 142459,
+  "stars_today": 31,
+  "one_liner": "A widely-used framework for building fast, modern websites and web apps with React \u2014 the foundation many startups build their product on.",
+  "buyer": "Not directly monetizable itself; it's free, mature, and ubiquitous. The opportunity is in things built on top of it, not the framework itself.",
+  "business_use_cases": [
+    "A web agency builds client marketing sites and web apps on it as their default stack, billing for the build, not the framework.",
+    "A SaaS founder builds their product's front end on it to move fast with a well-supported ecosystem.",
+    "A template/theme creator sells premium starter kits built on it to other developers."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell premium Next.js starter templates or boilerplates to other developers.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Not a fresh opportunity on its own \u2014 build and sell a niche, polished starter template (e.g. for a specific industry's landing pages) on top of it instead.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-26T12:04:03Z"
+}

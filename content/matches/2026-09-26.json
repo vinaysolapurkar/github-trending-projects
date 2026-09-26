@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-26",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing today edits short-form video; today's list is agent orchestration, infra, and dev tooling." },
+    { "problem_id": "p002", "repo": null, "why": "Nothing today generates or touches product photography." },
+    { "problem_id": "p003", "repo": "vectorize-io/hindsight", "why": "It's built specifically to give AI agents persistent, learning memory across sessions, directly solving 'my assistant forgets everything'.", "confidence": "high" },
+    { "problem_id": "p004", "repo": null, "why": "Nothing today addresses AI code quality or over-engineering directly; today's coding-adjacent tool is a GitHub review bot, not a methodology for leaner output." },
+    { "problem_id": "p005", "repo": null, "why": "Nothing today organizes or searches research PDFs or articles." },
+    { "problem_id": "p006", "repo": null, "why": "Nothing today produces visual footage or explainer video for news." },
+    { "problem_id": "p007", "repo": null, "why": "Nothing today is a bioinformatics tool for a small lab." },
+    { "problem_id": "p008", "repo": null, "why": "block/buzz is a private, self-hostable workspace, but it's built for engineering teams and agents collaborating on code, not confidential client chat for a law firm, so it's not a real fit." },
+    { "problem_id": "p009", "repo": null, "why": "Nothing today turns written text into narrated video." },
+    { "problem_id": "p010", "repo": null, "why": "dream-num/univer is an embeddable document engine for developers, not a consumer notes app, so it doesn't match this problem." },
+    { "problem_id": "p011", "repo": null, "why": "Nothing today maps or explains the structure of an existing codebase." },
+    { "problem_id": "p012", "repo": "rohitg00/ai-engineering-from-scratch", "why": "A free, structured curriculum for building real AI systems is exactly what a beginner needs to start building an AI product instead of guessing where to begin.", "confidence": "high" },
+    { "problem_id": "p013", "repo": null, "why": "Nothing today is a restaurant inventory tool." }
+  ]
+}

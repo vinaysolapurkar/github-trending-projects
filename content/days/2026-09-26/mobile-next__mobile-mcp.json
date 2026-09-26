@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-26",
+  "owner": "mobile-next",
+  "name": "mobile-mcp",
+  "full_name": "mobile-next/mobile-mcp",
+  "url": "https://github.com/mobile-next/mobile-mcp",
+  "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+  "language": "TypeScript",
+  "stars_total": 7062,
+  "stars_today": 143,
+  "one_liner": "A tool that lets AI assistants directly control and test real phones and phone simulators (tapping buttons, reading screens) instead of a human doing manual QA by hand.",
+  "buyer": "A mobile app QA lead at a small-to-mid app company who's currently paying for manual testers or a pricier device-farm SaaS.",
+  "business_use_cases": [
+    "A mobile app team wires it into CI so an AI agent runs a full manual-style QA pass on every release build automatically.",
+    "A QA outsourcing agency offers 'AI-driven mobile testing' as a cheaper, faster alternative to human manual testers.",
+    "An app development shop uses it to auto-generate bug reports with screenshots when a new build breaks a screen."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Managed 'AI QA as a service' subscription for app teams without in-house QA staff.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "One-off setup service wiring it into a client's existing CI pipeline and device farm.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Wire it into a real app's CI pipeline this weekend, record a before/after of catching a UI bug automatically, and pitch 'AI QA' as a service to indie app developers.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-26T12:04:03Z"
+}

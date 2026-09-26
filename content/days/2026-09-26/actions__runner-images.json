@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-26",
+  "owner": "actions",
+  "name": "runner-images",
+  "full_name": "actions/runner-images",
+  "url": "https://github.com/actions/runner-images",
+  "description": "GitHub Actions runner images",
+  "language": "PowerShell",
+  "stars_total": 13214,
+  "stars_today": 13,
+  "one_liner": "The official recipe files that define exactly what software comes pre-installed on GitHub's cloud build machines \u2014 pure developer infrastructure, not a product.",
+  "buyer": "No direct buyer; this is GitHub's own internal tooling shared publicly, useful only to people building or debugging their own custom CI runners.",
+  "business_use_cases": [
+    "A DevOps consultancy references it to build custom self-hosted CI runner images matching GitHub's environment exactly.",
+    "A CI/CD tooling company uses it as the baseline spec when building a competing hosted-runner product."
+  ],
+  "money_ideas": [
+    {
+      "idea": "DevOps consulting building custom CI runner images for companies with specialized build requirements.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Not a product opportunity \u2014 this is reference infrastructure, useful background reading for a DevOps consultant but not a thing to build a business around.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-26T12:04:03Z"
+}

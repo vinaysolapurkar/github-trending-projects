@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-26",
+  "owner": "microsoft",
+  "name": "vscode",
+  "full_name": "microsoft/vscode",
+  "url": "https://github.com/microsoft/vscode",
+  "description": "Visual Studio Code",
+  "language": "TypeScript",
+  "stars_total": 192960,
+  "stars_today": 78,
+  "one_liner": "The world's most popular free code editor \u2014 the program millions of programmers write code in every day.",
+  "buyer": "Not directly monetizable on its own; it's a mature, ubiquitous free tool. The opportunity is building things that plug into it, not reselling it.",
+  "business_use_cases": [
+    "A developer-tools startup builds and sells a paid VS Code extension for a specific niche (e.g. database schema visualization).",
+    "A consultancy builds a custom internal fork or extension pack for a client's specific workflow.",
+    "An education company builds branded coding-course content that runs inside it via a preconfigured extension bundle."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Paid extension sold on the marketplace solving a specific workflow pain point.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Not a fresh opportunity itself \u2014 everyone already has it installed. The real weekend project is a narrow, paid extension for a specific underserved workflow.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-26T12:04:03Z"
+}

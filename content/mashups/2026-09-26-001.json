@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-26-001",
+  "date": "2026-09-26",
+  "repo_a": "paperclipai/paperclip",
+  "repo_b": "vectorize-io/hindsight",
+  "title": "The AI Company That Doesn't Forget",
+  "pitch": "Paperclip lets you hire a virtual company of AI agents (CEO, engineers, marketers) to chase a business goal from a dashboard, but each fresh run starts from zero context. Hindsight is an agent memory system built to let AI agents learn from what worked and what didn't across sessions. Combine them into a persistent 'AI company' where every agent role keeps institutional memory between goals: the marketing agent remembers which campaign angles flopped last quarter, the engineering agent remembers which vendor integration kept breaking, and the CEO agent remembers which budget decisions paid off. The buyer is the same solo founder or small agency already running Paperclip-style AI teams, who is tired of re-explaining context to a fresh agent crew every time they kick off a new goal.",
+  "why_now": "Both repos are trending the same day and sit on opposite halves of the same gap in today's AI-agent-team tools: Paperclip gives agents an org chart and a goal, but no long-term memory of past runs, while Hindsight is purpose-built to be that memory layer. Wiring the two together is a natural, buildable weekend project rather than a stretch."
+}

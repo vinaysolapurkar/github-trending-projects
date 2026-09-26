@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-26",
+  "owner": "tensorflow",
+  "name": "tensorflow",
+  "full_name": "tensorflow/tensorflow",
+  "url": "https://github.com/tensorflow/tensorflow",
+  "description": "An Open Source Machine Learning Framework for Everyone",
+  "language": "C++",
+  "stars_total": 200344,
+  "stars_today": 31,
+  "one_liner": "A foundational open-source library for building and training machine learning models \u2014 the engine under the hood, not something an end user ever sees directly.",
+  "buyer": "Not really a direct buyer; it's infrastructure. The realistic beneficiary is a company already building ML products who uses it as a free building block, not something to resell itself.",
+  "business_use_cases": [
+    "An ML engineering consultancy uses it as the base framework when building custom models for clients, billing for the expertise, not the library.",
+    "A company trains an in-house demand-forecasting model on top of it instead of buying an off-the-shelf forecasting SaaS.",
+    "A university spinout builds a research prototype on it before commercializing a narrower product."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Custom model development services for companies that need ML but lack in-house expertise.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Not a weekend product opportunity on its own \u2014 it's plumbing. Skip building 'on top of TensorFlow' as a pitch; the value is in the specific model you build, not the framework.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-26T12:04:03Z"
+}

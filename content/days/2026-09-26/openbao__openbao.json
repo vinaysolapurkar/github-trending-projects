@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-26",
+  "owner": "openbao",
+  "name": "openbao",
+  "full_name": "openbao/openbao",
+  "url": "https://github.com/openbao/openbao",
+  "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+  "language": "Go",
+  "stars_total": 7880,
+  "stars_today": 49,
+  "one_liner": "An open-source vault that securely stores and manages passwords, API keys, and certificates for companies, so secrets aren't scattered in code or spreadsheets.",
+  "buyer": "A DevOps or security lead at a mid-size company who needs a self-hosted alternative to commercial secrets-management tools for cost or compliance reasons.",
+  "business_use_cases": [
+    "A company avoiding vendor lock-in migrates off a paid commercial secrets manager onto this self-hosted alternative.",
+    "A managed-hosting provider offers 'OpenBao as a service' for companies that want the tool but not the ops burden.",
+    "A security consultancy audits and hardens a client's secrets-management setup using it as the reference implementation."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Managed hosting/operations of the vault for companies that don't want to run it themselves.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Security audit and migration consulting for companies moving off a paid competitor.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Stand up a managed hosting offering this weekend targeted at startups currently paying for a pricier commercial secrets manager.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-26T12:04:03Z"
+}
