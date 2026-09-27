@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-27",
+  "owner": "rohitg00",
+  "name": "ai-engineering-from-scratch",
+  "full_name": "rohitg00/ai-engineering-from-scratch",
+  "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "description": "Learn it. Build it. Ship it for others.",
+  "language": "Python",
+  "stars_total": 58728,
+  "stars_today": 848,
+  "one_liner": "A free, 523-lesson curriculum that teaches you to build real AI systems (agents, LLM apps, MCP servers) from the ground up, in several languages.",
+  "buyer": "A bootcamp, corporate learning-and-development team, or career coach who wants a ready-made curriculum to teach AI engineering skills without building the content from scratch.",
+  "business_use_cases": [
+    "A coding bootcamp licenses or white-labels the curriculum structure to launch a paid 'AI Engineer' track.",
+    "A corporate L&D team assigns specific learning paths (e.g. Agent Engineering) to upskill existing developers internally.",
+    "An independent educator builds a paid cohort-based course or mentorship program using the free curriculum as the syllabus, charging for live guidance and code review."
+  ],
+  "money_ideas": [
+    { "idea": "Paid cohort-based course with live mentorship layered on top of the free, open curriculum.", "revenue_model": "one-off" },
+    { "idea": "Corporate training package sold to engineering orgs, billed per seat.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Package one learning path (e.g. Agent Engineering) into a $200 paid cohort with weekly office hours this weekend, using the free lessons as your syllabus.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-27T12:07:36Z"
+}

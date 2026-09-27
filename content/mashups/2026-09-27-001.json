@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-27-001",
+  "date": "2026-09-27",
+  "repo_a": "mobile-next/mobile-mcp",
+  "repo_b": "anthropics/claude-code-action",
+  "title": "The PR Bot With Actual Fingers",
+  "pitch": "anthropics/claude-code-action lets a comment on a PR trigger Claude to read the diff and make code changes, but it only ever looks at text — it can't see whether the UI it just touched actually works. mobile-next/mobile-mcp lets an agent drive a real or simulated phone: tap, swipe, read the screen. Wire them together and a PR that touches mobile UI code gets more than a code review: the action spins up the build, taps through the three or four screens the diff touched, and posts screenshots plus a pass or fail note back on the PR before a human even opens the app. The buyer is the same small mobile-app team already using an AI PR bot, who is tired of merging UI changes that look fine in the diff and break on-device.",
+  "why_now": "Both tools are trending today and sit on either side of the same blind spot: one reviews code, the other can operate a real device, and nobody's wired them together yet."
+}

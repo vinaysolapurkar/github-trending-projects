@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-27",
+  "owner": "actions",
+  "name": "runner-images",
+  "full_name": "actions/runner-images",
+  "url": "https://github.com/actions/runner-images",
+  "description": "GitHub Actions runner images",
+  "language": "PowerShell",
+  "stars_total": 13372,
+  "stars_today": 166,
+  "one_liner": "The official virtual machine images GitHub Actions uses to run your CI and CD jobs — infrastructure plumbing, not a product.",
+  "buyer": "No direct buyer — used internally by GitHub Actions; not something a business would separately purchase.",
+  "business_use_cases": [
+    "A DevOps consulting firm references it to build custom, hardened CI runner images for clients with specific compliance needs.",
+    "A company self-hosting GitHub Actions runners uses it as the base image to replicate GitHub-hosted runner behavior."
+  ],
+  "money_ideas": [
+    { "idea": "Paid consulting building custom hardened or self-hosted CI runner images for enterprise clients.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "No standalone weekend product here; it's a reference dependency, not something to build a business on directly.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-27T12:07:36Z"
+}

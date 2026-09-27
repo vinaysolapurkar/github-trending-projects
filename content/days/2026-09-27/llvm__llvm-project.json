@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-27",
+  "owner": "llvm",
+  "name": "llvm-project",
+  "full_name": "llvm/llvm-project",
+  "url": "https://github.com/llvm/llvm-project",
+  "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+  "language": "LLVM",
+  "stars_total": 40798,
+  "stars_today": 122,
+  "one_liner": "The compiler technology used to build the tools that turn programming code into running software — deep developer infrastructure, invisible to end users.",
+  "buyer": "No direct buyer — this is foundational infrastructure used by compiler engineers and chipmakers, not something a business buyer purchases directly.",
+  "business_use_cases": [
+    "A chip company builds a custom compiler backend for its new hardware on top of LLVM.",
+    "A programming-language startup builds its language's compiler using LLVM instead of writing one from scratch.",
+    "A consulting firm offers specialized compiler-engineering contracting to hardware companies."
+  ],
+  "money_ideas": [
+    { "idea": "Specialized compiler-engineering consulting for chip or programming-language startups.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "No realistic weekend business here — this is multi-year specialist infrastructure work, not something you ship in a weekend.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-27T12:07:36Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-27",
+  "owner": "paperclipai",
+  "name": "paperclip",
+  "full_name": "paperclipai/paperclip",
+  "url": "https://github.com/paperclipai/paperclip",
+  "description": "The open-source app everyone uses to manage agents at work",
+  "language": "TypeScript",
+  "stars_total": 88437,
+  "stars_today": 2527,
+  "one_liner": "An open-source dashboard where you hire a team of AI agents (a CEO, engineers, marketers) to chase a business goal, and watch them work like a virtual company org chart.",
+  "buyer": "A solo founder or small agency owner running several AI-driven side projects who wants one dashboard instead of juggling a dozen separate agent scripts.",
+  "business_use_cases": [
+    "A solo founder assigns 'grow my newsletter to 10k subscribers' and lets an agent team draft, post, and report back weekly.",
+    "An AI-ops agency resells a hosted instance as the client-facing dashboard showing what their virtual AI staff did each day.",
+    "A bootstrapped SaaS founder runs a virtual 'CTO + 2 engineers' crew to triage and merge low-risk pull requests overnight."
+  ],
+  "money_ideas": [
+    { "idea": "Hosted version with managed agent credentials and billing per active agent-seat.", "revenue_model": "subscription" },
+    { "idea": "Done-for-you onboarding service that builds a client's first AI org chart and budget guardrails.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Self-host it this weekend, wire in one real API key, and sell 'AI ops manager for a day' as a $500 setup service to a local small business.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-27T12:07:36Z"
+}

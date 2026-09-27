@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-27",
+  "owner": "NVIDIA",
+  "name": "Model-Optimizer",
+  "full_name": "NVIDIA/Model-Optimizer",
+  "url": "https://github.com/NVIDIA/Model-Optimizer",
+  "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+  "language": "Python",
+  "stars_total": 4891,
+  "stars_today": 301,
+  "one_liner": "A toolkit for shrinking and speeding up AI models (making them smaller and cheaper to run) without losing much accuracy, mainly used by engineers deploying large models in production.",
+  "buyer": "An ML infrastructure engineer at a company running its own large language or vision models who needs to cut GPU and inference costs.",
+  "business_use_cases": [
+    "An AI startup running its own fine-tuned model uses it to shrink inference costs before scaling to more customers.",
+    "A consulting shop specializing in 'make your AI cheaper to run' audits offers model-optimization passes as a paid engagement using this library.",
+    "A hardware or cloud vendor bundles pre-optimized checkpoints made with this tool as a value-add for customers running models on their infrastructure."
+  ],
+  "money_ideas": [
+    { "idea": "Paid consulting engagements auditing and shrinking a client's model deployment costs.", "revenue_model": "one-off" },
+    { "idea": "A hosted 'optimize my model' API that takes a checkpoint and returns a compressed, benchmarked version.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Not much of a weekend product here — it's an engineering library, not an end-user tool. The realistic move is offering a paid 'cut your inference bill by 30%' audit to one AI startup already using large models.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-27T12:07:36Z"
+}

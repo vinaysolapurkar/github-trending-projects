@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-27",
+  "owner": "dream-num",
+  "name": "univer",
+  "full_name": "dream-num/univer",
+  "url": "https://github.com/dream-num/univer",
+  "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+  "language": "TypeScript",
+  "stars_total": 19850,
+  "stars_today": 920,
+  "one_liner": "A toolkit developers use to build their own spreadsheet, document, and slides editor right inside their own app or website, instead of embedding Google Docs or Excel.",
+  "buyer": "A SaaS founder building an internal tool, BI dashboard, or vertical app who needs spreadsheet-like editing built into their product without licensing Excel or Google.",
+  "business_use_cases": [
+    "A vertical SaaS (e.g. construction bidding software) embeds a real spreadsheet editor directly in its app instead of exporting to Excel and back.",
+    "A BI or reporting startup lets clients edit live dashboards as if they were spreadsheets, with formulas tied to real data.",
+    "An agency builds white-labeled internal tools (like an Airtable clone) for clients using this as the underlying document engine."
+  ],
+  "money_ideas": [
+    { "idea": "A 'build your internal tools' agency that ships client-specific spreadsheet or doc apps on top of this SDK.", "revenue_model": "one-off" },
+    { "idea": "A hosted, managed workspace with per-seat pricing for teams who don't want to self-host.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Stand up their open-source Univer Workspace reference app this weekend and pitch it to one small business as a private, self-hosted alternative to sharing sensitive spreadsheets on Google Drive.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-27T12:07:36Z"
+}

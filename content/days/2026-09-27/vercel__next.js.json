@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-27",
+  "owner": "vercel",
+  "name": "next.js",
+  "full_name": "vercel/next.js",
+  "url": "https://github.com/vercel/next.js",
+  "description": "The React Framework",
+  "language": "JavaScript",
+  "stars_total": 142757,
+  "stars_today": 317,
+  "one_liner": "The most widely used framework for building fast, modern websites and web apps with React — the foundation most new startup websites are quietly built on.",
+  "buyer": "A freelance developer or small dev agency building client websites and web apps who needs a fast, SEO-friendly foundation instead of building routing and rendering from scratch.",
+  "business_use_cases": [
+    "A freelance web developer builds every client site on Next.js and charges for the finished site rather than the framework itself.",
+    "An agency builds a repeatable 'launch your startup's marketing site in a week' package using a Next.js starter template.",
+    "A SaaS founder builds their entire product, marketing site and app together, on Next.js to avoid stitching together separate frontend and backend frameworks."
+  ],
+  "money_ideas": [
+    { "idea": "Selling premium Next.js starter templates and boilerplates to other developers.", "revenue_model": "one-off" },
+    { "idea": "A productized 'website in a week' service for small businesses, built on a reusable Next.js template.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build one polished Next.js landing-page template this weekend and sell it as a $99 boilerplate, or use it to launch a 'website in a week' service.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-27T12:07:36Z"
+}

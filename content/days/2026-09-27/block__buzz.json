@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-27",
+  "owner": "block",
+  "name": "buzz",
+  "full_name": "block/buzz",
+  "url": "https://github.com/block/buzz",
+  "description": "A hive mind communication platform",
+  "language": "Rust",
+  "stars_total": 34951,
+  "stars_today": 281,
+  "one_liner": "A self-hosted, Slack-like workspace where AI agents and humans share the same channels, with every message, code change, and approval logged as a searchable, signed event.",
+  "buyer": "An engineering team lead who wants AI coding agents working alongside the team in one auditable workspace instead of scattered bot DMs and chat logs nobody can search.",
+  "business_use_cases": [
+    "An engineering team runs feature branches as chat channels, so code review, CI results, and the merge decision all live in one searchable thread.",
+    "A security-conscious company self-hosts it so AI agents can triage bugs and answer 'have we seen this before?' without exposing data to a third-party SaaS.",
+    "An agency selling 'AI-augmented engineering teams' uses it as the shared workspace where their human developers and client-facing AI agents collaborate visibly."
+  ],
+  "money_ideas": [
+    { "idea": "Managed hosting or relay-as-a-service for teams who don't want to self-host the Nostr relay.", "revenue_model": "subscription" },
+    { "idea": "Setup and integration consulting wiring a client's existing agents and repos into a self-hosted instance.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Self-host one instance this weekend and pitch it to a small dev team as a private alternative to Slack plus a separate bot dashboard.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-27T12:07:36Z"
+}

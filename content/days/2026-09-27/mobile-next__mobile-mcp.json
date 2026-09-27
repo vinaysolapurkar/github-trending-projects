@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-27",
+  "owner": "mobile-next",
+  "name": "mobile-mcp",
+  "full_name": "mobile-next/mobile-mcp",
+  "url": "https://github.com/mobile-next/mobile-mcp",
+  "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+  "language": "TypeScript",
+  "stars_total": 7635,
+  "stars_today": 573,
+  "one_liner": "A tool that lets AI agents directly control and test real or simulated phones — tap, swipe, read the screen — so QA and automation scripts can drive an actual phone app.",
+  "buyer": "A QA lead at a mobile-app company who wants to automate manual testing across many devices without maintaining brittle Appium scripts.",
+  "business_use_cases": [
+    "A mobile QA agency automates regression testing for client apps across a device farm using AI-driven test scripts instead of hand-written Appium code.",
+    "An app analytics or testing startup builds a 'test your app on 50 real devices overnight' service on top of it.",
+    "A no-code app builder integrates it so non-technical founders can describe a test in plain English and have an agent run it on a real device."
+  ],
+  "money_ideas": [
+    { "idea": "A mobile QA-as-a-service offering: clients submit an app, agents run automated device tests overnight, billed per test run.", "revenue_model": "usage" },
+    { "idea": "White-labeled test-automation setup service for app agencies who don't want to build this in-house.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Wire it up to one real device this weekend and offer 'automated smoke tests for your app, run overnight' as a $200/month service to one local app developer.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-27T12:07:36Z"
+}

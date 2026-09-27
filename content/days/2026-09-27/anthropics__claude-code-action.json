@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-27",
+  "owner": "anthropics",
+  "name": "claude-code-action",
+  "full_name": "anthropics/claude-code-action",
+  "url": "https://github.com/anthropics/claude-code-action",
+  "description": "",
+  "language": "TypeScript",
+  "stars_total": 9192,
+  "stars_today": 225,
+  "one_liner": "A GitHub bot you install that lets Claude answer questions and make code changes directly inside your pull requests and issues, triggered by a comment.",
+  "buyer": "An engineering manager at a small-to-mid dev team who wants AI code review and fixes wired directly into their existing GitHub workflow without building it themselves.",
+  "business_use_cases": [
+    "A dev agency installs it across client repos so clients can @-mention Claude in a PR to get quick fixes without waiting on a human developer.",
+    "An open-source maintainer uses it to auto-triage issues and draft first-pass fixes for simple bug reports, cutting maintainer burden.",
+    "A consulting shop offers 'set up AI-assisted code review for your GitHub org' as a fixed-price onboarding package for startups."
+  ],
+  "money_ideas": [
+    { "idea": "Paid setup and configuration service tailoring the action's prompts and permissions to a client's specific repo and workflow.", "revenue_model": "one-off" },
+    { "idea": "A managed 'AI dev ops' retainer where an agency monitors and tunes the bot's behavior across a client's repos monthly.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Install it on one client or open-source repo this weekend, configure two or three useful trigger commands, and offer it as a $300 'AI code review setup' package to a small dev shop.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-27T12:07:36Z"
+}

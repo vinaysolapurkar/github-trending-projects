@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-27",
+  "owner": "microsoft",
+  "name": "vscode",
+  "full_name": "microsoft/vscode",
+  "url": "https://github.com/microsoft/vscode",
+  "description": "Visual Studio Code",
+  "language": "TypeScript",
+  "stars_total": 193158,
+  "stars_today": 223,
+  "one_liner": "The free, open-source code editor most professional developers already use every day — this is the underlying source code, not a new product.",
+  "buyer": "No direct buyer — it's the editor itself; there's no new business opportunity in the base project beyond what already exists (extensions, forks).",
+  "business_use_cases": [
+    "A company builds and sells a specialized fork or extension pack targeting a niche such as embedded systems or legal-tech coding.",
+    "A training company teaches 'VS Code mastery' workshops for enterprise developer onboarding.",
+    "An extension developer sells a premium VS Code extension through the marketplace."
+  ],
+  "money_ideas": [
+    { "idea": "Paid premium VS Code extension sold through the marketplace.", "revenue_model": "one-off" },
+    { "idea": "Corporate developer-productivity training workshops centered on VS Code.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "There's nothing new to build from the base editor itself this weekend; the real opportunity is a niche extension, not the editor.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-27T12:07:36Z"
+}

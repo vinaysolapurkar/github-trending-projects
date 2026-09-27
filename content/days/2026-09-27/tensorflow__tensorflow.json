@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-27",
+  "owner": "tensorflow",
+  "name": "tensorflow",
+  "full_name": "tensorflow/tensorflow",
+  "url": "https://github.com/tensorflow/tensorflow",
+  "description": "An Open Source Machine Learning Framework for Everyone",
+  "language": "C++",
+  "stars_total": 200547,
+  "stars_today": 216,
+  "one_liner": "Google's widely-used open-source toolkit for building and training machine learning models — the plumbing underneath many AI products, not a product itself.",
+  "buyer": "No direct buyer — it's foundational developer infrastructure that ML engineers use internally, not something a non-technical buyer would purchase.",
+  "business_use_cases": [
+    "An ML engineering team at any company uses it as the core training framework for their in-house models.",
+    "A bootcamp or university builds a paid ML course or certification using TensorFlow as the teaching framework.",
+    "A cloud provider offers managed TensorFlow training clusters as part of its AI platform offering."
+  ],
+  "money_ideas": [
+    { "idea": "Paid TensorFlow training or certification courses for engineers.", "revenue_model": "one-off" },
+    { "idea": "Managed, optimized TensorFlow hosting for teams that don't want to run their own GPU clusters.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "There's no weekend consumer product here. The only quick move is teaching a paid one-day TensorFlow workshop, not shipping an app.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-27T12:07:36Z"
+}

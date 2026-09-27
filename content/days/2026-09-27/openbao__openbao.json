@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-27",
+  "owner": "openbao",
+  "name": "openbao",
+  "full_name": "openbao/openbao",
+  "url": "https://github.com/openbao/openbao",
+  "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+  "language": "Go",
+  "stars_total": 8110,
+  "stars_today": 232,
+  "one_liner": "A free, open-source vault for storing and managing passwords, API keys, and certificates so a company's secrets aren't scattered across config files and Slack messages.",
+  "buyer": "A startup's DevOps or security lead who needs proper secrets management but doesn't want to pay HashiCorp Vault's enterprise licensing.",
+  "business_use_cases": [
+    "A startup migrating off HashiCorp Vault's paid tiers self-hosts OpenBao instead to cut licensing costs.",
+    "A DevOps consulting shop offers 'secrets management setup' as a fixed-price engagement for startups doing their first SOC 2 audit.",
+    "A managed-hosting provider offers OpenBao-as-a-service for companies that want secrets management without running the infrastructure themselves."
+  ],
+  "money_ideas": [
+    { "idea": "Paid setup and migration service moving companies from Vault or plaintext secrets onto OpenBao.", "revenue_model": "one-off" },
+    { "idea": "Managed hosting of OpenBao clusters billed monthly per environment.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Offer a fixed-price 'secrets audit + OpenBao migration' package to one startup preparing for a security audit this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-27T12:07:36Z"
+}

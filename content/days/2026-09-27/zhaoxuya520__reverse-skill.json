@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-27",
+  "owner": "zhaoxuya520",
+  "name": "reverse-skill",
+  "full_name": "zhaoxuya520/reverse-skill",
+  "url": "https://github.com/zhaoxuya520/reverse-skill",
+  "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients",
+  "language": "PowerShell",
+  "stars_total": 38244,
+  "stars_today": 544,
+  "one_liner": "A toolkit that gives AI coding assistants a routed set of skills for reverse engineering and authorized penetration testing, so the AI pulls in the right specialized tool automatically instead of you hunting for it.",
+  "buyer": "A boutique security research or authorized-penetration-testing firm that wants its analysts to move faster using AI-assisted tooling on engagements they're already contracted to do.",
+  "business_use_cases": [
+    "A pentesting firm equips analysts' AI coding assistants with this skill router so routine reverse-engineering steps on authorized engagements go faster.",
+    "A security research lab uses the self-evolving knowledge base to capture and reuse findings across similar authorized assessments.",
+    "A CTF training company packages it into a paid workshop teaching students how to combine AI assistants with reverse-engineering workflows."
+  ],
+  "money_ideas": [
+    { "idea": "Paid training or workshop teaching security professionals to use AI-assisted reverse engineering responsibly.", "revenue_model": "one-off" },
+    { "idea": "A premium, curated skill pack sold to security firms as an add-on to the free open-source router.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This is a niche tool for people already doing authorized security work, not a general weekend business idea. Skip it unless you're already in that field.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-27T12:07:36Z"
+}
