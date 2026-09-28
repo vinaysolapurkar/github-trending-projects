@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-28",
+  "owner": "byoungd",
+  "name": "up",
+  "full_name": "byoungd/up",
+  "url": "https://github.com/byoungd/up",
+  "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+  "language": "JavaScript",
+  "stars_total": 64360,
+  "stars_today": 310,
+  "one_liner": "A free, continuously-updated Chinese-language life-improvement book covering English learning, using AI to learn faster, building real projects, and recovering from career setbacks.",
+  "buyer": "No real commercial buyer for this specific repo — it's a free personal book by one author; any monetization belongs to the author's own brand, not a third party.",
+  "business_use_cases": [
+    "A Chinese-language education platform could license or reference the framework (problem-finding, AI-assisted learning, evidence-based reflection) to structure a paid self-improvement course.",
+    "A career coach targeting Chinese-speaking professionals uses the book's learning-loop framework as free lead-magnet content to sell paid coaching."
+  ],
+  "money_ideas": [
+    { "idea": "The author's own path: sell paid workshops, coaching, or a companion paid course built on the free book's audience.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Not a buildable weekend product for a third party — it's a personal book with an author's own brand and business ties baked in. Honest take: skip it unless you're targeting the same Chinese-language self-improvement audience with your own original content.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-28T12:30:00Z"
+}

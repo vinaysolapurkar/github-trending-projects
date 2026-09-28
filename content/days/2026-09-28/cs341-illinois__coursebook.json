@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-28",
+  "owner": "cs341-illinois",
+  "name": "coursebook",
+  "full_name": "cs341-illinois/coursebook",
+  "url": "https://github.com/cs341-illinois/coursebook",
+  "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+  "language": "TeX",
+  "stars_total": 2240,
+  "stars_today": 265,
+  "one_liner": "A free, open-source textbook that teaches systems programming in C, originally written for a university course.",
+  "buyer": "No real commercial buyer — it's a free educational resource maintained by a university course team, not something built to be sold.",
+  "business_use_cases": [
+    "A bootcamp or online course platform licenses/adapts the open (CC-friendly) content as the backbone of a paid 'systems programming' course.",
+    "A tutoring service uses it as free, high-quality reference material to support paid one-on-one tutoring sessions in C and systems programming."
+  ],
+  "money_ideas": [
+    { "idea": "Package the free content into a paid, polished online course with videos and graded exercises.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This is a public-good academic textbook, not a business. Honest take: don't build a product on it — at most, use it as free-reference-material bait to sell your own paid tutoring or a companion course.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-28T12:30:00Z"
+}

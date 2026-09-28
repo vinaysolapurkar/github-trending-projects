@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-28",
+  "owner": "paperclipai",
+  "name": "paperclip",
+  "full_name": "paperclipai/paperclip",
+  "url": "https://github.com/paperclipai/paperclip",
+  "description": "The open-source app everyone uses to manage agents at work",
+  "language": "TypeScript",
+  "stars_total": 91630,
+  "stars_today": 2401,
+  "one_liner": "A dashboard where you hire a team of AI 'employees' (bots like Claude Code or Codex), give them a business goal, set a budget, and watch them work from your phone.",
+  "buyer": "A solo founder or small agency owner who wants to run several AI agents on real business tasks (coding, marketing, research) without babysitting a dozen terminal windows.",
+  "business_use_cases": [
+    "A one-person software shop assigns a 'CTO' and 'engineer' agent pair to build and maintain a client's app while the founder just reviews diffs from the dashboard.",
+    "A marketing freelancer hires an agent team to run a content pipeline (research, draft, publish) under a fixed weekly budget, then bills the client for oversight.",
+    "An agency sells 'managed AI teams' to small businesses: the agency runs Paperclip internally and delivers outcomes (a working app, a marketing calendar) as the product."
+  ],
+  "money_ideas": [
+    { "idea": "A boutique agency that sells outcomes ('we'll build your MVP') produced by an internally-run Paperclip agent team.", "revenue_model": "one-off" },
+    { "idea": "A hosted, managed version of Paperclip for non-technical founders who don't want to self-host.", "revenue_model": "subscription" },
+    { "idea": "Sell pre-built 'org chart' templates (roles, budgets, skills) for common business goals like 'launch a Shopify store'.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Set up a two-agent 'CEO + engineer' rig this weekend on one of your own idle side-project repos, give it a bounded goal and a budget cap, and see what it ships in 48 hours unattended.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-28T12:30:00Z"
+}

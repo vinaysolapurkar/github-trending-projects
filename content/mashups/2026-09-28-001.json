@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-28-001",
+  "date": "2026-09-28",
+  "repo_a": "paperclipai/paperclip",
+  "repo_b": "vectorize-io/hindsight",
+  "title": "AI Employees That Actually Remember Working Here",
+  "pitch": "Paperclip lets you hire a team of AI agents, give them a business goal, and manage them like a task manager — but every agent still starts each task with a blank slate, re-learning the company's quirks, client preferences, and past mistakes from scratch. Hindsight is a memory layer built specifically to make agents learn over time instead of just recalling chat history. Wire Hindsight into each Paperclip 'employee' and the org stops resetting: the marketing agent remembers which pitches flopped last quarter, the engineer agent remembers this client's coding conventions, and onboarding a new agent to an existing team takes minutes instead of re-explaining everything. The buyer is the same solo founder or small agency already running a Paperclip agent org who is tired of agents making the same mistakes every sprint.",
+  "why_now": "Both projects are trending on the same day and solve adjacent gaps in the same emerging category — managed AI agent teams — with neither yet shipping the other's piece."
+}

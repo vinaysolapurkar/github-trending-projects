@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-28",
+  "owner": "debpalash",
+  "name": "VoiceStudio",
+  "full_name": "debpalash/VoiceStudio",
+  "url": "https://github.com/debpalash/VoiceStudio",
+  "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+  "language": "Python",
+  "stars_total": 41797,
+  "stars_today": 3086,
+  "one_liner": "A free desktop app that clones or invents voices, dubs videos into other languages, and turns text into narrated audio — all running on your own computer, no cloud subscription.",
+  "buyer": "A solo YouTuber or course creator who wants to dub videos into multiple languages or produce audiobooks without paying per-minute fees to a service like ElevenLabs.",
+  "business_use_cases": [
+    "A YouTuber dubs their back catalog into Spanish and Hindi to unlock new-language ad revenue without hiring voice actors.",
+    "A course creator turns a written curriculum into a narrated audiobook overnight using a cloned or designed voice, instead of booking studio time.",
+    "A local audiobook publisher offers cheap 'AI-narrated in 48 hours' service to small self-published authors who can't afford professional narration."
+  ],
+  "money_ideas": [
+    { "idea": "A done-for-you 'dub your channel into 5 languages' service for YouTubers, billed per video.", "revenue_model": "one-off" },
+    { "idea": "A subscription studio that batch-produces audiobooks for indie authors using the tool's engines.", "revenue_model": "subscription" },
+    { "idea": "White-label the local install as a privacy-first voice tool for agencies that can't send client audio to the cloud.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Pick 10 popular but under-dubbed YouTube tutorials, dub them into 2-3 languages this weekend with VoiceStudio, and pitch the channel owners a rev-share on the new-language views.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-28T12:30:00Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-28",
+  "owner": "NawfalMotii79",
+  "name": "PLFM_RADAR",
+  "full_name": "NawfalMotii79/PLFM_RADAR",
+  "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+  "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+  "language": "PLSQL",
+  "stars_total": 25609,
+  "stars_today": 145,
+  "one_liner": "Blueprints and firmware to build your own low-cost radar system that can detect and track objects like drones, out of off-the-shelf electronics.",
+  "buyer": "A drone-detection or small-defense-tech hardware startup that needs a cheap radar reference design instead of designing phased array hardware from scratch.",
+  "business_use_cases": [
+    "A drone-defense startup uses the open hardware design as a starting point to build and sell low-cost counter-drone detection units to airports or stadiums.",
+    "A university robotics lab builds a few units to give students hands-on radar/beamforming experience instead of buying commercial lab equipment.",
+    "A hobbyist electronics kit company sells assembled or partial kits of the AERIS-10N (short-range version) to makers and SDR enthusiasts."
+  ],
+  "money_ideas": [
+    { "idea": "Sell assembled or DIY hardware kits of the 3km-range version to makers, students, and drone hobbyists.", "revenue_model": "one-off" },
+    { "idea": "Offer paid design consulting to startups adapting this reference design into a commercial product.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This is a hardware R&D project, not a weekend product — the realistic move is sourcing the BOM and building one demo unit to show at a maker faire or pitch to a drone-security startup as a paid customization job, not shipping anything productized this weekend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-28T12:30:00Z"
+}
