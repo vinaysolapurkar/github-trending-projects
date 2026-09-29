@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-29",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing today edits short social videos; VoiceStudio can dub/narrate but doesn't cut or edit clips." },
+    { "problem_id": "p002", "repo": null, "why": "No product-photography tool trended today." },
+    { "problem_id": "p003", "repo": "vectorize-io/hindsight", "why": "Hindsight is built specifically to give agents persistent memory that survives across sessions.", "confidence": "high" },
+    { "problem_id": "p004", "repo": null, "why": "No code-quality or over-engineering-detection tool trended today." },
+    { "problem_id": "p005", "repo": "VectifyAI/PageIndex", "why": "PageIndex indexes and reasons over large document collections like research PDFs, with traceable citations.", "confidence": "medium" },
+    { "problem_id": "p006", "repo": null, "why": "No footage-generation or news-visualization tool trended today." },
+    { "problem_id": "p007", "repo": null, "why": "No bioinformatics tool trended today." },
+    { "problem_id": "p008", "repo": "VectifyAI/PageIndex", "why": "Its new local mode indexes, retrieves, and chats over documents entirely on your own machine with your own LLM key, keeping client data off third-party servers.", "confidence": "medium" },
+    { "problem_id": "p009", "repo": "debpalash/VoiceStudio", "why": "VoiceStudio's text-to-speech and audiobook creation can narrate written blog posts into audio ready to pair with visuals.", "confidence": "high" },
+    { "problem_id": "p010", "repo": "dream-num/univer", "why": "Univer's self-hostable Office runtime lets you own your documents/notes instead of depending on a cloud notes app, though it's a developer SDK rather than a ready consumer app.", "confidence": "low" },
+    { "problem_id": "p011", "repo": null, "why": "Nothing today analyzes or maps an existing codebase for a new hire." },
+    { "problem_id": "p012", "repo": "rohitg00/ai-engineering-from-scratch", "why": "A free, structured 523-lesson curriculum is a direct answer to 'don't know where to start' building an AI product.", "confidence": "high" },
+    { "problem_id": "p013", "repo": null, "why": "No inventory-management tool trended today; dbx is a database client, not a ready inventory app." }
+  ]
+}

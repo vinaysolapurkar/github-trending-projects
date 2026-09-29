@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-29",
+  "owner": "vectorize-io",
+  "name": "hindsight",
+  "full_name": "vectorize-io/hindsight",
+  "url": "https://github.com/vectorize-io/hindsight",
+  "description": "Hindsight: Agent Memory That Learns",
+  "language": "Python",
+  "stars_total": 42000,
+  "stars_today": 2541,
+  "one_liner": "Gives AI chatbots and assistants a real memory that improves over time, instead of forgetting everything the moment a conversation ends.",
+  "buyer": "A SaaS founder building an AI customer-support or personal-assistant product who needs it to remember each user's history and preferences across sessions without building memory infrastructure from scratch.",
+  "business_use_cases": [
+    "A customer-support chatbot vendor plugs it in so returning customers never have to re-explain their account issue from scratch.",
+    "A personal-AI-assistant startup uses it to let the assistant recall a user's stated preferences ('I'm vegetarian', 'I hate early meetings') months later without re-asking.",
+    "An enterprise knowledge-work tool gives every employee's AI copilot persistent memory of that employee's projects, so answers stay contextual over time."
+  ],
+  "money_ideas": [
+    { "idea": "Charge for the hosted Hindsight Cloud tier, billed by memory volume and retrieval calls.", "revenue_model": "usage" },
+    { "idea": "Sell enterprise deployment and integration support to companies wiring it into existing agent products.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This weekend, bolt Hindsight onto an existing customer-support bot via its LLM wrapper (2 lines of code per their docs) and ship 'remembers you' as a headline feature.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-29T12:30:00Z"
+}

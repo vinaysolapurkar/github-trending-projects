@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-29",
+  "owner": "dream-num",
+  "name": "univer",
+  "full_name": "dream-num/univer",
+  "url": "https://github.com/dream-num/univer",
+  "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+  "language": "TypeScript",
+  "stars_total": 21612,
+  "stars_today": 692,
+  "one_liner": "A toolkit developers use to build their own spreadsheet, document, and presentation editor right inside their own app or website — like embedding a mini Excel or Google Docs, including letting AI agents read and edit the files.",
+  "buyer": "A B2B SaaS company (e.g. a BI dashboard, CRM, or internal-tools platform) that needs spreadsheet or document editing built into their product without building an editor from scratch.",
+  "business_use_cases": [
+    "An internal-tools platform embeds live spreadsheet editing directly into its dashboards so customers can tweak numbers without exporting to Excel.",
+    "A BI startup lets AI agents write formulas and charts directly into customer-facing spreadsheet reports, cutting analyst hours.",
+    "A vertical SaaS (e.g. for accountants) builds a branded, in-app document/spreadsheet editor instead of licensing an expensive third-party office suite."
+  ],
+  "money_ideas": [
+    { "idea": "Build a vertical SaaS product on top (like Univer Workspace) and charge per seat for teams and their AI agents to collaborate on documents.", "revenue_model": "subscription" },
+    { "idea": "Offer paid integration/customization services to companies embedding the open-core SDK into their own products.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, embed Univer's spreadsheet component into a simple internal dashboard for a small business client (e.g. inventory or budget tracking) and charge for the custom build.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-29T12:30:00Z"
+}

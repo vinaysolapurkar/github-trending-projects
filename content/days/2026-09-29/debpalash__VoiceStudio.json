@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-29",
+  "owner": "debpalash",
+  "name": "VoiceStudio",
+  "full_name": "debpalash/VoiceStudio",
+  "url": "https://github.com/debpalash/VoiceStudio",
+  "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+  "language": "Python",
+  "stars_total": 46386,
+  "stars_today": 4712,
+  "one_liner": "A free desktop app that clones voices, turns text into natural speech, dubs videos into other languages, and transcribes audio — all running on your own computer instead of a paid cloud subscription.",
+  "buyer": "An indie audiobook producer or YouTube channel localizer who currently pays monthly for ElevenLabs and wants unlimited generation without per-character fees.",
+  "business_use_cases": [
+    "An audiobook studio clones a narrator's voice once, then generates chapters overnight on local hardware instead of paying per-character cloud fees.",
+    "A YouTube educator dubs their back-catalog of videos into 10 languages to unlock non-English ad revenue without hiring voice actors.",
+    "A call-center trainer uses the dictation and transcription tools to turn recorded coaching calls into searchable text libraries."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a hosted, managed version with a simple UI for creators who don't want to install anything, priced per seat.", "revenue_model": "subscription" },
+    { "idea": "Offer a done-for-you dubbing service built on top of it: upload a video, get back 5 dubbed language versions.", "revenue_model": "usage" },
+    { "idea": "Bundle it into a paid audiobook-production course that teaches self-published authors to self-narrate at scale.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, wrap VoiceStudio's dubbing pipeline in a simple web form: creators upload a clip, pick target languages, and get dubbed MP4s back by email.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-29T12:30:00Z"
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-29",
+  "owner": "willfaust",
+  "name": "Madeira",
+  "full_name": "willfaust/Madeira",
+  "url": "https://github.com/willfaust/Madeira",
+  "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+  "language": "C",
+  "stars_total": 1023,
+  "stars_today": 229,
+  "one_liner": "Lets you play some Windows PC games on your iPhone without jailbreaking it, by translating the game's code on the fly.",
+  "buyer": "Honestly, there isn't a real paying buyer here — this is a hobbyist research/emulation project, not a business.",
+  "business_use_cases": [
+    "A retro/PC-gaming enthusiast community uses it to play a handful of supported titles on iPhones, purely for personal enjoyment.",
+    "A hobbyist developer contributes fixes to grow the list of playable games as a passion project.",
+    "An emulation YouTuber covers it for content, but there's no product here to sell."
+  ],
+  "money_ideas": [
+    { "idea": "There isn't a legitimate one: it can't ship on the App Store (JIT/sideload only), sits in a legal gray area with game publishers, and upstream FEX-Emu explicitly forbids AI-assisted contributions — this is a community research project, not a business.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "There's nothing to 'steal' here commercially — this is a fun weekend project to run yourself, not a foundation to build a business on.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-29T12:30:00Z"
+}

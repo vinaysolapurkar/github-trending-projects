@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-29-001",
+  "date": "2026-09-29",
+  "repo_a": "averygan/reclip",
+  "repo_b": "debpalash/VoiceStudio",
+  "title": "ViralDub: grab-and-dub for social clips",
+  "pitch": "Pipe ReClip's one-paste video downloader straight into VoiceStudio's local voice-cloning and dubbing engine: paste a trending TikTok or YouTube clip, pick target languages, and get back dubbed versions ready to re-upload, entirely on your own hardware with no per-minute cloud fees. A social-media agency managing multi-language accounts for a brand buys this because right now they either skip international audiences entirely or pay per-minute dubbing vendors and wait days for turnaround; this collapses that to minutes and a one-time setup cost.",
+  "why_now": "Both tools trended the same day for opposite halves of the same job (source clip in, localized clip out), and VoiceStudio's new local mode means the whole pipeline can run without sending any client media to a third-party API — a real selling point for agencies wary of leaking pre-release brand content."
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-09-29",
+  "owner": "rakyll",
+  "name": "hey",
+  "full_name": "rakyll/hey",
+  "url": "https://github.com/rakyll/hey",
+  "description": "HTTP load generator, ApacheBench (ab) replacement",
+  "language": "Go",
+  "stars_total": 20381,
+  "stars_today": 31,
+  "one_liner": "A command-line tool that hammers a website or API with fake traffic to see how it holds up under load.",
+  "buyer": "There isn't really a distinct paying buyer for the tool itself — it's a free utility developers already use for free.",
+  "business_use_cases": [
+    "A backend engineer load-tests a new API endpoint before a big product launch to catch performance bottlenecks early.",
+    "A DevOps team scripts it into a CI pipeline as a basic smoke/load test before deploys.",
+    "A consultant uses it as one input among several when doing a paid performance audit for a client's site."
+  ],
+  "money_ideas": [
+    { "idea": "No real standalone monetization for the tool itself — any money is made around it, e.g. selling a performance-audit consulting service that happens to use it.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This is a dev-only CLI utility with no business model of its own; the closest 'steal this' is offering a paid load-testing/performance-audit service for small businesses' websites, using tools like this under the hood.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-29T12:30:00Z"
+}

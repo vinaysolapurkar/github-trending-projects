@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-29",
+  "owner": "NVIDIA",
+  "name": "OpenShell",
+  "full_name": "NVIDIA/OpenShell",
+  "url": "https://github.com/NVIDIA/OpenShell",
+  "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+  "language": "Rust",
+  "stars_total": 9947,
+  "stars_today": 978,
+  "one_liner": "A safety cage for AI agents — lets them read files, install software, and call APIs on a computer, but only within rules you set, so they can't leak your passwords or touch things they shouldn't.",
+  "buyer": "A platform or DevOps lead at a mid-size company rolling out AI coding or ops agents in production, who needs to stop an agent from accidentally exfiltrating credentials or hitting the wrong server.",
+  "business_use_cases": [
+    "A fintech runs its AI support agents inside OpenShell so they can query internal databases but are policy-blocked from ever reaching the public internet with customer data.",
+    "An agency running dozens of client coding agents locks each one to only that client's repo and API keys, so one compromised agent can't touch another client's secrets.",
+    "A SaaS company offers 'sandboxed agent hosting' to its enterprise customers as a compliance feature, built on OpenShell underneath."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a managed, hosted gateway with pre-built compliance policies (SOC2, HIPAA) for companies that don't want to run their own.", "revenue_model": "subscription" },
+    { "idea": "Sell enterprise support contracts and custom policy-authoring consulting to companies adopting agent fleets.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, package OpenShell with a starter policy pack (no outbound internet except an allowlist, no /etc access) as a one-command 'safe agent sandbox' for indie developers running Claude Code or Codex overnight.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-29T12:30:00Z"
+}

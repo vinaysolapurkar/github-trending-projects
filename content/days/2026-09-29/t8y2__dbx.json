@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-29",
+  "owner": "t8y2",
+  "name": "dbx",
+  "full_name": "t8y2/dbx",
+  "url": "https://github.com/t8y2/dbx",
+  "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker.",
+  "language": "Rust",
+  "stars_total": 21648,
+  "stars_today": 460,
+  "one_liner": "A tiny, all-in-one app for browsing and editing almost any type of database, with a built-in AI assistant to write the queries for you.",
+  "buyer": "A freelance backend developer or small dev shop juggling several clients' different databases (MySQL, Postgres, Mongo) who wants one lightweight tool instead of paying for TablePlus or DataGrip licenses per teammate.",
+  "business_use_cases": [
+    "A freelance developer manages every client's database from one 25MB app instead of installing a separate tool per database engine.",
+    "A small dev agency standardizes new hires on dbx so onboarding to a client's stack (whatever database it uses) takes minutes, not a license request.",
+    "A no-code agency uses the built-in AI assistant to let non-technical staff safely query client databases in plain English."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid 'teams' tier with shared connection profiles and audit logs for agencies.", "revenue_model": "subscription" },
+    { "idea": "Sell a premium AI-query add-on with a more capable model for complex query generation.", "revenue_model": "usage" }
+  ],
+  "steal_this": "This weekend, package dbx with a preset connection profile and a cheat-sheet as a 'starter database toolkit' for freelancers just picking up their first client project.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-29T12:30:00Z"
+}

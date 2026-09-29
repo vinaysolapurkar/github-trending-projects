@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-29",
+  "owner": "VectifyAI",
+  "name": "PageIndex",
+  "full_name": "VectifyAI/PageIndex",
+  "url": "https://github.com/VectifyAI/PageIndex",
+  "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+  "language": "Python",
+  "stars_total": 36754,
+  "stars_today": 822,
+  "one_liner": "A smarter way for AI to search long documents like 1,000-page reports — instead of fuzzy keyword-style matching, it reads the document's structure like a human expert and can point to exactly where an answer came from.",
+  "buyer": "A legal-tech or fintech startup building a document-Q&A product for law firms or financial analysts who need traceable, citable answers, not vague search results.",
+  "business_use_cases": [
+    "A legal-tech startup builds a contract-review assistant that cites the exact clause and page it pulled an answer from, which lawyers can verify.",
+    "A financial analyst tool answers questions like 'what was the 2023 operating margin?' from a 10-K filing with a page-level citation for audit trails.",
+    "A regulatory compliance team indexes thousands of filings so staff can ask plain-English questions and get traceable answers instead of manually searching PDFs."
+  ],
+  "money_ideas": [
+    { "idea": "Charge usage-based pricing on PageIndex Cloud for document indexing and chat queries.", "revenue_model": "usage" },
+    { "idea": "Sell a vertical product (e.g. 'AI analyst for 10-Ks') built on top, priced per seat for finance/legal teams.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This weekend, index a handful of public financial filings or legal documents with PageIndex's local mode, build a simple chat UI on top, and pitch it to a small law or accounting firm as a document-search demo.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-29T12:30:00Z"
+}

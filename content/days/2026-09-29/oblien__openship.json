@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-29",
+  "owner": "oblien",
+  "name": "openship",
+  "full_name": "oblien/openship",
+  "url": "https://github.com/oblien/openship",
+  "description": "Self-hosted deployment platform",
+  "language": "TypeScript",
+  "stars_total": 13570,
+  "stars_today": 436,
+  "one_liner": "Point it at your code repository and it automatically builds, deploys, and manages your web app on your own server — a self-hosted alternative to Vercel or Heroku.",
+  "buyer": "A small agency or freelance developer hosting multiple client sites who wants to stop paying per-project fees to Vercel or Render.",
+  "business_use_cases": [
+    "A web agency hosts 20 client sites on one cheap VPS instead of 20 separate Vercel project bills.",
+    "A bootstrapped SaaS founder sets up push-to-deploy CI/CD on their own server to avoid platform lock-in and hosting markups as they scale.",
+    "A dev shop offers clients 'we host and deploy your app for a flat monthly fee' using Openship as the underlying infrastructure."
+  ],
+  "money_ideas": [
+    { "idea": "Resell managed Openship hosting to small businesses as a flat-fee 'we deploy and maintain your site' service.", "revenue_model": "subscription" },
+    { "idea": "Offer paid migration services moving agencies off Vercel/Heroku onto self-hosted Openship to cut their hosting bills.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, spin up Openship on a $20/month VPS, migrate three of your own side projects off paid hosting, and pitch the savings as a service to freelancer friends still paying per-project platform fees.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-29T12:30:00Z"
+}

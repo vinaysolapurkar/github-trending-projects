@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-29",
+  "owner": "mvschwarz",
+  "name": "openrig",
+  "full_name": "mvschwarz/openrig",
+  "url": "https://github.com/mvschwarz/openrig",
+  "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+  "language": "TypeScript",
+  "stars_total": 2084,
+  "stars_today": 733,
+  "one_liner": "Turns a pile of separate AI coding-assistant terminal windows into one organized team you can talk to, delegate work to, and check in on from a single dashboard.",
+  "buyer": "A solo developer or small dev team running multiple AI coding agents (Claude Code, Codex) on the same codebase who's tired of juggling separate terminal sessions and losing track of what each agent already did.",
+  "business_use_cases": [
+    "A solo indie developer runs an 'owner' agent and a 'checker' agent on their side project overnight and reviews one finished, verified change each morning.",
+    "A small dev agency assigns a lead agent to coordinate specialist agents (frontend, backend, QA) across a client repo, cutting the need for a human project manager on routine tasks.",
+    "A technical founder uses the shared dashboard to monitor agent work from their phone between meetings, only stepping in when a decision needs a human."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted/cloud version with team dashboards and shared terminal infrastructure for agencies that don't want to run tmux setups themselves.", "revenue_model": "subscription" },
+    { "idea": "Sell setup and workflow-design consulting to dev teams adopting multi-agent development.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, set up a two-agent rig (owner + checker) on one real repo, ship one verified feature end-to-end, and use the recording as a demo to sell 'AI-agent-managed development' to a small client.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-29T12:30:00Z"
+}

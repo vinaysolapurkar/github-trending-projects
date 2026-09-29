@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-29",
+  "owner": "paperclipai",
+  "name": "paperclip",
+  "full_name": "paperclipai/paperclip",
+  "url": "https://github.com/paperclipai/paperclip",
+  "description": "The open-source app everyone uses to manage agents at work",
+  "language": "TypeScript",
+  "stars_total": 93926,
+  "stars_today": 2412,
+  "one_liner": "A dashboard that lets you 'hire' a team of AI coding and work agents, give them goals and budgets, and watch and steer them from your phone like a task manager for a company of bots.",
+  "buyer": "A solo founder or small agency running several AI coding agents (Claude Code, Cursor, Codex) at once who keeps losing track of what each one is doing, costing, and shipping.",
+  "business_use_cases": [
+    "A one-person software agency runs a 'team' of coding agents on client projects and uses the dashboard to approve work and track spend per client.",
+    "A marketing consultant hires a team of writer/designer agents to produce a client's content calendar and reviews their output from a phone before it goes out.",
+    "A startup CTO enforces spending caps and audit logs across every agent touching production code, satisfying an investor's governance question."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted version with SSO, team billing, and higher usage tiers for agencies and startups.", "revenue_model": "subscription" },
+    { "idea": "Sell a curated marketplace of pre-built agent 'employee' templates (a CTO agent, a marketer agent) for a one-time fee.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, stand up Paperclip for a single client project, hire two agents (an owner and a checker) against a real repo, and sell the finished 'reviewed change' as a fixed-price freelance gig.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-29T12:30:00Z"
+}
