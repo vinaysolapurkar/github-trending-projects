@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-30",
+  "owner": "t8y2",
+  "name": "dbx",
+  "full_name": "t8y2/dbx",
+  "url": "https://github.com/t8y2/dbx",
+  "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. Lightweight database management tool supporting 100+ databases with desktop, Docker, CLI, built-in AI assistant and MCP.",
+  "language": "Rust",
+  "stars_total": 22790,
+  "stars_today": 1133,
+  "one_liner": "A tiny, fast app for looking at and managing almost any type of database (MySQL, Postgres, MongoDB, and 100+ others) with a built-in AI helper that can write queries for you.",
+  "buyer": "A developer, data analyst, or IT admin who juggles multiple database types daily and is tired of paying for heavy, expensive database GUI tools.",
+  "business_use_cases": [
+    "A freelance developer replaces a paid database GUI subscription with this free tool across every client project, saving licensing costs.",
+    "A data team standardizes on it company-wide since it works with all their different databases (Postgres, Mongo, Redis) in one lightweight app.",
+    "A support engineer uses the AI assistant to quickly write and debug SQL queries against unfamiliar client databases during support calls."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid team/enterprise tier with shared connection management, audit logs, and SSO for companies with many database users.", "revenue_model": "subscription" },
+    { "idea": "Sell premium AI query-assist credits for teams that want heavier AI usage beyond a free tier.", "revenue_model": "usage" }
+  ],
+  "steal_this": "This weekend, build a 'database health check' script on top of it that scans a company's databases for slow queries and missing indexes, then sell the report as a quick paid audit service to small dev shops.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-30T12:16:09Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-30",
+  "owner": "mksglu",
+  "name": "context-mode",
+  "full_name": "mksglu/context-mode",
+  "url": "https://github.com/mksglu/context-mode",
+  "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+  "language": "TypeScript",
+  "stars_total": 24297,
+  "stars_today": 88,
+  "one_liner": "A plugin that stops AI coding assistants from 'forgetting' mid-task by trimming the noisy output they read and remembering what happened in earlier sessions, so conversations stay cheaper and more coherent.",
+  "buyer": "A developer or engineering team paying real money in API usage for AI coding tools who is hitting context-limit errors or ballooning token bills on long sessions.",
+  "business_use_cases": [
+    "A dev shop running Claude Code across many client repos installs it to cut their monthly AI API bill by trimming redundant tool output.",
+    "A solo developer working on a large legacy codebase uses it so the agent retains project memory across days instead of re-explaining context every session.",
+    "A platform offering hosted AI coding agents licenses the underlying technique to reduce their own inference costs at scale."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted, team-wide version with usage analytics showing how much token spend was saved, sold as a cost-savings tool.", "revenue_model": "subscription" },
+    { "idea": "License the sandboxing/routing engine to AI coding tool vendors who want to cut their own infrastructure costs.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, build a simple 'token savings' report generator on top of it that shows a team lead exactly how many dollars a week they're saving, then pitch it to agencies burning through AI API credits.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-30T12:16:09Z"
+}

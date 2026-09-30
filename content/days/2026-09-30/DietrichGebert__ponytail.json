@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-30",
+  "owner": "DietrichGebert",
+  "name": "ponytail",
+  "full_name": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+  "language": "JavaScript",
+  "stars_total": 148606,
+  "stars_today": 675,
+  "one_liner": "A set of instructions that trains AI coding assistants to write the smallest, simplest fix instead of bloated code, the way an experienced developer avoids unnecessary work.",
+  "buyer": "A developer or small team already using AI coding assistants who is frustrated by agents over-engineering simple fixes and wants tighter, more maintainable output.",
+  "business_use_cases": [
+    "A freelance developer installs it across client projects so AI-generated pull requests are smaller and easier for clients to review and approve.",
+    "A coding bootcamp uses it to teach students what 'good' minimal code looks like by comparing agent output with and without it.",
+    "A dev tooling startup bundles it as a default 'code quality' preset in their AI coding product to differentiate from competitors that produce bloated output."
+  ],
+  "money_ideas": [
+    { "idea": "Bundle it into a paid 'AI code quality pack' of prompts and hooks sold to teams standardizing their AI coding workflow.", "revenue_model": "one-off" },
+    { "idea": "Offer it as a premium preset inside a hosted AI coding platform, charged as part of a higher subscription tier.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This weekend, package it with a handful of other 'personality' presets (thorough tester, security-paranoid reviewer, docs-writer) and sell a small preset pack to developers who want to switch their agent's style per task.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-30T12:16:09Z"
+}

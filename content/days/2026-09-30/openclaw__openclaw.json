@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-30",
+  "owner": "openclaw",
+  "name": "openclaw",
+  "full_name": "openclaw/openclaw",
+  "url": "https://github.com/openclaw/openclaw",
+  "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+  "language": "TypeScript",
+  "stars_total": 390829,
+  "stars_today": 136,
+  "one_liner": "A personal AI assistant that lives on your own computer and can talk to you through apps you already use — Discord, WhatsApp, Slack, iMessage — and actually take actions, not just chat.",
+  "buyer": "A solo entrepreneur or small team that wants an always-available assistant handling scheduling, replies, and small tasks across the chat apps they already use, without paying for a dozen separate SaaS bots.",
+  "business_use_cases": [
+    "A small business owner has it monitor their WhatsApp Business account and draft replies to common customer questions while they're busy.",
+    "A freelancer sets it up in Slack to triage incoming client messages and flag urgent ones, acting as a lightweight virtual assistant.",
+    "A local agency resells 'personal AI assistant setup and hosting' as a productized service to non-technical small business owners."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid setup, hosting, and channel integration for non-technical users who want this running but can't self-host it.", "revenue_model": "one-off" },
+    { "idea": "Sell a managed subscription with uptime guarantees and pre-built task packs (scheduling, customer replies, reminders).", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This weekend, package a one-click hosted deployment (Docker + a simple onboarding wizard) targeted at small business owners who want an AI assistant in their existing WhatsApp number without touching a terminal.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-30T12:16:09Z"
+}

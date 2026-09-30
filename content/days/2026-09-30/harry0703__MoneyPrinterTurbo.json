@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-30",
+  "owner": "harry0703",
+  "name": "MoneyPrinterTurbo",
+  "full_name": "harry0703/MoneyPrinterTurbo",
+  "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+  "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+  "language": "Python",
+  "stars_total": 127252,
+  "stars_today": 338,
+  "one_liner": "Type a topic or a few keywords and it automatically writes a script, finds matching video clips, adds subtitles and background music, then outputs a finished short video — no editing skills needed.",
+  "buyer": "A small business owner or solo social media manager who needs a steady stream of short-form video content (TikTok, Reels, Shorts) but has no time or budget for a video editor.",
+  "business_use_cases": [
+    "A local real estate agent generates daily 'market tip' short videos to post on Instagram Reels without hiring a video editor.",
+    "An e-commerce seller batch-produces product-highlight videos from a spreadsheet of keywords for each item in their catalog.",
+    "A content agency offers 'unlimited short videos' as a cheap add-on service to small business clients by running this tool at scale."
+  ],
+  "money_ideas": [
+    { "idea": "Run a done-for-you short video subscription service for local businesses, delivering a batch of ready-to-post videos each week.", "revenue_model": "subscription" },
+    { "idea": "Sell a simplified hosted UI on top of it and charge per video generated for users who don't want to run the Python project themselves.", "revenue_model": "usage" }
+  ],
+  "steal_this": "This weekend, wire up a Google Sheet of business names and keywords to this tool so a small agency can generate a week's worth of short videos for ten clients in one batch run.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-30T12:16:09Z"
+}

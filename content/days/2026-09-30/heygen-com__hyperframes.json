@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-30",
+  "owner": "heygen-com",
+  "name": "hyperframes",
+  "full_name": "heygen-com/hyperframes",
+  "url": "https://github.com/heygen-com/hyperframes",
+  "description": "Write HTML. Render video. Built for agents.",
+  "language": "TypeScript",
+  "stars_total": 54410,
+  "stars_today": 324,
+  "one_liner": "Lets you (or an AI) write a webpage-style layout with charts, text, and images, and turns it directly into a video — no video editing software required.",
+  "buyer": "A marketing or data team that needs to turn reports, charts, or dashboards into shareable video clips regularly, without hiring a motion designer for each one.",
+  "business_use_cases": [
+    "A SaaS company auto-generates a short 'your monthly stats' video for each customer from their dashboard data, boosting engagement.",
+    "A finance newsletter turns its weekly market charts into a narrated video summary automatically instead of manually building slides.",
+    "An AI agent building automated reports outputs a finished video recap instead of a static PDF, making updates more shareable on social media."
+  ],
+  "money_ideas": [
+    { "idea": "Build a hosted 'data-to-video' API that companies plug into their dashboards to auto-generate branded recap videos.", "revenue_model": "usage" },
+    { "idea": "Sell a template library of pre-built HTML video layouts (finance recap, product launch, weekly report) for non-technical users.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, build a template that turns a Stripe or Google Analytics export into a 30-second narrated 'monthly recap' video, and offer it as an automated add-on to SaaS founders.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-30T12:16:09Z"
+}

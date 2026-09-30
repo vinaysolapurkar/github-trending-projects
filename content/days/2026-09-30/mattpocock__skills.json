@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-30",
+  "owner": "mattpocock",
+  "name": "skills",
+  "full_name": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "language": "Shell",
+  "stars_total": 272567,
+  "stars_today": 736,
+  "one_liner": "A personal collection of ready-made instruction sets for AI coding assistants, written by an experienced engineer, that anyone can install to make their assistant work more like a seasoned developer.",
+  "buyer": "A working developer already using an AI coding assistant who wants proven, battle-tested prompt setups instead of writing their own from scratch.",
+  "business_use_cases": [
+    "A freelance developer installs the skills pack across client projects to get more consistent, professional-grade AI-generated code faster.",
+    "A dev tooling company licenses or adapts individual skills as built-in presets in their own AI coding product.",
+    "A course creator builds a paid 'level up your AI coding workflow' course teaching developers to write and use skills like these."
+  ],
+  "money_ideas": [
+    { "idea": "Run a paid newsletter or course teaching developers how to write their own high-quality skills, using this repo as the reference example.", "revenue_model": "subscription" },
+    { "idea": "Offer paid consulting to companies wanting a custom skills library tailored to their internal codebase conventions.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, fork it into an industry-specific variant (e.g. skills tuned for fintech compliance code or game dev) and sell it as a niche premium pack.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-30T12:16:09Z"
+}

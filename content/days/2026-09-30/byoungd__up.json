@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-30",
+  "owner": "byoungd",
+  "name": "up",
+  "full_name": "byoungd/up",
+  "url": "https://github.com/byoungd/up",
+  "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+  "language": "JavaScript",
+  "stars_total": 66114,
+  "stars_today": 1102,
+  "one_liner": "A free, continuously updated Chinese-language book (with an English version too) about lifelong learning in the AI era — English learning, doing real projects, and bouncing back from setbacks — written by one author sharing their personal journey.",
+  "buyer": "This is a personal self-help book, not software — there isn't really a business buyer here, though a Chinese-language education platform might license or feature the content.",
+  "business_use_cases": [
+    "A Chinese online education platform licenses excerpts as free lead-magnet content to attract self-improvement readers to paid courses.",
+    "The author sells a paid, expanded companion course or coaching program built on the ideas in the free guide.",
+    "A translator/publisher packages the English edition into a paid print or ebook release for a Western audience."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a paid companion course or 1:1 coaching program that goes deeper than the free guide.", "revenue_model": "one-off" },
+    { "idea": "Publish and sell a polished print/ebook edition through standard retail channels.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This isn't really a weekend-buildable business idea — it's a personal writing project. The honest steal is the format: publish your own niche expertise as a free, continuously updated 'living book' on GitHub to build an audience, then monetize with a paid course later.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-30T12:16:09Z"
+}

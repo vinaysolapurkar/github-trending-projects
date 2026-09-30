@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-30",
+  "owner": "colbymchenry",
+  "name": "codegraph",
+  "full_name": "colbymchenry/codegraph",
+  "url": "https://github.com/colbymchenry/codegraph",
+  "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+  "language": "C",
+  "stars_total": 72445,
+  "stars_today": 116,
+  "one_liner": "A background tool that builds a map of how all the pieces of a codebase connect, so an AI coding assistant can find what it needs instantly instead of reading through files one by one, saving time and cost.",
+  "buyer": "A developer or team paying for AI coding assistant usage on a large codebase who wants faster, cheaper responses by cutting down on wasted token spend.",
+  "business_use_cases": [
+    "A dev team on a large monorepo installs it so their AI assistant answers 'where is X used' questions instantly instead of scanning dozens of files, cutting their API bill.",
+    "A consultancy standardizes it across all client projects to make onboarding new AI agents to unfamiliar codebases faster.",
+    "A tooling company licenses the indexing engine to bake into their own IDE or AI coding product for faster code search."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted/team version with shared graphs across a whole engineering org, sold per seat.", "revenue_model": "subscription" },
+    { "idea": "License the local indexing engine to other AI coding tool vendors who want faster code search built in.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, add a simple dashboard showing an engineering manager how many tokens (and dollars) the team is saving per week by using it, then pitch it directly to agencies with heavy AI coding spend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-30T12:16:09Z"
+}

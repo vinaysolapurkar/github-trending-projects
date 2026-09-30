@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-30",
+  "owner": "modelcontextprotocol",
+  "name": "servers",
+  "full_name": "modelcontextprotocol/servers",
+  "url": "https://github.com/modelcontextprotocol/servers",
+  "description": "Model Context Protocol Servers",
+  "language": "TypeScript",
+  "stars_total": 90707,
+  "stars_today": 48,
+  "one_liner": "Official example code showing developers how to connect AI assistants to outside tools and data, like a set of blueprints rather than a finished product.",
+  "buyer": "A software developer learning to build integrations between AI assistants and their company's internal tools or data sources.",
+  "business_use_cases": [
+    "A dev team studies the reference servers to build a custom internal MCP server connecting their AI assistant to their own CRM.",
+    "A consultancy uses the examples as a starting point when building paid custom AI integrations for clients.",
+    "A tooling vendor benchmarks its own MCP server implementation against the official reference for compatibility."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid custom MCP server development for companies who want their internal tools connected to AI assistants but lack in-house expertise.", "revenue_model": "one-off" },
+    { "idea": "Run a training workshop teaching developers to build production-grade MCP servers using these references as the curriculum.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, pick one under-served niche (e.g. a popular CRM or accounting tool with no MCP server yet) and ship a polished MCP server for it, then offer it as a paid plugin to that tool's user base.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-09-30T12:16:09Z"
+}

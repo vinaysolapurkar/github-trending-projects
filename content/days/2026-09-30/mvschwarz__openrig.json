@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-30",
+  "owner": "mvschwarz",
+  "name": "openrig",
+  "full_name": "mvschwarz/openrig",
+  "url": "https://github.com/mvschwarz/openrig",
+  "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+  "language": "TypeScript",
+  "stars_total": 2695,
+  "stars_today": 622,
+  "one_liner": "A dashboard that lets one person manage a whole team of AI coding assistants at once, like a manager checking in on several employees instead of babysitting one terminal window at a time.",
+  "buyer": "A solo founder or small dev team lead already using multiple AI coding tools who is tired of juggling separate terminal windows and wants one place to direct and review all of them.",
+  "business_use_cases": [
+    "A one-person startup runs three coding agents in parallel overnight on different features and reviews a single morning summary instead of three chat logs.",
+    "A dev agency assigns each client project its own 'rig' of agents so a project manager can check status across all clients from one screen.",
+    "A bootcamp teaches students to orchestrate multiple AI agents as a modern engineering-management skill, using OpenRig as the hands-on tool."
+  ],
+  "money_ideas": [
+    { "idea": "Build and sell a hosted, team-shared version with permissions, so a whole company (not just one laptop) can see and steer the same agent rigs.", "revenue_model": "subscription" },
+    { "idea": "Offer paid onboarding workshops teaching teams how to set up productive multi-agent workflows.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, package a ready-made 'starter rig' YAML config for a common stack (e.g. Next.js + Postgres) so a new user gets a working multi-agent team in one command instead of writing config from scratch.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-09-30T12:16:09Z"
+}

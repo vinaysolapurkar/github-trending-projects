@@ -1,0 +1,9 @@
+{
+  "id": "2026-09-30-001",
+  "date": "2026-09-30",
+  "repo_a": "VectifyAI/PageIndex",
+  "repo_b": "debpalash/VoiceStudio",
+  "title": "Ask Your Contract, Out Loud, In Any Language",
+  "pitch": "Combine PageIndex's ability to accurately answer questions from long documents with VoiceStudio's local voice cloning and 646-language narration to build a 'talk to your document' service that reads answers back to you in the language and voice you choose. A migrant worker could ask their lease agreement a question in their native language and get a spoken, accurate answer instead of struggling through legal English. An insurance company could offer policyholders an audio hotline that answers coverage questions by reading directly from the actual policy text, with citations, instead of a generic chatbot. Package it as an API: upload a document once, then let any app bolt on multilingual voice Q&A over it.",
+  "why_now": "Long-document AI assistants are getting good enough to trust for high-stakes text (contracts, policies, manuals), and today's open-source voice stack finally makes natural multilingual narration free to self-host — pairing them turns 'read the fine print' into something anyone can just ask out loud."
+}

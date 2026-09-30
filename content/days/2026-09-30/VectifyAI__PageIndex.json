@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-30",
+  "owner": "VectifyAI",
+  "name": "PageIndex",
+  "full_name": "VectifyAI/PageIndex",
+  "url": "https://github.com/VectifyAI/PageIndex",
+  "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+  "language": "Python",
+  "stars_total": 37810,
+  "stars_today": 1095,
+  "one_liner": "Lets an AI find answers inside long documents (like a 200-page manual or legal contract) by reading it the way a human would flip to the right section, instead of the usual chunk-and-search method that often misses context.",
+  "buyer": "A legal, financial, or enterprise software company building an AI assistant that has to answer accurate questions from long, dense documents like contracts, filings, or manuals, where getting the answer wrong is costly.",
+  "business_use_cases": [
+    "A law firm builds an internal AI research assistant that answers questions from lengthy contracts and case files with fewer hallucinated citations.",
+    "A SaaS company selling to insurance adjusters adds a 'ask your policy documents' feature that reliably points to the right clause.",
+    "A technical documentation platform offers accurate AI Q&A over long manuals for hardware and software companies as a customer support upgrade."
+  ],
+  "money_ideas": [
+    { "idea": "Sell API access priced per document indexed to companies building document-Q&A features into their own products.", "revenue_model": "usage" },
+    { "idea": "Offer a managed cloud version with a simple upload-and-ask interface for non-technical teams (legal, compliance) as a subscription.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This weekend, build a narrow vertical tool on top of it — 'ask your insurance policy' or 'ask your lease agreement' — targeting one document type where wrong answers are especially costly, and charge per document processed.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-09-30T12:16:09Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-30",
+  "owner": "NawfalMotii79",
+  "name": "PLFM_RADAR",
+  "full_name": "NawfalMotii79/PLFM_RADAR",
+  "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+  "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+  "language": "PLSQL",
+  "stars_total": 26297,
+  "stars_today": 466,
+  "one_liner": "Blueprints and code to build your own radar system — the kind used to detect moving objects like cars or drones — for a fraction of what commercial radar hardware costs.",
+  "buyer": "A university robotics/electronics lab, a drone-detection startup, or a hobbyist hardware engineer who needs radar sensing but can't afford commercial radar modules.",
+  "business_use_cases": [
+    "A university lab builds units from the open design for student research projects instead of buying expensive commercial radar kits.",
+    "A small startup building low-cost drone-detection systems for warehouses or farms uses the design as a starting hardware reference.",
+    "A hardware maker assembles and sells pre-built, calibrated units to hobbyists and small labs who don't want to source parts and solder it themselves."
+  ],
+  "money_ideas": [
+    { "idea": "Sell pre-assembled, tested radar kits built from the open design to labs and makers who don't want to build from scratch.", "revenue_model": "one-off" },
+    { "idea": "Offer paid customization and calibration services for specific use cases like drone detection or traffic monitoring.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend's build here is realistically a soldering-iron project, not a software one — the honest move is to pre-order the bill of materials, assemble a few working units, and sell them at a markup to university labs on a specialty electronics marketplace.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-30T12:16:09Z"
+}

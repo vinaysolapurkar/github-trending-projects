@@ -1,0 +1,25 @@
+{
+  "date": "2026-09-30",
+  "owner": "ComposioHQ",
+  "name": "awesome-claude-skills",
+  "full_name": "ComposioHQ/awesome-claude-skills",
+  "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+  "language": "Python",
+  "stars_total": 75951,
+  "stars_today": 118,
+  "one_liner": "A big curated bookmark list of add-ons for Claude AI, organized so people can find useful ones without searching from scratch.",
+  "buyer": "Nobody pays directly for a link list, though it's a discovery channel — a tool maker whose skill gets featured here gains free exposure to Claude power users.",
+  "business_use_cases": [
+    "A skill developer submits their tool to the list to get discovered by the Claude power-user community for free.",
+    "A newsletter curator mines the list weekly to find fresh content for an 'AI tools roundup' publication.",
+    "An agency skims it to find pre-built skills instead of building custom automations from scratch, saving billable hours."
+  ],
+  "money_ideas": [
+    { "idea": "Turn the list into a searchable directory site with sponsored/featured placements for skill vendors.", "revenue_model": "ads" },
+    { "idea": "Curate a paid weekly digest highlighting the best new entries for busy AI practitioners.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This weekend, scrape the list into a simple searchable web directory with tags and a 'submit your skill' form, then sell featured listing slots to skill authors.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-09-30T12:16:09Z"
+}
