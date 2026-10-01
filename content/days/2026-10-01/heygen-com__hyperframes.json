@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-01",
+  "owner": "heygen-com",
+  "name": "hyperframes",
+  "full_name": "heygen-com/hyperframes",
+  "url": "https://github.com/heygen-com/hyperframes",
+  "description": "Write HTML. Render video. Built for agents.",
+  "language": "TypeScript",
+  "stars_total": 55026,
+  "stars_today": 624,
+  "one_liner": "Turns a simple webpage-style description into an actual finished video — titles, animations, charts and all — so an AI assistant can produce a video without touching video-editing software.",
+  "buyer": "A marketing manager or solo content creator who needs quick product-intro or data-explainer videos but has no video editor on staff and no time to learn one.",
+  "business_use_cases": [
+    "A SaaS marketing team auto-generates a short product-update video every release by describing it in HTML and letting the AI agent fill in the content.",
+    "A financial newsletter turns its weekly data into animated chart videos for social media without hiring a motion designer.",
+    "A course creator builds a video series by describing each lesson as HTML slides with voiceover timing, rendering a finished video automatically."
+  ],
+  "money_ideas": [
+    { "idea": "Build a hosted 'describe it, get a video' SaaS on top of the open-source renderer, charging per rendered minute of video.", "revenue_model": "usage" },
+    { "idea": "Sell a library of ready-made HTML video templates (product demo, data chart recap, testimonial) to marketers.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, build one polished 'weekly stats recap video' template wired to a spreadsheet input, and sell it as a per-video service to small newsletters or social accounts.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-01T12:30:00Z"
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-01",
+  "owner": "firebase",
+  "name": "firebase-ios-sdk",
+  "full_name": "firebase/firebase-ios-sdk",
+  "url": "https://github.com/firebase/firebase-ios-sdk",
+  "description": "Firebase SDK for Apple App Development",
+  "language": "C++",
+  "stars_total": 6809,
+  "stars_today": 112,
+  "one_liner": "The toolkit Google gives app developers so an iPhone or iPad app can handle login, storage, push notifications, and crash tracking without building any of that from scratch.",
+  "buyer": "An indie iOS developer or small app agency who needs backend features (login, database, notifications) but has no time or budget to build a server.",
+  "business_use_cases": [
+    "A solo developer launches a habit-tracking app in weeks instead of months by using it for login and data storage instead of building a backend.",
+    "A small agency building client apps standardizes on it so every project ships with analytics and crash reporting at no extra line-item cost.",
+    "A startup prototyping an MVP delays hiring a backend engineer until the app proves demand."
+  ],
+  "money_ideas": [
+    { "idea": "An iOS freelancer bundles 'Firebase integration' as a fixed-price add-on for every client project.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, build a tiny iOS starter app pre-wired with Firebase auth, Firestore, and push notifications, then sell it as a starter kit to other indie iOS developers.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-01T12:30:00Z"
+}

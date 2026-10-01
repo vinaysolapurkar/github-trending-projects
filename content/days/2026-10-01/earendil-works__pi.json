@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-01",
+  "owner": "earendil-works",
+  "name": "pi",
+  "full_name": "earendil-works/pi",
+  "url": "https://github.com/earendil-works/pi",
+  "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+  "language": "TypeScript",
+  "stars_total": 110922,
+  "stars_today": 294,
+  "one_liner": "An open-source toolkit for building your own AI coding assistant or chat agent, including the parts that normally take months to build: talking to multiple AI providers, running tools, and showing a terminal interface.",
+  "buyer": "A developer or small software company building a custom AI agent product who doesn't want to build the underlying plumbing (LLM connections, tool-calling, UI) from scratch.",
+  "business_use_cases": [
+    "A dev tooling startup forks the agent-core package to build a specialized coding agent for a specific language or framework niche, skipping months of infrastructure work.",
+    "An internal platform team builds a company-specific 'ops agent' CLI on the same framework to automate internal workflows, reusing the unified multi-provider LLM API.",
+    "A consultant builds bespoke internal AI agents for clients on top of the toolkit, charging for the custom agent rather than the framework itself."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid custom-agent development services for companies who want a bespoke coding or ops agent built on this framework.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, fork the coding-agent package into a narrow vertical assistant (for example a SQL-migration agent) and sell early access to teams in that niche.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-01T12:30:00Z"
+}

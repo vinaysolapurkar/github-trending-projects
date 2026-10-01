@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-01",
+  "owner": "HunxByts",
+  "name": "GhostTrack",
+  "full_name": "HunxByts/GhostTrack",
+  "url": "https://github.com/HunxByts/GhostTrack",
+  "description": "Useful tool to track location or mobile number",
+  "language": "Python",
+  "stars_total": 16128,
+  "stars_today": 635,
+  "one_liner": "A command-line tool marketed for finding a phone number's or IP address's physical location and gathering public social-media info on a username — the kind of thing used in 'OSINT' research.",
+  "buyer": "Hard to name a legitimate buyer. Tools like this are mostly used by OSINT hobbyists or security researchers, and the same capability is commonly misused for stalking or harassment, so no honest mainstream business should be built directly on it.",
+  "business_use_cases": [
+    "A security researcher uses it during an authorized penetration test to demonstrate how much location or identity information is exposed by a phone number or username.",
+    "An ethical-hacking trainer uses it as a classroom example of what's technically possible, and why it's dangerous, rather than something to productize.",
+    "No legitimate consumer or small-business use case exists beyond security training; real-world use of a tool like this is overwhelmingly personal surveillance, not business."
+  ],
+  "money_ideas": [
+    { "idea": "We don't recommend building a product here. Any commercial wrapper around 'tracking a person' crosses into stalkerware territory and is a legal and reputational liability, not a business opportunity.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Don't build a product around this one. If you train security teams, the honest 'steal' is a one-hour classroom demo on how exposed phone and location data really is, with the lesson being how to lock your own down.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-01T12:30:00Z"
+}

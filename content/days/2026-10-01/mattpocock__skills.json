@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-01",
+  "owner": "mattpocock",
+  "name": "skills",
+  "full_name": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "language": "Shell",
+  "stars_total": 273411,
+  "stars_today": 888,
+  "one_liner": "A free, public collection of one engineer's day-to-day coding habits (how to plan, document, and review work) packaged so an AI coding assistant can follow them automatically.",
+  "buyer": "An engineering manager at a small-to-mid startup who wants every AI coding assistant on the team to work the same way, without writing a playbook from scratch.",
+  "business_use_cases": [
+    "A startup's engineering lead installs it so every engineer's AI assistant follows the same intake process (spec first, then plan, then code), cutting rework from misread requests.",
+    "A solo SaaS founder uses the glossary skill to teach their AI assistant project-specific jargon, so its first drafts need fewer corrections.",
+    "A dev-tooling consultant forks it as the starter kit they hand every new client, charging for the setup and tailoring."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid onboarding calls that customize the skill set (glossary, workflow) to a specific company's codebase.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, strip it down to 3 core skills and offer a paid one-hour 'AI workflow setup' call for small dev teams who don't want to read the whole repo themselves.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-01T12:30:00Z"
+}

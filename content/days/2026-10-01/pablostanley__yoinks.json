@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-01",
+  "owner": "pablostanley",
+  "name": "yoinks",
+  "full_name": "pablostanley/yoinks",
+  "url": "https://github.com/pablostanley/yoinks",
+  "description": "yoink any video from your terminal. no shady ads.",
+  "language": "TypeScript",
+  "stars_total": 2598,
+  "stars_today": 356,
+  "one_liner": "A simple command-line tool that downloads videos from YouTube, TikTok, Instagram and 1,800+ other sites directly to your computer — paste a link, pick a quality, done.",
+  "buyer": "A social media manager or content creator who needs to quickly save reference clips or repurpose their own posted content across platforms.",
+  "business_use_cases": [
+    "A social media manager downloads their own posted videos from TikTok and Instagram to repurpose as YouTube Shorts without screen-recording software.",
+    "A video editor at a small agency bulk-pulls reference clips a client points to for storyboard inspiration.",
+    "A podcaster extracts audio-only from video interviews using the mp3 mode to publish as a podcast episode."
+  ],
+  "money_ideas": [
+    { "idea": "Wrap it in a simple paid desktop app with a GUI and bulk-download queues for non-technical creators who won't use a terminal.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, build a drag-and-drop desktop wrapper (Electron or Tauri) around it aimed at creators who don't use the command line, and charge a small one-time fee. Note: downloading others' content can violate platform terms of service, so keep the positioning to personal-archiving and your-own-content use cases.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-01T12:30:00Z"
+}

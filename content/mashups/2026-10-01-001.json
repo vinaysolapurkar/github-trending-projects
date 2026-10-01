@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-01-001",
+  "date": "2026-10-01",
+  "repo_a": "NVIDIA/OpenShell",
+  "repo_b": "mvschwarz/openrig",
+  "title": "The Governed Agent Office",
+  "pitch": "Combine OpenRig's persistent multi-agent 'teams' (coding owner, reviewer, and specialist seats that remember context across days) with OpenShell's policy-enforced sandboxing (every file, network call, and credential locked to an explicit allowlist) to build a product for companies whose security teams won't let them run autonomous AI agents at all. Each OpenRig seat runs inside its own OpenShell sandbox with a reviewed policy, so a finance-automation agent can touch the accounting API and nothing else, and a code-reviewer agent can read the repo but never push without human sign-off. Sell it to mid-size companies as 'the agent team your compliance department will actually approve' — a persistent, role-based AI workforce that's auditable file-by-file and call-by-call instead of one unrestricted terminal session.",
+  "why_now": "Multi-agent setups like OpenRig are trending because one agent isn't enough for real work, but every enterprise rollout stalls on the same objection: how do we stop it from doing something we didn't approve? OpenShell answering that exact question on the same day means the missing piece for enterprise-grade autonomous agent teams just showed up."
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-01",
+  "owner": "Friedrich-M",
+  "name": "UniMate",
+  "full_name": "Friedrich-M/UniMate",
+  "url": "https://github.com/Friedrich-M/UniMate",
+  "description": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+  "language": "Python",
+  "stars_total": 936,
+  "stars_today": 225,
+  "one_liner": "A research AI model that can take motion from one creature, like a dog walking, and apply realistic movement to completely different skeletons — bipeds, birds, insects, even rigid objects — using one system instead of building a separate animator for each.",
+  "buyer": "A game studio or animation house that needs to animate many different character types without hand-animating or retraining a separate model for each skeleton.",
+  "business_use_cases": [
+    "An indie game studio quickly prototypes movement for a menagerie of creature types without hiring a dedicated animator per creature.",
+    "A VFX or ad studio generates quick animated motion previews for unusual rigs (mascots, robots) at pitch stage before committing to full animation work.",
+    "A research lab or university licenses tooling built on it for biomechanics or robotics motion research."
+  ],
+  "money_ideas": [
+    { "idea": "A motion-design studio offers 'fast creature animation previews' as a paid pre-production add-on for game studios, built on top of this pipeline.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, run the pretrained checkpoints against 3-4 unusual rigs from your own game or animation project and package the output as a quick concept-animation demo reel to pitch to a studio. Note: this requires real machine-learning expertise to productize, it isn't a plug-and-play tool.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-01T12:30:00Z"
+}

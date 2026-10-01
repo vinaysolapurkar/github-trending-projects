@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-01",
+  "owner": "cursor",
+  "name": "plugins",
+  "full_name": "cursor/plugins",
+  "url": "https://github.com/cursor/plugins",
+  "description": "Cursor plugin specification and official plugins",
+  "language": "TypeScript",
+  "stars_total": 9234,
+  "stars_today": 157,
+  "one_liner": "A library of ready-made add-ons for the Cursor AI coding tool that connect it to things like Gmail, Salesforce, and GitHub so it can act directly on your other business tools.",
+  "buyer": "Mainly useful to developers already using Cursor who want to extend it; there is no strong standalone buyer beyond that.",
+  "business_use_cases": [
+    "A sales engineer installs the Salesforce and Gong plugins so their AI assistant can pull deal context directly into coding or automation sessions.",
+    "A recruiter installs the Ashby plugin so an AI assistant can draft interview prep notes directly from candidate pipeline data.",
+    "An agency copies the plugin spec pattern to build a custom internal plugin connecting Cursor to a client's proprietary tool."
+  ],
+  "money_ideas": [
+    { "idea": "Build and sell a custom plugin connecting Cursor to a niche business tool this list doesn't cover yet, to companies already using that tool.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, build one plugin for a popular tool missing from this list (a niche CRM or helpdesk) and list it for other Cursor users to install.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-01T12:30:00Z"
+}

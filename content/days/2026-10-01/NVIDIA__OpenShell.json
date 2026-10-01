@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-01",
+  "owner": "NVIDIA",
+  "name": "OpenShell",
+  "full_name": "NVIDIA/OpenShell",
+  "url": "https://github.com/NVIDIA/OpenShell",
+  "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+  "language": "Rust",
+  "stars_total": 13665,
+  "stars_today": 2503,
+  "one_liner": "A safety cage for AI agents: it lets an agent read files, use passwords, and call outside services, but only the exact things you've approved — so a bug or a trick can't make it leak your data.",
+  "buyer": "A security or platform engineering lead at a mid-size company rolling out AI coding or ops agents who must prove to IT/compliance that agents can't exfiltrate secrets or touch unapproved systems.",
+  "business_use_cases": [
+    "An IT department running dozens of AI agents across engineering enforces 'this agent can only touch this repo and these three APIs,' satisfying a SOC 2 audit requirement.",
+    "A fintech company lets agents call internal banking APIs for automation, trusting the policy layer to block any attempt to reach an unapproved endpoint with real credentials.",
+    "A managed-IT provider offers 'agent governance as a service' to clients whose security team has blocked AI coding assistants, using this as the enforcement layer."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a hosted, managed gateway with audit dashboards and compliance reports to companies that don't want to run the infrastructure themselves.", "revenue_model": "subscription" },
+    { "idea": "Offer paid policy-writing and compliance-audit consulting for enterprises adopting AI agents.", "revenue_model": "usage" }
+  ],
+  "steal_this": "This weekend, run the quickstart, write one real policy file for an actual client's AI agent setup, and pitch 'lock down your AI agents in an afternoon' as a fixed-price service.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-01T12:30:00Z"
+}

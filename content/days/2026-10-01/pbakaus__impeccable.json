@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-01",
+  "owner": "pbakaus",
+  "name": "impeccable",
+  "full_name": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "description": "The design language that makes your AI harness better at design.",
+  "language": "JavaScript",
+  "stars_total": 73279,
+  "stars_today": 463,
+  "one_liner": "A rulebook and set of commands that stop AI-built websites from all looking the same (the same purple gradient, the same fonts) by teaching the AI real design judgment and checking its work automatically.",
+  "buyer": "A solo founder or small agency shipping AI-generated web products who is embarrassed that every 'vibe-coded' site looks identical and generic.",
+  "business_use_cases": [
+    "A solo SaaS founder uses it so their AI-built landing page doesn't look like every other AI-built landing page, improving conversion and credibility.",
+    "A no-code or low-code agency runs the audit command on every client delivery as an automated quality gate before sending work out.",
+    "A design-conscious dev shop sells an 'AI build plus design polish' package, using it to guarantee a non-generic look without hiring a dedicated designer."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid design-polish pass: run a client's AI-built site through the full command set and deliver a before/after report plus fixes.", "revenue_model": "one-off" },
+    { "idea": "Sell a premium design-token or theme pack that plugs into the tool for brands wanting a distinct starting aesthetic.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, run the critique and audit commands against 5 real AI-generated sites you can find publicly, turn the worst offenses into a 'why your AI site looks generic' post, and offer a paid polish service to the replies.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-01T12:30:00Z"
+}

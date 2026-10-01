@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-01",
+  "owner": "mvschwarz",
+  "name": "openrig",
+  "full_name": "mvschwarz/openrig",
+  "url": "https://github.com/mvschwarz/openrig",
+  "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+  "language": "TypeScript",
+  "stars_total": 3335,
+  "stars_today": 640,
+  "one_liner": "Lets you set up a small team of AI coding assistants with defined roles that remember context and work together, handing you only the decisions that need a human.",
+  "buyer": "A technical founder or engineering lead running a lean team who wants to multiply output by running several specialized AI 'employees' instead of one assistant at a time.",
+  "business_use_cases": [
+    "A solo founder runs a build team of agents (one coding, one reviewing) overnight on a backlog of small features, reviewing only the finished, checked work in the morning.",
+    "A dev agency sets up a persistent 'client team' rig per repo so work and context never get lost between sessions or human team members.",
+    "An engineering manager runs a standing QA/review agent that checks every change from a coding agent before a human ever sees it."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid rig setup as a service for teams who want multi-agent workflows but don't want to configure YAML and tmux themselves.", "revenue_model": "one-off" },
+    { "idea": "Sell prebuilt rig templates (QA team, support triage team, content team) on a small marketplace.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, build one polished two-agent template for a common task (feature-plus-reviewer) and sell it as a small download to other OpenRig users.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-01T12:30:00Z"
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-01",
+  "owner": "tile-ai",
+  "name": "tilelang",
+  "full_name": "tile-ai/tilelang",
+  "url": "https://github.com/tile-ai/tilelang",
+  "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+  "language": "Python",
+  "stars_total": 7976,
+  "stars_today": 157,
+  "one_liner": "A simplified programming language for writing the extremely low-level code that makes AI models run fast on specialized chips, without needing years of chip-programming expertise.",
+  "buyer": "An AI infrastructure engineer at a company training or serving large models who needs faster, cheaper GPU code but can't hire scarce low-level CUDA experts.",
+  "business_use_cases": [
+    "An AI inference company hand-tunes its model's hot-path kernels, cutting GPU compute costs for serving its product.",
+    "A hardware startup supporting a new accelerator chip gets working, optimized kernels faster than hiring a dedicated compiler team.",
+    "A cloud GPU reseller offers 'kernel optimization as a service' to AI companies, using tools like this to shave compute costs and pass savings on with a margin."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid GPU kernel optimization consulting for AI companies with high inference bills, using this toolchain to deliver faster kernels.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, benchmark one popular open-source model's slowest operation with and without a hand-written kernel, publish the before/after numbers, and use it to land optimization consulting clients.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-01T12:30:00Z"
+}
