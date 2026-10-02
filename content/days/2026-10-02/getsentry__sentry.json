@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-02",
+  "owner": "getsentry",
+  "name": "sentry",
+  "full_name": "getsentry/sentry",
+  "url": "https://github.com/getsentry/sentry",
+  "description": "Developer-first error tracking and performance monitoring",
+  "language": "Python",
+  "stars_total": 44922,
+  "stars_today": 12,
+  "one_liner": "A tool that watches a live app and instantly tells developers when something breaks or slows down, pointing to the exact line of code responsible.",
+  "buyer": "Any software company's engineering lead who needs to know about bugs in production before customers complain.",
+  "business_use_cases": [
+    "A SaaS startup gets alerted the moment a new feature breaks for real users in production, instead of waiting for support tickets.",
+    "An e-commerce company catches checkout-flow errors, like payment failures, within seconds instead of losing sales silently.",
+    "A dev agency offers 'production monitoring setup' as a standard add-on when it ships client projects."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Resell and manage a hosted instance with white-glove setup and alerting rules for small businesses that don't have in-house DevOps.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer a one-day 'get your production app properly monitored' service this weekend to a local startup, using it as the backbone.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-02T12:30:00Z"
+}

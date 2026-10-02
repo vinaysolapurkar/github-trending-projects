@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-02",
+  "owner": "heygen-com",
+  "name": "hyperframes",
+  "full_name": "heygen-com/hyperframes",
+  "url": "https://github.com/heygen-com/hyperframes",
+  "description": "Write HTML. Render video. Built for agents.",
+  "language": "TypeScript",
+  "stars_total": 55597,
+  "stars_today": 584,
+  "one_liner": "A tool that turns HTML layouts, charts, and text into rendered video, letting you generate video content straight from data and code instead of filming anything.",
+  "buyer": "A news or explainer YouTuber, or an internal comms team, that needs data-driven video content without filming or hiring editors.",
+  "business_use_cases": [
+    "A news YouTuber turns breaking economic data into an animated explainer video within minutes of a report dropping.",
+    "A SaaS company auto-generates a monthly 'state of your account' video report for each customer from their usage data.",
+    "An internal comms team turns a quarterly OKR dashboard into a short video update for an all-hands meeting instead of a static slide deck."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a hosted 'data-to-video' API that SaaS companies plug into their product to auto-generate customer-facing video reports.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Build a tool this weekend that turns a company's analytics dashboard into an auto-generated monthly video report, and pitch it to three SaaS founders.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-02T12:30:00Z"
+}

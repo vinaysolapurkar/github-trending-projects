@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-02",
+  "owner": "colbymchenry",
+  "name": "codegraph",
+  "full_name": "colbymchenry/codegraph",
+  "url": "https://github.com/colbymchenry/codegraph",
+  "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+  "language": "C",
+  "stars_total": 72825,
+  "stars_today": 241,
+  "one_liner": "A tool that builds a map of how all the pieces of a codebase connect, so an AI coding assistant can understand a project instantly instead of guessing from scratch every time.",
+  "buyer": "A new engineering hire, or anyone working in a large unfamiliar codebase, who wants faster and cheaper AI coding answers.",
+  "business_use_cases": [
+    "A new engineer joining a company with a sprawling codebase uses it so their AI assistant can answer 'where is X handled' instantly instead of searching manually.",
+    "A dev agency uses it across all client codebases to cut the token cost of every AI coding session, since accurate context means fewer wasted tool calls.",
+    "A due-diligence firm evaluating a startup's codebase for acquisition uses it to quickly generate an architecture overview without reading every file."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a hosted, managed version with a simple web UI for non-technical stakeholders like due-diligence teams to explore a codebase's architecture, sold per audit.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, offer a 'codebase onboarding map' service: run it against a client's repo and deliver a one-page architecture diagram plus AI-queryable index for a flat fee.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-02T12:30:00Z"
+}

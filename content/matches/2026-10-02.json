@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-02",
+  "matches": [
+    { "problem_id": "p001", "repo": "harry0703/MoneyPrinterTurbo", "why": "It automatically writes a script, sources clips, adds subtitles and music, and outputs a finished short video from just a topic — nothing more specific trended today.", "confidence": "high" },
+    { "problem_id": "p002", "repo": "freestylefly/awesome-gpt-image-2", "why": "Its reverse-engineered prompt templates are built to reliably get GPT-Image-2 to produce specific, professional-looking product images, which beats a generic text-to-image prompt.", "confidence": "medium" },
+    { "problem_id": "p003", "repo": "mksglu/context-mode", "why": "It's built specifically to persist session memory across runs so the agent stops forgetting project context between sessions.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "DietrichGebert/ponytail", "why": "It's designed specifically to make AI agents write the smallest possible fix instead of bloated, over-engineered code.", "confidence": "high" },
+    { "problem_id": "p005", "repo": "VectifyAI/PageIndex", "why": "PageIndex indexes and reasons over long document collections like research PDFs, with traceable citations back to the source; nothing more specific trended today.", "confidence": "medium" },
+    { "problem_id": "p006", "repo": "heygen-com/hyperframes", "why": "It renders HTML layouts, charts, and text directly into video, letting an explainer be built from data and graphics instead of needing real footage.", "confidence": "medium" },
+    { "problem_id": "p007", "repo": "K-Dense-AI/scientific-agent-skills", "why": "It gives an AI agent 163 validated skills plus 100+ real scientific databases across biology, chemistry, and drug discovery, standing in for a bioinformatics team a small lab can't afford.", "confidence": "high" },
+    { "problem_id": "p008", "repo": "danny-avila/LibreChat", "why": "It's a self-hosted ChatGPT-style app with secure multi-user auth that a firm runs on its own infrastructure, so client conversations never leave the building.", "confidence": "high" },
+    { "problem_id": "p009", "repo": "debpalash/VoiceStudio", "why": "Its text-to-speech narration is built to turn written text into spoken audio, which is the missing half of a blog-to-video pipeline.", "confidence": "high" },
+    { "problem_id": "p010", "repo": "AgriciDaniel/claude-obsidian", "why": "It files notes into a connected knowledge graph made of plain Markdown files the user fully owns, rather than a proprietary cloud note format.", "confidence": "medium" },
+    { "problem_id": "p011", "repo": "colbymchenry/codegraph", "why": "It builds a pre-indexed knowledge graph of how a codebase's pieces connect, directly built for making an unfamiliar codebase navigable.", "confidence": "high" },
+    { "problem_id": "p012", "repo": "earendil-works/pi", "why": "It's a toolkit for building your own AI agent product (LLM API, agent loop, CLI), a genuine starting point rather than a finished guide.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "No restaurant-specific inventory tool trended today; the closest candidates are general-purpose ERPs that are overkill for a small restaurant." }
+  ]
+}

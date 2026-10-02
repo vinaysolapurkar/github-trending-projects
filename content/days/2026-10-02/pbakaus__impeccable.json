@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-02",
+  "owner": "pbakaus",
+  "name": "impeccable",
+  "full_name": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "description": "The design language that makes your AI harness better at design.",
+  "language": "JavaScript",
+  "stars_total": 73974,
+  "stars_today": 717,
+  "one_liner": "A style guide and ruleset that teaches an AI coding tool to produce clean, professional-looking UI designs instead of generic or ugly default layouts.",
+  "buyer": "A solo indie developer or no-code founder building their own product's UI with an AI coding assistant, with no design background.",
+  "business_use_cases": [
+    "A non-designer founder uses it so their AI-built landing page looks like it was made by a professional designer instead of a generic default layout.",
+    "A freelance developer offers 'AI-assisted design polish' as an add-on service, using the ruleset to guarantee consistent visual quality.",
+    "An agency bakes it into its internal AI-coding template so every client project starts from a visually coherent baseline instead of bootstrap-default styling."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell premium design-language packs (minimal SaaS, playful consumer app, enterprise dashboard) as one-off purchases to indie developers.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build and sell a 'make my AI-coded app look good' one-time service this weekend: run a client's repo through the ruleset and ship a visually upgraded version.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-02T12:30:00Z"
+}

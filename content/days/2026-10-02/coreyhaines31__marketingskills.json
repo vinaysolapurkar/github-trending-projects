@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-02",
+  "owner": "coreyhaines31",
+  "name": "marketingskills",
+  "full_name": "coreyhaines31/marketingskills",
+  "url": "https://github.com/coreyhaines31/marketingskills",
+  "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+  "language": "JavaScript",
+  "stars_total": 52233,
+  "stars_today": 139,
+  "one_liner": "A ready-made pack of marketing know-how — conversion optimization, copywriting, SEO, analytics — that you plug into your AI assistant so it can do a marketer's job, not just a coder's.",
+  "buyer": "A solo founder or small e-commerce store owner who can't afford a marketing hire but already has an AI coding assistant.",
+  "business_use_cases": [
+    "A solo SaaS founder has their AI agent audit and rewrite landing page copy for conversion instead of hiring a copywriter.",
+    "A small e-commerce store owner has their agent run basic SEO audits and keyword research automatically every week.",
+    "A marketing freelancer uses it to speed up client audits, delivering CRO and SEO recommendations in hours instead of days."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a done-for-you 'AI marketing audit' service built on these skills, selling short reports to small businesses for a flat fee.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, run the skill pack against five local businesses' websites and sell each a one-page CRO/SEO audit for $50-100.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-02T12:30:00Z"
+}

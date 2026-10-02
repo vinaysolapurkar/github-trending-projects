@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-02-001",
+  "date": "2026-10-02",
+  "repo_a": "coreyhaines31/marketingskills",
+  "repo_b": "heygen-com/hyperframes",
+  "title": "The Auto-Narrated Monthly Report",
+  "pitch": "Combine marketingskills' ability to read a business's analytics and write plain-English copy about what matters (CRO, SEO, growth numbers) with hyperframes' ability to render HTML, charts, and text straight into video, to build a service that turns any small business's raw dashboard into a narrated monthly video report. An agency plugs in a client's Shopify or Google Analytics export, the marketing-skills agent writes the 90-second script ('sales were up 12% this month, driven mostly by...'), and hyperframes renders it as a polished video with on-screen charts, no filming or editing required. Sell it to marketing agencies and SaaS companies as a client-retention tool: a monthly video update feels far more personal than a PDF report nobody opens.",
+  "why_now": "Both trended on the same day because the underlying building blocks finally lined up: an agent skill pack that knows how to read and narrate business performance, and a renderer that turns that narration straight into shareable video, with no camera, editor, or design software in between."
+}

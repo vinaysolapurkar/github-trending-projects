@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-02",
+  "owner": "mattpocock",
+  "name": "skills",
+  "full_name": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "language": "Shell",
+  "stars_total": 274341,
+  "stars_today": 955,
+  "one_liner": "A public collection of ready-made 'skills' — reusable instructions and workflows — for AI coding agents, pulled straight from one experienced engineer's own daily setup.",
+  "buyer": "A solo developer or small team adopting Claude Code or Cursor who doesn't want to write every agent skill and workflow from scratch.",
+  "business_use_cases": [
+    "A freelance developer imports it wholesale to instantly upgrade their AI agent setup instead of spending days writing custom skills.",
+    "A dev tools startup uses it as a reference implementation when designing their own skill marketplace.",
+    "A technical content creator builds a paid course teaching how to customize these skills for a specific stack."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Curate and sell a vetted, organized 'skills starter pack' for specific stacks (Next.js, Rails, etc.) to teams getting started with AI agents.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Package a curated, documented subset of these skills for one specific tech stack and sell it as a $20 starter kit this weekend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-02T12:30:00Z"
+}

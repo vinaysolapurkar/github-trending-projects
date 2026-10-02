@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-02",
+  "owner": "mvschwarz",
+  "name": "openrig",
+  "full_name": "mvschwarz/openrig",
+  "url": "https://github.com/mvschwarz/openrig",
+  "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+  "language": "TypeScript",
+  "stars_total": 4018,
+  "stars_today": 691,
+  "one_liner": "A framework for building a persistent 'team' of AI agents, each with its own role and shared memory, instead of one agent trying to do everything alone.",
+  "buyer": "A startup founder or engineering lead wanting an AI agent team — planner, coder, reviewer — that remembers context across days, not just a single session.",
+  "business_use_cases": [
+    "A startup builds a persistent AI engineering team (planner, coder, QA) that keeps shared context across weeks of a project instead of restarting cold each session.",
+    "An agency sells 'managed AI dev teams' to clients, using it to structure accountable roles and hand-offs between agents.",
+    "A solo founder runs a virtual product, growth, and support agent team for their SaaS, each with defined ownership."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a hosted multi-agent team platform with pre-built role templates for startups or agencies, as a monthly subscription.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, configure a three-agent team (planner, coder, reviewer) for one real side project and document the workflow as a paid template.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-02T12:30:00Z"
+}

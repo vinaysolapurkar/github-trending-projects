@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-02",
+  "owner": "pablostanley",
+  "name": "yoinks",
+  "full_name": "pablostanley/yoinks",
+  "url": "https://github.com/pablostanley/yoinks",
+  "description": "yoink any video from your terminal. no shady ads.",
+  "language": "TypeScript",
+  "stars_total": 3219,
+  "stars_today": 629,
+  "one_liner": "A simple command-line tool that downloads videos from the internet straight to your computer, without shady ad-filled download websites.",
+  "buyer": "A content creator or social media manager who needs to save source videos quickly and cleanly for repurposing clips, reaction content, or archiving.",
+  "business_use_cases": [
+    "A social media manager downloads videos from various platforms to repurpose clips for a client's account where licensing allows it.",
+    "A researcher archives video content for documentation before it potentially gets taken down.",
+    "A video editor builds a simple tool for clients to batch-download their own uploaded content for backup across platforms."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Bundle it into a simple desktop app with a drag-and-drop GUI for non-technical creators, sold as a one-time license.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Wrap it in a simple drag-and-drop desktop app this weekend and sell it as a $9 one-time tool to non-technical creators who don't want to use the terminal.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-02T12:30:00Z"
+}

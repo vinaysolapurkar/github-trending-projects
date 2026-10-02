@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-02",
+  "owner": "google",
+  "name": "skills",
+  "full_name": "google/skills",
+  "url": "https://github.com/google/skills",
+  "description": "Agent Skills for Google products and technologies",
+  "language": "Python",
+  "stars_total": 20604,
+  "stars_today": 30,
+  "one_liner": "An official pack of ready-made instructions that teach AI coding agents how to correctly use Google's own products and developer tools.",
+  "buyer": "A developer or small company building on Google Cloud or Firebase who wants their AI assistant to get Google-specific APIs right instead of hallucinating.",
+  "business_use_cases": [
+    "A startup building on Firebase uses it so their AI coding agent writes correct security rules and API calls the first time.",
+    "A consulting shop that builds client apps on Google Cloud bakes it into every project template to cut debugging time on Google API integrations.",
+    "A training company builds a 'Google Cloud plus AI agents' workshop using these skills as the curriculum backbone."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build and sell premium add-on skill packs for specific Google product combinations not covered by the official set, targeted at consultancies.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, build a short paid guide or workshop for one specific Google product integration using this skill pack as the technical backbone.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-02T12:30:00Z"
+}

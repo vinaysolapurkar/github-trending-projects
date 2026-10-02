@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-02",
+  "owner": "mksglu",
+  "name": "context-mode",
+  "full_name": "mksglu/context-mode",
+  "url": "https://github.com/mksglu/context-mode",
+  "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+  "language": "TypeScript",
+  "stars_total": 24915,
+  "stars_today": 276,
+  "one_liner": "A tool that stops AI coding agents from 'forgetting' your project between sessions, and trims the noisy tool output that otherwise clogs up their memory.",
+  "buyer": "An indie developer or small dev team running long AI coding sessions across multiple tools who's frustrated with agents losing context.",
+  "business_use_cases": [
+    "An indie developer uses it so their AI pair programmer remembers last week's decisions instead of needing everything re-explained each session.",
+    "A dev agency standardizes on it across client projects so every AI agent session starts with full prior context, cutting re-explanation time billed to clients.",
+    "A platform team adopts it to let agents coordinate across 17 different tools via one shared memory layer instead of building custom integrations per tool."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a hosted team-memory service — shared context across a whole engineering team's AI agents — as a per-seat subscription.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Package it with a simple onboarding script for one popular tool like Cursor and sell a 'never lose your AI agent's memory again' $15/month add-on this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-02T12:30:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-02",
+  "owner": "NVIDIA",
+  "name": "OpenShell",
+  "full_name": "NVIDIA/OpenShell",
+  "url": "https://github.com/NVIDIA/OpenShell",
+  "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+  "language": "Rust",
+  "stars_total": 14237,
+  "stars_today": 584,
+  "one_liner": "A locked-down, sandboxed 'safe room' for running autonomous AI agents, so they can't touch files, networks, or credentials they weren't explicitly allowed to.",
+  "buyer": "A security or compliance lead at a mid-size company who wants to let AI agents run autonomously without giving them unrestricted access to company systems.",
+  "business_use_cases": [
+    "A fintech company runs its AI coding agents inside it so they can edit code but never reach production credentials or customer data.",
+    "A managed-IT provider offers 'locked-down AI agent hosting' to clients nervous about letting AI touch their infrastructure.",
+    "A SaaS company lets customer-facing AI support agents run customer-specific scripts safely isolated from other tenants' data."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a hosted, managed version with pre-built policy templates (finance, healthcare, dev) as a compliance-focused SaaS for companies that won't self-host sandboxing infrastructure.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build and sell a one-click 'AI agent sandbox' preset for a specific vertical, like a law firm or clinic, this weekend as a $99 compliance starter pack.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-02T12:30:00Z"
+}

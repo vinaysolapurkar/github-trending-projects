@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-02",
+  "owner": "Panniantong",
+  "name": "Agent-Reach",
+  "full_name": "Panniantong/Agent-Reach",
+  "url": "https://github.com/Panniantong/Agent-Reach",
+  "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+  "language": "Python",
+  "stars_total": 87813,
+  "stars_today": 683,
+  "one_liner": "A tool that lets an AI assistant browse and search social media and video sites — Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — through one command, without paying for each site's official API.",
+  "buyer": "A marketing agency running AI research agents that needs cross-platform social listening without stacking five separate paid API subscriptions.",
+  "business_use_cases": [
+    "A marketing agency builds an automated competitor-monitoring bot that pulls brand mentions across Twitter, Reddit, and YouTube comments every morning.",
+    "A hedge fund analyst's AI agent scans Reddit and Twitter sentiment on a stock ticker before market open instead of paying for a Bloomberg-style social feed.",
+    "A China-market consultant builds an agent that watches XiaoHongShu and Bilibili trends for a Western brand trying to spot what's going viral there."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Package it as a hosted 'social listening for AI agents' API and charge agencies per seat or per request, since most teams don't want to run and maintain scraping infrastructure themselves.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, wrap it in a simple dashboard that runs a daily cross-platform mention report for one brand, and pitch it to a local business as the start of a bigger retainer.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-02T12:30:00Z"
+}

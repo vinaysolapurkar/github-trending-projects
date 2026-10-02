@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-02",
+  "owner": "DietrichGebert",
+  "name": "ponytail",
+  "full_name": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+  "language": "JavaScript",
+  "stars_total": 151160,
+  "stars_today": 1429,
+  "one_liner": "A set of instructions that trains an AI coding assistant to write the smallest possible fix instead of bloated code, like a terse senior developer glancing over its shoulder.",
+  "buyer": "A freelance developer or small dev shop billing clients for AI-assisted work who wants leaner, cheaper-to-review pull requests.",
+  "business_use_cases": [
+    "A freelance developer installs it on every client project so AI-generated pull requests are smaller and faster for non-technical clients to approve.",
+    "A coding bootcamp uses it as a teaching contrast, showing students bloated vs. minimal AI output side by side.",
+    "An agency that pays per AI token used adopts it to cut its own AI coding bill, improving margins on fixed-price projects."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Bundle it with other agent 'personality' presets (paranoid security reviewer, strict test writer) into a paid style pack sold to teams standardizing AI workflows.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, package it with 2-3 other personality presets into one installable bundle and sell it to indie devs who want to swap their agent's style per task.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-02T12:30:00Z"
+}

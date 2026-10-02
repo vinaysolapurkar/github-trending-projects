@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-02",
+  "owner": "JuliusBrussee",
+  "name": "caveman",
+  "full_name": "JuliusBrussee/caveman",
+  "url": "https://github.com/JuliusBrussee/caveman",
+  "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+  "language": "Go",
+  "stars_total": 108854,
+  "stars_today": 193,
+  "one_liner": "A joke-flavored tool that rewrites your AI coding assistant's conversations into terse 'caveman' language, acting as a proxy that claims to cut token usage — and therefore cost — by 65%.",
+  "buyer": "A startup CTO paying a large monthly bill for AI coding assistant usage across their engineering team who wants to cut costs without switching tools.",
+  "business_use_cases": [
+    "An agency running AI coding agents across dozens of client repos installs it as a proxy to shave real dollars off its monthly token bill.",
+    "A bootcamp uses it to teach students about token economics and prompt compression in a memorable, funny way.",
+    "A solo indie hacker running long overnight agent loops uses it to stretch a limited API budget further."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Turn the underlying compression technique into a broader 'token optimization proxy' SaaS for any LLM API, taking a cut of the measured savings.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Fork the compression approach into a drop-in proxy for whichever AI coding tool you use, measure your own real token savings this weekend, and publish the numbers as marketing.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-02T12:30:00Z"
+}

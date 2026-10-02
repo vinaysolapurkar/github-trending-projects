@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-02",
+  "owner": "Effect-TS",
+  "name": "effect",
+  "full_name": "Effect-TS/effect",
+  "url": "https://github.com/Effect-TS/effect",
+  "description": "Build production-ready applications in TypeScript",
+  "language": "TypeScript",
+  "stars_total": 16395,
+  "stars_today": 76,
+  "one_liner": "A toolkit that helps professional developers write more reliable, bug-resistant TypeScript applications by handling errors and async code in a more structured way.",
+  "buyer": "A CTO at a growing startup whose TypeScript codebase has become fragile, wanting more maintainable, production-grade code.",
+  "business_use_cases": [
+    "A fintech startup adopts it to reduce runtime crashes from unhandled errors in critical payment-processing code.",
+    "A consultancy that builds backend systems for clients standardizes on it to deliver more reliable code, using it as a selling point in pitches.",
+    "A training company builds a paid course or certification around it as more companies adopt it and need to upskill engineers."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid consulting and migration services helping companies adopt it in existing codebases, since the learning curve is steep.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, write and sell a focused 'migrate your Express app in a weekend' guide to TypeScript developers.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-02T12:30:00Z"
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-02",
+  "owner": "obra",
+  "name": "superpowers",
+  "full_name": "obra/superpowers",
+  "url": "https://github.com/obra/superpowers",
+  "description": "An agentic skills framework & software development methodology that works.",
+  "language": "Shell",
+  "stars_total": 294204,
+  "stars_today": 561,
+  "one_liner": "A packaged set of habits and checklists that teaches AI coding agents to follow a disciplined software development process, instead of writing whatever code comes to mind first.",
+  "buyer": "An engineering manager at a small company adopting AI coding agents who wants consistent quality and process, not one-off hacky code.",
+  "business_use_cases": [
+    "A dev agency installs it across every client project so AI-written features follow the same test-first, review-before-merge discipline.",
+    "A solo founder without a technical co-founder uses it as a built-in 'senior engineer' process so their AI-written app doesn't collapse under its own bugs.",
+    "A coding bootcamp licenses a customized version as a best-practices overlay for students pairing with AI coding tools."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a maintained 'team edition' fork with company-specific policy packs (security review, compliance checklists) sold to companies standardizing on AI-assisted development.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Package the methodology into an onboarding checklist for teams adopting Claude Code or Cursor at work, sold as a one-time team license this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-02T12:30:00Z"
+}
