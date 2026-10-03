@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-03",
+  "owner": "DietrichGebert",
+  "name": "ponytail",
+  "full_name": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+  "language": "JavaScript",
+  "stars_total": 152384,
+  "stars_today": 1289,
+  "one_liner": "A habit pack you install for your AI coding assistant that makes it write far less code to finish the same task, cutting your AI tool's bill and the review burden.",
+  "buyer": "An engineering lead at a startup watching their Claude Code / Cursor token spend climb every month.",
+  "business_use_cases": [
+    "A 10-person dev team installs it across their AI coding tools to cut monthly token spend by ~20%.",
+    "A code-review-heavy team uses it to shrink diffs so PRs are faster to review and merge.",
+    "An agency billing clients for AI-assisted dev work uses it to protect margins on fixed-price projects."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a 'cut your AI coding bill' audit: install it on a client's team, show before/after token cost, charge for the setup and tuning.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build a dashboard add-on that tracks and visualizes the savings over time, sold to engineering managers.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, build a simple before/after token-cost report generator that teams can run once to see projected savings, then upsell the install service.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-03T12:05:03Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-03",
+  "owner": "obra",
+  "name": "superpowers",
+  "full_name": "obra/superpowers",
+  "url": "https://github.com/obra/superpowers",
+  "description": "An agentic skills framework & software development methodology that works.",
+  "language": "Shell",
+  "stars_total": 294688,
+  "stars_today": 578,
+  "one_liner": "A complete step-by-step method (spec it, plan it, build it, review it) that turns an AI coding agent into a disciplined junior engineering team.",
+  "buyer": "A non-technical founder who wants to build real software with AI agents but needs guardrails so it doesn't go off the rails for hours.",
+  "business_use_cases": [
+    "A non-technical founder uses it to have an AI agent build their MVP with proper specs and tests instead of unreviewed vibe-coding.",
+    "A small agency standardizes client delivery on this methodology to reduce AI-introduced bugs.",
+    "An enterprise buys commercial support to get managed spending controls on top of the open framework."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell enterprise commercial support, as the project itself already hints at (managed spending, extra tooling).",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer a 'go from idea to shipped app' coaching package for non-technical founders using the method.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, offer a flat-fee 'ship your MVP with AI, done right' package to a non-technical founder, using this methodology as your process.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-03T12:05:03Z"
+}

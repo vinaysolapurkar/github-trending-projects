@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-03",
+  "owner": "earendil-works",
+  "name": "pi",
+  "full_name": "earendil-works/pi",
+  "url": "https://github.com/earendil-works/pi",
+  "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+  "language": "TypeScript",
+  "stars_total": 111945,
+  "stars_today": 408,
+  "one_liner": "A bare-bones, highly customizable AI coding agent that developers can reshape into exactly the tool they want, instead of accepting someone else's defaults.",
+  "buyer": "A developer tooling founder who wants to build a custom AI coding product without starting from scratch.",
+  "business_use_cases": [
+    "A startup builds a vertical-specific coding assistant (e.g. for a particular framework) on top of it instead of building an agent loop from scratch.",
+    "A power user builds and sells custom 'packages' (extensions/skills/themes) for others to install.",
+    "An agency offers custom AI agent setup services for clients who want something off the beaten path."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build and sell custom packages/extensions on npm or a marketplace for other users of the tool.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Use it as the base for a new, branded AI coding product sold as a subscription.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, build one sharp, opinionated package for a specific niche (e.g. a Rails-focused agent persona) and publish it with a 'pro' paid tier.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-03T12:05:03Z"
+}

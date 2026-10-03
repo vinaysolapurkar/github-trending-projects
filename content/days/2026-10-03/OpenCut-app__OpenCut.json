@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-03",
+  "owner": "OpenCut-app",
+  "name": "OpenCut",
+  "full_name": "OpenCut-app/OpenCut",
+  "url": "https://github.com/OpenCut-app/OpenCut",
+  "description": "The open-source CapCut alternative",
+  "language": "TypeScript",
+  "stars_total": 91333,
+  "stars_today": 234,
+  "one_liner": "A free, open-source alternative to CapCut for editing short videos, currently being rebuilt with automation and plugin support on the roadmap.",
+  "buyer": "A solo content creator or small social-media team who wants CapCut-style editing without subscription fees or watermarks.",
+  "business_use_cases": [
+    "A content creator uses the current 'classic' version as a free CapCut replacement for daily short-form editing.",
+    "A developer builds a narrow, branded editor for one niche (e.g. real-estate listing videos) once the plugin API ships.",
+    "An agency offers managed cloud-rendering for creators without powerful editing hardware, once headless mode ships."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Fork the stable 'classic' version into a narrow, vertical-specific editor and sell it as a subscription SaaS.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Once the plugin architecture ships, sell premium plugins/templates through a marketplace.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Offer a one-off 'set up your free video editor' service for creators intimidated by the open-source install process.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, fork the current 'classic' OpenCut, strip it down to one workflow (e.g. real-estate listing videos with branded templates), and sell seats to local agents.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-03T12:05:03Z"
+}

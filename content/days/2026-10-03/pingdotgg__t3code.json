@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-03",
+  "owner": "pingdotgg",
+  "name": "t3code",
+  "full_name": "pingdotgg/t3code",
+  "url": "https://github.com/pingdotgg/t3code",
+  "description": "",
+  "language": "TypeScript",
+  "stars_total": 24422,
+  "stars_today": 251,
+  "one_liner": "A phone and desktop app that lets you check on and control your AI coding agents running on your computer from anywhere.",
+  "buyer": "A developer who kicks off long AI coding tasks and wants to check progress and approve steps from their phone.",
+  "business_use_cases": [
+    "A solo founder starts a long AI build before leaving the office and approves/steers it from their phone at a coffee shop.",
+    "A tech lead supervises multiple AI agents running on different machines from one mobile dashboard.",
+    "A remote team standardizes on it to coordinate who's running which agent, avoiding collisions."
+  ],
+  "money_ideas": [
+    {
+      "idea": "No direct product here — it's a free, open tool the team explicitly says isn't being sold.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, if you run an AI coding bootcamp or newsletter, write a short guide on using it for 'AI coding on the go' to build audience goodwill.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-03T12:05:03Z"
+}

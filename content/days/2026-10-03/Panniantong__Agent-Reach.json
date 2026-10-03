@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-03",
+  "owner": "Panniantong",
+  "name": "Agent-Reach",
+  "full_name": "Panniantong/Agent-Reach",
+  "url": "https://github.com/Panniantong/Agent-Reach",
+  "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+  "language": "Python",
+  "stars_total": 89354,
+  "stars_today": 1683,
+  "one_liner": "Gives an AI agent the ability to read and search Twitter, Reddit, YouTube, GitHub and more, without paying for each platform's API.",
+  "buyer": "A social-media manager or brand strategist who needs to track what's being said about their brand or market, without a $500/month listening tool.",
+  "business_use_cases": [
+    "A brand manager builds a daily competitor-mention digest pulled from Reddit, Twitter and YouTube comments.",
+    "A marketing agency offers 'what's trending in your niche this week' reports to small-business clients.",
+    "A solo content creator builds a tool that surfaces trending Reddit threads in their niche to turn into posts."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Wrap it as a hosted 'social listening' SaaS billed per brand/keyword tracked.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell one-off trend reports to small businesses who can't afford enterprise listening tools.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Charge usage-based API credits to other developers who want the same cross-platform search without building it.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "This weekend, build a Slack bot that posts a daily 'what people are saying about you' digest for a specific niche (e.g. local restaurants) and sell it to 5 businesses.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-03T12:05:03Z"
+}

@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-03",
+  "matches": [
+    { "problem_id": "p001", "repo": "OpenCut-app/OpenCut", "why": "A free, open-source CapCut-style editor that cuts the cost of short-form social video editing, though it's mid-rewrite so the 'classic' version is the one to actually use today.", "confidence": "medium" },
+    { "problem_id": "p002", "repo": null, "why": "Nothing today addresses product photography directly; we'll notify when something does." },
+    { "problem_id": "p003", "repo": "thedotmack/claude-mem", "why": "Built specifically to give coding agents persistent memory across sessions, which is exactly this problem.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "DietrichGebert/ponytail", "why": "Explicitly targets AI agents that over-write code, with measured reductions of up to 94% on real tasks.", "confidence": "high" },
+    { "problem_id": "p005", "repo": null, "why": "The closest fit today is a course that teaches you to build a paper-organizing RAG system yourself, not a ready-made tool, so an honest null is more useful than a forced match." },
+    { "problem_id": "p006", "repo": "meituan-longcat/LongCat-Video", "why": "Generates video directly from text or a single image, giving an explainer YouTuber footage for a story with none.", "confidence": "high" },
+    { "problem_id": "p007", "repo": null, "why": "No bioinformatics-specific tool trended today; we'll notify when one does." },
+    { "problem_id": "p008", "repo": "cloudflare/cloudflare-os", "why": "Self-hostable agent workspace with a built-in 'Gatekeepers' security framework, which fits the need for a private, leak-safe AI chat, though it's not purpose-built for law firms.", "confidence": "medium" },
+    { "problem_id": "p009", "repo": null, "why": "LongCat-Video could generate the video half of this, but turning a blog post into a narrated video needs script-to-speech and editing glued on top that nothing today provides end-to-end." },
+    { "problem_id": "p010", "repo": null, "why": "No self-owned note-taking alternative trended today." },
+    { "problem_id": "p011", "repo": null, "why": "Today's agent-methodology tools (Superpowers, Agent Skills, etc.) help you build new code well, but none is purpose-built for making sense of an existing messy codebase." },
+    { "problem_id": "p012", "repo": "jamwithai/production-agentic-rag-course", "why": "A structured, hands-on course that takes a beginner from zero to a real production AI system, which is exactly the on-ramp this problem needs.", "confidence": "high" },
+    { "problem_id": "p013", "repo": null, "why": "No inventory-management tool trended today; we'll notify when one does." }
+  ]
+}

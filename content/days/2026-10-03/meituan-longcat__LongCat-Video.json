@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-03",
+  "owner": "meituan-longcat",
+  "name": "LongCat-Video",
+  "full_name": "meituan-longcat/LongCat-Video",
+  "url": "https://github.com/meituan-longcat/LongCat-Video",
+  "description": "",
+  "language": "Python",
+  "stars_total": 8598,
+  "stars_today": 43,
+  "one_liner": "An AI model that generates video straight from a text description or a single image, no camera or footage needed.",
+  "buyer": "A YouTuber or marketing agency who needs a short explainer or product video fast and can't afford a film crew.",
+  "business_use_cases": [
+    "A news-explainer YouTuber generates illustrative b-roll for a breaking story that has no real footage.",
+    "A marketing agency generates dozens of short product-demo video variants for ad testing without reshoots.",
+    "An e-commerce seller turns a single product photo into a short promotional video clip for social ads."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Wrap the model behind a simple web app and charge per video generated.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Sell a monthly plan to small marketing agencies for a bundle of generated ad videos.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer a one-off custom video-ad service to local businesses who send a product photo and get a video back.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, build a one-page tool: upload a product photo, get a 10-second promo video back, and sell packs of 10 videos to local shop owners.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-03T12:05:03Z"
+}

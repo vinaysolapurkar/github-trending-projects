@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-03",
+  "owner": "cloudflare",
+  "name": "cloudflare-os",
+  "full_name": "cloudflare/cloudflare-os",
+  "url": "https://github.com/cloudflare/cloudflare-os",
+  "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+  "language": "TypeScript",
+  "stars_total": 10386,
+  "stars_today": 84,
+  "one_liner": "An internal company AI workspace — chat with agents that know your company's systems, and let non-technical staff safely build small apps.",
+  "buyer": "An IT/ops leader at a 50-500 person company who wants an internal ChatGPT-like tool but safely connected to company data and systems.",
+  "business_use_cases": [
+    "An ops team deploys it so non-engineers can build simple internal apps (dashboards, trackers) without IT tickets.",
+    "A sales team uses the built-in slide-deck generator to prep customer meeting decks in minutes.",
+    "A security team uses the 'Gatekeepers' guardrails to let staff experiment with AI without risking data leaks."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid deployment, branding ('YourCompany OS') and integration consulting for mid-size companies.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Run a managed-hosting version so companies don't need their own Cloudflare/DevOps expertise, billed monthly.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, deploy a branded version for one local mid-size business (e.g. a law firm or agency) and sell it as a managed 'Company OS' subscription.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-03T12:05:03Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-03",
+  "owner": "affaan-m",
+  "name": "ECC",
+  "full_name": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+  "language": "JavaScript",
+  "stars_total": 271757,
+  "stars_today": 578,
+  "one_liner": "A performance-tuning layer for AI coding assistants that adds memory, security checks, and research habits so they make fewer mistakes.",
+  "buyer": "A platform/DevOps lead at a mid-size engineering org standardizing how every team uses AI coding agents.",
+  "business_use_cases": [
+    "An engineering platform team rolls it out org-wide to reduce AI-introduced security bugs.",
+    "A consultancy uses it as a selling point: 'our AI-assisted delivery includes built-in safety and memory.'",
+    "A solo developer uses it to keep long AI coding sessions from losing context on big refactors."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid onboarding/configuration services for engineering orgs adopting it at scale.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build and sell a hosted dashboard that tracks the security/instinct checks across a whole org.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, write a one-page 'AI agent safety checklist' lead magnet using its security rules, and use it to sell setup consulting to small dev shops.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-03T12:05:03Z"
+}

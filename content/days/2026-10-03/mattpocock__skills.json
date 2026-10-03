@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-03",
+  "owner": "mattpocock",
+  "name": "skills",
+  "full_name": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "language": "Shell",
+  "stars_total": 275024,
+  "stars_today": 750,
+  "one_liner": "A curated set of real-world engineering habits for AI coding agents, shared free by a popular TypeScript educator with 60,000 newsletter readers.",
+  "buyer": "A developer following the author's newsletter who wants battle-tested AI workflows instead of generic defaults.",
+  "business_use_cases": [
+    "A solo developer installs the plugin to get senior-level engineering habits without building their own skill set.",
+    "The author monetizes the audience this drives into paid courses and consulting.",
+    "A team lead points junior engineers at it as the 'house style' for using AI coding tools."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Use it as a funnel into the author's existing paid newsletter and course offerings.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer paid 1:1 or small-group coaching on customizing the skills for a specific company's stack.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, if you run a dev newsletter, publish your own curated skills repo as free marketing that funnels into a paid course, following this exact playbook.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-03T12:05:03Z"
+}

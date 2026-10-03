@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-03",
+  "owner": "jamwithai",
+  "name": "production-agentic-rag-course",
+  "full_name": "jamwithai/production-agentic-rag-course",
+  "url": "https://github.com/jamwithai/production-agentic-rag-course",
+  "description": "",
+  "language": "Python",
+  "stars_total": 9274,
+  "stars_today": 192,
+  "one_liner": "A hands-on course that teaches you, step by step, how to build a real research-assistant AI that searches and answers questions over documents.",
+  "buyer": "An aspiring AI engineer who wants to move from tutorials to a genuinely production-grade AI project for their portfolio or job search.",
+  "business_use_cases": [
+    "A bootcamp licenses the curriculum as part of a paid AI-engineering certificate program.",
+    "A corporate L&D team buys it as structured internal training for engineers moving into AI roles.",
+    "The creator runs it as a paid cohort course with live mentorship and project reviews."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell cohort-based paid course seats with live mentorship and code review.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "License the curriculum to bootcamps or corporate training teams.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer an ongoing 'office hours' community subscription for alumni.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, package the existing material into a $199 self-paced cohort with a weekly live Q&A call and launch it to a waitlist.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-03T12:05:03Z"
+}

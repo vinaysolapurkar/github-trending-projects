@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-03",
+  "owner": "anthropics",
+  "name": "claude-code",
+  "full_name": "anthropics/claude-code",
+  "url": "https://github.com/anthropics/claude-code",
+  "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+  "language": "TypeScript",
+  "stars_total": 149038,
+  "stars_today": 127,
+  "one_liner": "A terminal-based AI assistant that reads your codebase and writes, fixes and explains code using plain-English instructions.",
+  "buyer": "An engineering manager rolling out AI coding tools across a team and needing to track adoption, usage and cost.",
+  "business_use_cases": [
+    "A company adopts it company-wide and needs a training program to get engineers productive with it fast.",
+    "A platform team builds internal dashboards tracking token spend and usage per engineer/team.",
+    "A plugin developer builds and sells niche plugins (industry-specific skills, integrations) into its plugin ecosystem."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell corporate training/onboarding workshops to companies adopting it at scale.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build a usage/cost analytics SaaS dashboard for engineering managers, billed per seat.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Publish and sell premium plugins into its marketplace.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "This weekend, build a lightweight dashboard that ingests a team's Claude Code usage logs and shows cost-per-engineer, and pitch it to 3 engineering managers.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-03T12:05:03Z"
+}

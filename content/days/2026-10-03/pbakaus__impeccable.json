@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-03",
+  "owner": "pbakaus",
+  "name": "impeccable",
+  "full_name": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "description": "The design language that makes your AI harness better at design.",
+  "language": "JavaScript",
+  "stars_total": 74663,
+  "stars_today": 705,
+  "one_liner": "A rulebook and command set that stops AI-built websites from all looking like the same generic SaaS template.",
+  "buyer": "A freelance developer or small agency shipping client websites built mostly by AI, who needs them to not look AI-generated.",
+  "business_use_cases": [
+    "A solo-founder agency uses it to polish AI-built MVPs before client demos, winning repeat business.",
+    "A no-code/low-code shop runs the detector rules as a QA gate before every client delivery.",
+    "A freelancer sells a 'design audit' pass on an existing AI-built site to fix the tell-tale generic look."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a flat-fee 'de-genericize your AI website' audit and fix package to small businesses.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer an ongoing design QA subscription for agencies shipping multiple AI-built sites per month.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, package the CLI's audit output into a branded PDF report and sell it as a $99 'does your site look AI-made?' check to small business owners.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-03T12:05:03Z"
+}

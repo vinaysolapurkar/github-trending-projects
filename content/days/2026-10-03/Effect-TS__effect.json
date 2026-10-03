@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-03",
+  "owner": "Effect-TS",
+  "name": "effect",
+  "full_name": "Effect-TS/effect",
+  "url": "https://github.com/Effect-TS/effect",
+  "description": "Build production-ready applications in TypeScript",
+  "language": "TypeScript",
+  "stars_total": 16682,
+  "stars_today": 302,
+  "one_liner": "A programming toolkit that helps professional software teams write TypeScript apps that fail less often in production.",
+  "buyer": "A CTO at a funded startup choosing the technical foundation for a new product, who wants fewer production outages.",
+  "business_use_cases": [
+    "A startup adopts it as their backend foundation to reduce bugs from unhandled errors.",
+    "A dev tooling vendor builds paid training material specifically for teams migrating to it.",
+    "A staffing agency builds a niche around supplying 'Effect-experienced' contractors, a scarce skill."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a cohort-based 'production Effect' training course to engineering teams adopting it.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer paid production support retainers to companies running it in production.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, record a tight 2-hour 'Effect in production' workshop and sell seats to teams already using it, found via their Discord and GitHub issues.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-03T12:05:03Z"
+}

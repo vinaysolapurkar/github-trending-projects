@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-03",
+  "owner": "JuliusBrussee",
+  "name": "caveman",
+  "full_name": "JuliusBrussee/caveman",
+  "url": "https://github.com/JuliusBrussee/caveman",
+  "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+  "language": "Go",
+  "stars_total": 109307,
+  "stars_today": 505,
+  "one_liner": "A translator that makes your AI coding assistant talk in short, blunt sentences instead of flowery prose, so each request costs less.",
+  "buyer": "A solo developer or small team paying per-token for an AI coding subscription who wants a lower monthly bill.",
+  "business_use_cases": [
+    "An indie hacker running dozens of daily AI coding sessions installs it to stretch a fixed monthly AI budget further.",
+    "A dev tooling vendor bundles it into a 'cost optimization' feature of their own AI product.",
+    "A bootcamp teaches it as a tip for students on free-tier AI coding plans."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'tune your agent for cost' setup service to freelancers on tight AI budgets.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build a lightweight SaaS that tracks token savings across a team and reports monthly ROI.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, build a simple cost calculator landing page: 'see how much you'd save' based on a team's current AI coding spend, to drive installs and upsells.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-03T12:05:03Z"
+}

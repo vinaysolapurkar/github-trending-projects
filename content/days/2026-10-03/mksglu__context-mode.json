@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-03",
+  "owner": "mksglu",
+  "name": "context-mode",
+  "full_name": "mksglu/context-mode",
+  "url": "https://github.com/mksglu/context-mode",
+  "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+  "language": "TypeScript",
+  "stars_total": 25157,
+  "stars_today": 256,
+  "one_liner": "Shrinks the amount of text an AI coding agent has to re-read each time, so it stays fast and focused even on huge projects.",
+  "buyer": "A platform engineer at a large company (the README cites usage at firms like Microsoft and Google) standardizing AI coding tools across many teams.",
+  "business_use_cases": [
+    "A large engineering org deploys it to keep AI agent costs and latency manageable across thousands of daily sessions.",
+    "A platform team uses the session-memory feature to maintain long-running AI agent projects without context loss.",
+    "A dev tooling vendor licenses the underlying approach into their own enterprise AI coding product."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer an enterprise support/licensing tier on top of the open-source core (its license already signals this direction).",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell rollout and tuning consulting to large orgs standardizing on it.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, write a case-study style comparison showing token/cost savings at scale, and use it to pitch a paid rollout engagement to a mid-size engineering org.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-03T12:05:03Z"
+}

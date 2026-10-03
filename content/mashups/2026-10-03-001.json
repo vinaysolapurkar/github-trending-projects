@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-03-001",
+  "date": "2026-10-03",
+  "repo_a": "Panniantong/Agent-Reach",
+  "repo_b": "meituan-longcat/LongCat-Video",
+  "title": "Trend Reactor",
+  "pitch": "Build a pipeline that watches Reddit, Twitter and YouTube in real time with Agent-Reach's zero-API-fee social search, spots a breaking story or viral moment within minutes, and immediately generates a 30-60 second explainer or reaction video with LongCat-Video's text-to-video model, fully captioned and branded. Sell it as a subscription tool to solo news/explainer YouTubers and social-media managers who need to post reactive content same-day but don't have a camera crew or hours to spare editing footage that doesn't exist yet.",
+  "why_now": "Both repos trended today for solving the two hardest parts of fast reactive video content: Agent-Reach removes the cost and hassle of tracking what's trending across platforms, and LongCat-Video removes the need for real footage entirely. Combined, they collapse 'something just went viral' to 'a posted video' down to minutes instead of hours."
+}

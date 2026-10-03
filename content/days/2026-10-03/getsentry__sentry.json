@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-03",
+  "owner": "getsentry",
+  "name": "sentry",
+  "full_name": "getsentry/sentry",
+  "url": "https://github.com/getsentry/sentry",
+  "description": "Developer-first error tracking and performance monitoring",
+  "language": "Python",
+  "stars_total": 45113,
+  "stars_today": 211,
+  "one_liner": "A tool that tells developers exactly why their app or website crashed, with the trace to fix it fast, instead of digging through server logs.",
+  "buyer": "An engineering manager at a small SaaS company who needs to know about and fix production bugs before customers complain.",
+  "business_use_cases": [
+    "A startup self-hosts it to monitor their production app without the cost of the hosted enterprise plan.",
+    "An agency offers managed Sentry setup and monitoring as part of their app-maintenance retainer for small-business clients.",
+    "A vertical SaaS builds a simplified, pre-configured error dashboard on top of it for a specific platform (e.g. Shopify app developers)."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a managed self-hosted Sentry service for startups who don't want to run their own ops, billed monthly.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell a one-off 'production health checkup' using it to diagnose a client's existing app issues.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, stand up a self-hosted Sentry instance pre-configured for Shopify/WooCommerce apps and offer it as a $29/month add-on to small e-commerce dev shops.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-03T12:05:03Z"
+}
