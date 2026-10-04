@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-04",
+  "owner": "tester-army",
+  "name": "e2e",
+  "full_name": "tester-army/e2e",
+  "url": "https://github.com/tester-army/e2e",
+  "description": "Next generation e2e testing framework for web and mobile apps.",
+  "language": "TypeScript",
+  "stars_total": 2394,
+  "stars_today": 344,
+  "one_liner": "A testing tool where you describe a user goal in plain English (like 'upgrade to Pro') and a robot clicks through your website or app to check it actually works, then remembers the steps so it's fast and cheap to re-check later.",
+  "buyer": "A QA lead or engineering manager at a 10-50 person software company who is tired of brittle click-recorder tests breaking every release.",
+  "business_use_cases": [
+    "A SaaS company wires it into every pull request so a broken checkout flow is caught before it ships, not after a customer complains.",
+    "A QA agency offers 'AI-written regression suites' as a service to clients who have no in-house test coverage.",
+    "An e-commerce team runs it nightly against staging to catch a broken 'add to cart' button across ten device sizes."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Run a boutique QA-as-a-service shop: write and maintain e2e test suites for small SaaS teams who can't afford a QA hire.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Build and sell a hosted dashboard that aggregates test runs, flaky-test detection, and PR comments for teams self-hosting the open-source core.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, package a 'free broken-checkout audit': point the tool at five local e-commerce sites, screenshot the failures, and use that as a lead-gen offer for a paid QA retainer.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-04T12:05:34Z"
+}

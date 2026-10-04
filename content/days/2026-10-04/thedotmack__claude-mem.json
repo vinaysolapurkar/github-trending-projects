@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-04",
+  "owner": "thedotmack",
+  "name": "claude-mem",
+  "full_name": "thedotmack/claude-mem",
+  "url": "https://github.com/thedotmack/claude-mem",
+  "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+  "language": "TypeScript",
+  "stars_total": 95852,
+  "stars_today": 627,
+  "one_liner": "Gives an AI coding assistant a long-term memory of a project, so it doesn't forget everything it learned yesterday and make you re-explain the same context every single session.",
+  "buyer": "A developer or small team running long-lived projects with AI coding assistants who's tired of re-explaining project context every new session.",
+  "business_use_cases": [
+    "A solo developer working on a large app over months uses it so the AI assistant remembers past architectural decisions without re-reading the whole codebase each time.",
+    "A dev agency managing multiple long-running client codebases uses it to keep each project's AI assistant context isolated and persistent per client.",
+    "A team already running the project's own hosted 'Pro' memory tier pays for cross-device, cross-session memory sync instead of self-hosting."
+  ],
+  "money_ideas": [
+    {
+      "idea": "The project already demonstrates this: a hosted 'memory as a service' tier (their own CMEM Pro) that developers pay for instead of self-hosting.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer paid onboarding/integration support for larger teams wiring persistent memory into non-standard agent harnesses.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, build a thin wrapper that exports a project's accumulated agent memory as onboarding docs for new hires, turning 'what the AI remembers' into 'what a new engineer needs to know'.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-04T12:05:34Z"
+}

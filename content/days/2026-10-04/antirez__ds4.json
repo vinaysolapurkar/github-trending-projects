@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-04",
+  "owner": "antirez",
+  "name": "ds4",
+  "full_name": "antirez/ds4",
+  "url": "https://github.com/antirez/ds4",
+  "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+  "language": "C",
+  "stars_total": 23267,
+  "stars_today": 211,
+  "one_liner": "Software that lets a capable AI language model run directly on your own Mac or PC hardware instead of through a paid cloud API, specialized for a small set of top open models.",
+  "buyer": "A company handling sensitive data (legal, healthcare, finance) that needs a capable AI model running on hardware they own, not sent to a third-party cloud API.",
+  "business_use_cases": [
+    "A law firm or healthcare provider runs it on owned hardware to get AI assistance without ever sending client data to an external API.",
+    "A hardware reseller builds and sells pre-configured 'local AI workstation' machines (Mac Studios, DGX Spark boxes) tuned around it.",
+    "An AI infra consultant offers setup and tuning services for companies wanting multi-GPU local inference instead of ongoing API costs."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell pre-built, pre-tuned local-inference hardware bundles (Mac Studio or multi-GPU rigs) targeted at privacy-sensitive buyers.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a managed on-prem AI setup and maintenance retainer for regulated industries that can't use cloud AI APIs.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, package a turnkey 'private AI in a box' offer for one regulated-industry client: a tuned machine plus setup, positioned against cloud AI's data-privacy risk.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-04T12:05:34Z"
+}

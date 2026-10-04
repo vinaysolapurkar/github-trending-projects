@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-04",
+  "owner": "garrytan",
+  "name": "gstack",
+  "full_name": "garrytan/gstack",
+  "url": "https://github.com/garrytan/gstack",
+  "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+  "language": "TypeScript",
+  "stars_total": 134989,
+  "stars_today": 121,
+  "one_liner": "A packaged copy of a well-known tech CEO's personal AI coding setup — 23 specialist 'roles' (a designer, a QA tester, a release manager) that review and ship your code so a solo founder can work like they have a small team.",
+  "buyer": "A solo technical founder or very small startup team who wants the discipline of a full engineering org without hiring one.",
+  "business_use_cases": [
+    "A solo founder uses the design and QA roles to catch 'AI slop' and production bugs before shipping, without hiring a designer or QA engineer.",
+    "A two-person startup uses the release and security roles to run OWASP-style audits before every launch they couldn't otherwise afford.",
+    "A first-time Claude Code user adopts it as training wheels, using structured slash commands instead of an intimidating blank prompt."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid onboarding/customization: adapt the 23-role setup to a specific founder's stack and ship a tuned fork for a fee.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Run a cohort-based course teaching solo founders this 'virtual engineering team' workflow end to end.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, offer a flat-fee '/qa and /review audit' service for indie founders: run the toolkit against their shipped product and hand them a prioritized bug/security list.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-04T12:05:34Z"
+}

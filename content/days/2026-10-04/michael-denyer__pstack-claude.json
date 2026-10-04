@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-04",
+  "owner": "michael-denyer",
+  "name": "pstack-claude",
+  "full_name": "michael-denyer/pstack-claude",
+  "url": "https://github.com/michael-denyer/pstack-claude",
+  "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+  "language": "JavaScript",
+  "stars_total": 1072,
+  "stars_today": 242,
+  "one_liner": "A set of pre-written playbooks that make an AI coding assistant behave like a careful senior engineer — reproducing bugs, checking its own work, bringing in a second opinion for tricky changes — instead of just guessing.",
+  "buyer": "A developer who already uses AI coding assistants daily and wants more reliable output on bug fixes and features, not a non-technical business buyer.",
+  "business_use_cases": [
+    "A freelance developer installs it across client projects to get more consistent, verified bug fixes from their AI tooling, reducing rework.",
+    "A small dev shop standardizes every engineer's AI coding setup on it so junior developers get senior-level review built into their workflow.",
+    "An open-source maintainer uses the PR maintenance playbook to triage and fix issues faster with less manual review burden."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid setup/customization consulting for dev teams who want a tuned version of this workflow stack for their specific codebase.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Bundle it as part of a broader 'AI-assisted engineering process' training or workshop sold to engineering teams.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This is a developer productivity tool with no direct end-customer market; honestly, there's no real weekend business here beyond using it yourself or teaching a workshop on AI-assisted engineering practices.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-04T12:05:34Z"
+}

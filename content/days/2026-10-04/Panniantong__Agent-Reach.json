@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-04",
+  "owner": "Panniantong",
+  "name": "Agent-Reach",
+  "full_name": "Panniantong/Agent-Reach",
+  "url": "https://github.com/Panniantong/Agent-Reach",
+  "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+  "language": "Python",
+  "stars_total": 90317,
+  "stars_today": 979,
+  "one_liner": "A one-command installer that lets an AI assistant actually read Twitter, Reddit, YouTube transcripts, and other sites that normally block scrapers or charge for API access, without paying those API fees.",
+  "buyer": "A social-media manager or market researcher who needs to monitor what people are saying about a brand across platforms but can't afford Twitter/Reddit API costs.",
+  "business_use_cases": [
+    "A brand monitoring freelancer tracks mentions and sentiment about a client's product across Twitter, Reddit, and YouTube comments without paying for each platform's API.",
+    "A market researcher pulls competitor reviews and community discussion from Reddit and YouTube to build a weekly competitive intelligence brief.",
+    "A content creator's assistant watches trending topics across platforms and drafts response/reaction content ideas same-day."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a 'social listening without the API bill' service to small brands: weekly cross-platform mention and sentiment report.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer a managed-setup fee for non-technical clients who want this running but can't configure the cookie/login steps themselves.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, build a simple weekly digest generator: point it at a brand name, pull mentions across three platforms, and email a short summary — sell it to a local business as a cheap alternative to Brandwatch.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-04T12:05:34Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-04",
+  "owner": "caddyserver",
+  "name": "caddy",
+  "full_name": "caddyserver/caddy",
+  "url": "https://github.com/caddyserver/caddy",
+  "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+  "language": "Go",
+  "stars_total": 76280,
+  "stars_today": 31,
+  "one_liner": "A web server that automatically gets and renews the padlock/HTTPS certificate for any website it runs, so you never have to manually deal with SSL certificates again.",
+  "buyer": "A small hosting provider or agency running many client websites who wants to stop paying for or manually renewing SSL certificates.",
+  "business_use_cases": [
+    "A boutique web hosting provider runs it as the front door for dozens of client sites, eliminating manual certificate renewal work.",
+    "An internal IT team uses it to give every internal tool and service automatic HTTPS without a dedicated security engineer.",
+    "A dev agency deploys it as a reverse proxy in front of client apps to standardize TLS across all their deployments."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer managed hosting/ops for small businesses built on top of it, selling the simplicity of zero-maintenance HTTPS as a feature.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell infrastructure setup and migration consulting for companies moving off nginx/Apache to simplify their TLS operations.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This is mature infrastructure software, not a weekend product opportunity; the honest move is using it as a free building block inside a hosting or agency offering, not building a new business around it directly.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-04T12:05:34Z"
+}

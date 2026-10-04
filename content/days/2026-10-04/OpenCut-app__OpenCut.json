@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-04",
+  "owner": "OpenCut-app",
+  "name": "OpenCut",
+  "full_name": "OpenCut-app/OpenCut",
+  "url": "https://github.com/OpenCut-app/OpenCut",
+  "description": "The open-source CapCut alternative",
+  "language": "TypeScript",
+  "stars_total": 91840,
+  "stars_today": 512,
+  "one_liner": "A free, open-source video editor (like CapCut or Premiere, but you can run it yourself or build on it) that works in the browser, on desktop, and soon on mobile.",
+  "buyer": "A content creator, small media team, or SaaS founder who wants CapCut-style editing but self-hosted, white-labeled, or embedded into their own product.",
+  "business_use_cases": [
+    "A content creator studio self-hosts it to avoid CapCut's subscription fees and watermarks while keeping full control of their footage.",
+    "A startup building a niche video product (wedding videos, sports highlight reels) forks it and specializes the editor instead of building one from scratch.",
+    "An agency embeds the upcoming headless/API mode to offer automated batch video rendering as part of a content pipeline product."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build a hosted, white-labeled version of the editor for a specific niche (e.g. real estate video tours) and charge a subscription.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Once the plugin architecture ships, sell premium plugins (templates, effects, integrations) in a marketplace.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, fork the classic version and ship a narrow, branded editor for one use case (e.g. short-form product demo videos) rather than competing as a general editor.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-04T12:05:34Z"
+}

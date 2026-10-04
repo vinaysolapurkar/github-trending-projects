@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-04",
+  "owner": "coreyhaines31",
+  "name": "marketingskills",
+  "full_name": "coreyhaines31/marketingskills",
+  "url": "https://github.com/coreyhaines31/marketingskills",
+  "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+  "language": "JavaScript",
+  "stars_total": 52762,
+  "stars_today": 345,
+  "one_liner": "A packet of marketing know-how (how to write landing page copy, run an A/B test, fix SEO) that you hand to an AI assistant so it acts like a competent marketing hire instead of generic advice.",
+  "buyer": "A technical solo founder who has no marketer on staff and needs to write landing pages, emails, and ad copy without hiring an agency.",
+  "business_use_cases": [
+    "A solo SaaS founder uses the copywriting and CRO skills to rewrite their pricing page and measurably lifts signups.",
+    "A small e-commerce brand uses the SEO and ads skills to plan a content calendar without paying for a marketing agency retainer.",
+    "A fractional CMO uses it as a checklist system to deliver consistent, higher-quality work across multiple small clients at once."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid 'done-with-AI' marketing sprints for small businesses: install the skills, run a CRO audit, deliver copy and a test plan.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Become a registered tool partner (as the repo's own partner program shows) and pay for placement in front of its install base of technical marketers.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "This weekend, run the cro and copywriting skills against three local small-business websites, produce a one-page 'here's what's costing you signups' report, and pitch it as a paid audit.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-04T12:05:34Z"
+}

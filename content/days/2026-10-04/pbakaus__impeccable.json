@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-04",
+  "owner": "pbakaus",
+  "name": "impeccable",
+  "full_name": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "description": "The design language that makes your AI harness better at design.",
+  "language": "JavaScript",
+  "stars_total": 75800,
+  "stars_today": 1170,
+  "one_liner": "A rulebook you give your AI coding assistant so the websites it builds stop looking like every other generic AI-made site (same purple gradient, same rounded icon box) and instead look like something a real designer made.",
+  "buyer": "A solo founder or small agency shipping client websites with AI coding tools who is embarrassed that every site they ship looks the same.",
+  "business_use_cases": [
+    "A freelance web developer runs '/impeccable polish' on a client site before delivery so it doesn't scream 'made with AI'.",
+    "A no-code agency standardizes every new build on this skill so junior staff produce consistent, non-templated design without a dedicated designer.",
+    "An indie SaaS founder uses it to redesign their landing page before a product launch instead of hiring a $3k design contractor."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a flat-fee 'de-AI-ify your site' service: run the skill against a client's existing AI-built site and deliver a polished before/after.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell a premium pack of additional visual-direction presets (brutalist, editorial, luxury) on top of the free base skill.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, build a one-page 'AI slop checker': paste a URL, run the detector rules, and show a public shareable report card grading the site's design clichés — then upsell the fix.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-04T12:05:34Z"
+}

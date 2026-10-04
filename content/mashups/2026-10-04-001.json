@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-04-001",
+  "date": "2026-10-04",
+  "repo_a": "calesthio/OpenMontage",
+  "repo_b": "OpenCut-app/OpenCut",
+  "title": "The AI Video Studio-in-a-Box",
+  "pitch": "OpenMontage turns a plain-language brief into a fully produced video — script, generated clips, voiceover, music — but hands you a rendered file with no further control. OpenCut is a real, open-source editor shell waiting for an API and headless mode. Wire OpenMontage's production pipeline in as OpenCut's first 'AI assist' plugin: a client types 'make me a 30-second product teaser,' OpenMontage drafts the full rough cut, and it lands directly in an OpenCut timeline where the client can trim, re-voice a line, or swap a clip before export. That's a one-click first draft plus a real editor for the 10% a human always wants to touch — sellable to small agencies and solo creators as a monthly content-engine subscription instead of a per-video freelance invoice.",
+  "why_now": "OpenMontage just showed agentic video production working end-to-end for pennies, and OpenCut's README explicitly says its rewrite is adding an Editor API and headless mode built for exactly this kind of integration — the plumbing for this mashup is being built on both sides this quarter."
+}

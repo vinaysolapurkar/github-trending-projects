@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-04",
+  "owner": "addyosmani",
+  "name": "agent-skills",
+  "full_name": "addyosmani/agent-skills",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "description": "Production-grade engineering skills for AI coding agents.",
+  "language": "JavaScript",
+  "stars_total": 100984,
+  "stars_today": 336,
+  "one_liner": "A packaged set of senior-engineer habits (write a spec first, test before shipping, review code health before merging) that you install into an AI coding tool so it follows a disciplined process instead of writing whatever it feels like.",
+  "buyer": "An engineering manager who lets junior developers or non-engineers use AI coding tools and needs guardrails so the output is actually production-safe.",
+  "business_use_cases": [
+    "A startup with mostly junior engineers installs it to enforce spec-first, test-driven development across every AI-assisted change.",
+    "A no-code-to-code agency uses the review and ship commands to bring non-engineer-built AI apps up to a shippable quality bar.",
+    "A consultancy sells 'AI engineering process setup' to clients who've adopted AI coding tools but have no quality process around them."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'AI engineering process audit and setup' consulting package for teams adopting AI coding tools at scale.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Run training workshops teaching teams the spec-plan-build-test-review-ship workflow built around this skill set.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This is a free dev-process tool with no built-in monetization; the realistic weekend move is packaging a one-day 'AI engineering process' workshop for a local dev team, not building a product on top of it.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-04T12:05:34Z"
+}

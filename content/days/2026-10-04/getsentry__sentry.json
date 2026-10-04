@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-04",
+  "owner": "getsentry",
+  "name": "sentry",
+  "full_name": "getsentry/sentry",
+  "url": "https://github.com/getsentry/sentry",
+  "description": "Developer-first error tracking and performance monitoring",
+  "language": "Python",
+  "stars_total": 45268,
+  "stars_today": 152,
+  "one_liner": "A dashboard that tells a software team the moment their app breaks for a real user — what broke, which line of code, and how often — instead of waiting for a customer complaint.",
+  "buyer": "An engineering manager at a company whose app has paying users and can't afford to fly blind when something crashes in production.",
+  "business_use_cases": [
+    "A startup self-hosts it to avoid per-seat SaaS monitoring fees once their error volume grows past the free tier of hosted alternatives.",
+    "An agency building apps for clients bundles self-hosted error monitoring into its support retainer as a value-add.",
+    "A dev-tools consultant offers 'production health audits' using it to show a client where their app is silently failing."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer managed self-hosting and setup as a service for companies that want Sentry's features without running the infrastructure themselves.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Bundle a one-time 'production health audit' using it to find and triage a client's hidden error backlog.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This is a mature, already-commercialized project (Sentry the company); the realistic weekend move is reselling setup and triage services around the open-source self-hosted version, not competing with it directly.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-04T12:05:34Z"
+}

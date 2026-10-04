@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-04",
+  "owner": "pingdotgg",
+  "name": "t3code",
+  "full_name": "pingdotgg/t3code",
+  "url": "https://github.com/pingdotgg/t3code",
+  "description": "",
+  "language": "TypeScript",
+  "stars_total": 24913,
+  "stars_today": 492,
+  "one_liner": "A remote control (phone app, desktop app, or web app) for the AI coding assistants already running on your computer, so you can check on or steer a coding task from your phone instead of staying glued to your laptop.",
+  "buyer": "A developer who kicks off a long AI coding task and wants to check progress or approve a risky step from their phone while away from their desk.",
+  "business_use_cases": [
+    "A freelance developer monitors and approves AI agent actions on a client project from their phone while commuting.",
+    "A small dev team uses it to let a non-desk-bound lead approve or redirect in-progress AI coding sessions remotely.",
+    "A solo founder babysits an overnight AI build-out from bed via the mobile app instead of leaving a laptop open."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a managed/hosted tier with team seats, shared session history, and permissioning for small dev teams.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell integration/setup consulting for teams standardizing on multiple agent harnesses who want one remote control surface.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This is a dev-only convenience tool with no end-customer market beyond developers themselves; the realistic weekend move is skipping a new business here and instead just using it to be more productive.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-04T12:05:34Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-04",
+  "owner": "earthtojake",
+  "name": "text-to-cad",
+  "full_name": "earthtojake/text-to-cad",
+  "url": "https://github.com/earthtojake/text-to-cad",
+  "description": "Give your agent CAD superpowers.",
+  "language": "Python",
+  "stars_total": 16658,
+  "stars_today": 75,
+  "one_liner": "Lets an AI assistant design, check, and prepare real physical parts — 3D models, engineering drawings, robot parts, 3D-print files — from a plain description, instead of needing a trained CAD engineer at the keyboard.",
+  "buyer": "A hardware startup founder or product designer who can't afford a full-time mechanical engineer but needs to iterate on part designs fast.",
+  "business_use_cases": [
+    "A small hardware startup uses it to generate and dimension a custom enclosure, skipping a $5k-a-month contract CAD engineer for early iterations.",
+    "A maker running a 3D-printing side business uses it to turn customer sketches into printable, pre-checked STL files same-day.",
+    "A robotics hobbyist studio uses the URDF/SDF skills to spin up simulator-ready robot models for client demos without a robotics specialist."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Run a 'describe it, get a printable part' service for makers and small inventors: they send a sketch or sentence, you deliver a checked STEP/STL file.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a subscription CAD-ops add-on for hardware startups: ongoing part iteration, DFM review, and vendor (SendCutSend) handoff.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, build a simple intake form where someone describes a bracket or enclosure in plain English and gets back a dimensioned PDF drawing plus an STL, priced per part.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-04T12:05:34Z"
+}

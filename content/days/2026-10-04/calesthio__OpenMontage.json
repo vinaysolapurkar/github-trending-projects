@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-04",
+  "owner": "calesthio",
+  "name": "OpenMontage",
+  "full_name": "calesthio/OpenMontage",
+  "url": "https://github.com/calesthio/OpenMontage",
+  "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+  "language": "Python",
+  "stars_total": 62816,
+  "stars_today": 292,
+  "one_liner": "Turns an AI coding assistant into a mini video studio: you describe the video you want and it researches, writes the script, generates clips and voiceover, and edits a finished video — for pennies to a few dollars in compute.",
+  "buyer": "A solo content creator or small marketing team who needs a steady stream of short video content but can't afford an editor or stock footage licenses.",
+  "business_use_cases": [
+    "A YouTube explainer channel uses it to turn a blog post into a narrated video with captions and stock-style motion footage in a single afternoon.",
+    "A small e-commerce brand generates short product-demo and ad videos in-house instead of paying $500-2000 per video to a freelance editor.",
+    "A social media agency offers 'AI video production' as a cheap add-on tier for clients who can't afford full video production."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Run a video-as-a-service shop for small businesses: client describes the video, you run the pipeline, deliver a finished cut, charge per video.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a monthly 'content engine' subscription producing a batch of short social videos per month for a brand.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, pick a niche (real estate listings, local restaurant promos, product demos) and produce five sample videos using the tool, then pitch a $200/month video retainer to three local businesses.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-04T12:05:34Z"
+}
