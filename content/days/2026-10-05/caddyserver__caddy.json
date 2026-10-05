@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-05",
+  "owner": "caddyserver",
+  "name": "caddy",
+  "full_name": "caddyserver/caddy",
+  "url": "https://github.com/caddyserver/caddy",
+  "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+  "language": "Go",
+  "stars_total": 76806,
+  "stars_today": 526,
+  "one_liner": "A web server program that automatically sets up the security certificate, the padlock icon in your browser, for any website, instead of someone having to configure that by hand.",
+  "buyer": "A DevOps engineer or small hosting provider who wants to run many websites securely without manually managing SSL certificates for each one.",
+  "business_use_cases": [
+    "A small managed-hosting provider uses it to auto-provision HTTPS for every customer site it hosts, cutting support tickets about broken certificates.",
+    "An internal platform team standardizes on it so every internal tool gets HTTPS and routing configured automatically.",
+    "A freelance sysadmin offers 'secure hosting setup' as a quick paid service for small business websites, using Caddy to handle the hard parts."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid managed-hosting or 'secure website setup' services built on top of it for small businesses.", "revenue_model": "subscription" },
+    { "idea": "Sell enterprise support and consulting contracts for companies running it at scale, a well-trodden open-source infrastructure playbook.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This weekend, package a one-click 'secure static site hosting' service for freelancers and small businesses using Caddy under the hood.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-05T12:30:00Z"
+}

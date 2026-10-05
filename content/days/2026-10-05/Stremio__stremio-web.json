@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-05",
+  "owner": "Stremio",
+  "name": "stremio-web",
+  "full_name": "Stremio/stremio-web",
+  "url": "https://github.com/Stremio/stremio-web",
+  "description": "Stremio - Freedom to Stream",
+  "language": "JavaScript",
+  "stars_total": 14137,
+  "stars_today": 111,
+  "one_liner": "The web app for Stremio, a media center that lets you discover and watch movies, shows and channels through community-made add-ons instead of one fixed catalog.",
+  "buyer": "Honestly this is a mature, already-monetized consumer product with its own addon ecosystem and official apps - the opportunity for a new, independent business is limited.",
+  "business_use_cases": [
+    "An end user installs the web app to browse and watch content via addons across devices without installing native software.",
+    "An addon developer builds and monetizes a niche content addon, such as a regional sports catalog, for the existing Stremio user base.",
+    "A smart-TV or streaming-box reseller bundles Stremio Web as a pre-configured media center experience for customers."
+  ],
+  "money_ideas": [
+    { "idea": "Build and sell a premium addon, such as a curated sports or regional content catalog, into the existing Stremio ecosystem rather than competing with the core app.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This weekend, don't rebuild Stremio - instead build one well-made addon for an underserved niche catalog and publish it to the existing user base.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-05T12:30:00Z"
+}

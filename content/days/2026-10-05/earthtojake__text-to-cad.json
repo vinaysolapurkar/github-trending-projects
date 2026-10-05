@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-05",
+  "owner": "earthtojake",
+  "name": "text-to-cad",
+  "full_name": "earthtojake/text-to-cad",
+  "url": "https://github.com/earthtojake/text-to-cad",
+  "description": "Give your agent CAD superpowers.",
+  "language": "Python",
+  "stars_total": 17113,
+  "stars_today": 456,
+  "one_liner": "Lets an AI coding assistant design real, manufacturable 3D parts from a text description, check if they can actually be made, and send them straight to a 3D printer or machine shop.",
+  "buyer": "A product designer or mechanical engineer at a small hardware startup who wants to go from idea to printable part in minutes instead of days in CAD software.",
+  "business_use_cases": [
+    "A small hardware startup uses it to rapid-prototype enclosures and brackets without hiring a dedicated CAD engineer.",
+    "A maker business generates custom-fit parts, like phone mounts or replacement clips, on demand from customer descriptions.",
+    "A repair shop designs one-off replacement parts for appliances and prints them same-day instead of sourcing discontinued parts."
+  ],
+  "money_ideas": [
+    { "idea": "Run a 'describe it, we print it' custom part shop: customers describe what they need, the agent designs it, you 3D print and ship.", "revenue_model": "one-off" },
+    { "idea": "Offer a subscription CAD-assistant service for small manufacturers who need occasional custom tooling or jigs.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This weekend, set up a simple web form where people describe a part they need, pipe it through text-to-cad, and quote them a price to print and ship it.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-05T12:30:00Z"
+}

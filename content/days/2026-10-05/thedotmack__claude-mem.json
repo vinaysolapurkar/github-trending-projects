@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-05",
+  "owner": "thedotmack",
+  "name": "claude-mem",
+  "full_name": "thedotmack/claude-mem",
+  "url": "https://github.com/thedotmack/claude-mem",
+  "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+  "language": "TypeScript",
+  "stars_total": 96371,
+  "stars_today": 534,
+  "one_liner": "A plugin that gives AI coding assistants like Claude Code a memory, so they remember what you discussed and decided in past sessions instead of starting from scratch every time.",
+  "buyer": "A solo developer or small dev team heavily using Claude Code or Cursor daily who is tired of re-explaining project context every session.",
+  "business_use_cases": [
+    "A freelance developer installs it so client project context persists across weeks of work without re-pasting specs each session.",
+    "A dev tooling company bundles a hosted, team-shared version of it so a whole engineering team's agents share institutional memory.",
+    "An AI consulting shop uses it to speed up onboarding new coding agents to legacy codebases by letting memory accumulate over repeated sessions."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted managed-memory tier (the project already references 'CMEM Pro') with higher limits and team-sharing.", "revenue_model": "subscription" },
+    { "idea": "Sell a one-time 'memory migration' service that seeds a new agent's memory from a team's existing docs and chat history.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, build a simple team dashboard that visualizes what an agent 'remembers' about a project, as a paid add-on to this open-source core.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-05T12:30:00Z"
+}

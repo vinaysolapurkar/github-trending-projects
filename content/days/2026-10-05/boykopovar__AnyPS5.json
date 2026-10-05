@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-05",
+  "owner": "boykopovar",
+  "name": "AnyPS5",
+  "full_name": "boykopovar/AnyPS5",
+  "url": "https://github.com/boykopovar/AnyPS5",
+  "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+  "language": "C++",
+  "stars_total": 4411,
+  "stars_today": 994,
+  "one_liner": "A tool that converts PS5 game software so it can run directly on a Windows or Linux PC, without needing a separate emulator program.",
+  "buyer": "Honestly, mostly hobbyist PS5 homebrew and preservation enthusiasts - this isn't really a business opportunity, and the legal footing around porting game binaries is shaky.",
+  "business_use_cases": [
+    "A game preservation researcher studies PS5 binary compatibility for archival purposes.",
+    "A hobbyist runs a handful of PS5 games on underpowered PC hardware for personal use.",
+    "An emulation researcher studies the project's shader recompiler techniques for other porting projects."
+  ],
+  "money_ideas": [
+    { "idea": "There isn't a clean, legitimate revenue model here - any 'play PS5 games on PC' service would run straight into licensing and copyright issues with Sony and game publishers.", "revenue_model": "n/a" }
+  ],
+  "steal_this": "Don't build a business on this one. If anything is worth stealing, it's the shader recompiler and relinker techniques for legitimate emulation or porting research, not a product.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-05T12:30:00Z"
+}

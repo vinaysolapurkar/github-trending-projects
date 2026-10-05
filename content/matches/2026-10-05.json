@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-05",
+  "matches": [
+    { "problem_id": "p001", "repo": "OpenCut-app/OpenCut", "why": "A free, open-source video editor that runs in the browser removes the subscription fee and watermark a solo creator fights with CapCut.", "confidence": "high" },
+    { "problem_id": "p002", "repo": "freestylefly/awesome-gpt-image-2", "why": "A tested prompt library for generating professional product and marketing images cuts out the need to hire a photographer, though output quality still varies by product type.", "confidence": "medium" },
+    { "problem_id": "p003", "repo": "thedotmack/claude-mem", "why": "Built specifically to give an AI coding assistant persistent memory across sessions, which is exactly this problem.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "DietrichGebert/ponytail", "why": "Directly trains the AI agent to write minimal code instead of over-building, cutting both cost and maintenance burden.", "confidence": "high" },
+    { "problem_id": "p005", "repo": "VectifyAI/PageIndex", "why": "Indexes long documents by structure so an AI can find and cite exactly where an answer lives, useful for a pile of research PDFs, though it's built for one document at a time rather than a whole library.", "confidence": "medium" },
+    { "problem_id": "p006", "repo": "calesthio/OpenMontage", "why": "Produces a fully assembled explainer video, with generated clips, narration and captions, when the creator has no original footage of the event.", "confidence": "medium" },
+    { "problem_id": "p007", "repo": "K-Dense-AI/scientific-agent-skills", "why": "Packages 163 validated science skills and 100+ scientific databases so a small lab gets AI-assisted bioinformatics work without hiring a specialist team.", "confidence": "high" },
+    { "problem_id": "p008", "repo": "antirez/ds4", "why": "Runs a capable model entirely on owned hardware, so a law firm's client data never leaves the building for an API call.", "confidence": "medium" },
+    { "problem_id": "p009", "repo": "calesthio/OpenMontage", "why": "Explicitly turns a script or blog post into a narrated video with captions and music, which is this exact workflow.", "confidence": "high" },
+    { "problem_id": "p010", "repo": "AgriciDaniel/claude-obsidian", "why": "Files everything into plain Markdown you fully own locally, the direct opposite of a cloud note app's lock-in.", "confidence": "high" },
+    { "problem_id": "p011", "repo": "abhigyanpatwari/GitNexus", "why": "Builds an interactive knowledge graph of a codebase plus a chatbot to answer questions about it, built for exactly this onboarding moment.", "confidence": "high" },
+    { "problem_id": "p012", "repo": "garrytan/gstack", "why": "Explicitly pitched at first-time builders and founders as structured roles instead of a blank prompt, a guided starting point for a first AI product.", "confidence": "high" },
+    { "problem_id": "p013", "repo": null, "why": "Nothing trending recently is a restaurant-specific inventory tool; we'll notify when something like that trends." }
+  ]
+}

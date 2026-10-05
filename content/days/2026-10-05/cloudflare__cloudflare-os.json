@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-05",
+  "owner": "cloudflare",
+  "name": "cloudflare-os",
+  "full_name": "cloudflare/cloudflare-os",
+  "url": "https://github.com/cloudflare/cloudflare-os",
+  "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company's context and systems.",
+  "language": "TypeScript",
+  "stars_total": 10820,
+  "stars_today": 102,
+  "one_liner": "An open-source 'company AI workspace' where employees can ask an AI to write documents, build small internal apps, and run tasks, with built-in safety guardrails so IT doesn't have to worry about data leaking.",
+  "buyer": "A head of IT or engineering at a mid-size company who wants to give the whole company safe access to AI agents and internal app-building, without each department adopting random unsanctioned AI tools.",
+  "business_use_cases": [
+    "An IT department deploys it company-wide as the sanctioned way for non-technical staff to build internal tools and automate reports with AI, instead of shadow-IT spreadsheets and scripts.",
+    "A sales team uses it to auto-generate slide decks and dashboards for each account, pulling from company context and CRM data.",
+    "A consulting firm forks and rebrands it as a client-specific 'Company OS' and resells setup and customization as a service."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid implementation and customization service: set up and white-label a 'YourCompany OS' for mid-size businesses who don't have the engineering time to do it themselves.", "revenue_model": "one-off" },
+    { "idea": "Run a managed hosting tier with extra integrations and support, since the open-source version requires real Cloudflare expertise to deploy well.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This weekend, deploy it for a small company, wire up one real integration like Google Docs or GitHub, and pitch the setup plus ongoing support as a paid package.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-05T12:30:00Z"
+}

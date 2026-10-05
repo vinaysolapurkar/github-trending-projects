@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-05",
+  "owner": "Panniantong",
+  "name": "Agent-Reach",
+  "full_name": "Panniantong/Agent-Reach",
+  "url": "https://github.com/Panniantong/Agent-Reach",
+  "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+  "language": "Python",
+  "stars_total": 91421,
+  "stars_today": 1156,
+  "one_liner": "A toolkit that lets an AI agent read and search Twitter, Reddit, YouTube, GitHub and other sites on your behalf, without needing to buy each platform's official paid API.",
+  "buyer": "An indie developer or market researcher building an AI agent that needs to monitor social media and forums for brand mentions or competitor chatter, without paying for Twitter or Reddit API access.",
+  "business_use_cases": [
+    "A solo founder builds a 'what are people saying about my product' agent that scans Twitter, Reddit and YouTube comments daily.",
+    "A market research freelancer offers social listening reports for small businesses, built on agent-driven scraping instead of expensive API-based tools.",
+    "A content creator's agent pulls trending topics across platforms each morning to suggest video or post ideas."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a 'social listening for small brands' service: an agent built on this tool monitors mentions across platforms and emails a weekly digest.", "revenue_model": "subscription" },
+    { "idea": "Package it as a hosted API wrapper for other developers who want multi-platform scraping without managing cookies and logins themselves.", "revenue_model": "usage" }
+  ],
+  "steal_this": "This weekend, build a simple daily-digest bot: point it at a brand name, have the agent search Twitter, Reddit and YouTube via this tool, and email a summary each morning.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-05T12:30:00Z"
+}

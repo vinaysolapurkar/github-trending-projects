@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-05",
+  "owner": "msitarzewski",
+  "name": "agency-agents",
+  "full_name": "msitarzewski/agency-agents",
+  "url": "https://github.com/msitarzewski/agency-agents",
+  "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+  "language": "Shell",
+  "stars_total": 156949,
+  "stars_today": 595,
+  "one_liner": "A big library of ready-made AI assistant 'personalities', like a virtual frontend developer or virtual marketer, that you install into tools like Claude Code so you get a specialist instead of one generic assistant.",
+  "buyer": "A solo founder or small dev team who wants the experience of having specialist 'team members', such as a security reviewer or a marketer, without actually hiring any of them.",
+  "business_use_cases": [
+    "A solo founder installs the marketing and frontend agent packs to get specialist help without hiring contractors.",
+    "A dev agency standardizes which agent personas its engineers use so AI-assisted output is more consistent across projects.",
+    "A tooling company builds a paid marketplace layer on top where teams can buy curated, verified high-quality agent packs beyond the free roster."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a curated premium agent pack, vetted and tested for specific niches like e-commerce or fintech teams, on top of the free open roster.", "revenue_model": "subscription" },
+    { "idea": "Offer a one-time 'agent setup and customization' consulting package for teams who want personas tailored to their actual codebase and style guide.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, pick the 3 most-used agent personas, write a tight onboarding guide, and offer a paid 'done for you' install and customization service for small teams.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-05T12:30:00Z"
+}

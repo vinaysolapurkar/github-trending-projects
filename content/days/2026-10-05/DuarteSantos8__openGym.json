@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-05",
+  "owner": "DuarteSantos8",
+  "name": "openGym",
+  "full_name": "DuarteSantos8/openGym",
+  "url": "https://github.com/DuarteSantos8/openGym",
+  "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+  "language": "JavaScript",
+  "stars_total": 3474,
+  "stars_today": 570,
+  "one_liner": "A workout and gym-tracking app you run yourself on your own server, instead of trusting a company's app with your fitness data or paying a subscription.",
+  "buyer": "A privacy-conscious fitness enthusiast or a small personal-training business that wants to offer clients a branded workout tracker without being locked into a SaaS fitness app.",
+  "business_use_cases": [
+    "A personal trainer self-hosts it and gives clients passkey logins to a branded version to plan and log their programs.",
+    "A privacy-focused fitness user runs it on a home server instead of paying for subscription apps like Strong or Hevy.",
+    "A boutique gym offers it as a member perk: members get a tracker tied to the gym's own programs instead of a generic app."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a managed, hosted version for personal trainers and small gyms who don't want to run their own server, with white-labeling.", "revenue_model": "subscription" },
+    { "idea": "Sell a 'migrate and set up' service for people moving off FitNotes, Strong or Hevy who want it self-hosted but don't want to do the Docker setup themselves.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, spin up a hosted instance for a local personal trainer's clients and charge a small monthly fee to manage hosting and backups for them.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-05T12:30:00Z"
+}

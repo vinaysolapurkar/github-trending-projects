@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-05",
+  "owner": "pingdotgg",
+  "name": "t3code",
+  "full_name": "pingdotgg/t3code",
+  "url": "https://github.com/pingdotgg/t3code",
+  "description": "",
+  "language": "TypeScript",
+  "stars_total": 25397,
+  "stars_today": 487,
+  "one_liner": "A single app for phone, desktop, or web that lets you control and manage all your different AI coding assistants, such as Claude Code, Codex, and Cursor, from one place, including while you're away from your computer.",
+  "buyer": "A developer who runs multiple AI coding agents across projects and wants to check on and steer them from their phone without being at their desk.",
+  "business_use_cases": [
+    "A solo developer kicks off a long-running coding task before leaving the office and checks progress and approves actions from their phone on the commute.",
+    "A dev agency manager monitors several client projects' AI agents from one dashboard instead of SSHing into each machine.",
+    "A technical founder uses it to triage and approve agent actions across projects while traveling."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted team tier with shared visibility and permissions across a company's agents, since the core app is free but multi-seat management is a natural paid layer.", "revenue_model": "subscription" },
+    { "idea": "Sell a white-labeled version to dev tooling companies who want a branded remote-control app for their own coding agent product.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, build a simple 'agent status' notification layer on top of it that pings you on Slack or SMS when an agent needs approval.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-05T12:30:00Z"
+}

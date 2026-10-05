@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-05",
+  "owner": "tester-army",
+  "name": "e2e",
+  "full_name": "tester-army/e2e",
+  "url": "https://github.com/tester-army/e2e",
+  "description": "Next generation e2e testing framework for web and mobile apps.",
+  "language": "TypeScript",
+  "stars_total": 3834,
+  "stars_today": 1430,
+  "one_liner": "A tool that lets you describe app tests in plain English, and an AI agent clicks through your website or app to check that things work, instead of a human tester or a programmer writing brittle test scripts.",
+  "buyer": "A QA lead or founding engineer at a 10-50 person SaaS startup who can't afford a dedicated QA team but needs confidence before every release.",
+  "business_use_cases": [
+    "A startup wires it into CI so every pull request gets agent-driven checkout and signup flow tests before merging.",
+    "A QA contractor uses it to write and maintain test suites for multiple client apps without learning each app's internals deeply.",
+    "An agency offering 'release confidence as a service' runs it nightly against client staging sites and emails a pass/fail report."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a managed CI testing service: the client describes their critical flows in English, you set up and maintain the e2e suite for a monthly fee.", "revenue_model": "subscription" },
+    { "idea": "Sell integration/setup as a one-time service for teams migrating off Selenium or Cypress.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, build a 'test-as-a-service' landing page offering to set up 5 critical-flow agent tests for a startup's app for a flat fee, using this tool under the hood.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-05T12:30:00Z"
+}
