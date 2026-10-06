@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-06",
+  "owner": "ayghri",
+  "name": "i-have-adhd",
+  "full_name": "ayghri/i-have-adhd",
+  "url": "https://github.com/ayghri/i-have-adhd",
+  "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+  "language": "Python",
+  "stars_total": 54117,
+  "stars_today": 318,
+  "one_liner": "A tweak for your AI coding assistant that makes it give you the next action first instead of burying it inside a long explanation.",
+  "buyer": "Honestly a niche personal-productivity tweak for individual developers who find AI assistants too verbose, not something with a distinct paying business buyer.",
+  "business_use_cases": [
+    "An individual developer installs it personally to cut down time spent scrolling past preamble to find the actual command to run.",
+    "A dev tools educator references it as a teaching example of prompt-engineering for concise agent output.",
+    "A productivity coach working with ADHD developers mentions it as a free tool alongside other workflow advice."
+  ],
+  "money_ideas": [
+    { "idea": "There's no real direct revenue model: it's a free, personal workflow tweak, not something a buyer would pay for on its own.", "revenue_model": "ads" }
+  ],
+  "steal_this": "There's no real weekend business in the tool itself, but a productivity coach could write a short paid guide on configuring AI tools for ADHD-friendly workflows, using this as one example.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-06T12:20:00Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-06-001",
+  "date": "2026-10-06",
+  "repo_a": "earthtojake/text-to-cad",
+  "repo_b": "garrytan/gstack",
+  "title": "Napkin Sketch to Shipped Prototype",
+  "pitch": "gstack gives a first-time founder a structured team of AI roles to turn a vague idea into a defined product brief and go-to-market plan, but it stops at the document stage. text-to-cad picks up exactly where that leaves off, turning a plain-English description of a physical product into a real, manufacturable 3D file, with design-for-manufacturing checks and a direct path to 3D printing, sheet metal or CNC fabrication. Chain them: a founder walks in with an idea for a physical product, gstack's roles interview them and produce a one-page brief and positioning, then text-to-cad turns that brief's product description into an ordered prototype the same day. Sell it as a 'idea to prototype in an afternoon' service for first-time inventors and Etsy-stage product founders who have never touched CAD software and don't know how to frame a business case either.",
+  "why_now": "Both repos trended the same week solving opposite halves of the same gap for non-technical founders, one for defining what to build and why, the other for actually building it, and demand for AI-assisted physical-product entrepreneurship is visibly rising alongside cheap on-demand manufacturing."
+}

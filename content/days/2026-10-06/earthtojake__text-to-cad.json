@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-06",
+  "owner": "earthtojake",
+  "name": "text-to-cad",
+  "full_name": "earthtojake/text-to-cad",
+  "url": "https://github.com/earthtojake/text-to-cad",
+  "description": "Give your agent CAD superpowers.",
+  "language": "Python",
+  "stars_total": 17711,
+  "stars_today": 620,
+  "one_liner": "Lets you describe a physical object in plain words and get back a real 3D design file you could 3D print, laser cut, or send to a manufacturer.",
+  "buyer": "An Etsy or Shopify seller of custom physical products (phone stands, jewelry, nameplates) who wants to turn customer requests into sellable, manufacturable designs without hiring a CAD designer.",
+  "business_use_cases": [
+    "A small print-on-demand shop lets customers describe a custom part in a form, auto-generates the CAD file, and sends it straight to a 3D printing service for fulfillment.",
+    "A product inventor turns a sketch or idea into a manufacturing-ready file and gets instant design-for-manufacturing checks before paying for a prototype run.",
+    "A freelance product designer speeds up client work by generating first-draft CAD models from a client brief, then refining by hand."
+  ],
+  "money_ideas": [
+    { "idea": "Run a 'describe it, we print it' custom physical product shop: customers type what they want, you generate and 3D print it, charge per item.", "revenue_model": "one-off" },
+    { "idea": "Offer an 'instant prototype' service for inventors: text-to-CAD plus a connection to a CNC or 3D-printing partner, charging a markup on each manufactured part.", "revenue_model": "usage" }
+  ],
+  "steal_this": "This weekend, set up a simple web form where people describe a custom keychain or phone stand, auto-generate the CAD file, and offer to 3D print and ship it for a flat fee.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-06T12:20:00Z"
+}

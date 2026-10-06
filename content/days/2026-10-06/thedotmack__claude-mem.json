@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-06",
+  "owner": "thedotmack",
+  "name": "claude-mem",
+  "full_name": "thedotmack/claude-mem",
+  "url": "https://github.com/thedotmack/claude-mem",
+  "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+  "language": "TypeScript",
+  "stars_total": 96883,
+  "stars_today": 536,
+  "one_liner": "Gives your AI coding assistant a memory, so it remembers what it learned about your project between sessions instead of starting from zero every time.",
+  "buyer": "An indie developer or small engineering team running Claude Code daily across multi-week projects, losing time re-explaining project context every new session.",
+  "business_use_cases": [
+    "A solo developer working on a long-running SaaS product avoids re-explaining architecture decisions to their AI assistant every session, saving real billable time.",
+    "A dev agency standardizes it across client projects so any team member's AI session picks up full project history and decisions instantly.",
+    "A technical consultant offers a 'persistent AI pairing setup' service, configuring this plus related tooling for client teams."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted, managed memory service for teams who don't want to self-host, billed per seat.", "revenue_model": "subscription" },
+    { "idea": "Sell a one-off setup and tuning service for teams adopting it across an existing large codebase.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, install it on your own longest-running project, measure how much re-explaining time it saves in a week, and use that number to pitch a setup service to other teams.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-06T12:20:00Z"
+}

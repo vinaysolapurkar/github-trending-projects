@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-06",
+  "owner": "tester-army",
+  "name": "e2e",
+  "full_name": "tester-army/e2e",
+  "url": "https://github.com/tester-army/e2e",
+  "description": "Next generation e2e testing framework for web and mobile apps.",
+  "language": "TypeScript",
+  "stars_total": 5554,
+  "stars_today": 1720,
+  "one_liner": "A testing tool where you describe what a user should be able to do in plain English, and an AI agent clicks through your website or app to check it actually works, instead of you scripting every click yourself.",
+  "buyer": "An engineering manager at a seed-to-Series-B SaaS startup who is shipping fast with no dedicated QA team to catch a broken checkout or signup flow before customers do.",
+  "business_use_cases": [
+    "A two-person startup wires it into every pull request so a broken signup or checkout flow gets caught before it reaches paying customers, without hiring a QA engineer.",
+    "A QA consultancy offers 'AI test suite setup' as a paid service: write the natural-language test goals for a client's app and hand over a maintained suite.",
+    "An agency building client websites bundles ongoing automated regression testing into its retainer, using the tool to re-check client sites after every deploy."
+  ],
+  "money_ideas": [
+    { "idea": "Sell 'test suite as a service' to small SaaS teams: write and maintain their e2e tests for a flat monthly fee using this tool under the hood.", "revenue_model": "subscription" },
+    { "idea": "Offer a one-off audit: run it against a client's app, hand them a report of every broken flow found, and charge per audit.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, point it at three local SaaS products' signup flows, record what breaks, and pitch each one a paid 'we'll catch this before your customers do' testing retainer.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-06T12:20:00Z"
+}

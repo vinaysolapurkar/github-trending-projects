@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-06",
+  "owner": "cathrynlavery",
+  "name": "diagram-design",
+  "full_name": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+  "language": "HTML",
+  "stars_total": 43634,
+  "stars_today": 227,
+  "one_liner": "A set of ready-made diagram styles for your AI coding assistant, so it draws clean, professional-looking architecture charts, flowcharts and timelines instead of generic boxes.",
+  "buyer": "A content creator, technical blogger, or consultant who regularly needs polished diagrams for posts, decks or client reports but doesn't want to pay a designer or fight with Figma each time.",
+  "business_use_cases": [
+    "A technical blogger generates editorial-quality architecture and flow diagrams for every post, matching their site's visual brand automatically.",
+    "A consultant creates client-ready process diagrams and org charts for proposals and reports in minutes instead of commissioning design work.",
+    "A startup founder turns a scribbled whiteboard flow into a polished diagram for an investor deck without hiring a designer."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid 'diagram pack' service for content creators and consultants: supply the content, get back a branded set of diagrams for a flat fee.", "revenue_model": "one-off" },
+    { "idea": "Build a subscription add-on with custom brand presets and a wider diagram-type library, licensed per team.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This weekend, offer three local consultants or bloggers a 'five diagrams for your next report, same day' package using this skill.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-06T12:20:00Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-06",
+  "owner": "deepseek-ai",
+  "name": "DeepGEMM",
+  "full_name": "deepseek-ai/DeepGEMM",
+  "url": "https://github.com/deepseek-ai/DeepGEMM",
+  "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
+  "language": "Cuda",
+  "stars_total": 8534,
+  "stars_today": 363,
+  "one_liner": "Low-level math code that makes the chip calculations behind large AI models run noticeably faster on Nvidia GPUs, pure infrastructure that is invisible to anyone except the engineers running AI training and inference.",
+  "buyer": "An ML infrastructure engineer at a company running its own GPU clusters for AI training or inference, who wants lower compute cost per model run.",
+  "business_use_cases": [
+    "A GPU cloud provider integrates it into their inference stack to serve more requests per GPU, improving their margins without raising customer prices.",
+    "An AI infrastructure consultancy audits a client's training pipeline, swaps in optimized kernels like this one, and bills for the resulting compute-cost reduction.",
+    "A startup running its own LLM inference uses it to cut GPU hours needed per request, directly lowering their cloud bill."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a 'cut your GPU bill' consulting engagement: audit a client's AI training or inference stack and integrate optimized kernels like this one, billed as a share of the savings.", "revenue_model": "usage" },
+    { "idea": "Package the integration and tuning work as a one-off service for AI startups who lack in-house CUDA expertise.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "There's no consumer weekend product here; the real opportunity is a short, billable infrastructure-optimization engagement for a company already spending real money on GPUs.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-06T12:20:00Z"
+}

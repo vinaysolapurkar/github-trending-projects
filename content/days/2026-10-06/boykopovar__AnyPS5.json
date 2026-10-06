@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-06",
+  "owner": "boykopovar",
+  "name": "AnyPS5",
+  "full_name": "boykopovar/AnyPS5",
+  "url": "https://github.com/boykopovar/AnyPS5",
+  "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+  "language": "C++",
+  "stars_total": 5364,
+  "stars_today": 943,
+  "one_liner": "A technical tool that converts PlayStation 5 game programs so they can run on an ordinary Windows or Linux computer instead of the console.",
+  "buyer": "Honestly, there is no real paying buyer here: this is a hobbyist reverse-engineering and preservation project for enthusiasts and researchers, not a commercial product.",
+  "business_use_cases": [
+    "A game preservation archivist uses it to keep PS5-era titles playable on ordinary PCs after the original hardware becomes obsolete, for historical and research purposes.",
+    "A compatibility researcher studies the project's system-library implementations as part of academic or interoperability research.",
+    "A hobbyist streamer showcases running PS5 titles on PC for a tech-curiosity audience, monetized only through ad-supported content, not the tool itself."
+  ],
+  "money_ideas": [
+    { "idea": "There is no clean revenue model here: distributing or charging for a way to run copyrighted console games without licensing is legally fraught.", "revenue_model": "ads" }
+  ],
+  "steal_this": "There isn't a legitimate weekend business here; the only real audience is curious developers and preservationists, not paying customers.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-06T12:20:00Z"
+}

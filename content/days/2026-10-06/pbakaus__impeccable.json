@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-06",
+  "owner": "pbakaus",
+  "name": "impeccable",
+  "full_name": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "description": "The design language that makes your AI harness better at design.",
+  "language": "JavaScript",
+  "stars_total": 77362,
+  "stars_today": 947,
+  "one_liner": "A set of design rules and commands you give your AI coding assistant so the websites and apps it builds don't all look like the same generic AI-made template.",
+  "buyer": "A freelance web developer or small agency using AI coding tools to build client sites, tired of every AI-generated design looking like the same purple-gradient SaaS template.",
+  "business_use_cases": [
+    "A freelance developer installs it so every AI-assisted client site ships with distinct, on-brand visual design instead of the generic template look, justifying higher rates.",
+    "A small design-forward dev agency uses the 'extract' and 'document' commands to build a reusable design system from an existing client codebase, then resells design-consistency audits.",
+    "An indie SaaS founder runs '/impeccable critique' and '/impeccable audit' before launch to catch obvious AI-template tells without hiring a designer."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid 'de-slop your AI app' audit service: run the tool's critique and audit commands against a client's AI-built site and deliver a fix list.", "revenue_model": "one-off" },
+    { "idea": "Sell a premium, brand-specific extension pack of design rules tailored to an agency's house style, licensed per seat.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This weekend, run '/impeccable audit' and '/impeccable critique' against three local businesses' AI-built websites and pitch each one a paid fix-up pass.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-06T12:20:00Z"
+}

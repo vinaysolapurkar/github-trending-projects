@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-06",
+  "owner": "morluto",
+  "name": "rea",
+  "full_name": "morluto/rea",
+  "url": "https://github.com/morluto/rea",
+  "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+  "language": "TypeScript",
+  "stars_total": 6901,
+  "stars_today": 2963,
+  "one_liner": "Lets an AI agent open up another app, even without its source code, and explain exactly how a feature works down to the actual program instructions, so you can build something similar.",
+  "buyer": "A product manager or indie developer at a small software company who sees a competitor's feature, wants to understand exactly how it works, and build an equivalent for their own product.",
+  "business_use_cases": [
+    "A small SaaS team studies how a competitor's specific feature works (for example, a clever sync mechanism) and builds their own version, backed by documented evidence of how it functions.",
+    "A security researcher uses it to analyze how a native application handles data, as part of a paid, authorized vulnerability assessment engagement.",
+    "A consultant offers 'feature parity' analysis as a service: for a fee, investigate how a competitor's app does something and deliver a report plus an implementation plan for the client's own stack."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid competitive-feature-analysis service: investigate how a named competitor's feature works and deliver a report plus a buildable implementation plan.", "revenue_model": "one-off" },
+    { "idea": "Package it for security consultancies doing authorized binary and app analysis, sold as a per-seat subscription.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This weekend, pick one specific feature from a competitor's app, use it to document exactly how that feature works, and pitch that analysis as a paid deliverable to a client building something similar. Stay on the right side of reverse-engineering and IP law here: cloning a feature too closely, rather than building an inspired equivalent, can cross into legal trouble.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-06T12:20:00Z"
+}

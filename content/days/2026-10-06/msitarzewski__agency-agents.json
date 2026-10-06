@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-06",
+  "owner": "msitarzewski",
+  "name": "agency-agents",
+  "full_name": "msitarzewski/agency-agents",
+  "url": "https://github.com/msitarzewski/agency-agents",
+  "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+  "language": "Shell",
+  "stars_total": 157542,
+  "stars_today": 621,
+  "one_liner": "A library of pre-written AI 'employee' personalities, a frontend developer, a marketer, a copywriter and more, that you load into your coding assistant so it acts like a small specialized team.",
+  "buyer": "A solo freelancer or one-person 'agency' who takes on client work needing multiple skill sets (design, copy, marketing) but can't afford to hire a real team.",
+  "business_use_cases": [
+    "A solo freelance developer uses the marketing and copywriting personas to deliver a client's landing page plus its launch copy and social posts, work that used to require subcontracting.",
+    "A small agency owner standardizes which 'agent' handles which task across projects, so junior staff get consistent, senior-level guidance baked into the AI's instructions.",
+    "An indie SaaS founder uses the 'reality checker' and 'whimsy injector' personas to get second-opinion style feedback on product decisions without hiring consultants."
+  ],
+  "money_ideas": [
+    { "idea": "Package a curated subset of these personas as a paid 'virtual agency starter kit' for solo freelancers, sold once with lifetime updates.", "revenue_model": "one-off" },
+    { "idea": "Offer a done-for-you setup service: install and tune the right agent roster for a specific freelancer's niche, like Shopify stores or local service businesses.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, pick three personas relevant to one real client project, run the work through them, and advertise the output as 'full-service' delivery from a one-person operation.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-06T12:20:00Z"
+}
