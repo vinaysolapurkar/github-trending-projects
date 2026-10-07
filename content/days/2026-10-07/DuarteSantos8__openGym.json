@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-07",
+  "owner": "DuarteSantos8",
+  "name": "openGym",
+  "full_name": "DuarteSantos8/openGym",
+  "url": "https://github.com/DuarteSantos8/openGym",
+  "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+  "language": "JavaScript",
+  "stars_total": 6376,
+  "stars_today": 1494,
+  "one_liner": "A workout-tracking app, like Strong or Hevy, that you run on your own server instead of someone else's cloud, so your fitness data never leaves your control and there's no subscription fee.",
+  "buyer": "A privacy-conscious fitness enthusiast or a small gym/personal-trainer business that wants to offer clients a branded tracking app without paying per-seat SaaS fees.",
+  "business_use_cases": [
+    "A personal trainer self-hosts it and white-labels it as 'my gym's app' for clients, avoiding monthly per-user SaaS fees from commercial fitness apps.",
+    "A privacy-focused self-hosting enthusiast runs it alongside their other self-hosted apps (Nextcloud, Immich, etc.) as part of a personal 'own your data' server stack.",
+    "A boutique gym offers it as a value-add perk for members, differentiating from big-chain gyms that push you to a generic app."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid 'set up and host this for your gym/clients' service, since most buyers don't want to run their own server.", "revenue_model": "one-off" },
+    { "idea": "Run a managed hosting tier (hosted instance + backups + updates) as a low monthly subscription for people who want it without self-hosting.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Offer three local personal trainers a 'branded, self-hosted workout app for your clients' setup this weekend, charging a flat setup fee plus a small monthly hosting fee — most won't want to run the server themselves.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-07T12:30:00Z"
+}

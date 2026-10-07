@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-07",
+  "owner": "ayghri",
+  "name": "i-have-adhd",
+  "full_name": "ayghri/i-have-adhd",
+  "url": "https://github.com/ayghri/i-have-adhd",
+  "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+  "language": "Python",
+  "stars_total": 54717,
+  "stars_today": 620,
+  "one_liner": "A set of rules you add to your AI coding assistant so it gives short, numbered, action-first answers instead of long rambling explanations.",
+  "buyer": "Nobody pays cash for this directly today — it's a free tweak for developers' own AI tools, not a product with a paying customer.",
+  "business_use_cases": [
+    "A solo developer installs it to cut the time they spend scrolling past preamble in AI chat responses — a personal productivity tweak, not a sale.",
+    "A coding-assistant vendor borrows the same prompt-style rules as a built-in 'concise mode' feature to differentiate their product.",
+    "An accessibility consultant cites it as a reference implementation when advising companies on ADHD/neurodivergent-friendly software design."
+  ],
+  "money_ideas": [
+    { "idea": "There isn't a real monetizable business here as a standalone product; the closest option is folding the concept into a paid 'accessible AI tooling' consulting practice.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Fork it, tune the rules to your own taste, and share the result on your dev blog to build an audience — not a business, but a nice credibility piece.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-07T12:30:00Z"
+}

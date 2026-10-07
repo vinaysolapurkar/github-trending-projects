@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-07",
+  "owner": "cathrynlavery",
+  "name": "diagram-design",
+  "full_name": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+  "language": "HTML",
+  "stars_total": 44462,
+  "stars_today": 828,
+  "one_liner": "Teaches an AI assistant to draw good-looking diagrams (flowcharts, org charts, timelines, architecture maps) that look like a designer made them, instead of the generic boxes-and-arrows AI usually produces.",
+  "buyer": "A content marketer or technical writer at a startup who needs polished diagrams for blog posts and pitch decks but has no budget for a designer or Figma time.",
+  "business_use_cases": [
+    "A startup's content team generates on-brand architecture and flow diagrams for blog posts and docs without hiring a designer.",
+    "A pitch-deck freelancer uses it to produce clean comparison/quadrant/timeline visuals for client decks in minutes instead of fighting with Figma.",
+    "An agency offers 'instant editorial diagrams' as an add-on service for technical content clients, using the skill to turn a client's rough notes into a finished visual fast."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a done-for-you diagram service for startups' blog/docs/decks, charging per diagram or per package.", "revenue_model": "one-off" },
+    { "idea": "Sell a branded version of the skill pre-tuned to a client's visual identity as a one-time setup fee.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This weekend, offer to redo one SaaS company's three worst-looking blog diagrams for free as a portfolio piece, then pitch a paid monthly diagram-refresh retainer.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-07T12:30:00Z"
+}

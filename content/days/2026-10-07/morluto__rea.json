@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-07",
+  "owner": "morluto",
+  "name": "rea",
+  "full_name": "morluto/rea",
+  "url": "https://github.com/morluto/rea",
+  "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+  "language": "TypeScript",
+  "stars_total": 11666,
+  "stars_today": 4666,
+  "one_liner": "Hooks an AI assistant up to reverse-engineering tools so it can open another company's app, without the source code, and explain exactly how a feature works down to the raw program instructions.",
+  "buyer": "A product manager at a small software company who saw a competitor ship a clever feature and wants an engineering-backed explanation of how it works before greenlighting a copy.",
+  "business_use_cases": [
+    "A SaaS product team studies exactly how a competitor's sync or pricing feature works and builds an equivalent, backed by documented evidence instead of guesswork.",
+    "An authorized penetration tester uses it to speed up binary and app analysis during a paid security engagement.",
+    "A freelance consultant sells 'feature teardown' reports: pay me and I'll tell you precisely how that app does the thing you want to copy."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid competitive-feature teardown reports with a buildable implementation plan attached.", "revenue_model": "one-off" },
+    { "idea": "Bundle it into a security-consultancy's toolkit for authorized binary/app analysis engagements, billed per engagement.", "revenue_model": "usage" }
+  ],
+  "steal_this": "This weekend, pick one specific feature from a well-known app, run it through REA to document exactly how it works, and pitch that writeup as a paid teardown to a founder trying to build something similar. Stay honest about IP law: documenting mechanics for inspiration is fine, cloning pixel-for-pixel invites legal trouble.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-07T12:30:00Z"
+}

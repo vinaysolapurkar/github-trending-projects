@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-07",
+  "owner": "manaflow-ai",
+  "name": "cmux",
+  "full_name": "manaflow-ai/cmux",
+  "url": "https://github.com/manaflow-ai/cmux",
+  "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+  "language": "Swift",
+  "stars_total": 27706,
+  "stars_today": 50,
+  "one_liner": "A Mac terminal app built specifically for running several AI coding assistants at once, with clear notifications when one of them needs your attention.",
+  "buyer": "A developer who routinely runs multiple AI coding agent sessions in parallel and keeps losing track of which one is waiting on them.",
+  "business_use_cases": [
+    "A solo developer juggling five parallel Claude Code sessions uses the notification rings to know instantly which one needs input, instead of babysitting every tab.",
+    "A remote dev team standardizes on it for SSH'ing into shared build boxes with AI agents attached, using its built-in browser-import and SSH workspace features.",
+    "A dev-tools reviewer/YouTuber builds content and affiliate recommendations around 'best terminal for running AI agents', driving install traffic."
+  ],
+  "money_ideas": [
+    { "idea": "Keep the core app free and sell a team/enterprise tier with shared workspace management and admin controls.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "If you already run multiple AI agents daily, switch your own workflow to it this week and publish a short 'how I manage 5 parallel Claude Code sessions' post — decent audience-building content, not a huge business on its own.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-07T12:30:00Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-07",
+  "owner": "trycua",
+  "name": "cua",
+  "full_name": "trycua/cua",
+  "url": "https://github.com/trycua/cua",
+  "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+  "language": "Rust",
+  "stars_total": 28569,
+  "stars_today": 229,
+  "one_liner": "Gives an AI agent its own virtual desktop computer it can click around and use, so it can operate real apps like Chrome or Slack the way a human would, instead of only calling APIs.",
+  "buyer": "A startup founder building an AI agent product that needs to click through websites or desktop apps that have no API, and wants a ready-made virtual desktop instead of building VM infrastructure themselves.",
+  "business_use_cases": [
+    "An AI automation agency builds client workflows that operate legacy desktop software with no API, billing per automation built.",
+    "A QA/automation team generates training and evaluation data for their own computer-use agents using Cua Bench's task and trajectory tooling.",
+    "A startup offers 'teleport your signed-in apps into a cloud desktop' as a feature of their own AI-agent product, built on top of Cua Spaces."
+  ],
+  "money_ideas": [
+    { "idea": "Resell managed 'Spaces' (ready virtual desktops for agents) as a subscription, as the project itself is moving toward with Pro/Teams plans.", "revenue_model": "subscription" },
+    { "idea": "Offer custom computer-use automation builds for clients on top of the open-source driver, billed per project.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Pick one tedious desktop-only task (like filling a legacy internal tool with no API) that a client already complains about, and build a paid automation for it on Cua this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-07T12:30:00Z"
+}

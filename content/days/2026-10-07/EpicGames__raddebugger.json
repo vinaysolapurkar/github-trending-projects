@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-07",
+  "owner": "EpicGames",
+  "name": "raddebugger",
+  "full_name": "EpicGames/raddebugger",
+  "url": "https://github.com/EpicGames/raddebugger",
+  "description": "A native, user-mode, multi-process, graphical debugger.",
+  "language": "C",
+  "stars_total": 7710,
+  "stars_today": 82,
+  "one_liner": "A free, fast visual debugger for Windows programs, built by Epic Games as an alternative to the built-in debugger in Visual Studio.",
+  "buyer": "A game studio's or systems-software company's build/tools engineer who needs faster link times and debugging on very large Windows C++ codebases.",
+  "business_use_cases": [
+    "A large game studio adopts the included RAD Linker to cut multi-gigabyte debug-info link times on massive codebases, saving engineer waiting time.",
+    "A tools team builds internal training or onboarding docs around it to replace a slower commercial debugger license.",
+    "A systems-software contractor offers 'build pipeline speedup' consulting to studios, using this linker/debugger as part of the fix."
+  ],
+  "money_ideas": [
+    { "idea": "Offer build-pipeline optimization consulting to game/C++ studios, using this tool as part of the deliverable.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This is a pure developer infrastructure tool with no realistic standalone product play; honest take — skip building a business directly on this one, but keep it in your back pocket as a consulting credibility signal if you do build-tooling work.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-07T12:30:00Z"
+}

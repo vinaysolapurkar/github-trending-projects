@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-07",
+  "owner": "tester-army",
+  "name": "e2e",
+  "full_name": "tester-army/e2e",
+  "url": "https://github.com/tester-army/e2e",
+  "description": "Next generation e2e testing framework for web and mobile apps.",
+  "language": "TypeScript",
+  "stars_total": 6928,
+  "stars_today": 1391,
+  "one_liner": "Lets you write a software test in plain English ('upgrade the workspace to Pro') and an AI agent actually clicks through the app to do it and check the result, instead of writing brittle click-by-click test scripts.",
+  "buyer": "A QA lead or engineering manager at a startup whose test suite keeps breaking every time the UI changes, and who is tired of maintaining brittle Selenium/Playwright scripts.",
+  "business_use_cases": [
+    "A startup replaces its flaky UI test suite with plain-English test steps that survive UI redesigns better, cutting QA engineer maintenance time.",
+    "A QA agency offers 'write your end-to-end test suite' as a fixed-price deliverable for client apps, using this framework to move faster than hand-written scripts.",
+    "A mobile app team uses the Expo/SwiftUI/Flutter examples to add real device-level regression tests before each release, catching bugs before app-store submission."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a 'test suite built for you' service for startups without a dedicated QA team, priced per app.", "revenue_model": "one-off" },
+    { "idea": "Resell hosted test execution (the project's own Kernel/EAS Simulators hosted runners point this way) as a pay-per-run or subscription product.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Pick one app you use that clearly has shaky manual QA, build them three plain-English end-to-end tests as a free sample, then pitch a monthly 'automated regression testing' retainer.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-07T12:30:00Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-07",
+  "owner": "mattpocock",
+  "name": "skills",
+  "full_name": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "language": "Shell",
+  "stars_total": 278838,
+  "stars_today": 1406,
+  "one_liner": "A packaged set of instructions that teach your AI coding assistant to work the way an experienced engineer would: asking clarifying questions first, writing less bloated code, and following a disciplined process.",
+  "buyer": "A dev-tools educator or coding bootcamp/newsletter who wants ready-made 'how to work with AI' curriculum to resell or bundle with paid training.",
+  "business_use_cases": [
+    "An engineering manager installs it team-wide to make every developer's AI assistant behave more consistently, cutting review time on AI-generated code.",
+    "A paid newsletter author (as the creator already does) uses the free repo to funnel readers into a subscription for deeper, kept-current tips.",
+    "A consultancy adapts the skill set as a branded 'AI engineering standards' package it installs for client engineering teams."
+  ],
+  "money_ideas": [
+    { "idea": "Run a paid newsletter/course teaching how to write and tune these skills, with the open repo as the funnel.", "revenue_model": "subscription" },
+    { "idea": "Offer a 'install and customize our AI engineering skills for your team' consulting package.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Clone the repo, pick your three favorite skills, and offer a half-day workshop teaching a dev team how to install and adapt them for their own stack.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-07T12:30:00Z"
+}

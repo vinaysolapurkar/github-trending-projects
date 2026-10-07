@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-07",
+  "owner": "boykopovar",
+  "name": "AnyPS5",
+  "full_name": "boykopovar/AnyPS5",
+  "url": "https://github.com/boykopovar/AnyPS5",
+  "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+  "language": "C++",
+  "stars_total": 8305,
+  "stars_today": 2725,
+  "one_liner": "Converts PlayStation 5 game programs so they can run on an ordinary Windows or Linux computer, without needing a PS5 or an emulator.",
+  "buyer": "Honestly, nobody who could pay for this legitimately. It's a hobbyist research/preservation tool in a legal gray zone around console game ports; there's no clean commercial buyer here.",
+  "business_use_cases": [
+    "A game-preservation researcher studies how a specific title's binary behaves, for archival and compatibility research purposes.",
+    "A hobbyist developer studies the shader recompiler and linking techniques for their own non-commercial systems-programming learning project.",
+    "A systems engineer references the relinker and prx-library reimplementation approach when designing porting tools for an unrelated, legally clean platform."
+  ],
+  "money_ideas": [
+    { "idea": "None that are defensible: selling access to or 'as a service' hosting of ported PS5 executables would involve copyrighted game binaries without authorization.", "revenue_model": "n/a" }
+  ],
+  "steal_this": "Don't build a business on this one. If anything, study the relinker and shader-recompiler engineering techniques and apply them to a platform you actually have rights to port for.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-07T12:30:00Z"
+}

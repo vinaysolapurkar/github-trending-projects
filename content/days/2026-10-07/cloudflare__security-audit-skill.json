@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-07",
+  "owner": "cloudflare",
+  "name": "security-audit-skill",
+  "full_name": "cloudflare/security-audit-skill",
+  "url": "https://github.com/cloudflare/security-audit-skill",
+  "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+  "language": "JavaScript",
+  "stars_total": 25619,
+  "stars_today": 538,
+  "one_liner": "Turns an AI coding assistant into a structured security auditor: it hunts for vulnerabilities in a codebase, double-checks its own findings with a second AI 'skeptic', and produces a clean report instead of a pile of unverified guesses.",
+  "buyer": "A small-to-mid-size software company's engineering lead who needs a security review before a client audit or compliance deadline but can't afford a full outside pentest firm yet.",
+  "business_use_cases": [
+    "A startup runs it before a SOC 2 audit to catch and fix obvious vulnerabilities cheaply, ahead of hiring an outside auditor.",
+    "A freelance security consultant uses it to do the first-pass grunt work on client codebases, then layers their own expert judgment on top, taking on more clients per month.",
+    "An agency building client software adds 'AI-assisted security pass' as a standard, billable step before every client handoff."
+  ],
+  "money_ideas": [
+    { "idea": "Offer 'AI-assisted security audit' as a fixed-price service for startups too small to afford a traditional pentest.", "revenue_model": "one-off" },
+    { "idea": "Run it as a subscription CI check that re-audits a client's codebase on every release.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Run it against three open-source or freemium products you use, write up the real (responsibly disclosed) findings as a public case study, then pitch the same audit as a paid service to non-technical founders who are nervous about security but can't afford Big Audit Firm rates.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-07T12:30:00Z"
+}
