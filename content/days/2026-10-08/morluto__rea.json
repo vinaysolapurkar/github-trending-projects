@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-08",
+  "owner": "morluto",
+  "name": "rea",
+  "full_name": "morluto/rea",
+  "url": "https://github.com/morluto/rea",
+  "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+  "language": "TypeScript",
+  "stars_total": 19366,
+  "stars_today": 7744,
+  "one_liner": "Lets an AI assistant peek inside how any app actually works under the hood (even without its source code) and explain it, or rebuild the feature for you.",
+  "buyer": "A software engineer or small product team who sees a slick feature in a competitor's app and wants to understand and replicate it, without hiring a dedicated reverse-engineering specialist.",
+  "business_use_cases": [
+    "A solo app developer uses it to figure out how a competitor's onboarding flow or sync feature works, then builds a comparable feature for their own product.",
+    "A security consultant offers 'competitive feature teardown' reports to product teams, powered by this tool instead of manual binary analysis.",
+    "An agency building clones/alternatives of niche SaaS tools speeds up their build process by having the agent explain the original app's behavior first."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid 'feature teardown' reports as a freelance service for product teams who want to understand a competitor's implementation.", "revenue_model": "one-off" },
+    { "idea": "Package it as part of a reverse-engineering-as-a-service retainer for app studios doing frequent competitive analysis.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Pick one feature from a popular app you admire, run it through REA this weekend, and ship a blog post or demo rebuild — it's good marketing for a teardown-as-a-service offer.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-08T12:30:00Z"
+}

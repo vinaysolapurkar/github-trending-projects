@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-08",
+  "owner": "cathrynlavery",
+  "name": "diagram-design",
+  "full_name": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+  "language": "HTML",
+  "stars_total": 45606,
+  "stars_today": 1163,
+  "one_liner": "A plug-in for AI coding assistants that makes them draw clean, good-looking diagrams (flowcharts, org charts, timelines) that match your brand, instead of ugly default boxes.",
+  "buyer": "A solo content creator or agency owner who publishes technical blog posts, pitch decks, or client reports and is tired of either fighting Figma for 30 minutes or shipping ugly auto-generated diagrams.",
+  "business_use_cases": [
+    "A content marketing agency uses it to produce on-brand architecture and process diagrams for every client blog post, saving a designer's time on each one.",
+    "A startup founder drops it into their docs site build so every 'how it works' diagram matches the site's visual style automatically.",
+    "A consultant preparing a client pitch deck generates a clean Wardley map or quadrant chart in minutes instead of commissioning one."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid 'diagram pack' service: feed in a client's brand site, deliver a finished set of on-brand architecture/flow diagrams for their docs or deck.", "revenue_model": "one-off" },
+    { "idea": "Bundle the skill into a premium 'developer docs as a service' subscription for startups who want polished technical content without hiring a designer.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Pick 5 common diagram requests (architecture, flowchart, org chart, roadmap, timeline) and offer a $200 flat-rate 'on-brand diagram pack' to indie SaaS founders this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-08T12:30:00Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-08",
+  "owner": "thedotmack",
+  "name": "claude-mem",
+  "full_name": "thedotmack/claude-mem",
+  "url": "https://github.com/thedotmack/claude-mem",
+  "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+  "language": "TypeScript",
+  "stars_total": 98080,
+  "stars_today": 662,
+  "one_liner": "Gives your AI coding assistant a memory, so it remembers what you were working on and decided last time instead of starting from zero every session.",
+  "buyer": "An indie developer or small engineering team running long-lived projects with AI coding assistants, who is tired of re-explaining project context and past decisions every new session.",
+  "business_use_cases": [
+    "A freelance developer uses it to keep multiple client codebases' context separate and persistent, cutting onboarding time back into each project every morning.",
+    "A dev tools startup offers a hosted, managed version of this memory layer (already hinted at with its 'CMEM Pro' hosted tier) as a subscription add-on for teams.",
+    "An agency running many parallel AI-assisted projects standardizes on it so handoffs between developers don't lose project history."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted/managed memory service with team sharing and higher limits, as the project itself is already doing with its Pro tier.", "revenue_model": "subscription" },
+    { "idea": "Sell setup-and-tuning consulting for teams who want this wired into their specific AI agent workflow.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "If you run a dev-tools newsletter or community, write the definitive 'why your AI agent forgets everything and how to fix it' guide using this tool, and sell the hosted tier as an affiliate.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-08T12:30:00Z"
+}

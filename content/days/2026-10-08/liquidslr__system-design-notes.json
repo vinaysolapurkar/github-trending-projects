@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-08",
+  "owner": "liquidslr",
+  "name": "system-design-notes",
+  "full_name": "liquidslr/system-design-notes",
+  "url": "https://github.com/liquidslr/system-design-notes",
+  "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+  "language": null,
+  "stars_total": 24200,
+  "stars_today": 398,
+  "one_liner": "A free set of study notes summarizing a popular book about how to answer 'design a system like Twitter' questions in software job interviews.",
+  "buyer": "There's no real buyer. This is a free study aid for software engineers prepping for interviews, and it's just notes on someone else's copyrighted book — not a product to build on.",
+  "business_use_cases": [
+    "A coding bootcamp could reference the notes as supplementary free reading for its interview-prep module, but wouldn't pay for it.",
+    "An individual engineer uses it as free interview prep, which is personal use, not a business.",
+    "A content creator could cite it in a YouTube video about system design interviews for ad revenue, but that's content work, not a product built on this repo."
+  ],
+  "money_ideas": [
+    { "idea": "None worth pursuing: it's a free notes repository with no code, and reselling summarized content from someone else's book raises its own issues.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Skip this one as a business idea; it's a personal study resource, not a product opportunity.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-08T12:30:00Z"
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-08",
+  "owner": "boykopovar",
+  "name": "AnyPS5",
+  "full_name": "boykopovar/AnyPS5",
+  "url": "https://github.com/boykopovar/AnyPS5",
+  "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+  "language": "C++",
+  "stars_total": 12925,
+  "stars_today": 4640,
+  "one_liner": "Takes a PlayStation 5 game and converts it so it can run directly on a Windows or Linux PC, without a PS5 or an emulator.",
+  "buyer": "There isn't really one. This is a hobbyist reverse-engineering project for enthusiasts who want to run specific PS5 games on PC; it's not aimed at anyone who'd pay for it.",
+  "business_use_cases": [
+    "A retro-gaming hardware shop could offer 'play your PS5 library on this mini-PC' setup services, but the legal and compatibility risk makes this a bad business bet.",
+    "A hobbyist YouTuber documents compatibility testing for ad revenue, which is really a content play, not a product built on the tool.",
+    "A systems programmer uses the public relinker/shader-recompiler code as a learning resource for their own unrelated binary-translation project."
+  ],
+  "money_ideas": [
+    { "idea": "None that are defensible: selling access to or services around running PS5 executables on unauthorized hardware invites takedown and legal risk from Sony.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Don't build a business on this one. If anything, write a technical blog post about how the shader recompiler works, for programmer audience/ad revenue only.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-08T12:30:00Z"
+}

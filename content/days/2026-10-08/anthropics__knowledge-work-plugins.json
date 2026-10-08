@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-08",
+  "owner": "anthropics",
+  "name": "knowledge-work-plugins",
+  "full_name": "anthropics/knowledge-work-plugins",
+  "url": "https://github.com/anthropics/knowledge-work-plugins",
+  "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+  "language": "Python",
+  "stars_total": 27268,
+  "stars_today": 766,
+  "one_liner": "A free starter pack that turns a general AI assistant into a specialist for a specific job, like sales, legal, or finance, already wired up to the tools that job uses.",
+  "buyer": "An operations or IT leader at a mid-size company rolling out AI assistants to non-technical teams (sales, support, finance, legal) who wants role-specific setups instead of building prompts from scratch.",
+  "business_use_cases": [
+    "A consulting firm customizes the 'legal' or 'finance' plugin with a client's terminology and internal tools, then sells the customized setup as a paid implementation package.",
+    "An agency that serves customer-support teams takes the 'customer-support' plugin and turns it into a packaged onboarding product for SMB helpdesks.",
+    "A fractional ops consultant uses the 'sales' plugin to quickly stand up AI-assisted outreach workflows for multiple small-business clients."
+  ],
+  "money_ideas": [
+    { "idea": "Charge a flat implementation fee to customize and connect one of these plugins (connectors, terminology, workflows) to a specific client's tool stack.", "revenue_model": "one-off" },
+    { "idea": "Offer an ongoing 'AI workflow maintenance' retainer that keeps a company's customized plugin set up to date as their tools and processes change.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Pick one plugin (e.g. customer-support or sales), customize it for one real local business this weekend, and pitch it as a fixed-price 'AI assistant setup' package.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-08T12:30:00Z"
+}

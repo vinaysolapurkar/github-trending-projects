@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-08",
+  "owner": "storytold",
+  "name": "artcraft",
+  "full_name": "storytold/artcraft",
+  "url": "https://github.com/storytold/artcraft",
+  "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+  "language": "Rust",
+  "stars_total": 6065,
+  "stars_today": 1465,
+  "one_liner": "A desktop app where you build a scene like a movie set — placing characters, props, and cameras in 3D — and the AI generates the final image or video shot exactly how you staged it.",
+  "buyer": "An indie filmmaker, game studio concept artist, or ad agency creative director who needs precise, repeatable AI-generated shots (same character, same room, different angle) instead of re-rolling random prompts.",
+  "business_use_cases": [
+    "A small ad agency uses it to storyboard and generate consistent campaign visuals across many shots without hiring a 3D artist for every variation.",
+    "An indie game studio blocks out concept art and promotional key art with consistent characters and environments before committing to final art.",
+    "A freelance illustrator offers 'AI-assisted storyboard packages' to indie filmmakers, using ArtCraft's scene staging to keep character and camera consistency across frames."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid storyboard/concept-art packages to indie filmmakers and game studios, built with ArtCraft's scene composition tools, billed per project.", "revenue_model": "one-off" },
+    { "idea": "A studio-services business licenses or bundles ArtCraft workflows into a subscription 'virtual art department' for small production teams.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Build 3-5 consistent character shots for a fictional short film using ArtCraft this weekend, and pitch a 'consistent AI storyboard' service to local indie filmmakers or game devs.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-08T12:30:00Z"
+}

@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-08",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing in today's trending list is a short-form video editor for social media." },
+    { "problem_id": "p002", "repo": null, "why": "Nothing today addresses product photography directly." },
+    { "problem_id": "p003", "repo": "thedotmack/claude-mem", "why": "It exists specifically to capture session context and inject it back into future AI coding sessions.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "mattpocock/skills", "why": "Its skills (like grill-me) are built to fix exactly this failure mode: agents writing bloated, misaligned code without clarifying intent first.", "confidence": "medium" },
+    { "problem_id": "p005", "repo": null, "why": "Nothing today helps organize research PDFs or articles." },
+    { "problem_id": "p006", "repo": null, "why": "ArtCraft is built for staged character/scene work, not fast news-explainer footage; calling it a fit would be a stretch." },
+    { "problem_id": "p007", "repo": null, "why": "Nothing today touches bioinformatics." },
+    { "problem_id": "p008", "repo": null, "why": "The legal plugin in knowledge-work-plugins connects to cloud tools (Box, Egnyte, MS365) rather than offering a private, self-hosted setup, so it doesn't actually solve the leak concern." },
+    { "problem_id": "p009", "repo": null, "why": "Nothing today turns blog posts into narrated video specifically." },
+    { "problem_id": "p010", "repo": null, "why": "Nothing today is a private, self-owned notes app." },
+    { "problem_id": "p011", "repo": "morluto/rea", "why": "It's built to explain how unfamiliar code and app behavior work, with evidence, which is the core need of a new hire facing a messy codebase.", "confidence": "medium" },
+    { "problem_id": "p012", "repo": "anthropics/knowledge-work-plugins", "why": "Its cowork-plugin-management plugin and the broader plugin collection give a concrete starting structure for a first AI product.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "Nothing today addresses restaurant inventory management." }
+  ]
+}

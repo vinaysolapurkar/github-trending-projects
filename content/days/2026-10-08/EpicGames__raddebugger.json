@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-08",
+  "owner": "EpicGames",
+  "name": "raddebugger",
+  "full_name": "EpicGames/raddebugger",
+  "url": "https://github.com/EpicGames/raddebugger",
+  "description": "A native, user-mode, multi-process, graphical debugger.",
+  "language": "C",
+  "stars_total": 7983,
+  "stars_today": 283,
+  "one_liner": "A visual tool that lets programmers pause a running Windows program and inspect exactly what it's doing inside, to find bugs faster.",
+  "buyer": "There isn't a realistic buyer here beyond the engineers who already use it for free. This is Epic Games' own internal tooling, open-sourced, competing with free alternatives (Visual Studio's debugger).",
+  "business_use_cases": [
+    "A game studio adopts it internally to debug huge codebases faster, which saves engineering time but isn't something anyone sells.",
+    "A systems-software consultant could offer 'debug your huge C++ codebase' services, but the tool itself is incidental to that service, not the product.",
+    "A build-tools vendor could study the RAD Linker's performance techniques to improve their own commercial linker, as research rather than a direct product."
+  ],
+  "money_ideas": [
+    { "idea": "No direct money idea applies: it's free infrastructure released by a large studio, built to be a public good and recruiting signal, not a product to resell.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Not a weekend business idea. At most, use it yourself to debug faster and write about the experience for programmer-audience content.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-08T12:30:00Z"
+}

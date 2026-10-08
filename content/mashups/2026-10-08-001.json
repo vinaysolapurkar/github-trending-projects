@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-08-001",
+  "date": "2026-10-08",
+  "repo_a": "storytold/artcraft",
+  "repo_b": "anthropics/knowledge-work-plugins",
+  "title": "The One-Person Ad Studio",
+  "pitch": "ArtCraft lets you stage a consistent character or product in 3D and generate precise, repeatable AI shots instead of random one-off images. The marketing plugin from knowledge-work-plugins already knows how to plan a campaign, enforce a brand's voice, and brief on competitors across channels. Wire the two together and a single freelancer can run an agency-grade creative pipeline: the marketing plugin plans the campaign and keeps every asset on-brand, while ArtCraft produces the consistent visual shots (same mascot, same product, different scenes) needed to execute it. Sell this combo to small e-commerce brands and local businesses as a flat monthly 'AI creative department' retainer, replacing a freelance designer and a freelance copywriter at a fraction of the cost.",
+  "why_now": "Both tools trended on the same day because AI creative tooling is splitting into 'plan the campaign' and 'make the consistent asset' halves — most people are only using one half. Whoever packages both first can underprice a traditional agency while still producing on-brand, consistent work instead of generic AI slop."
+}
