@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-09",
+  "owner": "Robbyant",
+  "name": "lingbot-map",
+  "full_name": "Robbyant/lingbot-map",
+  "url": "https://github.com/Robbyant/lingbot-map",
+  "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+  "language": "Python",
+  "stars_total": 17536,
+  "stars_today": 109,
+  "one_liner": "Research code that lets a robot or camera build an accurate 3D map of a space in real time as it moves through it, instead of after the fact.",
+  "buyer": "A robotics or drone company building autonomous navigation products that need real-time 3D mapping, and has an ML team able to integrate research code.",
+  "business_use_cases": [
+    "A warehouse robotics company integrates it to improve real-time mapping accuracy for autonomous forklifts.",
+    "A drone-mapping startup uses it to deliver faster, more accurate site surveys for construction and real estate clients.",
+    "An AR headset maker evaluates it for real-time scene reconstruction to anchor digital objects in physical space."
+  ],
+  "money_ideas": [
+    { "idea": "License an optimized, production-ready implementation to robotics and AR hardware companies.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Not a weekend project — this is academic research code (an award-candidate paper) that needs serious engineering to turn into a shippable product. Worth tracking as a technology to license or hire the authors around, not to clone quickly.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-09T12:30:00Z"
+}

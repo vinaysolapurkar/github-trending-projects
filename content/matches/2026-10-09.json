@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-09",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing in today's trending list is a short-form video editor for social media." },
+    { "problem_id": "p002", "repo": null, "why": "Nothing today addresses product photography directly." },
+    { "problem_id": "p003", "repo": null, "why": "Nothing today is a session-memory tool for AI coding assistants specifically." },
+    { "problem_id": "p004", "repo": "mattpocock/skills", "why": "Its playbooks are built to stop agents from writing bloated, misaligned code by asking clarifying questions first.", "confidence": "medium" },
+    { "problem_id": "p005", "repo": null, "why": "Nothing today helps organize research PDFs or articles." },
+    { "problem_id": "p006", "repo": null, "why": "diagram-design makes clean architecture-style diagrams, not news-explainer footage; calling it a fit would be a stretch." },
+    { "problem_id": "p007", "repo": null, "why": "Nothing today touches bioinformatics." },
+    { "problem_id": "p008", "repo": null, "why": "Nothing today offers a private, self-hosted AI chat setup suited to a law firm's confidentiality needs." },
+    { "problem_id": "p009", "repo": null, "why": "Nothing today turns blog posts into narrated video specifically." },
+    { "problem_id": "p010", "repo": null, "why": "Nothing today is a private, self-owned notes app." },
+    { "problem_id": "p011", "repo": "morluto/rea", "why": "It's built to explain how unfamiliar code and app behavior work with evidence, which is exactly what a new hire facing a messy codebase needs.", "confidence": "medium" },
+    { "problem_id": "p012", "repo": "BerriAI/litellm", "why": "It's the infrastructure piece (multi-provider AI gateway with cost tracking) that a first-time AI founder would otherwise have to build before anything else.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "Nothing today addresses restaurant inventory management." }
+  ]
+}

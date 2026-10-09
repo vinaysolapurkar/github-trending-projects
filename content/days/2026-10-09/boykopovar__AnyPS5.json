@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-09",
+  "owner": "boykopovar",
+  "name": "AnyPS5",
+  "full_name": "boykopovar/AnyPS5",
+  "url": "https://github.com/boykopovar/AnyPS5",
+  "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+  "language": "C++",
+  "stars_total": 18934,
+  "stars_today": 5925,
+  "one_liner": "Automatically converts PlayStation 5 game programs so they can run directly on a Windows or Linux PC, without an emulator.",
+  "buyer": "Honestly, almost nobody paying. The realistic audience is hobbyist game preservationists and PC-porting tinkerers, not a business buyer.",
+  "business_use_cases": [
+    "A game preservation group uses it to keep PS5-exclusive titles playable on PC hardware after console support ends.",
+    "A technical hobbyist streams or writes tutorials about the porting process to build an audience.",
+    "A boutique PC-port studio could study its relinking approach as a reference, though shipping ported console games commercially raises serious licensing issues."
+  ],
+  "money_ideas": [
+    { "idea": "Tutorials, Patreon-style support, or YouTube content explaining the porting process to a hobbyist audience.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Not really a weekend business idea — this is a hobbyist/legal-grey-area tool. The only honest 'steal' is the relinker technique itself as a learning resource for other porting projects, not a product to sell.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-09T12:30:00Z"
+}

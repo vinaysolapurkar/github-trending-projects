@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-09",
+  "owner": "mattpocock",
+  "name": "skills",
+  "full_name": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "language": "Shell",
+  "stars_total": 281977,
+  "stars_today": 1696,
+  "one_liner": "A collection of ready-made 'playbooks' that teach AI coding assistants how to work the way an experienced engineer would, like asking clarifying questions before writing code.",
+  "buyer": "A freelance developer or small dev shop that wants their AI coding assistant to produce less bloated, more aligned code without writing their own prompt-engineering playbooks from scratch.",
+  "business_use_cases": [
+    "A dev agency installs these skills across every client project so junior developers and AI assistants both produce more consistent, reviewed code.",
+    "A coding bootcamp licenses a customized version of the skill set to teach students how to work effectively with AI coding tools.",
+    "A solo freelancer uses the 'grill-me'-style skill to run better client intake conversations, reducing scope creep on fixed-price projects."
+  ],
+  "money_ideas": [
+    { "idea": "The author already monetizes this via a newsletter and courses around AI-assisted engineering; others could do the same by publishing a specialized skill pack for a niche stack.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This is free, open, developer-only tooling that mainly drives newsletter signups and reputation for its author — a good lead-magnet format to copy for your own niche, not something to resell directly.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-09T12:30:00Z"
+}

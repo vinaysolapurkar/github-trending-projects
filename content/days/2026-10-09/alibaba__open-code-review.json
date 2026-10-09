@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-09",
+  "owner": "alibaba",
+  "name": "open-code-review",
+  "full_name": "alibaba/open-code-review",
+  "url": "https://github.com/alibaba/open-code-review",
+  "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+  "language": "Go",
+  "stars_total": 44826,
+  "stars_today": 323,
+  "one_liner": "An automated reviewer that reads every pull request and leaves line-by-line comments catching bugs and security holes, so human reviewers spend less time on the boring parts.",
+  "buyer": "An engineering manager at a mid-size company who is losing developer hours to slow, inconsistent code review and wants security issues caught before merge.",
+  "business_use_cases": [
+    "A software agency runs it on every client pull request to guarantee a baseline security and quality check before a human ever looks at the code.",
+    "A fintech or healthcare company self-hosts it to satisfy compliance requirements that all code is checked for SQL injection and XSS before release.",
+    "A dev-tools startup wraps it as a hosted SaaS add-on for teams that don't want to run their own LLM infrastructure."
+  ],
+  "money_ideas": [
+    { "idea": "Host a managed version with per-seat pricing for teams that don't want to self-host the infrastructure.", "revenue_model": "subscription" },
+    { "idea": "Offer a compliance-report add-on (exportable security findings per PR) sold to regulated industries.", "revenue_model": "usage" }
+  ],
+  "steal_this": "A 'security review bot for hire': set this up as a hosted service, connect it to a client's repo over a weekend, and sell monthly access as an always-on second reviewer.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-09T12:30:00Z"
+}

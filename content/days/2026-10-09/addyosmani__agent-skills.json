@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-09",
+  "owner": "addyosmani",
+  "name": "agent-skills",
+  "full_name": "addyosmani/agent-skills",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "description": "Production-grade engineering skills for AI coding agents.",
+  "language": "JavaScript",
+  "stars_total": 103632,
+  "stars_today": 751,
+  "one_liner": "A packaged set of senior-engineer habits and quality checks that an AI coding assistant follows automatically on every task, instead of cutting corners.",
+  "buyer": "An engineering lead at a product company who wants their team's AI coding agents to consistently follow code-quality and testing standards without manual policing.",
+  "business_use_cases": [
+    "A SaaS company installs it so every AI-generated pull request already includes tests and follows the team's quality gates.",
+    "A dev agency uses it across client projects as a selling point: 'our AI-assisted work meets production standards, not just demo quality.'",
+    "A platform engineering team adapts it into an internal standard that onboarding engineers and AI agents both follow."
+  ],
+  "money_ideas": [
+    { "idea": "Publish an advanced or company-specific version of the skill pack and sell it to engineering teams as a quality-standards product.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Free, open developer tooling that mainly builds the author's reputation and following — worth copying the format for your own niche skill pack, not reselling as-is.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-09T12:30:00Z"
+}

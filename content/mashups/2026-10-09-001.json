@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-09-001",
+  "date": "2026-10-09",
+  "repo_a": "alibaba/open-code-review",
+  "repo_b": "BerriAI/litellm",
+  "title": "The Multi-Model Review Desk",
+  "pitch": "Put Alibaba's open-code-review engine behind LiteLLM's AI gateway and you get a hosted code-review service that lets clients choose (or mix) which LLM reviews their code, with per-team cost caps, usage dashboards, and a single bill. Agencies and regulated companies that need line-level security review (XSS, SQL injection, thread-safety) but don't want to run or fund their own LLM infrastructure buy monthly access; you control margin by routing cheap models to routine checks and premium models to flagged-risk diffs.",
+  "why_now": "Both repos trended the same day: one is a battle-tested, security-focused review engine, the other is the plumbing every team needs to run it affordably across multiple AI providers without a surprise bill. Together they close the two biggest objections companies have to adopting AI code review today: trust in the findings, and fear of runaway LLM costs."
+}

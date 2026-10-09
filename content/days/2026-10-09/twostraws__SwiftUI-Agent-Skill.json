@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-09",
+  "owner": "twostraws",
+  "name": "SwiftUI-Agent-Skill",
+  "full_name": "twostraws/SwiftUI-Agent-Skill",
+  "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+  "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+  "language": null,
+  "stars_total": 5228,
+  "stars_today": 88,
+  "one_liner": "Teaches an AI coding assistant the correct, idiomatic way to build iOS app screens in SwiftUI, so it stops writing clumsy or outdated code.",
+  "buyer": "An iOS freelancer or small app studio who wants their AI coding assistant to write cleaner SwiftUI code on the first try, cutting review and rework time.",
+  "business_use_cases": [
+    "An iOS consultancy adopts it internally to speed up client app builds with AI assistance that actually follows Apple's current patterns.",
+    "A solo app developer uses it to ship features faster without having to correct the AI's SwiftUI mistakes repeatedly.",
+    "A mobile bootcamp or course creator references it when teaching students how to pair AI tools with SwiftUI development."
+  ],
+  "money_ideas": [
+    { "idea": "The well-known author can monetize via a paid advanced skill pack, book, or course bundled with this as a free lead magnet.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Free developer tooling and a reputation-builder for its author, not a resellable product itself — the model worth copying is 'give away a focused skill, sell the deeper course.'",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-09T12:30:00Z"
+}

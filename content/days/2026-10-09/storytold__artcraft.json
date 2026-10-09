@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-09",
+  "owner": "storytold",
+  "name": "artcraft",
+  "full_name": "storytold/artcraft",
+  "url": "https://github.com/storytold/artcraft",
+  "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+  "language": "Rust",
+  "stars_total": 9779,
+  "stars_today": 3723,
+  "one_liner": "A purpose-built creative tool, like an 'IDE for artists,' for building visual art, design, and film assets with precise, deliberate control instead of generic drag-and-drop software.",
+  "buyer": "An independent game studio or motion-design team that wants a faster, more controllable tool for building visual assets than general-purpose creative software.",
+  "business_use_cases": [
+    "An indie game studio uses it to prototype crafting systems and in-game art assets faster than with general 3D/design software.",
+    "A motion-design or VFX boutique adopts it as a faster pipeline tool for client work, cutting production time.",
+    "An educator builds a course teaching procedural art and design techniques using it as the primary tool."
+  ],
+  "money_ideas": [
+    { "idea": "Sell premium asset packs, plugins, or templates built on top of the engine.", "revenue_model": "one-off" },
+    { "idea": "Offer cloud rendering or collaboration features as a paid tier for studios.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Build and sell a niche asset or template pack (e.g. a specific art style or crafting-system template) for this engine's early adopter community.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-09T12:30:00Z"
+}

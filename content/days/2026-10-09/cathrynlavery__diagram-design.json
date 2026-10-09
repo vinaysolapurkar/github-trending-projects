@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-09",
+  "owner": "cathrynlavery",
+  "name": "diagram-design",
+  "full_name": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+  "language": "HTML",
+  "stars_total": 47329,
+  "stars_today": 1744,
+  "one_liner": "Teaches an AI coding assistant to draw clean, magazine-quality diagrams for your docs and blog posts instead of the default boxy flowchart look.",
+  "buyer": "A technical content marketer or developer-relations lead who needs good-looking architecture diagrams for blog posts and docs but has no budget for a designer.",
+  "business_use_cases": [
+    "A dev tools startup uses it to make its documentation and launch blog posts look professionally designed without hiring a designer.",
+    "A freelance technical writer offers 'polished diagrams included' as a premium add-on to blog-writing gigs.",
+    "A consulting firm uses it to turn rough architecture sketches into clean diagrams for client-facing proposal decks."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a premium pack of extra diagram templates and styles beyond the 42 free ones.", "revenue_model": "one-off" },
+    { "idea": "Offer a 'diagram polish' service for technical blogs and docs sites as a subscription add-on.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "A 'make my docs look good' weekend service: take any team's existing Mermaid diagrams, run them through this, and sell the redesigned set as a one-off deliverable.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-09T12:30:00Z"
+}

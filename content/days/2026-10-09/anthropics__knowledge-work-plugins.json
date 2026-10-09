@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-09",
+  "owner": "anthropics",
+  "name": "knowledge-work-plugins",
+  "full_name": "anthropics/knowledge-work-plugins",
+  "url": "https://github.com/anthropics/knowledge-work-plugins",
+  "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+  "language": "Python",
+  "stars_total": 27976,
+  "stars_today": 714,
+  "one_liner": "Ready-made add-ons that turn a general AI assistant into a specialist for a particular job, like legal review or financial reporting, with the tools and habits that role actually needs.",
+  "buyer": "A boutique consulting or ops firm that wants to offer clients an AI assistant pre-configured for their exact industry, instead of a generic chatbot.",
+  "business_use_cases": [
+    "An accounting firm packages a custom plugin bundle that knows its clients' reporting formats and sells it as part of a retainer.",
+    "An HR consultancy builds a plugin that handles intake and policy questions in its house style, then resells the setup to other small HR teams.",
+    "A real estate brokerage configures a plugin for lease abstraction and listing write-ups, saving junior staff hours per week."
+  ],
+  "money_ideas": [
+    { "idea": "Build and sell industry-specific plugin bundles (legal, accounting, real estate) as a setup-and-support service.", "revenue_model": "one-off" },
+    { "idea": "Run workshops or a course teaching firms how to build their own plugins on this framework.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Pick one underserved profession (e.g. independent insurance brokers), build one solid plugin for their exact workflow this weekend, and sell it directly to a handful of firms.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-09T12:30:00Z"
+}

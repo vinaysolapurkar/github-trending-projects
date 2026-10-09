@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-09",
+  "owner": "BerriAI",
+  "name": "litellm",
+  "full_name": "BerriAI/litellm",
+  "url": "https://github.com/BerriAI/litellm",
+  "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+  "language": "Python",
+  "stars_total": 60460,
+  "stars_today": 95,
+  "one_liner": "A single switchboard that lets a company plug in any AI model from any provider using one simple format, while tracking what it's spending and who's using what.",
+  "buyer": "A CTO or engineering lead at a startup juggling multiple AI providers (OpenAI, Anthropic, Bedrock) who needs one place to control cost, access, and reliability.",
+  "business_use_cases": [
+    "A startup self-hosts it to swap AI providers without rewriting application code, and to stop unexpected AI bills by setting per-team spend limits.",
+    "An agency managing AI features for several clients runs one gateway to track usage and bill each client accurately.",
+    "An enterprise IT team deploys it with guardrails to block risky prompts and PII leakage across every internal AI tool."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a managed, hosted version of the gateway with dashboards and support, priced per seat or per team.", "revenue_model": "subscription" },
+    { "idea": "Charge a small usage markup for handling enterprise-grade guardrails, logging, and compliance features.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Stand up a hosted, managed instance of this for small AI-building startups who don't want to run infrastructure, and charge monthly for the dashboard and support.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-09T12:30:00Z"
+}
