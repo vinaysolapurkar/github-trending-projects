@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-10",
+  "owner": "multica-ai",
+  "name": "andrej-karpathy-skills",
+  "full_name": "multica-ai/andrej-karpathy-skills",
+  "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+  "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+  "language": null,
+  "stars_total": 217863,
+  "stars_today": 279,
+  "one_liner": "A single text file of instructions you drop into a project to stop your AI coding assistant from overcomplicating things and making silent wrong assumptions.",
+  "buyer": "Nobody paying — this is a free configuration tip, not a product. It mainly serves as marketing for the author's separate coding-agent platform, Multica.",
+  "business_use_cases": [
+    "A dev team copies it into their repo to get more disciplined AI-assisted coding without paying for anything.",
+    "A coding-agent vendor studies which guideline patterns resonate to bake similar defaults into their own product.",
+    "A developer-education creator uses the same 'one file, big promise' format as a free lead magnet for their own paid content."
+  ],
+  "money_ideas": [
+    { "idea": "Not monetizable on its own — it's free content whose real purpose is driving awareness toward the author's Multica platform.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Don't copy the file — copy the move: write your own narrow, well-named 'one file fixes X' guideline for your stack and use it to drive traffic to something you actually sell.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-10T12:03:37Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-10",
+  "owner": "storytold",
+  "name": "artcraft",
+  "full_name": "storytold/artcraft",
+  "url": "https://github.com/storytold/artcraft",
+  "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+  "language": "Rust",
+  "stars_total": 12907,
+  "stars_today": 3217,
+  "one_liner": "A desktop app, like a design studio, where you compose a scene in 2D and 3D and then use AI to turn it into finished images or video, instead of typing a prompt and hoping.",
+  "buyer": "An indie filmmaker or small creative studio who wants AI-generated shots but needs real control over composition, camera, and lighting instead of random prompt output.",
+  "business_use_cases": [
+    "A small ad agency storyboards and pre-visualizes commercials in ArtCraft before committing to an expensive live shoot.",
+    "An indie game studio generates concept art and cinematic shots for a trailer without hiring a full art team.",
+    "A YouTube channel builds short AI-animated story segments for explainer or fiction content using composed scenes instead of raw text-to-video."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a 'storyboard-to-shot' service for small ad agencies and indie filmmakers who can't afford a pre-vis artist.", "revenue_model": "one-off" },
+    { "idea": "Offer template scene packs and brand-styled presets for creative studios.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "A weekend pre-visualization service: take a client's script or ad brief and deliver a set of AI-composed storyboard shots in ArtCraft by Monday.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-10T12:03:37Z"
+}

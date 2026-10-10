@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-10",
+  "owner": "mksglu",
+  "name": "context-mode",
+  "full_name": "mksglu/context-mode",
+  "url": "https://github.com/mksglu/context-mode",
+  "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+  "language": "TypeScript",
+  "stars_total": 26047,
+  "stars_today": 178,
+  "one_liner": "A plugin that keeps AI coding assistants from 'forgetting' what they were doing, by trimming the clutter they see and remembering context between sessions.",
+  "buyer": "An indie developer or small dev team paying for multiple AI coding subscriptions who is frustrated by their assistant losing track of a project between sessions.",
+  "business_use_cases": [
+    "A freelance developer uses it to keep long client projects coherent across many AI coding sessions without re-explaining context each time.",
+    "A dev tools startup bundles it as a premium feature inside their own AI coding product.",
+    "A dev team standardizes on it to cut their AI API usage costs by reducing wasted context tokens."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted/managed version with team dashboards and shared memory across a company's developers.", "revenue_model": "subscription" },
+    { "idea": "License the routing/sandboxing engine to AI coding tool vendors.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Package it as a one-click 'stop losing context' plugin for a specific popular AI coding tool and sell a pro tier with team memory sharing.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-10T12:03:37Z"
+}

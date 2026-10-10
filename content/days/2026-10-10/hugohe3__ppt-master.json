@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-10",
+  "owner": "hugohe3",
+  "name": "ppt-master",
+  "full_name": "hugohe3/ppt-master",
+  "url": "https://github.com/hugohe3/ppt-master",
+  "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+  "language": "Python",
+  "stars_total": 58982,
+  "stars_today": 372,
+  "one_liner": "Feed it a document or topic and it builds you a real, editable PowerPoint deck, with charts, animations, and even narration, instead of a flat image export.",
+  "buyer": "A sales manager or consultant who needs client-ready decks fast and can't justify hiring a designer for every pitch.",
+  "business_use_cases": [
+    "A sales team turns product one-pagers into polished pitch decks for prospects in minutes instead of days.",
+    "A consulting firm converts research reports into client-presentable slide decks with charts auto-generated from the data.",
+    "A course creator turns written lesson notes into narrated slide decks for an online course."
+  ],
+  "money_ideas": [
+    { "idea": "Run a 'deck-in-a-day' service: clients send a document, you deliver a branded, narrated PowerPoint using this tool.", "revenue_model": "one-off" },
+    { "idea": "Offer a hosted version with company-branded templates and team seats.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This weekend, build a 'document to pitch deck' service: take a client's existing report or one-pager and turn it into a narrated, on-brand PowerPoint using their own .pptx template.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-10T12:03:37Z"
+}

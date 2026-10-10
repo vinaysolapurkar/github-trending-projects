@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-10",
+  "owner": "flutter",
+  "name": "flutter",
+  "full_name": "flutter/flutter",
+  "url": "https://github.com/flutter/flutter",
+  "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+  "language": "Dart",
+  "stars_total": 179285,
+  "stars_today": 39,
+  "one_liner": "Google's free toolkit for building one app that runs on phones, tablets, web, and desktop from a single codebase.",
+  "buyer": "A startup founder who needs an app for iPhone and Android but can't afford to pay two separate development teams.",
+  "business_use_cases": [
+    "A freelance developer builds and sells cross-platform MVP apps for small business clients faster than native development would allow.",
+    "An agency specializes in Flutter app builds to undercut competitors who quote separate iOS and Android teams.",
+    "A SaaS company ships one Flutter codebase as both its mobile app and admin web dashboard."
+  ],
+  "money_ideas": [
+    { "idea": "Run a Flutter app-development agency charging fixed-price builds for small business clients.", "revenue_model": "one-off" },
+    { "idea": "Sell pre-built Flutter app templates (e-commerce, booking, social) for quick customization.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This is infrastructure, not a product idea on its own — the real weekend project is picking a Flutter starter template and shipping a specific small-business app with it.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-10T12:03:37Z"
+}

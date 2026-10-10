@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-10",
+  "owner": "tensorflow",
+  "name": "tensorflow",
+  "full_name": "tensorflow/tensorflow",
+  "url": "https://github.com/tensorflow/tensorflow",
+  "description": "An Open Source Machine Learning Framework for Everyone",
+  "language": "C++",
+  "stars_total": 200590,
+  "stars_today": 24,
+  "one_liner": "Google's free foundational toolkit for building and training machine learning models, used by engineers rather than end users.",
+  "buyer": "A company that needs a custom machine-learning model (fraud detection, demand forecasting) but doesn't have in-house ML engineers to build it from scratch.",
+  "business_use_cases": [
+    "An ML consulting shop builds custom forecasting or classification models for retail and finance clients using it as the underlying engine.",
+    "A hardware vendor optimizes and sells TensorFlow-based inference on specialized edge devices.",
+    "A SaaS company trains a proprietary model on its own data and sells access to the predictions, never exposing the framework itself."
+  ],
+  "money_ideas": [
+    { "idea": "Offer ML-model-as-a-service consulting: build and deploy one custom model per client engagement.", "revenue_model": "one-off" },
+    { "idea": "Package a trained model into an API and charge per prediction.", "revenue_model": "usage" }
+  ],
+  "steal_this": "This is a dev framework, not a product — the real weekend project is picking one narrow prediction problem for a specific small business and shipping a tiny trained model as an API.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-10T12:03:37Z"
+}

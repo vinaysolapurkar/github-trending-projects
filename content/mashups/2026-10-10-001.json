@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-10-001",
+  "date": "2026-10-10",
+  "repo_a": "hugohe3/ppt-master",
+  "repo_b": "anthropics/knowledge-work-plugins",
+  "title": "The Auto-Pitch Desk",
+  "pitch": "Wire the sales plugin from knowledge-work-plugins (which already pulls deal and prospect data from HubSpot, Salesforce, Close, and the rest) into ppt-master, so that every time a rep books a new meeting, a fully branded, data-backed pitch deck with charts and narrated speaker notes gets generated automatically from that prospect's own CRM record. Small sales teams who currently burn an hour per prospect building a 'personalized' deck by hand buy this as a per-seat tool; agencies running outbound for multiple clients buy it to white-label decks at scale without hiring a deck designer.",
+  "why_now": "Both repos trended the same day and solve adjacent halves of the same problem: one plugs an AI assistant into the actual sales tools and data reps already use, the other turns any document or dataset into a polished, native PowerPoint. Neither is a sales-deck product on its own, but wired together they remove the single most repetitive task in a sales rep's week."
+}

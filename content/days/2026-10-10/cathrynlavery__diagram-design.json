@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-10",
+  "owner": "cathrynlavery",
+  "name": "diagram-design",
+  "full_name": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+  "language": "HTML",
+  "stars_total": 48453,
+  "stars_today": 1189,
+  "one_liner": "Teaches AI coding assistants how to draw clean, professional-looking diagrams instead of the generic boxy charts most tools produce.",
+  "buyer": "A technical writer or dev-tools company that publishes documentation and wants diagrams that look designed, not auto-generated, without hiring a designer for every chart.",
+  "business_use_cases": [
+    "A startup's docs team uses it to produce polished architecture diagrams for its developer documentation site.",
+    "A consultant preparing technical pitch decks uses it to generate clean quadrant and sequence diagrams on the fly.",
+    "An agency onboarding client brand colors uses it to auto-style every diagram it produces for that client's docs."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a documentation-polish service for dev-tool startups: redo their existing diagrams in this editorial style.", "revenue_model": "one-off" },
+    { "idea": "Sell custom brand/theme packs so agencies can match client styling automatically.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This weekend, offer to re-draw a dev-tool company's docs diagrams in this style as a paid one-off and use the before/after as your own portfolio piece.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-10T12:03:37Z"
+}

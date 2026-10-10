@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-10",
+  "owner": "huggingface",
+  "name": "transformers",
+  "full_name": "huggingface/transformers",
+  "url": "https://github.com/huggingface/transformers",
+  "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+  "language": "Python",
+  "stars_total": 166988,
+  "stars_today": 94,
+  "one_liner": "A free library that lets developers download and run thousands of pre-trained AI models for text, images, and audio instead of training from scratch.",
+  "buyer": "A startup founder who wants to add an AI feature (summarization, image tagging, transcription) to their product without hiring a machine-learning team.",
+  "business_use_cases": [
+    "A customer-support SaaS uses it to add automatic ticket summarization without building a model from scratch.",
+    "A media company uses it to auto-transcribe and tag audio/video archives for search.",
+    "A niche industry app (legal, medical) fine-tunes an open model from this library for domain-specific document classification."
+  ],
+  "money_ideas": [
+    { "idea": "Fine-tune an open model for one narrow industry task and sell access via API.", "revenue_model": "usage" },
+    { "idea": "Offer 'add AI to your SaaS' integration consulting using pre-trained models from this library.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Pick one tedious task a local business does by hand (tagging photos, summarizing reviews) and ship a tiny app this weekend using an off-the-shelf model from here.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-10T12:03:37Z"
+}

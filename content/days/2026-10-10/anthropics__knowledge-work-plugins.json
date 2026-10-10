@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-10",
+  "owner": "anthropics",
+  "name": "knowledge-work-plugins",
+  "full_name": "anthropics/knowledge-work-plugins",
+  "url": "https://github.com/anthropics/knowledge-work-plugins",
+  "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+  "language": "Python",
+  "stars_total": 28577,
+  "stars_today": 626,
+  "one_liner": "A free set of ready-made add-ons that turn an AI assistant into a specialist for a specific job — sales, HR, finance — already wired up to tools like Slack and Notion.",
+  "buyer": "An operations lead at a small or mid-size company who wants their team using AI consistently, with the right tools and process, instead of everyone improvising their own prompts.",
+  "business_use_cases": [
+    "A consulting shop customizes these plugins with a client's own terminology and tools, then sells the setup as an 'AI onboarding' package.",
+    "A company's ops team adopts the sales or productivity plugin to standardize how reps use AI across the team.",
+    "An agency builds a niche vertical plugin (e.g. for real estate or accounting) modeled on this repo's structure and sells it as a packaged product."
+  ],
+  "money_ideas": [
+    { "idea": "Sell 'AI plugin setup and customization' as a consulting service for small companies adopting Claude.", "revenue_model": "one-off" },
+    { "idea": "Build and sell a niche industry plugin not covered by the open-source set.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Pick one of the 11 plugins, customize it this weekend with a specific small business's tools and jargon, and sell the setup as a half-day consulting package.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-10T12:03:37Z"
+}

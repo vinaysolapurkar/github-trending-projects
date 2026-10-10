@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-10",
+  "owner": "pytorch",
+  "name": "pytorch",
+  "full_name": "pytorch/pytorch",
+  "url": "https://github.com/pytorch/pytorch",
+  "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+  "language": "Python",
+  "stars_total": 104028,
+  "stars_today": 81,
+  "one_liner": "The free engine most AI companies use under the hood to build and train neural networks; it's plumbing, not a finished product.",
+  "buyer": "A company that wants to train its own AI model on proprietary data rather than renting one from a vendor, but needs engineers who know PyTorch to build it.",
+  "business_use_cases": [
+    "An ML consultancy builds custom computer-vision or NLP models for manufacturing or healthcare clients on top of it.",
+    "A training/bootcamp business teaches practical PyTorch skills to developers pivoting into AI roles.",
+    "A startup fine-tunes an open model with PyTorch and sells the result as a narrow, specialized API."
+  ],
+  "money_ideas": [
+    { "idea": "Offer custom model training as a service for companies with proprietary data.", "revenue_model": "one-off" },
+    { "idea": "Run paid PyTorch upskilling workshops for engineering teams.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Not a weekend product by itself — the real move is picking one specific client's dataset and shipping a small fine-tuned model as a paid API, with PyTorch doing the invisible work.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-10T12:03:37Z"
+}

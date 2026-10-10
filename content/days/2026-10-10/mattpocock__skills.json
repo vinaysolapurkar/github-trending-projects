@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-10",
+  "owner": "mattpocock",
+  "name": "skills",
+  "full_name": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "language": "Shell",
+  "stars_total": 283614,
+  "stars_today": 1737,
+  "one_liner": "A free collection of instruction files that teach an AI coding assistant how a seasoned engineer actually wants work done.",
+  "buyer": "Honestly, nobody paying directly — this is free, personal-brand content for developers, built to funnel readers into the author's newsletter and courses rather than sold itself.",
+  "business_use_cases": [
+    "A developer-education creator studies this as a lead-magnet playbook: give away configuration files, sell the newsletter and courses behind them.",
+    "A consulting shop adapts the skill files internally to standardize how its own engineers brief AI tools on client projects.",
+    "A dev tools company references popular skill repos like this one to decide which workflows to build native product support for."
+  ],
+  "money_ideas": [
+    { "idea": "Not monetizable as a standalone product — its value is as free content that drives newsletter/course signups for its author.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Don't clone the repo — clone the funnel: publish your own niche 'skills' file for a specific stack and use it to build an email list for a paid course.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-10T12:03:37Z"
+}
