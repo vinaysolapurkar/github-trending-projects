@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-11",
+  "owner": "cathrynlavery",
+  "name": "diagram-design",
+  "full_name": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+  "language": "HTML",
+  "stars_total": 49546,
+  "stars_today": 1083,
+  "one_liner": "An add-on for AI coding assistants that draws clean, on-brand diagrams (flowcharts, architecture maps, and more) as a single file you can open in a browser, instead of the messy auto-generated charts most tools spit out.",
+  "buyer": "A technical writer or dev-tools startup that currently pays a designer, or just lives with ugly auto-generated diagrams, to explain architecture or workflows in docs and pitch decks.",
+  "business_use_cases": [
+    "A dev-tools startup generates consistent, branded architecture diagrams for its documentation site automatically from its own codebase.",
+    "A consulting firm turns client workshop notes into clean sequence or quadrant diagrams for a deliverable deck the same day.",
+    "An internal platform team documents system architecture diagrams that stay on-brand without hiring a designer."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a 'brand onboarding' service that configures the skill to match a company's exact visual style, then sell ongoing diagram-as-a-service for their docs.", "revenue_model": "subscription" },
+    { "idea": "Build and sell premium diagram-type packs beyond the default 44 for niche industries (legal process maps, supply chain, clinical workflows).", "revenue_model": "one-off" }
+  ],
+  "steal_this": "A weekend 'docs makeover' service: take a startup's ugly architecture diagrams, redo all of them on-brand with this skill, and charge a flat fee per doc site.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-11T12:08:00Z"
+}

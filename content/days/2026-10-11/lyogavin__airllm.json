@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-11",
+  "owner": "lyogavin",
+  "name": "airllm",
+  "full_name": "lyogavin/airllm",
+  "url": "https://github.com/lyogavin/airllm",
+  "description": "AirLLM 70B inference with single 4GB GPU",
+  "language": "Jupyter Notebook",
+  "stars_total": 36107,
+  "stars_today": 541,
+  "one_liner": "Lets you run huge AI language models, the kind that normally need an expensive multi-GPU server, on a single cheap consumer graphics card by streaming the model in piece by piece.",
+  "buyer": "A solo AI developer or small startup that wants to self-host a large, capable open-source model for a product without paying for expensive cloud GPU time or per-token API fees.",
+  "business_use_cases": [
+    "A startup self-hosts a large open-source model on modest hardware to offer an AI feature without ongoing per-token API costs.",
+    "A privacy-focused business, such as a legal or healthcare practice, runs a large model fully on-premises on affordable hardware instead of sending client data to a cloud API.",
+    "A hobbyist developer prototypes with frontier-scale open models on a home GPU before deciding whether to pay for cloud infrastructure."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a 'cheap self-hosted AI' setup-and-support service for small businesses that want to run big models on affordable hardware.", "revenue_model": "one-off" },
+    { "idea": "Offer a managed hosting tier that runs this stack on rented single-GPU instances, billed per hour of usage.", "revenue_model": "usage" }
+  ],
+  "steal_this": "A weekend 'bring your own GPU' hosting side-business: rent out spare GPU capacity running large open models via AirLLM, billed by usage, for developers who can't afford cloud API costs.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-11T12:08:00Z"
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-11",
+  "owner": "chrislgarry",
+  "name": "Apollo-11",
+  "full_name": "chrislgarry/Apollo-11",
+  "url": "https://github.com/chrislgarry/Apollo-11",
+  "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+  "language": "Assembly",
+  "stars_total": 73871,
+  "stars_today": 496,
+  "one_liner": "The actual original 1969 source code that flew the Apollo 11 spacecraft to the Moon, typed up and put on GitHub for anyone to read.",
+  "buyer": "No one. This is public-domain historical and educational code with no commercial angle; it's a museum piece, not a business opportunity.",
+  "business_use_cases": [
+    "A museum or educational nonprofit uses it in an interactive exhibit about the Apollo missions.",
+    "A computer science educator uses it as a teaching example of real 1960s assembly code and engineering constraints.",
+    "A documentary or media producer references it as source material for a retrospective on the Apollo program."
+  ],
+  "money_ideas": [
+    { "idea": "Sell educational content, such as a course or explainer video series, walking through how the actual AGC code worked, aimed at space and history enthusiasts.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "A weekend project: build a small interactive, annotated walkthrough website of the most interesting routines in the code (like the famous 1202 program alarm) for space history fans.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-11T12:08:00Z"
+}

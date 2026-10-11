@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-11",
+  "owner": "bilawalsidhu",
+  "name": "gods-eye-view",
+  "full_name": "bilawalsidhu/gods-eye-view",
+  "url": "https://github.com/bilawalsidhu/gods-eye-view",
+  "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+  "language": "JavaScript",
+  "stars_total": 50752,
+  "stars_today": 872,
+  "one_liner": "A free, browser-based 'spy satellite' map that shows real live flights, ships, satellites, earthquakes, traffic, and public cameras on a photorealistic 3D globe you can talk to.",
+  "buyer": "A news or media outlet, or a logistics/insurance team, that wants a live situational-awareness map for storytelling or risk monitoring without building satellite-data infrastructure from scratch.",
+  "business_use_cases": [
+    "A news outlet embeds a live-tracked globe view in breaking-news coverage, following a specific flight or ship, instead of using static maps.",
+    "A logistics or insurance company builds an internal dashboard to monitor shipping lanes, weather, and asset locations in one view.",
+    "An explainer YouTube channel uses the scene director and cinematic camera tools to produce 'watch this unfold live' video segments for current events."
+  ],
+  "money_ideas": [
+    { "idea": "White-label the globe as an embeddable live-event widget for news publishers, priced per embed.", "revenue_model": "subscription" },
+    { "idea": "Sell a managed hosted version with premium data feeds (higher-res imagery, more cameras) for logistics and insurance teams.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "A weekend 'live event tracker' page: point a hosted instance at a real unfolding event (storm, flight, ship) and share the link for traffic and ad revenue.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-11T12:08:00Z"
+}

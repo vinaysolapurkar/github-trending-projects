@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-11",
+  "owner": "morluto",
+  "name": "rea",
+  "full_name": "morluto/rea",
+  "url": "https://github.com/morluto/rea",
+  "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+  "language": "TypeScript",
+  "stars_total": 86353,
+  "stars_today": 25585,
+  "one_liner": "Lets an AI assistant figure out exactly how an app or program works on the inside, down to the raw code, instead of a person reverse-engineering it by hand.",
+  "buyer": "A security consultant or legacy-software contractor who bills clients to understand an undocumented app, driver, or old binary before they can audit, fix, or clone it.",
+  "business_use_cases": [
+    "A security firm uses it to speed up malware triage and vulnerability research, billing fewer hours per engagement.",
+    "A contractor hired to keep a 15-year-old program alive with no source code uses it to reconstruct how key features work before touching anything.",
+    "A compatibility-layer vendor uses it to understand undocumented native libraries it needs to re-implement for a new platform."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a 'legacy app autopsy' reverse-engineering service for old or undocumented software, priced per engagement.", "revenue_model": "one-off" },
+    { "idea": "Sell prebuilt analysis playbooks for specific binary formats or platforms to security teams.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "A paid weekend service: point this at a client's old undocumented .exe or firmware dump and hand back a plain-English report of what it actually does.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-11T12:08:00Z"
+}

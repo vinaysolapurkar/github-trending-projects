@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-11-001",
+  "date": "2026-10-11",
+  "repo_a": "bilawalsidhu/gods-eye-view",
+  "repo_b": "storytold/artcraft",
+  "title": "The Dramatized Newsroom",
+  "pitch": "Pull a real unfolding event's exact positions and timeline from God's Eye View (a ship adrift, a flight diverting, a wildfire's spread) and feed those coordinates and timestamps into ArtCraft to stage a cinematic, camera-directed dramatization of the event: real-world accuracy from the live data, filmmaker-grade visual polish from the crafting engine. News outlets and explainer YouTubers who currently choose between dry stock-footage B-roll and expensive dramatic reenactments buy this as a fast middle path: accurate, watchable video built within hours of a breaking event, not days.",
+  "why_now": "Both repos trended the same day and solve opposite halves of the same problem: one has the real, live ground truth but a utilitarian simulator look; the other can stage anything beautifully but has no connection to real-world data on its own. Wiring the globe's live feed into ArtCraft's scene tools turns raw open data into a publishable visual in the same news cycle."
+}

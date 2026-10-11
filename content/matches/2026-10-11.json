@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-11",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "ArtCraft is for composing staged AI images and video, not for editing existing short clips for social media; too much of a stretch to call it a fit." },
+    { "problem_id": "p002", "repo": "storytold/artcraft", "why": "Its 3D scene staging and compositing tools let you build and light a product shot without booking a photographer or studio.", "confidence": "medium" },
+    { "problem_id": "p003", "repo": null, "why": "Nothing today persists session memory for an AI coding agent." },
+    { "problem_id": "p004", "repo": null, "why": "Nothing today addresses AI-generated code quality or over-engineering." },
+    { "problem_id": "p005", "repo": null, "why": "Nothing today helps organize research PDFs or articles." },
+    { "problem_id": "p006", "repo": "bilawalsidhu/gods-eye-view", "why": "It puts real live flights, ships, fires, and other breaking-news subjects on an explorable 3D globe, exactly the visual a news explainer needs without original footage.", "confidence": "high" },
+    { "problem_id": "p007", "repo": null, "why": "Nothing today touches bioinformatics." },
+    { "problem_id": "p008", "repo": null, "why": "Nothing today offers a private, self-hosted AI chat suited to a law firm's confidentiality needs." },
+    { "problem_id": "p009", "repo": null, "why": "Nothing today turns a written blog post into a narrated video." },
+    { "problem_id": "p010", "repo": null, "why": "Nothing today is a private, self-owned notes app." },
+    { "problem_id": "p011", "repo": "morluto/rea", "why": "It's built to reverse-engineer how unfamiliar apps and code actually behave, which is exactly what a new hire facing a messy inherited codebase needs.", "confidence": "medium" },
+    { "problem_id": "p012", "repo": null, "why": "Nothing today is a ready-made template for structuring and shipping a first AI product." },
+    { "problem_id": "p013", "repo": null, "why": "Nothing today addresses restaurant inventory management." }
+  ]
+}

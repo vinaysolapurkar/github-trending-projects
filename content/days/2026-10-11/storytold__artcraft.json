@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-11",
+  "owner": "storytold",
+  "name": "artcraft",
+  "full_name": "storytold/artcraft",
+  "url": "https://github.com/storytold/artcraft",
+  "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+  "language": "Rust",
+  "stars_total": 15857,
+  "stars_today": 2956,
+  "one_liner": "A drag-and-drop app for building AI-generated images and video where you pose the scene, characters, and camera precisely, instead of just typing a prompt and hoping.",
+  "buyer": "A freelance video or motion designer, or a small ad agency, that currently pays for stock footage, actors, or 3D artists to stage a shot and wants controllable, repeatable scenes instead.",
+  "business_use_cases": [
+    "An ad agency stages and renders product scenes (place product in a 3D-built setting, pick camera angle) without booking a studio or set.",
+    "A YouTube creator builds a consistent recurring character across episodes using the character identity transfer feature, instead of hiring an illustrator per scene.",
+    "An indie game studio pre-visualizes cutscenes and shot composition before committing art budget to a scene."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a 'virtual production studio' service: a client submits a script, the studio delivers staged, camera-directed AI scenes or video.", "revenue_model": "one-off" },
+    { "idea": "License reusable 3D asset kits (sets, characters, props) built for ArtCraft to other creators.", "revenue_model": "usage" }
+  ],
+  "steal_this": "A weekend 'AI storyboard artist' service: take a client's script and deliver a shot-by-shot staged visual storyboard using ArtCraft's scene tools.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-11T12:08:00Z"
+}

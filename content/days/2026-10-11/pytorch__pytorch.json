@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-11",
+  "owner": "pytorch",
+  "name": "pytorch",
+  "full_name": "pytorch/pytorch",
+  "url": "https://github.com/pytorch/pytorch",
+  "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+  "language": "Python",
+  "stars_total": 104264,
+  "stars_today": 314,
+  "one_liner": "The core open-source engine that most AI and machine-learning software in the world is built on top of. Not something you'd use directly unless you're building AI models yourself.",
+  "buyer": "Nobody buys PyTorch directly, it's free infrastructure. The people who benefit are ML engineers and researchers building other products on top of it.",
+  "business_use_cases": [
+    "An ML team builds a custom model for fraud detection or demand forecasting using PyTorch underneath, then sells the resulting product or service.",
+    "A GPU cloud provider optimizes and resells compute specifically tuned for running PyTorch workloads.",
+    "A training and consulting business teaches companies how to build and deploy PyTorch models in-house."
+  ],
+  "money_ideas": [
+    { "idea": "Offer PyTorch-based ML consulting or contracting to companies that want a custom model but lack in-house ML engineers.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "There's no weekend product here. PyTorch itself isn't sellable; the honest move is picking one narrow PyTorch-based model (a specific classifier, say) and selling access to that as an API.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-11T12:08:00Z"
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-11",
+  "owner": "boykopovar",
+  "name": "AnyPS5",
+  "full_name": "boykopovar/AnyPS5",
+  "url": "https://github.com/boykopovar/AnyPS5",
+  "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+  "language": "C++",
+  "stars_total": 28308,
+  "stars_today": 3977,
+  "one_liner": "Automatically converts PS5 game programs so they can run natively on a regular Windows or Linux PC, without emulating the PS5 itself.",
+  "buyer": "Honestly, no one paying for this directly: it's a hobbyist preservation and compatibility-research project, and using it commercially to run paid games without a license is legally murky.",
+  "business_use_cases": [
+    "A game preservation nonprofit documents and verifies which older titles run, for historical and archival purposes.",
+    "A hardware reviewer benchmarks GPU performance using open-licensed test titles that run through the project.",
+    "An engineer studying console internals uses the relinker and system library implementations as a reference while building their own compatibility tooling."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid consulting to studios trying to understand their own legacy engine's PS5-specific code when porting it to PC.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Not really a weekend business. The honest 'steal' is studying its PRX library implementations as a reference while learning low-level porting and compatibility-layer engineering.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-11T12:08:00Z"
+}
