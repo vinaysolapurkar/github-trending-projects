@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-12",
+  "owner": "cathrynlavery",
+  "name": "diagram-design",
+  "full_name": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. On brand. No Mermaid slop.",
+  "language": "HTML",
+  "stars_total": 51699,
+  "stars_today": 2100,
+  "one_liner": "Teaches an AI coding assistant to draw clean, good-looking diagrams (flowcharts, architecture maps, timelines) that match your brand colors, instead of the ugly default boxes-and-arrows look.",
+  "buyer": "A technical consultant or agency that bills clients for architecture docs, pitch decks, or onboarding guides and is tired of diagrams looking like unstyled engineering scribbles.",
+  "business_use_cases": [
+    "A freelance technical writer uses it to turn plain system descriptions into client-ready, on-brand architecture diagrams for proposals and documentation.",
+    "A startup's founder uses it to quickly produce a clean investor-deck diagram (funnel, roadmap, org chart) without hiring a designer.",
+    "A dev agency 'onboards' the skill to a client's brand colors so every diagram it ships in docs and decks already looks like client-approved design work."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid 'diagram pack' service for startups: a set of on-brand pitch-deck and architecture diagrams delivered in a day.", "revenue_model": "one-off" },
+    { "idea": "Technical writers charge a documentation-design premium by including polished diagrams as a standard deliverable.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Offer a $50 same-day gig: take a founder's rough system or roadmap description and turn it into three on-brand diagrams for their deck.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-12T12:26:57Z"
+}

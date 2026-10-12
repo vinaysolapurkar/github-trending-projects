@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-12",
+  "owner": "microsoft",
+  "name": "BitNet",
+  "full_name": "microsoft/BitNet",
+  "url": "https://github.com/microsoft/BitNet",
+  "description": "Official inference framework for 1-bit LLMs",
+  "language": "C++",
+  "stars_total": 40738,
+  "stars_today": 195,
+  "one_liner": "Microsoft's toolkit for running a special kind of ultra-compressed AI model that uses far less memory and battery than normal, so it can run fast on ordinary laptops and phones instead of needing a powerful server.",
+  "buyer": "A device manufacturer or app developer who wants to put AI features directly on a phone, laptop, or embedded device without draining the battery or needing an internet connection.",
+  "business_use_cases": [
+    "An app developer builds an offline, battery-friendly AI assistant feature into a mobile app using these ultra-efficient models, avoiding ongoing cloud inference costs.",
+    "A device maker (smart speaker, in-car assistant, industrial sensor) embeds a lightweight on-device model for voice or text features without needing a powerful chip.",
+    "A company building AI tools for field workers with unreliable internet (construction, utilities, logistics) ships an offline AI assistant that runs entirely on a laptop."
+  ],
+  "money_ideas": [
+    { "idea": "License a packaged, optimized on-device AI assistant built on this to hardware makers for a per-unit fee.", "revenue_model": "usage" },
+    { "idea": "Consulting service helping companies port an existing cloud AI feature to run offline on-device using this framework.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This is deep infrastructure for engineers, not something a non-technical buyer would ever touch directly — value only shows up once someone builds a finished product on top of it.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-12T12:26:57Z"
+}

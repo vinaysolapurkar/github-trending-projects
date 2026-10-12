@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-12",
+  "owner": "Alishahryar1",
+  "name": "free-claude-code",
+  "full_name": "Alishahryar1/free-claude-code",
+  "url": "https://github.com/Alishahryar1/free-claude-code",
+  "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+  "language": "Python",
+  "stars_total": 58318,
+  "stars_today": 506,
+  "one_liner": "A free router that lets you use AI coding assistants like Claude Code and Codex by tapping into free token allowances from dozens of providers instead of paying for them directly.",
+  "buyer": "A student, bootcamp learner, or budget-conscious indie hacker who wants to use top-tier AI coding tools regularly without paying monthly subscription costs.",
+  "business_use_cases": [
+    "A coding bootcamp or university club points students at it so they get real AI coding assistant practice without each student needing a paid subscription.",
+    "A solo indie hacker uses it to build side projects with multiple AI coding agents for free instead of juggling several paid plans.",
+    "A freelance developer uses the automatic failover between providers to keep working through an outage or rate limit on their main AI provider."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid 'managed setup' service: configure and maintain this for a small team's shared developer machines.", "revenue_model": "one-off" },
+    { "idea": "Sell a premium support tier (priority provider routing, monitoring) layered on top of the free core tool.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Hard to monetize honestly — its whole pitch is helping people avoid paying for AI tools, so the fastest 'business' here is really just free personal usage, not a product to sell.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-12T12:26:57Z"
+}

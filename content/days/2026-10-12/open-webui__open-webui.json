@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-12",
+  "owner": "open-webui",
+  "name": "open-webui",
+  "full_name": "open-webui/open-webui",
+  "url": "https://github.com/open-webui/open-webui",
+  "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+  "language": "Python",
+  "stars_total": 154444,
+  "stars_today": 142,
+  "one_liner": "A self-hosted ChatGPT-style web app your company runs on its own servers, so staff get an AI chat interface without sending data to an outside AI company.",
+  "buyer": "An IT manager at a law firm, hospital, or bank who needs staff to use AI chat but is barred by compliance from sending client data to a public AI vendor.",
+  "business_use_cases": [
+    "A law firm or clinic self-hosts it so staff can use AI chat and document search without client data ever leaving their own servers.",
+    "A managed IT provider resells a hosted, locked-down version of it to small businesses that want 'private ChatGPT' without running their own servers.",
+    "A company uses its built-in scheduling and persistent memory features to replace several smaller internal tools (notes, reminders, simple automations) with one AI-powered workspace."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a managed hosting + support package for regulated businesses (legal, healthcare, finance) that need a private AI chat.", "revenue_model": "subscription" },
+    { "idea": "Offer paid setup and integration (connecting internal documents, SSO, user permissions) for companies self-hosting it.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Package a locked-down, pre-configured version of this for one regulated niche (e.g. law firms) with document search built in, and sell it as 'private AI chat, set up in a day.'",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-12T12:26:57Z"
+}

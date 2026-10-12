@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-12-001",
+  "date": "2026-10-12",
+  "repo_a": "storytold/artcraft",
+  "repo_b": "open-webui/open-webui",
+  "title": "The Private Product-Photo Concierge",
+  "pitch": "Stand up Open WebUI as a self-hosted, locked-down chat front-end that small e-commerce sellers log into and simply describe or upload a product photo they need (a candle on a marble counter, a jacket on a model, a toy in a kid's hands). Behind the scenes, that request drives ArtCraft, which stages the actual 3D scene, poses, and lighting and renders the final shot with real compositional control instead of a one-shot, drifting prompt. The seller never touches either tool directly; they just chat with 'their photographer.' A small e-commerce brand or boutique agency buys this as a flat monthly seat instead of booking studio time, and because the whole stack is self-hosted, no client product photo or brand asset ever leaves their own server.",
+  "why_now": "Open WebUI just landed scheduling, persistent memory, and channel features that make it a real task-routing front-end, not just a chatbot UI, right as ArtCraft's scene-staging tools are trending for exactly the kind of repeatable, on-brand image generation small sellers need. Pairing a private request intake with a precise rendering engine turns two separate trending tools into one sellable workflow neither covers alone."
+}

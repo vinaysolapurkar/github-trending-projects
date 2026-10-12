@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-12",
+  "owner": "storytold",
+  "name": "artcraft",
+  "full_name": "storytold/artcraft",
+  "url": "https://github.com/storytold/artcraft",
+  "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+  "language": "Rust",
+  "stars_total": 19976,
+  "stars_today": 4106,
+  "one_liner": "A desktop app where you build a scene out of 2D and 3D pieces first, like a stage set, and then generate the final AI image or video from that, instead of just typing a prompt and hoping.",
+  "buyer": "A freelance illustrator or small animation studio who sells consistent-character storyboards and shots to indie game or ad clients, and needs AI output that doesn't drift between frames.",
+  "business_use_cases": [
+    "A freelance concept artist uses it to pose the same character consistently across many shots for a client's pitch deck, something plain prompting can't reliably do.",
+    "A small ad agency builds and reuses a 3D 'virtual set' to generate multiple product shots in different compositions for a campaign, skipping a physical photo shoot.",
+    "An indie game studio storyboards cutscenes by blocking out camera angles and character poses before paying for final art."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a 'consistent character' asset pack and storyboarding service for indie game studios and ad agencies, charged per project.", "revenue_model": "one-off" },
+    { "idea": "Sell reusable 3D scene/location kits built in ArtCraft that other creators can drop their own characters into.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build one reusable virtual product-shot set in ArtCraft and sell small businesses a same-day package of product photos staged in it, no studio needed.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-12T12:26:57Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-12",
+  "owner": "morluto",
+  "name": "rea",
+  "full_name": "morluto/rea",
+  "url": "https://github.com/morluto/rea",
+  "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+  "language": "TypeScript",
+  "stars_total": 132708,
+  "stars_today": 45495,
+  "one_liner": "Hooks an AI coding assistant up to tools that figure out exactly how an app, website, or program works on the inside, so you don't have to pick it apart by hand.",
+  "buyer": "A freelance security auditor or legacy-systems contractor who gets paid to understand software nobody has documentation for, before they can fix, clone, or certify it.",
+  "business_use_cases": [
+    "A security consultancy uses it to speed up malware and vulnerability triage, cutting hours off each paid engagement.",
+    "A contractor hired to keep a 20-year-old desktop app alive with no source code uses it to map out how a feature works before changing anything.",
+    "An agency that clones competitors' app features for clients uses it to document exactly how a rival's feature behaves before rebuilding it legally from scratch."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a flat-fee 'black box app autopsy' service: client sends a binary or app, you send back a plain-English report of what it does and how.", "revenue_model": "one-off" },
+    { "idea": "Sell a library of ready-made analysis playbooks for specific platforms (Electron apps, iOS binaries, legacy Windows) to security teams.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "A paid weekend service: take a client's old undocumented .exe, DLL, or Electron app and hand back a short written report of what it actually does, billed per report.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-12T12:26:57Z"
+}

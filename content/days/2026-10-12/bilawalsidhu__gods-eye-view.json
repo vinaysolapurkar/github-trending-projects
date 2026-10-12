@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-12",
+  "owner": "bilawalsidhu",
+  "name": "gods-eye-view",
+  "full_name": "bilawalsidhu/gods-eye-view",
+  "url": "https://github.com/bilawalsidhu/gods-eye-view",
+  "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+  "language": "JavaScript",
+  "stars_total": 52670,
+  "stars_today": 1903,
+  "one_liner": "A browser globe that shows real, live flights, ships, fires, and weather happening right now, and lets you click any of them to zoom in and watch.",
+  "buyer": "A news or explainer YouTuber who needs real-looking footage of a breaking event (a wildfire, a diverted flight, a ship in distress) without a camera crew on site.",
+  "business_use_cases": [
+    "A news/explainer YouTuber uses it to film a live 'tracking shot' of a real wildfire, flight, or ship for a breaking-news video instead of licensing stock footage.",
+    "A logistics or insurance company uses the live aircraft/ship tracking as a cheap situational-awareness dashboard for monitoring assets in transit.",
+    "An events or travel brand uses the cinematic globe fly-throughs as eye-catching promo footage for social media."
+  ],
+  "money_ideas": [
+    { "idea": "Record and sell short cinematic clips of real live events (storms, flight paths, ship routes) as stock footage for news and social media.", "revenue_model": "one-off" },
+    { "idea": "Offer a hosted 'live tracking dashboard' version for logistics or insurance clients who want to watch their own fleets.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Record short, narrated screen captures of real unfolding events on the globe and post them same-day as breaking-news B-roll for explainer channels.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-12T12:26:57Z"
+}

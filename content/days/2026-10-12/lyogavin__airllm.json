@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-12",
+  "owner": "lyogavin",
+  "name": "airllm",
+  "full_name": "lyogavin/airllm",
+  "url": "https://github.com/lyogavin/airllm",
+  "description": "AirLLM 70B inference with single 4GB GPU",
+  "language": "Jupyter Notebook",
+  "stars_total": 37016,
+  "stars_today": 886,
+  "one_liner": "Lets a huge AI language model run on a cheap, ordinary graphics card instead of needing a rack of expensive data-center GPUs.",
+  "buyer": "A small AI startup or indie developer who wants to run a large open-source model on their own cheap hardware instead of paying monthly cloud GPU bills.",
+  "business_use_cases": [
+    "A startup runs a large open-source model entirely on one consumer GPU in their office instead of paying for expensive cloud inference, cutting a recurring cost.",
+    "A hardware reseller or local AI consultant sells pre-configured 'run big AI models on a single GPU' workstations to small businesses wanting on-premise AI.",
+    "A researcher or hobbyist with one gaming GPU experiments with models that would otherwise require renting a multi-GPU cloud server."
+  ],
+  "money_ideas": [
+    { "idea": "Sell pre-built 'affordable local AI' workstations bundling a consumer GPU with this software, configured and ready to run.", "revenue_model": "one-off" },
+    { "idea": "Consulting service helping small companies move AI inference off expensive cloud GPUs onto cheaper in-house hardware using this.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This is infrastructure for running existing models cheaper, not a product on its own — best exploited as the backend for someone else's app, not sold directly.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-12T12:26:57Z"
+}

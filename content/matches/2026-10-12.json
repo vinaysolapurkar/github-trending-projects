@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-12",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "ArtCraft is for composing and staging new AI images/video, not editing existing short clips, so it doesn't fit this problem." },
+    { "problem_id": "p002", "repo": "storytold/artcraft", "why": "Its 3D scene staging, posing, and compositing tools let you build and light a product shot yourself instead of booking a photographer.", "confidence": "high" },
+    { "problem_id": "p003", "repo": "mksglu/context-mode", "why": "It explicitly persists session memory for AI coding agents across sessions, which is exactly this problem.", "confidence": "high" },
+    { "problem_id": "p004", "repo": null, "why": "Nothing today addresses AI-generated code quality or over-engineering." },
+    { "problem_id": "p005", "repo": null, "why": "Nothing today helps organize research PDFs or articles." },
+    { "problem_id": "p006", "repo": "bilawalsidhu/gods-eye-view", "why": "It puts real live flights, ships, fires, and other breaking-news subjects on an explorable 3D globe, exactly the visual a news explainer needs without original footage.", "confidence": "high" },
+    { "problem_id": "p007", "repo": null, "why": "Nothing today touches bioinformatics." },
+    { "problem_id": "p008", "repo": "open-webui/open-webui", "why": "It's a self-hosted AI chat interface that keeps data on your own servers, which is exactly what a law firm barred from sending client data to outside AI vendors needs.", "confidence": "high" },
+    { "problem_id": "p009", "repo": null, "why": "Nothing today turns a written blog post into a narrated video." },
+    { "problem_id": "p010", "repo": "open-webui/open-webui", "why": "Its self-hosted Notes workspace is a private, self-owned place to write and store notes, though it's a chat platform first, not a dedicated notes app.", "confidence": "medium" },
+    { "problem_id": "p011", "repo": "morluto/rea", "why": "It's built to reverse-engineer how unfamiliar apps and code actually behave, which is exactly what a new hire facing a messy inherited codebase needs.", "confidence": "medium" },
+    { "problem_id": "p012", "repo": null, "why": "Nothing today is a ready-made template for structuring and shipping a first AI product." },
+    { "problem_id": "p013", "repo": null, "why": "Nothing today addresses restaurant inventory management." }
+  ]
+}
