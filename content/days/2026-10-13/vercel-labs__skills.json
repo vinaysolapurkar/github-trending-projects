@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-13",
+  "owner": "vercel-labs",
+  "name": "skills",
+  "full_name": "vercel-labs/skills",
+  "url": "https://github.com/vercel-labs/skills",
+  "description": "The open agent skills tool - npx skills",
+  "language": "TypeScript",
+  "stars_total": 34152,
+  "stars_today": 187,
+  "one_liner": "A command-line tool that installs ready-made 'skills' into whichever AI coding assistant you use, so it instantly knows how to do a specific job well.",
+  "buyer": "A developer-tools team that wants to distribute a packaged workflow (e.g. 'how to deploy to our platform') to every developer's AI assistant in one command.",
+  "business_use_cases": [
+    "A platform company (hosting, database, API) publishes an official skill so any developer's AI coding agent instantly knows how to integrate with their product correctly.",
+    "An internal platform team at a mid-size company packages their deployment/security conventions as a skill so every engineer's AI assistant follows the same rules automatically.",
+    "A dev-tools consultancy builds and sells custom skill packs for clients standardizing how their teams use AI coding agents."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a marketplace/registry for paid, vetted skill packs built on top of the free open CLI.", "revenue_model": "usage" },
+    { "idea": "Sell custom skill-authoring services to companies wanting their product baked into every developer's AI agent.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This is mostly open developer infrastructure from Vercel itself; the realistic weekend project is writing and publishing one well-made niche skill to build an audience, not building a competing business around the tool.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-13T12:25:00Z"
+}

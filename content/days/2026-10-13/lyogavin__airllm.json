@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-13",
+  "owner": "lyogavin",
+  "name": "airllm",
+  "full_name": "lyogavin/airllm",
+  "url": "https://github.com/lyogavin/airllm",
+  "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+  "language": "Jupyter Notebook",
+  "stars_total": 37981,
+  "stars_today": 1004,
+  "one_liner": "A trick that lets a cheap, small graphics card run gigantic AI models that normally need an expensive data-center computer.",
+  "buyer": "A small AI startup or researcher who wants to experiment with huge open-source language models without renting expensive cloud GPU time.",
+  "business_use_cases": [
+    "A startup prototypes with a massive open-source model on a single affordable GPU before committing to expensive cloud inference costs.",
+    "A university research lab runs large models for experiments on existing modest hardware instead of requesting a costly GPU grant.",
+    "An indie AI developer offers a 'try the biggest open models on your own laptop' tutorial/service for hobbyists priced out of cloud AI."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a managed, pay-per-run hosted inference service that uses this technique to undercut standard cloud GPU pricing.", "revenue_model": "usage" },
+    { "idea": "Sell a paid setup/consulting package helping teams configure big-model inference on their existing low-end hardware.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Spin up a tiny hosted API this weekend that runs a popular giant open model cheaply via this technique, and charge per request, undercutting mainstream inference providers.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-13T12:25:00Z"
+}

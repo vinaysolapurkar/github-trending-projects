@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-13",
+  "owner": "bilawalsidhu",
+  "name": "gods-eye-view",
+  "full_name": "bilawalsidhu/gods-eye-view",
+  "url": "https://github.com/bilawalsidhu/gods-eye-view",
+  "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+  "language": "JavaScript",
+  "stars_total": 54574,
+  "stars_today": 1961,
+  "one_liner": "A browser-based globe that shows real, live flights, ships, earthquakes, and traffic happening right now, which you can fly around with your voice like a spy-movie control room.",
+  "buyer": "A news or explainer YouTuber who needs real-looking live footage of a breaking event (a wildfire, a diverted flight, a ship incident) without sending a camera crew.",
+  "business_use_cases": [
+    "A news/explainer YouTuber uses it to film a live 'tracking shot' of a real wildfire, flight, or ship for a breaking-news video instead of licensing stock footage.",
+    "A logistics or marine-insurance company uses the live aircraft and ship tracking as a cheap, always-on situational-awareness dashboard for assets in transit.",
+    "An event-planning or emergency-management team uses the live earthquake and traffic layers to brief stakeholders during a developing incident without separate paid data feeds."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid 'pro' tier with higher-resolution camera feeds, saved views, and export-ready clips for media teams.", "revenue_model": "subscription" },
+    { "idea": "License a white-labeled version to logistics or insurance companies as an embedded tracking widget.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build a small Chrome-extension or OBS plugin that lets streamers drop a live 'spy satellite' camera window into their breaking-news livestream in one click.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-13T12:25:00Z"
+}

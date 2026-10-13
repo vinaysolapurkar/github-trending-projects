@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-13",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing today edits or shortens existing social-media video; today's tools generate new footage or stage new scenes instead." },
+    { "problem_id": "p002", "repo": "storytold/artcraft", "why": "Its 3D scene staging, posing, and rendering tools let a store owner build and light a product shot themselves instead of booking a photographer.", "confidence": "high" },
+    { "problem_id": "p003", "repo": "mksglu/context-mode", "why": "It explicitly persists session memory for AI coding agents across sessions, which is exactly this problem.", "confidence": "high" },
+    { "problem_id": "p004", "repo": null, "why": "Nothing today addresses AI-generated code quality or over-engineering." },
+    { "problem_id": "p005", "repo": null, "why": "Nothing today helps organize research PDFs or articles." },
+    { "problem_id": "p006", "repo": "bilawalsidhu/gods-eye-view", "why": "It puts real live flights, ships, fires, and other breaking-news subjects on an explorable 3D globe, exactly the visual a news explainer needs without original footage.", "confidence": "high" },
+    { "problem_id": "p007", "repo": null, "why": "Nothing today touches bioinformatics." },
+    { "problem_id": "p008", "repo": null, "why": "Nothing today is a private, self-hosted AI chat tool suited to a law firm's confidentiality needs." },
+    { "problem_id": "p009", "repo": "debpalash/VoiceStudio", "why": "Its local text-to-speech and audiobook/narration creation across 646 languages can turn written posts into narrated video or audio without a cloud voice service.", "confidence": "medium" },
+    { "problem_id": "p010", "repo": null, "why": "Nothing today is a self-hosted notes app; VoiceStudio and the others serve different needs." },
+    { "problem_id": "p011", "repo": "morluto/rea", "why": "It's built to reverse-engineer how unfamiliar apps and binaries actually behave, which maps reasonably well to understanding how a messy inherited codebase fits together, though it's aimed at compiled binaries more than source.", "confidence": "medium" },
+    { "problem_id": "p012", "repo": null, "why": "Nothing today is a ready-made template for structuring and shipping a first AI product." },
+    { "problem_id": "p013", "repo": null, "why": "Nothing today addresses restaurant inventory management." }
+  ]
+}

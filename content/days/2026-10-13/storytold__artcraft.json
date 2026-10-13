@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-13",
+  "owner": "storytold",
+  "name": "artcraft",
+  "full_name": "storytold/artcraft",
+  "url": "https://github.com/storytold/artcraft",
+  "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+  "language": "Rust",
+  "stars_total": 24030,
+  "stars_today": 4078,
+  "one_liner": "A design tool that lets you stage a 3D scene, pose it, light it, and render a finished image or shot, instead of just typing a prompt and hoping for the best.",
+  "buyer": "A small e-commerce brand or boutique creative agency that currently pays for product photoshoots or stock footage for marketing visuals.",
+  "business_use_cases": [
+    "An e-commerce seller stages and renders their own product shots (a candle on a counter, a jacket on a model) instead of booking a studio photographer.",
+    "An indie game or animation studio uses it to block out and render scene concepts quickly, cutting pre-production time and cost.",
+    "A marketing agency offers 'AI-staged product visuals' as a faster, cheaper service tier for small clients who can't afford traditional photography."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a 'product photo as a service' subscription where sellers upload a product and get staged renders back on a schedule.", "revenue_model": "subscription" },
+    { "idea": "Sell premium scene/lighting template packs built for specific industries (jewelry, food, apparel).", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Launch a weekend side-business offering e-commerce sellers 5 staged product renders for a flat fee, using this tool to replace a traditional photoshoot.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-13T12:25:00Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-13",
+  "owner": "morluto",
+  "name": "rea",
+  "full_name": "morluto/rea",
+  "url": "https://github.com/morluto/rea",
+  "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+  "language": "TypeScript",
+  "stars_total": 187215,
+  "stars_today": 54706,
+  "one_liner": "An AI helper that pries open other people's apps and files to show you exactly how they work under the hood, down to the raw machine code.",
+  "buyer": "A security consultant or competitive-intelligence analyst who gets paid to figure out how a rival's app, device, or file format actually works, without source code.",
+  "business_use_cases": [
+    "A security audit firm uses it to quickly map how a client's legacy desktop app or firmware actually behaves before writing a penetration-test report.",
+    "A competitive-intelligence analyst at a hardware startup uses it to understand how a competitor's companion app talks to its device, to spot a feature gap to build against.",
+    "A digital-forensics investigator uses it to reconstruct what an unknown binary found on a compromised machine actually does, for an incident report."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid reverse-engineering-as-a-service engagements for clients who need a one-off binary or app analyzed but don't want to run the tooling themselves.", "revenue_model": "one-off" },
+    { "idea": "Sell a hosted, higher-limit version with saved analysis history for security teams doing this regularly.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Package it as a weekend side-gig: offer fixed-price 'tell me how this app/binary works' reports on freelance platforms, aimed at other developers who need to interoperate with an undocumented system.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-13T12:25:00Z"
+}

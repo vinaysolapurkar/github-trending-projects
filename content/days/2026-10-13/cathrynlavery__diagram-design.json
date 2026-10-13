@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-13",
+  "owner": "cathrynlavery",
+  "name": "diagram-design",
+  "full_name": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+  "language": "HTML",
+  "stars_total": 53418,
+  "stars_today": 1813,
+  "one_liner": "A skill that makes AI coding assistants draw clean, good-looking diagrams for your docs instead of ugly default flowcharts.",
+  "buyer": "A technical writer or startup founder who needs polished architecture diagrams for a pitch deck or developer docs but has no designer on staff.",
+  "business_use_cases": [
+    "A startup founder uses it to generate investor-deck-quality system diagrams straight from their codebase, skipping a freelance designer.",
+    "A developer-tools company bakes it into their docs pipeline so every architecture diagram in their documentation matches their brand automatically.",
+    "A technical writing agency offers 'AI-diagrammed docs' as a faster, cheaper add-on service to clients who need clean visuals for engineering documentation."
+  ],
+  "money_ideas": [
+    { "idea": "Sell premium diagram themes/brand kits built on top of the free open-source skill.", "revenue_model": "one-off" },
+    { "idea": "Offer a documentation agency service that uses this skill to produce client diagrams at scale.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Spin up a tiny 'docs diagram cleanup' gig: take a client's existing messy Mermaid diagrams and re-generate them with this skill for a flat per-diagram fee.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-13T12:25:00Z"
+}
