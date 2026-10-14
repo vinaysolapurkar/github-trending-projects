@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-14",
+  "owner": "ifixai-ai",
+  "name": "iFixAi",
+  "full_name": "ifixai-ai/iFixAi",
+  "url": "https://github.com/ifixai-ai/iFixAi",
+  "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+  "language": "Python",
+  "stars_total": 26617,
+  "stars_today": 2143,
+  "one_liner": "A checkup tool that catches when a company's AI assistant quietly did the wrong thing, like issuing a refund it shouldn't have, before it causes real damage.",
+  "buyer": "An operations or risk manager at a company that has let an AI agent loose on customer support, refunds, or back-office tasks and is nervous about what it might be doing wrong unsupervised.",
+  "business_use_cases": [
+    "A customer support team running an AI refund agent uses it to automatically audit every closed ticket overnight and flag the ones where the agent bent a policy.",
+    "A fintech company running AI agents for account changes uses it to catch unauthorized or risky actions, like changing a payout account, before they become a compliance incident.",
+    "An agency that builds AI agents for clients offers ongoing audits as a trust-building add-on to prove the agents they deployed are behaving correctly."
+  ],
+  "money_ideas": [
+    { "idea": "Sell the 'Pro' tier (already hinted at in the project) as a hosted continuous-auditing subscription priced by number of agent actions monitored.", "revenue_model": "subscription" },
+    { "idea": "Offer one-off audit reports for companies that want a point-in-time safety check before expanding an agent's permissions.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Offer a 'is your support bot safe' audit as a lead magnet for small e-commerce brands running AI customer service, then upsell the continuous monitoring subscription.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-14T12:30:00Z"
+}

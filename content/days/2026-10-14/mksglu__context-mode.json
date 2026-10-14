@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-14",
+  "owner": "mksglu",
+  "name": "context-mode",
+  "full_name": "mksglu/context-mode",
+  "url": "https://github.com/mksglu/context-mode",
+  "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+  "language": "TypeScript",
+  "stars_total": 28718,
+  "stars_today": 946,
+  "one_liner": "A plumbing tool that stops AI coding assistants from drowning in their own output, so they stay fast and don't forget what you were doing.",
+  "buyer": "An engineering lead at a company where developers use AI coding agents all day and are frustrated the agent 'forgets' context mid-task and slows down.",
+  "business_use_cases": [
+    "An engineering org with 50+ developers on AI coding agents rolls it out company-wide so agents stop burning budget on redundant context and compacting mid-task.",
+    "A dev-tools startup bundles it into their own AI coding product so customers get longer, cheaper agent sessions without building the optimization themselves.",
+    "A consultancy that bills clients for AI-assisted development uses it to cut their own token spend across every engagement."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted/managed version with team dashboards and usage analytics for engineering managers.", "revenue_model": "subscription" },
+    { "idea": "License it to AI coding tool vendors as an embedded context-management layer.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This is infrastructure for developers, not a standalone product; the fastest real move is contributing an integration for a platform it doesn't yet support and building reputation in that niche, not starting a business on top of it.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-14T12:30:00Z"
+}

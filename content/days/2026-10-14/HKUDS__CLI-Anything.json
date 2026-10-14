@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-14",
+  "owner": "HKUDS",
+  "name": "CLI-Anything",
+  "full_name": "HKUDS/CLI-Anything",
+  "url": "https://github.com/HKUDS/CLI-Anything",
+  "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+  "language": "Python",
+  "stars_total": 52184,
+  "stars_today": 94,
+  "one_liner": "A toolkit for giving ordinary desktop software a command line an AI agent can drive, plus a marketplace of ready-made ones for popular apps.",
+  "buyer": "A developer building an AI-agent product who needs their users' existing desktop software (design tools, media apps, niche line-of-business apps) to be controllable by an agent.",
+  "business_use_cases": [
+    "An agency building custom AI automations for clients uses the CLI-Hub to quickly wire up an agent to a client's existing desktop software instead of building a bespoke integration from scratch.",
+    "A software vendor whose app has no API hires someone to build and publish a CLI wrapper on the hub, instantly making their app 'agent-ready' for every user of agent platforms.",
+    "A workflow automation startup uses it as the glue layer to let their AI product control a long tail of niche apps their customers already use."
+  ],
+  "money_ideas": [
+    { "idea": "Get paid by software vendors to build and maintain the official agent-native CLI for their product on the hub.", "revenue_model": "one-off" },
+    { "idea": "Offer a hosted/managed runtime for companies that want agent-driven automations across many apps without self-hosting.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Pick one popular app with no API that a niche audience complains about, build its CLI wrapper, publish it on CLI-Hub, and offer paid custom automations built on top of it.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-14T12:30:00Z"
+}

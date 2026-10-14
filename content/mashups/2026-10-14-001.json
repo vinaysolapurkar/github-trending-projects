@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-14-001",
+  "date": "2026-10-14",
+  "repo_a": "vxcontrol/pentagi",
+  "repo_b": "ifixai-ai/iFixAi",
+  "title": "The Pentest Agent You Can Actually Trust in Production",
+  "pitch": "PentAGI lets a team of autonomous AI agents run real attack tooling, nmap, Metasploit, sqlmap, against a client's infrastructure with minimal human babysitting. That's exactly the kind of autonomous agent a risk-averse client worries about: what if it strays outside the agreed scope, touches a production database it shouldn't, or takes a destructive action while 'testing'? iFixAi solves precisely that problem by independently auditing whether an agent did what it was supposed to do. Wire iFixAi to watch every action PentAGI's agents take during an engagement, and you get a running, independently-verified log proving the pentest stayed inside its authorized scope. An MSSP or security consultancy sells this combined pipeline as 'autonomous pentesting with an audit trail', letting nervous enterprise clients say yes to AI-run security testing they'd otherwise refuse to authorize.",
+  "why_now": "Autonomous pentesting is trending today because it promises to replace expensive, slow human engagements, but the single biggest objection enterprise buyers raise is 'how do we know it stayed in scope and didn't break anything'. iFixAi trending the same day is a tool built to answer exactly that objection for any AI agent, so pairing them turns PentAGI's biggest sales blocker into its own selling point."
+}

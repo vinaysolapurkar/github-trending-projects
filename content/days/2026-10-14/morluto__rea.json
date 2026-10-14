@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-14",
+  "owner": "morluto",
+  "name": "rea",
+  "full_name": "morluto/rea",
+  "url": "https://github.com/morluto/rea",
+  "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+  "language": "TypeScript",
+  "stars_total": 226899,
+  "stars_today": 41187,
+  "one_liner": "An AI assistant that can open up any app on your computer, binaries included, and explain exactly how a feature works so you can rebuild it yourself.",
+  "buyer": "A product manager or indie founder at a small software shop who wants to copy a competitor's clever feature but has no source code and no reverse-engineering staff.",
+  "business_use_cases": [
+    "A startup sees a slick onboarding animation in a competitor's desktop app and uses it to get a working explanation and a rebuildable version in an afternoon instead of guessing from a screen recording.",
+    "An agency that maintains old, undocumented internal Windows/Electron tools for clients uses it to figure out what a legacy app actually does before rewriting it.",
+    "A security consultancy uses the native-binary analysis to triage an unfamiliar executable a client found on their network, before deciding whether to escalate to a full malware investigation."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a 'competitive feature teardown' consulting service: clients send an app, you deliver a report and a buildable clone of one feature.", "revenue_model": "one-off" },
+    { "idea": "Package it as a paid add-on inside an existing dev-tools subscription aimed at agencies that inherit legacy codebases.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Offer a $200 'tell me how that app feature works' report service for indie founders: they send a link or app, you run REA, and hand back the evidence plus a starter implementation.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-14T12:30:00Z"
+}

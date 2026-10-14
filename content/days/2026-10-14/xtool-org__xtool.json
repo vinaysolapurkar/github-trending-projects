@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-14",
+  "owner": "xtool-org",
+  "name": "xtool",
+  "full_name": "xtool-org/xtool",
+  "url": "https://github.com/xtool-org/xtool",
+  "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+  "language": "Swift",
+  "stars_total": 10071,
+  "stars_today": 1510,
+  "one_liner": "Lets a developer build and install iPhone apps from a Windows or Linux computer, without owning a Mac or buying Xcode.",
+  "buyer": "A Windows or Linux-based indie developer or small dev shop that wants to ship an iOS app but can't justify buying a Mac just for that.",
+  "business_use_cases": [
+    "A solo developer on a Windows laptop builds and ships their first iOS app without buying a Mac, lowering the cost of entering the App Store.",
+    "A CI/CD provider offers cheaper iOS build pipelines on Linux runners instead of expensive macOS cloud runners.",
+    "A coding bootcamp teaching iOS development lets students use whatever laptop they already own instead of requiring a Mac purchase."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted Linux-based iOS build/CI service that undercuts macOS cloud runner pricing, using this as the backend.", "revenue_model": "usage" },
+    { "idea": "Sell a packaged 'build your first iOS app on Windows' course or template for developers who don't own a Mac.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Stand up a cheap 'iOS build server for non-Mac developers' side service this weekend, since the Mac-cloud-runner tax is a real, well-known pain point.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-14T12:30:00Z"
+}

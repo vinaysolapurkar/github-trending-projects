@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-14",
+  "owner": "ntdevlabs",
+  "name": "tiny11builder",
+  "full_name": "ntdevlabs/tiny11builder",
+  "url": "https://github.com/ntdevlabs/tiny11builder",
+  "description": "WinUI app for building smaller, customized Windows 11 images.",
+  "language": "C#",
+  "stars_total": 20030,
+  "stars_today": 132,
+  "one_liner": "A free app that strips the bloat out of Windows 11 so it runs well on old or cheap computers.",
+  "buyer": "A small IT shop or refurbisher that sells or re-images older PCs and wants a lean, fast Windows install without manually stripping it by hand each time.",
+  "business_use_cases": [
+    "A computer refurbishing business images every used laptop it sells with a stripped-down build so older hardware feels fast, as a selling point over stock Windows.",
+    "A school or nonprofit IT department builds lean images to keep aging lab computers usable for a few more years instead of replacing them.",
+    "A kiosk or digital-signage integrator uses a minimal Custom build to deploy locked-down Windows machines for which bundled apps and services are pure risk and overhead."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a 'lean Windows re-imaging' service for refurbishers and small businesses, charging per device or per fleet.", "revenue_model": "usage" },
+    { "idea": "Sell pre-built, use-case-specific image profiles (kiosk, school lab, low-RAM laptop) as paid templates on top of the free tool.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Offer local used-PC resellers a flat-fee 'optimized Windows image' add-on for every machine they sell, using this tool to do the stripping.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-14T12:30:00Z"
+}

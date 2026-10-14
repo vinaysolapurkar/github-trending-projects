@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-14",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing today or recently edits or shortens existing short-form social video." },
+    { "problem_id": "p002", "repo": "storytold/artcraft", "why": "Its 3D scene staging, posing, and rendering tools (from a recent day) still let a store owner build their own product shots instead of booking a photographer; nothing newer fits as well.", "confidence": "high" },
+    { "problem_id": "p003", "repo": "mksglu/context-mode", "why": "It explicitly persists AI coding agent session memory across sessions, directly solving this problem again today.", "confidence": "high" },
+    { "problem_id": "p004", "repo": null, "why": "Nothing today addresses AI-generated code quality or over-engineering." },
+    { "problem_id": "p005", "repo": null, "why": "Nothing today helps organize research PDFs or articles." },
+    { "problem_id": "p006", "repo": "bilawalsidhu/gods-eye-view", "why": "From a recent day, it still puts real live flights, ships, and fires on an explorable 3D globe, the visual a news explainer needs without original footage.", "confidence": "high" },
+    { "problem_id": "p007", "repo": "K-Dense-AI/scientific-agent-skills", "why": "177 validated skills and 100+ scientific databases across biology, chemistry, and drug discovery let a small lab punch above its weight without hiring a bioinformatics team.", "confidence": "high" },
+    { "problem_id": "p008", "repo": null, "why": "Nothing today is a private, self-hosted AI chat tool suited to a law firm's confidentiality needs." },
+    { "problem_id": "p009", "repo": "debpalash/VoiceStudio", "why": "Its local text-to-speech and narration tools across 646 languages can turn written posts into narrated video or audio without a cloud voice service.", "confidence": "medium" },
+    { "problem_id": "p010", "repo": null, "why": "Nothing today is a self-hosted notes app." },
+    { "problem_id": "p011", "repo": "morluto/rea", "why": "It reverse-engineers how unfamiliar apps and binaries actually behave, which transfers reasonably to understanding how a messy inherited codebase fits together, though it's aimed more at compiled binaries than readable source.", "confidence": "medium" },
+    { "problem_id": "p012", "repo": null, "why": "Nothing today is a ready-made template for structuring and shipping a first AI product." },
+    { "problem_id": "p013", "repo": null, "why": "Nothing today addresses restaurant inventory management." }
+  ]
+}

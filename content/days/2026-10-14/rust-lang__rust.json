@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-14",
+  "owner": "rust-lang",
+  "name": "rust",
+  "full_name": "rust-lang/rust",
+  "url": "https://github.com/rust-lang/rust",
+  "description": "Empowering everyone to build reliable and efficient software.",
+  "language": "Rust",
+  "stars_total": 119992,
+  "stars_today": 205,
+  "one_liner": "The free programming language itself, plus the compiler that turns Rust code into a running program.",
+  "buyer": "Nobody buys this directly; it's a free language and compiler that companies build products on top of, not a product itself.",
+  "business_use_cases": [
+    "A company builds a performance-critical product (databases, browsers, embedded firmware) in Rust because it avoids whole classes of memory-safety bugs.",
+    "A consultancy sells Rust migration and training services to companies moving performance-sensitive code off C/C++.",
+    "A tooling vendor builds and sells IDE plugins, CI integrations, or observability tools aimed specifically at Rust codebases."
+  ],
+  "money_ideas": [
+    { "idea": "None for the compiler itself; money is made in services and tools built around the language, not the language.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Not a weekend business idea on its own. If anything, the honest move is to build a paid tool or course for Rust developers, not to monetize the compiler.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-14T12:30:00Z"
+}
