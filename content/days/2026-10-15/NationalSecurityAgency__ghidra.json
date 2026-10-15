@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-15",
+  "owner": "NationalSecurityAgency",
+  "name": "ghidra",
+  "full_name": "NationalSecurityAgency/ghidra",
+  "url": "https://github.com/NationalSecurityAgency/ghidra",
+  "description": "Ghidra is a software reverse engineering (SRE) framework",
+  "language": "Java",
+  "stars_total": 88148,
+  "stars_today": 1366,
+  "one_liner": "A free, NSA-built tool that takes apart compiled programs (the kind with no visible source code) and shows you, piece by piece, what they actually do.",
+  "buyer": "A malware-analysis or security-consulting firm that needs to inspect suspicious or unknown software for clients without paying for a commercial disassembler license.",
+  "business_use_cases": [
+    "A security consultancy uses it to analyze a suspicious executable found on a client's network and write a paid incident-response report on what it does.",
+    "A software vendor's internal security team uses it to audit a third-party library or plugin for hidden behavior before approving it for use in their product.",
+    "An independent malware researcher builds and sells custom Ghidra scripts/extensions to firms that need a specific, repeatable analysis automated."
+  ],
+  "money_ideas": [
+    { "idea": "Offer malware/binary analysis as a paid service to companies, using it as the free core tool behind a billable investigation.", "revenue_model": "usage" },
+    { "idea": "Build and sell custom Ghidra extensions or scripts that automate a specific, repeated kind of analysis for a niche industry.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "It's a mature, already-free government tool with no product to 'launch'; the realistic move is becoming proficient with it and selling the analysis service, not the tool itself.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-15T12:30:00Z"
+}

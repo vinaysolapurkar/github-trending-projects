@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-15",
+  "owner": "morluto",
+  "name": "rea",
+  "full_name": "morluto/rea",
+  "url": "https://github.com/morluto/rea",
+  "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+  "language": "TypeScript",
+  "stars_total": 258190,
+  "stars_today": 32282,
+  "one_liner": "Lets an AI assistant peek inside any app, website, or program (even without its source code) and explain exactly how a feature works, so you can rebuild it yourself.",
+  "buyer": "A product manager or indie founder at a small software company who wants to copy a specific competitor feature without hiring a reverse-engineering specialist.",
+  "business_use_cases": [
+    "A startup founder points it at a competitor's app to understand exactly how a popular feature (like an onboarding flow or pricing gate) is built, then rebuilds a version for their own product.",
+    "A freelance consultant uses it to quickly document how an old, undocumented internal tool actually works before quoting a client on a rebuild or migration project.",
+    "A security researcher at a small firm uses the native-binary analysis to triage whether a suspicious desktop app is doing anything it shouldn't, as part of a paid vendor-risk review."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a 'competitor teardown' service: pay a flat fee, get a report showing exactly how a named competitor feature works and a build plan to replicate it.", "revenue_model": "one-off" },
+    { "idea": "Run a paid vendor-software risk-review service for small businesses evaluating a new desktop app before rolling it out company-wide.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Pick one well-known app feature people complain is missing from a competitor tool, reverse-engineer how the original does it this weekend, and ship a minimal clone as a paid add-on.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-15T12:30:00Z"
+}

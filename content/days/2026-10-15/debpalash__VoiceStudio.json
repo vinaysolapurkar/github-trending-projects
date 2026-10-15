@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-15",
+  "owner": "debpalash",
+  "name": "VoiceStudio",
+  "full_name": "debpalash/VoiceStudio",
+  "url": "https://github.com/debpalash/VoiceStudio",
+  "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+  "language": "Python",
+  "stars_total": 67868,
+  "stars_today": 3027,
+  "one_liner": "A free app that clones voices, dubs videos into other languages, and turns text into narrated audio, all running on your own computer instead of a paid cloud service.",
+  "buyer": "A YouTube creator, course maker, or audiobook publisher who currently pays a monthly subscription to a cloud voice service like ElevenLabs and wants the same result for free, privately.",
+  "business_use_cases": [
+    "A course creator dubs their English video course into a dozen languages overnight on their own machine, then sells access to each localized version in that country's market.",
+    "An indie audiobook producer clones a narrator's voice (with consent) once and generates an entire back catalog of audiobooks without paying per-minute cloud fees.",
+    "A dubbing studio handling small clients runs it locally to quote jobs cheaper than competitors who pay per-character cloud TTS pricing, keeping client audio off third-party servers."
+  ],
+  "money_ideas": [
+    { "idea": "Run a localized-video-dubbing service for YouTubers and course creators, charging per video or per language added.", "revenue_model": "usage" },
+    { "idea": "Offer a managed/hosted version with a simple UI for non-technical creators who don't want to install or run it themselves.", "revenue_model": "subscription" },
+    { "idea": "Sell cloned-voice audiobook production as a one-off service to self-published authors who can't afford a human narrator.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Offer a 'dub your YouTube backlog into 5 languages this weekend' package to a handful of mid-size creators, priced per video, using it as the whole production pipeline.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-15T12:30:00Z"
+}

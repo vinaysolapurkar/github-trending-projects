@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-15",
+  "owner": "anthropics",
+  "name": "claude-plugins-official",
+  "full_name": "anthropics/claude-plugins-official",
+  "url": "https://github.com/anthropics/claude-plugins-official",
+  "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+  "language": "Python",
+  "stars_total": 38301,
+  "stars_today": 181,
+  "one_liner": "Anthropic's own official storefront listing add-ons for their Claude Code tool, so you don't accidentally install a sketchy one.",
+  "buyer": "There isn't really an outside buyer here. It's Anthropic's own curated catalog, maintained by Anthropic for Anthropic's product, not infrastructure a third party builds a business on top of.",
+  "business_use_cases": [
+    "A developer submits their own plugin for inclusion in the directory to get free distribution to every Claude Code user.",
+    "A company evaluating Claude Code for its engineering team checks this directory first to see which third-party add-ons are vetted enough to trust.",
+    "An agency building Claude Code plugins for clients uses the listed structure/schema as the template to follow so their plugin gets accepted."
+  ],
+  "money_ideas": [
+    { "idea": "Build and list a genuinely useful plugin here to get free marketing, then monetize the plugin itself (not the directory) via a paid pro tier.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "If you already have a useful internal Claude Code workflow, package it as a plugin, submit it to this directory this weekend, and see if the free distribution turns into inbound leads.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-15T12:30:00Z"
+}

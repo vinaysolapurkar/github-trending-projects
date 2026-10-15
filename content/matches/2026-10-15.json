@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-15",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing today or recently edits or shortens existing short-form social video." },
+    { "problem_id": "p002", "repo": "storytold/artcraft", "why": "Its 3D scene staging, posing, and rendering tools (from a recent day) still let a store owner build their own product shots instead of booking a photographer; nothing newer fits as well.", "confidence": "high" },
+    { "problem_id": "p003", "repo": "mksglu/context-mode", "why": "It explicitly persists AI coding agent session memory across sessions via SQLite and FTS5 retrieval, directly solving this again today.", "confidence": "high" },
+    { "problem_id": "p004", "repo": null, "why": "Nothing today addresses AI-generated code quality or over-engineering; today's tools are about token cost, memory, and search, not code quality." },
+    { "problem_id": "p005", "repo": "xerj-org/xerj", "why": "It indexes PDFs (alongside code, docs, and logs) into a local search/RAG engine, letting a researcher instantly find the right passage instead of digging through hundreds of unorganized files.", "confidence": "high" },
+    { "problem_id": "p006", "repo": null, "why": "Nothing today provides stock footage or a visual explainer canvas; check a recent day's globe/visualization tools if still relevant." },
+    { "problem_id": "p007", "repo": "K-Dense-AI/scientific-agent-skills", "why": "177 validated skills and 100+ scientific databases across biology, chemistry, and drug discovery let a small lab punch above its weight without hiring a bioinformatics team.", "confidence": "high" },
+    { "problem_id": "p008", "repo": null, "why": "Nothing today is a private, self-hosted AI chat tool suited to a law firm's confidentiality needs." },
+    { "problem_id": "p009", "repo": "debpalash/VoiceStudio", "why": "Its local voice cloning, dubbing, and narration tools across 646 languages can turn written blog posts into narrated audio or video without a cloud TTS service.", "confidence": "high" },
+    { "problem_id": "p010", "repo": null, "why": "Nothing today is a self-hosted notes app." },
+    { "problem_id": "p011", "repo": "morluto/rea", "why": "It reverse-engineers how unfamiliar apps and binaries actually behave, which transfers reasonably to understanding how a messy inherited codebase fits together, though it's aimed more at compiled binaries than readable source.", "confidence": "medium" },
+    { "problem_id": "p012", "repo": "obra/superpowers", "why": "Its full spec-to-plan-to-build methodology for coding agents gives a first-time AI founder a structured path from idea to shipped product instead of guessing where to start.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "Nothing today or recently addresses restaurant inventory management." }
+  ]
+}

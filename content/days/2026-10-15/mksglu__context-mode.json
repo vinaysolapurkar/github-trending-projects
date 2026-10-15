@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-15",
+  "owner": "mksglu",
+  "name": "context-mode",
+  "full_name": "mksglu/context-mode",
+  "url": "https://github.com/mksglu/context-mode",
+  "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+  "language": "TypeScript",
+  "stars_total": 29568,
+  "stars_today": 902,
+  "one_liner": "Stops your AI coding assistant from drowning in its own tool output and forgetting what it was doing, by quietly compressing what it reads and remembering the session for you.",
+  "buyer": "An engineering team running AI coding agents all day whose sessions keep hitting context limits and losing track of what they were building mid-task.",
+  "business_use_cases": [
+    "A dev team running long autonomous coding sessions installs it so the agent stops forgetting which files it was editing after a context compaction, cutting wasted re-explaining time.",
+    "An engineering org paying per-token for AI coding tools uses the 98% tool-output reduction to materially cut its monthly API bill without changing how developers work.",
+    "A consultancy running client coding engagements uses the session-continuity feature so work picks back up exactly where it left off across days, instead of re-briefing the agent each morning."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid enterprise rollout and tuning for large engineering orgs adopting it across hundreds of developers.", "revenue_model": "one-off" },
+    { "idea": "Build a hosted version with team-wide session dashboards and cost reporting, sold per seat.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "It's a pure developer-infrastructure cost-saver; the real weekend move is adopting it internally to cut your own team's AI bill, then publishing the before/after savings as marketing for your dev agency.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-15T12:30:00Z"
+}

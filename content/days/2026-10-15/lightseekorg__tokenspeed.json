@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-15",
+  "owner": "lightseekorg",
+  "name": "tokenspeed",
+  "full_name": "lightseekorg/tokenspeed",
+  "url": "https://github.com/lightseekorg/tokenspeed",
+  "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+  "language": "Python",
+  "stars_total": 2290,
+  "stars_today": 25,
+  "one_liner": "Software that runs AI language models faster and cheaper on the same computer hardware, aimed at companies that serve those models to lots of users.",
+  "buyer": "An AI infrastructure or platform team at a company that runs its own large language models at scale and pays heavily for GPU time.",
+  "business_use_cases": [
+    "A company serving its own fine-tuned model to customers swaps in TokenSpeed to serve more requests per GPU, directly lowering their cloud compute bill.",
+    "A cloud GPU provider offers 'TokenSpeed-optimized' hosting as a premium tier, charging a markup for faster, cheaper-per-token inference than standard setups.",
+    "An infrastructure consultancy sells a one-off migration service helping companies move their inference stack onto it to cut costs."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a managed, pre-tuned hosting service built on it, billed by tokens served, undercutting standard inference providers on price.", "revenue_model": "usage" },
+    { "idea": "Sell migration and tuning consulting to companies with existing inference infrastructure who want the cost savings without doing the integration themselves.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This is deep infra for companies already running their own models at real scale; there's no realistic weekend consumer product here, only a consulting/hosting angle for teams who already have the GPU bill to justify it.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-15T12:30:00Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-15",
+  "owner": "ruvnet",
+  "name": "ruflo",
+  "full_name": "ruvnet/ruflo",
+  "url": "https://github.com/ruvnet/ruflo",
+  "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+  "language": "TypeScript",
+  "stars_total": 74784,
+  "stars_today": 146,
+  "one_liner": "Gives your AI coding assistant a management layer: it can split a big job across many AI 'workers' that remember past tasks and coordinate with each other, instead of starting from scratch every time.",
+  "buyer": "A technical founder or engineering lead already using Claude Code or Codex who wants to run many coordinated AI agents on a large codebase instead of one agent at a time.",
+  "business_use_cases": [
+    "A small dev shop uses it to run several specialized agents (one for tests, one for refactoring, one for docs) in parallel on a client's large legacy codebase, cutting delivery time.",
+    "A startup building its own AI product uses its memory and routing layer as the backbone so their product's agents learn from past tasks instead of repeating mistakes.",
+    "An agency offering 'AI dev team as a service' uses the swarm coordination to credibly promise clients faster turnaround than a single human-plus-one-agent setup."
+  ],
+  "money_ideas": [
+    { "idea": "Offer the connected 'ruOS Desktop' and hosted console as a paid managed service for teams that don't want to self-host the orchestration layer.", "revenue_model": "subscription" },
+    { "idea": "Sell consulting to wire it into a specific client's codebase and CI pipeline as a one-off integration project.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "It's deep developer infrastructure, not a consumer product; the realistic move is using it to deliver client dev work faster, then charging for the speed, not for the tool itself.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-15T12:30:00Z"
+}

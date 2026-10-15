@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-15",
+  "owner": "xerj-org",
+  "name": "xerj",
+  "full_name": "xerj-org/xerj",
+  "url": "https://github.com/xerj-org/xerj",
+  "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+  "language": "Rust",
+  "stars_total": 4784,
+  "stars_today": 725,
+  "one_liner": "A free, self-hosted search engine that instantly indexes a folder of code, PDFs, or logs so you (or your AI assistant) can find the exact passage you need, instead of opening file after file.",
+  "buyer": "A small company's IT or data team currently paying for a hosted Elasticsearch service who wants the same search capability self-hosted and free.",
+  "business_use_cases": [
+    "A small company replaces its paid hosted Elasticsearch subscription with a self-hosted instance of it, since existing Elasticsearch-compatible clients and dashboards keep working unchanged.",
+    "A compliance or security team indexes years of internal logs and documents to instantly search for evidence during an audit instead of grepping through archives by hand.",
+    "A dev agency wires it into client coding projects so their AI agents pull exact, relevant code snippets from a client's existing codebase instead of guessing from scratch."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a managed/hosted version for small companies that want the Elasticsearch-compatible search without running their own servers.", "revenue_model": "subscription" },
+    { "idea": "Sell a one-off 'migrate off your Elasticsearch bill' service: set it up, point existing clients at it, and pocket the difference in consulting fees.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Pick one small business already paying for hosted search or log storage, migrate them to a self-hosted instance of this over a weekend, and charge a flat migration fee plus a small ongoing maintenance retainer.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-15T12:30:00Z"
+}

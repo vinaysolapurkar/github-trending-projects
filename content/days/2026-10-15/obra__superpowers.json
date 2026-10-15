@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-15",
+  "owner": "obra",
+  "name": "superpowers",
+  "full_name": "obra/superpowers",
+  "url": "https://github.com/obra/superpowers",
+  "description": "An agentic skills framework & software development methodology that works.",
+  "language": "Shell",
+  "stars_total": 299465,
+  "stars_today": 534,
+  "one_liner": "A rulebook that makes your AI coding assistant stop and plan properly (write a spec, get your sign-off, then build step by step) instead of charging ahead and making a mess.",
+  "buyer": "An engineering lead at a small company who has let the team loose on AI coding assistants and is now worried about unreviewed, inconsistent code piling up.",
+  "business_use_cases": [
+    "An engineering manager installs it across the team so every AI-assisted feature goes through a forced spec-and-plan step before code gets written, cutting down on rework.",
+    "A dev agency uses the structured spec-to-plan-to-build workflow as a repeatable process they can point clients to, making AI-assisted delivery feel less like a black box.",
+    "A solo founder with no engineering background uses the enforced methodology to keep an AI agent from quietly cutting corners while building their first product."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid enterprise support, additional tooling, or managed spend controls for companies rolling it out at scale, as the project itself already advertises.", "revenue_model": "subscription" },
+    { "idea": "Run paid workshops teaching teams how to adopt the subagent-driven-development workflow effectively.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "It's a process framework for developers, not an end-customer product; the real move is adopting it on your own team and, if it works, offering to set it up for other small dev shops for a fee.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-15T12:30:00Z"
+}

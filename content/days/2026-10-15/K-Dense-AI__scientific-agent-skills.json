@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-15",
+  "owner": "K-Dense-AI",
+  "name": "scientific-agent-skills",
+  "full_name": "K-Dense-AI/scientific-agent-skills",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+  "language": "Python",
+  "stars_total": 49944,
+  "stars_today": 1091,
+  "one_liner": "A free pack of 'cheat sheets' that teaches an AI assistant how to correctly use real scientific databases and lab software, instead of guessing.",
+  "buyer": "A small biotech lab or academic research group that can't afford a dedicated bioinformatics hire but has scientists who already use AI coding assistants.",
+  "business_use_cases": [
+    "A small biotech lab uses the drug-discovery and molecular docking skills to run early-stage screening analyses in-house instead of outsourcing to a CRO.",
+    "A university lab with no bioinformatics staff uses the sequencing and variant-annotation skills so a single biologist can run analyses a specialist would normally be hired for.",
+    "A scientific consulting firm uses the skill library as a force multiplier so a handful of consultants can credibly cover biology, chemistry, and genomics requests."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid training, onboarding, and support for labs adopting it, since the library itself is free and open.", "revenue_model": "one-off" },
+    { "idea": "Build a hosted 'AI co-scientist' service on top of it for labs that don't want to manage local infrastructure, charging per seat.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Package a 'set up your lab's AI co-scientist in a weekend' onboarding service: install the skills, connect the databases the lab actually uses, and charge a flat setup fee.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-15T12:30:00Z"
+}

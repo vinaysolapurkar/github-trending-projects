@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-15",
+  "owner": "JuliusBrussee",
+  "name": "caveman",
+  "full_name": "JuliusBrussee/caveman",
+  "url": "https://github.com/JuliusBrussee/caveman",
+  "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+  "language": "Go",
+  "stars_total": 112080,
+  "stars_today": 398,
+  "one_liner": "Makes your AI coding assistant talk in short, blunt sentences and skim its own output instead of reading everything in full, which cuts your AI bill without losing the actual answer.",
+  "buyer": "An engineering manager at a startup whose monthly AI-coding-assistant bill has become a real budget line item because the whole team runs it all day.",
+  "business_use_cases": [
+    "An engineering team running Claude Code or Codex across 20+ developers installs it company-wide to cut their monthly AI usage bill by roughly a third without changing workflow.",
+    "An agency that bills clients for AI-assisted development work uses it to shrink their own compute costs and protect their margin on fixed-price projects.",
+    "A solo developer running long overnight autonomous coding sessions uses it so a session that used to time out on budget can run twice as long for the same spend."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a 'Caveman Cloud' managed version for teams that want the cost savings without self-hosting or managing the setup.", "revenue_model": "subscription" },
+    { "idea": "Offer paid enterprise support and tuning for large engineering orgs who want it rolled out safely across hundreds of developers.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "It's a pure developer-productivity tool, not a product you resell to non-technical buyers; the realistic weekend project is just adopting it on your own team to cut your own AI spend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-15T12:30:00Z"
+}

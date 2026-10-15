@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-15-001",
+  "date": "2026-10-15",
+  "repo_a": "xerj-org/xerj",
+  "repo_b": "K-Dense-AI/scientific-agent-skills",
+  "title": "The Lab That Never Forgets What It Already Tried",
+  "pitch": "Scientific Agent Skills gives an AI agent 177 validated skills for running real biology, chemistry, and drug-discovery analyses correctly. But a lab's biggest time-sink isn't just running the analysis, it's rediscovering what was already tried: old PDFs, half-remembered experiment notes, and prior results scattered across drives. XERJ solves exactly that half of the problem: point it at a lab's folder of papers, protocols, and past results, and it indexes everything for instant search and RAG, in minutes, with no cloud upload required. Wire the two together and a small biotech lab gets something close to a real AI co-scientist: ask a question, and the agent first searches the lab's own history with XERJ to see what's already known or been tried, then runs the right validated Scientific Agent Skill to analyze new data, instead of a scientist manually digging through folders before even starting the actual science.",
+  "why_now": "Both are trending the same day as free, local-first tools aimed squarely at research and science workflows, and they solve two different halves of the same problem: XERJ makes a lab's own existing knowledge instantly searchable, and Scientific Agent Skills makes the agent competent at acting on it, so pairing them turns a lab's messy archive into a working AI research assistant without any cloud dependency or new hire."
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-15",
+  "owner": "affaan-m",
+  "name": "ECC",
+  "full_name": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+  "language": "JavaScript",
+  "stars_total": 279872,
+  "stars_today": 1015,
+  "one_liner": "A toolkit that bolts memory, safety guardrails, and better habits onto your AI coding assistant so it performs more consistently across a whole team.",
+  "buyer": "An engineering lead at a mid-size company standardizing how every developer's AI coding assistant behaves, who wants guardrails without building them in-house.",
+  "business_use_cases": [
+    "A company with dozens of developers using Claude Code installs the free GitHub App and pays for the Pro tier to get the same safety guardrails and memory enforced on private repos.",
+    "A dev agency uses the 'security' and 'research-first development' features to give enterprise clients confidence that AI-written code in their codebase followed a consistent, auditable process.",
+    "A platform team at a larger company adopts it to standardize how every engineer's coding agent behaves, reducing the variance between a careful senior dev's agent and a junior's."
+  ],
+  "money_ideas": [
+    { "idea": "Sell the already-built 'ECC Pro' private-repo tier per seat, exactly as the project's own GitHub App and pricing page already do.", "revenue_model": "subscription" },
+    { "idea": "Offer paid rollout and policy-configuration consulting for larger orgs adopting it company-wide.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "The monetization path is already built into the repo itself (a Pro GitHub App with per-seat pricing); the weekend move is reselling setup and configuration of that existing product to companies as a consulting service.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-15T12:30:00Z"
+}
