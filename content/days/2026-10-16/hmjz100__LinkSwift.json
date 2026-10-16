@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-16",
+  "owner": "hmjz100",
+  "name": "LinkSwift",
+  "full_name": "hmjz100/LinkSwift",
+  "url": "https://github.com/hmjz100/LinkSwift",
+  "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+  "language": "JavaScript",
+  "stars_total": 23242,
+  "stars_today": 592,
+  "one_liner": "A browser userscript that grabs direct download links from Chinese cloud-storage services like Baidu and Aliyun, so files download faster without the official app's speed limits.",
+  "buyer": "No legitimate business buyer — this serves individual users of the Chinese internet trying to speed up downloads from their own personal cloud-storage accounts.",
+  "business_use_cases": [
+    "An individual user installs it personally to speed up their own downloads from Baidu or Aliyun cloud storage; this is not a business use case.",
+    "No credible B2B or monetizable use case was found; the project itself operates in a gray area and explicitly disclaims endorsing speed or quota circumvention."
+  ],
+  "money_ideas": [
+    { "idea": "None found. The project explicitly disclaims profiting from or facilitating circumvention of these services' terms of service.", "revenue_model": "n/a" }
+  ],
+  "steal_this": "There's nothing to build a legitimate business on here — it's a personal-use browser script that skirts cloud-storage providers' terms of service.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-16T12:05:45Z"
+}

@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-16",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing today fully covers video editing; VoiceStudio only handles voice/dubbing, not cutting and assembling footage." },
+    { "problem_id": "p002", "repo": null, "why": "Nothing today addresses product photography for e-commerce." },
+    { "problem_id": "p003", "repo": "mksglu/context-mode", "why": "Its session-continuity feature indexes file edits and decisions so the agent picks up where you left off instead of forgetting between sessions.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "obra/superpowers", "why": "It forces a spec-and-plan step with enforced TDD and YAGNI before any code is written, directly targeting bloated AI-written code.", "confidence": "high" },
+    { "problem_id": "p005", "repo": "xerj-org/xerj", "why": "It indexes PDFs and docs for fast search, though a researcher would still need to set up a dev tool to use it, not a ready-made reading app.", "confidence": "medium" },
+    { "problem_id": "p006", "repo": null, "why": "Nothing today generates visual footage for news explainers." },
+    { "problem_id": "p007", "repo": "K-Dense-AI/scientific-agent-skills", "why": "177 validated skills across biology, chemistry, and drug discovery let a small lab's AI agent do bioinformatics work without a dedicated specialist.", "confidence": "high" },
+    { "problem_id": "p008", "repo": null, "why": "Nothing today is a private, law-firm-grade chat tool; xerj is local and private but is a search index, not a chat interface." },
+    { "problem_id": "p009", "repo": "debpalash/VoiceStudio", "why": "It can narrate blog text into audio in a cloned voice, though turning that into a full video still needs separate footage or slides.", "confidence": "medium" },
+    { "problem_id": "p010", "repo": null, "why": "Nothing today is a self-hosted note-taking app." },
+    { "problem_id": "p011", "repo": "xerj-org/xerj", "why": "Its autoindex and reference-coding search let an agent find how pieces of an unfamiliar codebase connect instead of reading file by file.", "confidence": "high" },
+    { "problem_id": "p012", "repo": "obra/superpowers", "why": "Its spec-to-plan-to-build methodology is a reasonable structured starting point for a first AI product, though it's a process framework, not the product itself.", "confidence": "low" },
+    { "problem_id": "p013", "repo": null, "why": "Nothing today addresses restaurant inventory management." }
+  ]
+}

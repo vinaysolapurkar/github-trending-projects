@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-16",
+  "owner": "android",
+  "name": "skills",
+  "full_name": "android/skills",
+  "url": "https://github.com/android/skills",
+  "description": "",
+  "language": "Kotlin",
+  "stars_total": 7874,
+  "stars_today": 35,
+  "one_liner": "A set of official, Google-written cheat sheets that teach AI coding assistants the correct, current way to build Android apps.",
+  "buyer": "No real external buyer — this is Google's own documentation-as-code for Android developers using AI tools, given away for free.",
+  "business_use_cases": [
+    "An Android dev shop installs the skills so their AI pair-programmer stops suggesting outdated Jetpack Compose patterns.",
+    "A coding bootcamp teaching mobile development uses the skills to keep student AI assistants aligned with current best practices.",
+    "A contracting agency cites use of these official skills as a quality signal to prospective Android-app clients."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid Android-modernization audits for client codebases, using these skills to flag outdated patterns.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "There's no product to build here — it's free official documentation maintained by Google. The honest move is to just use it, not try to monetize it directly.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-16T12:05:45Z"
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-16",
+  "owner": "debpalash",
+  "name": "VoiceStudio",
+  "full_name": "debpalash/VoiceStudio",
+  "url": "https://github.com/debpalash/VoiceStudio",
+  "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+  "language": "Python",
+  "stars_total": 70075,
+  "stars_today": 2301,
+  "one_liner": "A free, download-once app that clones voices, designs new ones from a text description, dubs videos into other languages, and transcribes speech — running entirely on your own computer, with no cloud subscription required.",
+  "buyer": "An indie podcaster, YouTuber, or small audiobook publisher who currently pays a cloud voice service monthly and wants the same capability for free, offline, with no per-minute fees.",
+  "business_use_cases": [
+    "A YouTuber dubs their English videos into Spanish and Hindi in-house to reach new audiences, instead of paying a dubbing studio per video.",
+    "A small audiobook producer uses the voice-cloning and audiobook-creation workflow to turn one narrator's voice into dozens of titles without re-booking studio time.",
+    "An indie game studio generates character voice lines from text descriptions for localization testing before committing budget to professional voice actors."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid 'done-for-you' dubbing and voiceover service built on top of the free tool, charging per project.", "revenue_model": "one-off" },
+    { "idea": "Sell a managed cloud version, hosted so clients don't need a GPU, with monthly minutes included.", "revenue_model": "subscription" },
+    { "idea": "Charge for a curated voice-pack marketplace of designed voices for specific genres or characters, built on the local engine.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Offer a 'translate and dub my YouTube backlog' service to small creators this weekend — install it once, then charge per video.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-16T12:05:45Z"
+}

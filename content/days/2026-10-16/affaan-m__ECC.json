@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-16",
+  "owner": "affaan-m",
+  "name": "ECC",
+  "full_name": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+  "language": "JavaScript",
+  "stars_total": 280873,
+  "stars_today": 1057,
+  "one_liner": "A toolkit that makes AI coding assistants like Claude Code remember more, work more safely, and perform better by adding memory, security guardrails, and learned habits.",
+  "buyer": "An engineering manager at a company that just adopted Claude Code or Codex and is worried about inconsistent output and security slip-ups across the team.",
+  "business_use_cases": [
+    "A dev team installs the GitHub App on private repos to get enforced security scanning and memory continuity on every AI-assisted pull request.",
+    "An agency reselling 'AI-assisted development' services installs ECC Pro to standardize quality and security across every client project.",
+    "A platform engineering team uses the hardening and security layer to pass internal compliance review before letting AI agents touch production code."
+  ],
+  "money_ideas": [
+    { "idea": "The project already sells ECC Pro seats for private-repo use via its GitHub App.", "revenue_model": "subscription" },
+    { "idea": "Offer paid onboarding and configuration services for enterprises rolling this out company-wide.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "It's infrastructure for developers, not a product for non-coders; install it on your own team's repos and, if it works, resell the setup as a service to other small dev shops.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-16T12:05:45Z"
+}

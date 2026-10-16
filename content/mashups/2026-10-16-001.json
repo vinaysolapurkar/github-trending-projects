@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-16-001",
+  "date": "2026-10-16",
+  "repo_a": "debpalash/VoiceStudio",
+  "repo_b": "MadsLorentzen/ai-job-search",
+  "title": "Pitch Perfect",
+  "pitch": "ai-job-search already produces a tailored CV and cover letter for every job application; feed that cover letter's key points into VoiceStudio's local voice cloning and video-dubbing engine to auto-generate a 60-second narrated video pitch in the candidate's own voice, optionally dubbed into the employer's language. Package it as a service for job seekers and career coaches: everyone's AI-tailored text application already looks the same, but almost nobody is sending a short personal video pitch, so this is a cheap, repeatable way to stand out in a stack of resumes.",
+  "why_now": "AI-written cover letters have become a commodity that recruiters can spot a mile away, right as a free, fully-local voice-cloning and dubbing tool (VoiceStudio) hit mainstream adoption this week — the next differentiator in a crowded applicant pool is a short, personal video, and the tooling to generate one automatically from an existing application pipeline just became free and local."
+}

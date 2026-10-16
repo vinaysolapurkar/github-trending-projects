@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-16",
+  "owner": "mksglu",
+  "name": "context-mode",
+  "full_name": "mksglu/context-mode",
+  "url": "https://github.com/mksglu/context-mode",
+  "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+  "language": "TypeScript",
+  "stars_total": 30005,
+  "stars_today": 449,
+  "one_liner": "A plug-in for AI coding assistants that keeps giant tool outputs, like a 300KB webpage snapshot, out of the conversation, so the AI doesn't 'forget' earlier work or run out of room to think.",
+  "buyer": "An engineering lead running Claude Code or similar AI agents on large codebases who is burning through tokens and losing session continuity.",
+  "business_use_cases": [
+    "A dev team installs it so their AI pair-programmer stops forgetting which files it was editing after a long session, cutting re-explaining time.",
+    "A consultancy billing clients by AI-agent usage reduces token costs roughly 98% on big tool outputs, improving margins on fixed-fee AI-dev contracts.",
+    "An enterprise rolls it out across engineering to enforce 'think in code' patterns, reducing runaway API costs from verbose agent chatter."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted or managed enterprise tier with team dashboards and usage analytics.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "It's a developer productivity tool, not a consumer product; adopt it internally to cut your own AI tooling costs, then tell other dev teams how much you saved.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-16T12:05:45Z"
+}

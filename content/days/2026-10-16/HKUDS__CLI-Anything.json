@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-16",
+  "owner": "HKUDS",
+  "name": "CLI-Anything",
+  "full_name": "HKUDS/CLI-Anything",
+  "url": "https://github.com/HKUDS/CLI-Anything",
+  "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+  "language": "Python",
+  "stars_total": 53199,
+  "stars_today": 716,
+  "one_liner": "A toolkit for generating command-line tools so AI agents can control any piece of software the same way a human would, with a public hub of pre-built CLIs for apps like Calibre and Rekordbox.",
+  "buyer": "A developer building an AI-agent product who needs their agent to control third-party apps, like photo libraries or DJ software, that have no API.",
+  "business_use_cases": [
+    "An agent-platform startup uses the CLI-Hub registry to instantly give their agents control over dozens of desktop apps instead of writing custom integrations for each.",
+    "A systems integrator builds a paid custom CLI for a client's legacy in-house software so the client's AI agents can finally automate it.",
+    "A productivity SaaS offers 'AI automation' for apps it doesn't own by wrapping them with a CLI-Anything-generated interface."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid custom-CLI development for companies whose internal software has no automation path today.", "revenue_model": "one-off" },
+    { "idea": "Host a premium, vetted tier of the CLI-Hub with support contracts for enterprises.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Pick one popular app with no API that people complain about automating, build its CLI with this framework, and list it on CLI-Hub to get early users.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-16T12:05:45Z"
+}

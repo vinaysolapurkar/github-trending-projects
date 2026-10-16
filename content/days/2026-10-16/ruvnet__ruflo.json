@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-16",
+  "owner": "ruvnet",
+  "name": "ruflo",
+  "full_name": "ruvnet/ruflo",
+  "url": "https://github.com/ruvnet/ruflo",
+  "description": "The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+  "language": "TypeScript",
+  "stars_total": 75420,
+  "stars_today": 672,
+  "one_liner": "A control layer that turns a single AI coding assistant into a coordinated team of specialized AI agents that remember past work and can talk to agents on other machines.",
+  "buyer": "A startup CTO who wants one engineer's AI assistant to effectively act like a small team of AI developers on a big project.",
+  "business_use_cases": [
+    "A small dev shop uses the swarm setup to parallelize feature work across specialized agents, shipping faster with the same headcount.",
+    "An enterprise platform team uses the federation feature to let AI agents on different machines or teams coordinate securely without centralizing sensitive data.",
+    "A freelance developer offers an 'AI dev team as a service' to clients, using Ruflo to orchestrate multiple agents on one project under a single contract."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid managed hosting (ruOS Desktop or cloud) and support for teams running agent swarms in production.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Use it to run a side project with more 'hands' than you actually have, then sell the resulting speed as a freelance AI-augmented dev team service.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-16T12:05:45Z"
+}

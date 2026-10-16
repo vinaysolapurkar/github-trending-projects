@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-16",
+  "owner": "MadsLorentzen",
+  "name": "ai-job-search",
+  "full_name": "MadsLorentzen/ai-job-search",
+  "url": "https://github.com/MadsLorentzen/ai-job-search",
+  "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+  "language": "Python",
+  "stars_total": 47784,
+  "stars_today": 879,
+  "one_liner": "A do-it-yourself AI assistant that reads job postings, checks if you're a good fit, writes a tailored CV and cover letter, and preps you for the interview — running on your own computer.",
+  "buyer": "A laid-off professional or career-changer doing a high-volume job search who can't afford a career coach but can follow a setup guide.",
+  "business_use_cases": [
+    "A job seeker forks the repo, fills in their profile once, and runs it weekly to auto-screen and apply to dozens of postings with tailored materials.",
+    "A career coach sets this up for clients as a starter kit, charging a flat fee to configure it for the client's industry and local job boards.",
+    "A university career center runs workshops teaching students to set this up themselves instead of buying a commercial resume-tailoring subscription."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a one-time paid setup and configuration service for non-technical job seekers who can't install Claude Code, LaTeX, and Bun themselves.", "revenue_model": "one-off" },
+    { "idea": "Localize the job-portal search skills for a new country's job boards and sell that fork to local job seekers or a staffing agency.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Package the setup as a paid one-hour 'install and configure this for your job search' session — the friction (LaTeX, Bun, Python) is exactly what people will pay to skip.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-16T12:05:45Z"
+}

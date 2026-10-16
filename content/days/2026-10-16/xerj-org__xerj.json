@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-16",
+  "owner": "xerj-org",
+  "name": "xerj",
+  "full_name": "xerj-org/xerj",
+  "url": "https://github.com/xerj-org/xerj",
+  "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+  "language": "Rust",
+  "stars_total": 6372,
+  "stars_today": 1647,
+  "one_liner": "A fast local search engine that indexes your code, documents, logs, and PDFs so an AI agent can find exactly the right passage instantly, instead of reading through everything and wasting tokens.",
+  "buyer": "A platform engineering lead running AI coding agents against large codebases who wants to cut AI API costs and speed up agent responses.",
+  "business_use_cases": [
+    "A dev team points it at their monorepo so their coding agent finds the right function in milliseconds instead of grepping through thousands of files, cutting token spend.",
+    "A security team indexes logs and codebases to run faster agent-assisted security audits across many client repositories.",
+    "A support or knowledge team indexes internal docs and PDFs so an internal AI assistant answers employee questions with exact citations instead of guessing."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a managed, multi-tenant hosted version with auth and team dashboards for companies that don't want to run and secure it themselves.", "revenue_model": "subscription" },
+    { "idea": "Sell consulting to integrate it as the retrieval backend for a company's internal AI-agent or RAG product.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Stand up a hosted, properly-secured version of this for a specific niche, like security auditors analyzing client codebases, and charge per project.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-16T12:05:45Z"
+}
