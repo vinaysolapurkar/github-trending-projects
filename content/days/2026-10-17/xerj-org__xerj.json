@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-17",
+  "owner": "xerj-org",
+  "name": "xerj",
+  "full_name": "xerj-org/xerj",
+  "url": "https://github.com/xerj-org/xerj",
+  "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+  "language": "Rust",
+  "stars_total": 7356,
+  "stars_today": 1102,
+  "one_liner": "A local search engine that indexes your code, documents, and logs so an AI agent can find the exact answer it needs instantly, instead of burning time and money reading files one by one.",
+  "buyer": "An engineering team paying for AI coding assistants on a large codebase who wants to cut the token bill those assistants rack up from reading files repeatedly.",
+  "business_use_cases": [
+    "A company with a large legacy codebase indexes it once so every developer's AI agent finds the right code instantly instead of re-reading the whole repo each session.",
+    "A security team indexes logs and docs for fast searchable audits, replacing slow manual grep-based investigations.",
+    "A consultancy builds client-specific 'agent memory' setups on top of it, letting an agent accumulate project knowledge over many engagements."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid setup service that indexes a client's codebase and documents and wires it into their AI coding assistants, directly cutting their monthly AI token spend.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Index your own largest project this weekend and measure the actual drop in AI assistant token usage before and after, then show that number to a client.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-17T12:04:09Z"
+}

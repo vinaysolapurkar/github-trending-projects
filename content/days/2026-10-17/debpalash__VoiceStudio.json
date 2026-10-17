@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-17",
+  "owner": "debpalash",
+  "name": "VoiceStudio",
+  "full_name": "debpalash/VoiceStudio",
+  "url": "https://github.com/debpalash/VoiceStudio",
+  "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+  "language": "Python",
+  "stars_total": 72176,
+  "stars_today": 2135,
+  "one_liner": "A free app that clones voices, dubs videos into other languages, and turns text into narrated audiobooks, all running on your own computer with no cloud subscription.",
+  "buyer": "A YouTuber, course creator, or audiobook narrator who currently pays monthly for ElevenLabs-style voice tools and wants the same capability for free, with full control over their own voice.",
+  "business_use_cases": [
+    "A YouTuber dubs their English videos into 5 languages overnight to reach new audiences, without paying a translation and voiceover studio.",
+    "A course creator narrates an entire written course into audio in their own cloned voice in an afternoon, instead of booking recording sessions.",
+    "An indie audiobook producer offers cheap narration services to self-published authors by running batch audiobook jobs locally instead of paying per-minute cloud fees."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a 'video localization' service for YouTubers and course creators: dub their back catalog into several languages for a flat fee per video.", "revenue_model": "one-off" },
+    { "idea": "Run a niche audiobook narration service for self-published authors who can't afford professional studio narration.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Pick one of your own videos, dub it into two other languages with this tool this weekend, and pitch the service to a few small YouTube creators.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-17T12:04:09Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-17",
+  "owner": "MadsLorentzen",
+  "name": "ai-job-search",
+  "full_name": "MadsLorentzen/ai-job-search",
+  "url": "https://github.com/MadsLorentzen/ai-job-search",
+  "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+  "language": "Python",
+  "stars_total": 49211,
+  "stars_today": 1397,
+  "one_liner": "A personal assistant that scans job listings, scores how well you match each one, and writes you a custom resume and cover letter for the ones worth applying to.",
+  "buyer": "A job seeker (the creator built it after being laid off) who wants to send dozens of genuinely tailored applications a week instead of one generic resume everywhere.",
+  "business_use_cases": [
+    "A career coach configures this for each client and charges a flat fee to run their weekly job-search pipeline for them.",
+    "A university career center runs it as a self-serve lab tool so students get tailored resumes without booking 1:1 appointments.",
+    "A bootcamp or outplacement firm packages a pre-configured version as a premium perk for members going through layoffs."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a done-for-you 'job search concierge' service: set this up for a client's profile and run it on their behalf every week.", "revenue_model": "subscription" },
+    { "idea": "Sell a one-time setup service for non-technical job seekers who can't install the Claude Code + LaTeX toolchain themselves.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Fork it, swap in job boards for your own country, and offer the configured result as a weekend $50 setup-and-run service to a few job-hunting friends.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-17T12:04:09Z"
+}

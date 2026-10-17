@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-17",
+  "owner": "K-Dense-AI",
+  "name": "scientific-agent-skills",
+  "full_name": "K-Dense-AI/scientific-agent-skills",
+  "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+  "language": "Python",
+  "stars_total": 51917,
+  "stars_today": 879,
+  "one_liner": "A library of 177 ready-made 'cheat sheets' that teach an AI agent exactly how to use specialized science software and databases correctly, across biology, chemistry, and drug discovery.",
+  "buyer": "A small biotech founder or academic lab PI who can't afford a dedicated bioinformatics or cheminformatics hire and wants their AI agent to competently run specialized scientific analyses instead.",
+  "business_use_cases": [
+    "A small biotech runs virtual drug screening and ADMET analysis in-house with an AI agent using these skills, instead of hiring a cheminformatics specialist.",
+    "A PhD student automates variant annotation and phylogenetics for their thesis using an agent that correctly calls the right scientific tools and databases.",
+    "A contract research organization offers 'AI co-scientist' analysis packages to small biotech clients, powered by this skill library plus the companion local app."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid setup-and-support service for labs that want this running but lack the technical staff to configure it themselves.", "revenue_model": "one-off" },
+    { "idea": "Run specific scientific analyses (e.g. ADMET screening batches) as a paid service for small labs using this skill set plus cloud compute.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Pick one validated skill, like ADMET analysis, and offer a one-off paid analysis run to a local small biotech or academic lab this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-17T12:04:09Z"
+}

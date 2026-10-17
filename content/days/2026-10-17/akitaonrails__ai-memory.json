@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-17",
+  "owner": "akitaonrails",
+  "name": "ai-memory",
+  "full_name": "akitaonrails/ai-memory",
+  "url": "https://github.com/akitaonrails/ai-memory",
+  "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+  "language": "Rust",
+  "stars_total": 9677,
+  "stars_today": 159,
+  "one_liner": "A shared notebook that lets different AI coding assistants remember your project and hand work off to each other, so switching between tools doesn't mean re-explaining everything from scratch.",
+  "buyer": "A development team running more than one AI coding tool (or a solo developer who switches between them) who's tired of re-explaining their codebase every new session.",
+  "business_use_cases": [
+    "A dev team runs one shared memory server so every engineer's AI agent can see decisions and failed approaches other engineers already tried.",
+    "A consultant handing a project to another contractor passes the memory server along so the new agent picks up exactly where the last one stopped.",
+    "An engineering manager uses the built-in audit log to track what AI agents have actually been doing across the team's repositories."
+  ],
+  "money_ideas": [
+    { "idea": "Host and manage a team's shared memory server as a paid ops service, since most teams won't want to self-host and maintain it themselves.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Stand up the self-hosted server for your own two-tool workflow (e.g. Claude Code plus Codex) this weekend and see if cross-agent handoff actually saves you re-explaining time.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-17T12:04:09Z"
+}

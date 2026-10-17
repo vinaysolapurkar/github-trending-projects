@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-17",
+  "owner": "stablyai",
+  "name": "orca",
+  "full_name": "stablyai/orca",
+  "url": "https://github.com/stablyai/orca",
+  "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+  "language": "TypeScript",
+  "stars_total": 94830,
+  "stars_today": 1102,
+  "one_liner": "A desktop and mobile control room for running several different AI coding assistants side by side, so you can compare their results and steer them from your phone.",
+  "buyer": "A developer who already pays for several AI coding tools and wants one dashboard to run, compare, and monitor them, instead of juggling separate terminal windows.",
+  "business_use_cases": [
+    "A freelance developer runs the same task across three agents in parallel worktrees, picks the best result, and bills the client for less time than doing it by hand.",
+    "A small dev team reviews AI-generated diffs together inside the app, leaving line comments the agent can act on, instead of a separate code-review tool.",
+    "A remote-work developer uses the mobile companion app to get notified and steer an agent mid-task while away from their desk."
+  ],
+  "money_ideas": [
+    { "idea": "None realistic for a third party — Orca is already a polished, monetizable product in its own right rather than a base to build on top of.", "revenue_model": "n/a" }
+  ],
+  "steal_this": "Download it and run the same prompt across two different agents in parallel worktrees this weekend to see which one actually gives you a better answer, faster.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-17T12:04:09Z"
+}

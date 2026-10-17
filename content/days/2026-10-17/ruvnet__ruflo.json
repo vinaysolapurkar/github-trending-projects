@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-17",
+  "owner": "ruvnet",
+  "name": "ruflo",
+  "full_name": "ruvnet/ruflo",
+  "url": "https://github.com/ruvnet/ruflo",
+  "description": "The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+  "language": "TypeScript",
+  "stars_total": 75812,
+  "stars_today": 406,
+  "one_liner": "A coordination layer that lets many AI agents work together as a team on one task, remembering what worked before and talking to agents running on other machines.",
+  "buyer": "A technical team running large, multi-step AI-automated projects (not a single task, but many coordinated ones) who needs their agents to divide work and not duplicate effort.",
+  "business_use_cases": [
+    "A dev shop running big migration or refactor projects spins up a swarm of specialized agents to split the work instead of one agent working serially.",
+    "An agency offers 'AI team-in-a-box' automation builds for clients who want multiple coordinated bots (research, drafting, QA) rather than one assistant.",
+    "A technical founder uses the terminal dashboard to monitor cost and progress across a fleet of agents working on different parts of a product."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid setup and configuration of multi-agent swarms for companies that want this but lack the time to learn the orchestration layer themselves.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Pick one multi-step task you currently do serially with a single agent and run it this weekend as a 3-agent swarm to see if it actually finishes faster.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-17T12:04:09Z"
+}

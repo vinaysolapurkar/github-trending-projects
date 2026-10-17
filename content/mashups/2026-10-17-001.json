@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-17-001",
+  "date": "2026-10-17",
+  "repo_a": "K-Dense-AI/scientific-agent-skills",
+  "repo_b": "xerj-org/xerj",
+  "title": "Instant Lab Librarian",
+  "pitch": "A small biotech lab or PhD researcher sits on hundreds of papers, protocols, and data files they can never find fast enough. Point xerj's autoindex at the lab's entire folder of PDFs, protocols, and notebooks so an agent can search it in milliseconds instead of reading file by file, then wire in K-Dense's 177 validated scientific skills so the same agent doesn't just find the paper — it correctly runs the right bioinformatics or cheminformatics workflow on what it finds (variant annotation, ADMET screening, sequence analysis). Package it as a flat-fee 'instant lab librarian' setup for small labs: index once, then every future question — 'what did we try for this target before, and what's the known ADMET profile of the closest match?' — gets answered correctly in seconds instead of a week of digging.",
+  "why_now": "Both tools trended the same day for the same underlying reason: AI agents waste money and time either searching badly or using scientific tools incorrectly. xerj fixes the search half, K-Dense's skill library fixes the correctness half, and small labs that could never afford a bioinformatics hire or a dedicated librarian can now get both for free and combined in a weekend."
+}

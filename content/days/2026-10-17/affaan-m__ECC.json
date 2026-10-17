@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-17",
+  "owner": "affaan-m",
+  "name": "ECC",
+  "full_name": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+  "language": "JavaScript",
+  "stars_total": 281929,
+  "stars_today": 1145,
+  "one_liner": "A toolkit that gives AI coding assistants better memory, built-in security checks, and ready-made skills, so they make fewer mistakes across whatever AI tool you use.",
+  "buyer": "An engineering lead running Claude Code, Cursor, or similar tools across a team who wants consistent guardrails and automated security review without building it in-house.",
+  "business_use_cases": [
+    "An engineering team installs the companion GitHub App for automated security review on every AI-assisted pull request instead of hiring a dedicated reviewer.",
+    "A dev agency standardizes every client project on this harness so all AI agents follow the same memory and skill conventions regardless of client.",
+    "A security-conscious fintech buys the private-repo tier to get the agent-security protections without exposing proprietary code to a free public service."
+  ],
+  "money_ideas": [
+    { "idea": "The project already sells paid 'ECC Pro' seats for private-repo use through a GitHub App — a template for bundling AI-agent guardrails as a subscription add-on.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Install the free GitHub App on one of your own repos this weekend to see the automated agent-security review in action before recommending it to a client.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-17T12:04:09Z"
+}
