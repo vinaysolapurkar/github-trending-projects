@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-18",
+  "owner": "HKUDS",
+  "name": "CLI-Anything",
+  "full_name": "HKUDS/CLI-Anything",
+  "url": "https://github.com/HKUDS/CLI-Anything",
+  "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+  "language": "Python",
+  "stars_total": 54338,
+  "stars_today": 582,
+  "one_liner": "A system that builds command-line controls for existing desktop software, like a music library app or a note-taking tool, so an AI agent can operate programs that were only ever built for humans to click through.",
+  "buyer": "A developer or power user who wants their AI agent to automate a specific piece of software, such as a design app or e-book tool, that has no official API.",
+  "business_use_cases": [
+    "A niche software vendor without a public API lets the community build a CLI wrapper for their tool, making it usable by AI-agent power users.",
+    "An automation consultant builds a one-off CLI for a client's legacy desktop software, then wires an agent to it to run nightly data exports automatically.",
+    "A contributor builds CLIs for popular creator tools and lists them on the CLI-Hub marketplace to build a public portfolio and reputation."
+  ],
+  "money_ideas": [
+    { "idea": "Take paid contract work building a bespoke CLI wrapper for a company's internal legacy software so their AI agents can finally operate it.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Pick one piece of software you use daily that has no API, build a CLI wrapper for it with this framework over a weekend, and submit it to CLI-Hub.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-18T12:07:11Z"
+}

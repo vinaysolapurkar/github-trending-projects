@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-18",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing today edits or assembles short social video clips; Jasna only restores mosaic-blurred patches and ComfyUI generates stills, neither cuts footage together." },
+    { "problem_id": "p002", "repo": "Comfy-Org/ComfyUI", "why": "Its node-based diffusion pipelines can generate on-brand product photography variations without a photographer, once a workflow is set up.", "confidence": "medium" },
+    { "problem_id": "p003", "repo": "akitaonrails/ai-memory", "why": "It gives AI coding agents long-term, cross-session, cross-tool memory so project context survives even after you quit and reopen the agent.", "confidence": "high" },
+    { "problem_id": "p004", "repo": null, "why": "Nothing today enforces spec-first, YAGNI-style development to stop AI from writing bloated code; opencode and ruflo generate and orchestrate code but don't police its scope." },
+    { "problem_id": "p005", "repo": null, "why": "Nothing today organizes or indexes a backlog of research PDFs." },
+    { "problem_id": "p006", "repo": "Comfy-Org/ComfyUI", "why": "It can generate illustrative stills for a news explainer when no real footage exists, though it won't assemble them into a finished video on its own.", "confidence": "low" },
+    { "problem_id": "p007", "repo": null, "why": "Nothing today provides bioinformatics-specific tooling for a small lab." },
+    { "problem_id": "p008", "repo": null, "why": "Nothing today is a private, law-firm-grade chat interface; ai-memory and opencode are local and self-hostable but are developer tools, not a chat product." },
+    { "problem_id": "p009", "repo": "debpalash/VoiceStudio", "why": "It can narrate written text into audio using a cloned voice, though turning that into a full video still needs separate footage or slides.", "confidence": "medium" },
+    { "problem_id": "p010", "repo": "akitaonrails/ai-memory", "why": "Its memory lives in plain, git-backed markdown files you can grep, edit by hand, or open in a notes app, a genuinely private and self-owned store, though it's built for AI-agent memory rather than general note-taking.", "confidence": "medium" },
+    { "problem_id": "p011", "repo": null, "why": "Nothing today maps or explains an unfamiliar codebase's structure to a new hire." },
+    { "problem_id": "p012", "repo": "mlabonne/llm-course", "why": "It's a free, structured roadmap from LLM fundamentals through building and deploying an application, a direct starting point for someone with no idea where to begin.", "confidence": "high" },
+    { "problem_id": "p013", "repo": null, "why": "Nothing today addresses restaurant inventory management." }
+  ]
+}

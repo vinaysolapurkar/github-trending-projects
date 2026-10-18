@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-18",
+  "owner": "android",
+  "name": "skills",
+  "full_name": "android/skills",
+  "url": "https://github.com/android/skills",
+  "description": "",
+  "language": "Kotlin",
+  "stars_total": 8600,
+  "stars_today": 381,
+  "one_liner": "A library of cheat-sheets that teach AI coding assistants the correct, modern way to build Android apps, so the AI stops suggesting outdated patterns.",
+  "buyer": "An Android-focused dev shop that wants its team's AI coding assistants to stop writing code that reviewers have to correct, speeding up pull-request approval.",
+  "business_use_cases": [
+    "A mobile dev agency installs these skills across the team's AI assistants so junior developers' AI-generated code matches Google's current best practices on the first pass.",
+    "An Android training bootcamp uses the skills as a built-in tutor that keeps students' AI-assisted code aligned with official guidance.",
+    "A plugin marketplace vendor builds a paid 'certified skills' bundle on top, covering more ground and kept current, for teams who don't want to track Google's changes themselves."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid, continuously-updated superset of skills that also bakes in a company's internal coding conventions, sold as a subscription for Android dev teams.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Load these skills into your AI assistant on your next real Android feature this weekend and count how many fewer review comments you get.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-18T12:07:11Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-18",
+  "owner": "ruvnet",
+  "name": "ruflo",
+  "full_name": "ruvnet/ruflo",
+  "url": "https://github.com/ruvnet/ruflo",
+  "description": "The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+  "language": "TypeScript",
+  "stars_total": 76291,
+  "stars_today": 502,
+  "one_liner": "A control system that lets you run many AI coding agents at once, coordinating them like a small team instead of one assistant working alone.",
+  "buyer": "A dev-tools agency or technical founder running large codebase migrations who wants to parallelize AI agent work instead of babysitting one assistant at a time.",
+  "business_use_cases": [
+    "An agency doing large legacy-code migrations deploys a swarm of agents to work on different modules simultaneously, billing clients for the faster turnaround.",
+    "A startup building its own AI dev-tool product uses this as the orchestration backbone instead of building agent coordination from scratch.",
+    "A technical consultant offers an 'AI dev team as a service' to small businesses, using the harness to simulate a multi-person engineering team for roughly the cost of one developer."
+  ],
+  "money_ideas": [
+    { "idea": "Offer 'AI engineering team' monthly retainers to small businesses: a swarm of agents building and maintaining their app.", "revenue_model": "subscription" },
+    { "idea": "Package a pre-tuned swarm configuration for a specific repetitive task, such as test-writing or documentation generation, and sell it as a one-off recipe.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Spin up a 3-agent swarm against a real backlog of small tickets this weekend and track how much faster it clears the backlog versus a single agent.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-18T12:07:11Z"
+}

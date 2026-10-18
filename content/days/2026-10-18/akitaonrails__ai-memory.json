@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-18",
+  "owner": "akitaonrails",
+  "name": "ai-memory",
+  "full_name": "akitaonrails/ai-memory",
+  "url": "https://github.com/akitaonrails/ai-memory",
+  "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+  "language": "Rust",
+  "stars_total": 10186,
+  "stars_today": 513,
+  "one_liner": "A memory bank for AI coding assistants so you can stop one tool mid-task, switch to a different AI tool, and have it pick up right where the last one left off.",
+  "buyer": "A freelance developer or small dev shop juggling multiple AI coding tools who is tired of re-explaining project context every time they switch vendors.",
+  "business_use_cases": [
+    "A dev agency standardizes on this so a junior developer can hand off an in-progress AI-assisted task to a senior developer's preferred tool without a re-briefing meeting.",
+    "A solo SaaS founder avoids vendor lock-in, switching between Claude Code and Codex depending on which is cheaper or better that week.",
+    "A dev-tools vendor integrates it as a selling point, 'works with your memory, not just ours,' to court users wary of being locked into one AI coding tool."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted, synced version of the memory store shared across a whole team, billed per seat.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Install it on your own multi-tool workflow this weekend and document the time saved from not re-explaining context, then turn that into a case study to sell team licenses.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-18T12:07:11Z"
+}

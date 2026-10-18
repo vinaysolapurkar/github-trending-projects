@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-18",
+  "owner": "mlabonne",
+  "name": "llm-course",
+  "full_name": "mlabonne/llm-course",
+  "url": "https://github.com/mlabonne/llm-course",
+  "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+  "language": null,
+  "stars_total": 83771,
+  "stars_today": 81,
+  "one_liner": "A free, structured curriculum of notes and hands-on exercises for learning how large language models work and how to build with them.",
+  "buyer": "A coding bootcamp or corporate learning-and-development team that wants ready-made curriculum content instead of building an LLM training course from scratch.",
+  "business_use_cases": [
+    "A coding bootcamp adapts the curriculum structure to launch a paid 'AI Engineer' certificate track.",
+    "A corporate L&D department points upskilling engineers at it instead of buying an expensive external LLM training course.",
+    "An independent educator records paid video walkthroughs of each notebook and sells it as a cohort-based course on top of the free material."
+  ],
+  "money_ideas": [
+    { "idea": "Build a paid cohort course with live mentorship structured around this free curriculum.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Pick the three modules most relevant to your target learner, record yourself walking through them this weekend, and sell access as a mini-course.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-18T12:07:11Z"
+}

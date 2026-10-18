@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-18",
+  "owner": "MadsLorentzen",
+  "name": "ai-job-search",
+  "full_name": "MadsLorentzen/ai-job-search",
+  "url": "https://github.com/MadsLorentzen/ai-job-search",
+  "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+  "language": "Python",
+  "stars_total": 51412,
+  "stars_today": 2213,
+  "one_liner": "A robot assistant that reads job postings for you, rewrites your resume and cover letter to match each one, and preps you for the interview.",
+  "buyer": "A career coach or outplacement firm that wants to offer clients an automated, personalized job-application service instead of billing by the hour for manual resume tweaks.",
+  "business_use_cases": [
+    "A career coaching service runs this for clients, generating a freshly tailored resume and cover letter for every job they apply to, cutting hours of manual editing per application.",
+    "A university career center lets students self-serve tailored applications instead of booking scarce advisor appointments.",
+    "A recruiting or staffing agency uses it internally to quickly repackage one candidate's resume differently for each client role they're pitching."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a 'done-for-you' job application concierge service built on this, charging per batch of tailored applications produced.", "revenue_model": "usage" },
+    { "idea": "White-label it as a SaaS career coaches can resell to their own clients under a monthly seat license.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Fork it, plug in your own resume and profile, and run it against 20 real job postings this weekend — then offer the time saved as a paid service to friends who are job-hunting.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-18T12:07:11Z"
+}

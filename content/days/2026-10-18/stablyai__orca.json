@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-18",
+  "owner": "stablyai",
+  "name": "orca",
+  "full_name": "stablyai/orca",
+  "url": "https://github.com/stablyai/orca",
+  "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+  "language": "TypeScript",
+  "stars_total": 95947,
+  "stars_today": 1146,
+  "one_liner": "A control panel that lets you manage a whole fleet of different AI coding assistants from one place, on your phone, desktop, or a remote server.",
+  "buyer": "An engineering manager who wants visibility and control over several AI coding sessions running in parallel across their team.",
+  "business_use_cases": [
+    "An engineering manager monitors and steers multiple AI agents working on different tickets across a sprint, from their phone during a commute.",
+    "A remote dev shop offers 'AI agent fleet management' as a billed service, running client work on managed agent fleets they oversee.",
+    "A non-technical founder kicks off and babysits coding tasks on their phone while away from a laptop, letting the agents run on remote compute."
+  ],
+  "money_ideas": [
+    { "idea": "Charge a monthly fee for the hosted remote-runtime tier that lets agent fleets keep running without the user's own machine staying online.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Set up a fleet of 3 coding agents on a real project this weekend and run the whole thing from your phone for a day to see if mobile-first agent management actually fits your workflow.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-18T12:07:11Z"
+}

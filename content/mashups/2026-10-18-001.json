@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-18-001",
+  "date": "2026-10-18",
+  "repo_a": "MadsLorentzen/ai-job-search",
+  "repo_b": "debpalash/VoiceStudio",
+  "title": "Global Job Pitch Studio",
+  "pitch": "ai-job-search already reads a posting and rewrites a candidate's resume and cover letter to match it. Pipe that tailored text into VoiceStudio's voice cloning and 646-language dubbing, and the system can also generate a short personalized video pitch for every application, narrated in the employer's own language using the candidate's cloned voice, without the candidate ever recording a new take. A career coach or international job-placement agency could sell this as a premium add-on for clients targeting overseas or multinational roles, where a localized video pitch stands out far more than one more PDF resume in the pile.",
+  "why_now": "AI-job-search is already tailoring applications per posting today, remote and cross-border hiring keeps growing, and VoiceStudio's dubbing makes a localized video pitch cheap enough to generate per application instead of per marketing campaign."
+}

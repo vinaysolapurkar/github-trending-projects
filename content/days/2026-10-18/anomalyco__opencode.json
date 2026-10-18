@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-18",
+  "owner": "anomalyco",
+  "name": "opencode",
+  "full_name": "anomalyco/opencode",
+  "url": "https://github.com/anomalyco/opencode",
+  "description": "The open source coding agent.",
+  "language": "TypeScript",
+  "stars_total": 215931,
+  "stars_today": 1417,
+  "one_liner": "A free, open-source AI assistant that writes and edits code for you, similar to Cursor or GitHub Copilot but one you run and control yourself.",
+  "buyer": "An IT department or dev-tools startup that wants an AI coding assistant without paying per-seat licensing to a closed vendor, or that needs the code to never leave their own servers.",
+  "business_use_cases": [
+    "A dev-tools company forks it to build a branded, hosted coding-agent product for a specific niche, such as game development or embedded systems.",
+    "An enterprise with strict data-residency rules self-hosts it so proprietary source code never touches a third-party vendor's servers.",
+    "A coding bootcamp bundles it into its curriculum as a free AI pair-programmer so students don't need a paid Copilot seat."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted, managed version with team features like SSO and usage dashboards as a paid add-on on top of the free open-source core.", "revenue_model": "subscription" },
+    { "idea": "Build and sell a vertical-specific fork tuned for one language or stack as a licensed product to enterprises in that niche.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Run it against your own repo this weekend, note exactly where it struggles, and build a paid plugin or config pack that fixes that specific gap for one framework.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-18T12:07:11Z"
+}

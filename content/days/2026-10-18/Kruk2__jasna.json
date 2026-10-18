@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-18",
+  "owner": "Kruk2",
+  "name": "jasna",
+  "full_name": "Kruk2/jasna",
+  "url": "https://github.com/Kruk2/jasna",
+  "description": "Video restoration tool",
+  "language": "Python",
+  "stars_total": 2198,
+  "stars_today": 115,
+  "one_liner": "A tool that automatically finds blurred or pixelated patches in a video and fills them back in with GPU-generated detail, leaving the rest of the footage untouched.",
+  "buyer": "Hard to name a legitimate business buyer here: the real user base is individual hobbyists paying small one-off 'supporter' fees for better models, drawn largely from the community this tool is purpose-built to serve — removing mosaic censorship from adult video.",
+  "business_use_cases": [
+    "An individual hobbyist pays 15 to 25 dollars for the supporter models to get sharper restoration on personal video files.",
+    "A restoration enthusiast experiments with it on old damaged or low-resolution archival footage, though the project's own training and audience are built around mosaic censorship specifically, not general archival repair.",
+    "Any commercial use beyond the creator's own one-off license sales is thin, since platforms and payment processors heavily restrict monetizing this category of content, leaving no defensible path to build a real business on top of it."
+  ],
+  "money_ideas": [
+    { "idea": "The creator's own model: one-time supporter license fees for better restoration models, sold directly to individual users.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Don't build a business on this one. It's a technically solid hobby project for a legally and ethically gray niche with real consent and platform-policy risk, not a foundation to start a company on.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-18T12:07:11Z"
+}
