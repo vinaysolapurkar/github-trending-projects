@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-19",
+  "owner": "MadsLorentzen",
+  "name": "ai-job-search",
+  "full_name": "MadsLorentzen/ai-job-search",
+  "url": "https://github.com/MadsLorentzen/ai-job-search",
+  "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+  "language": "Python",
+  "stars_total": 55292,
+  "stars_today": 3860,
+  "one_liner": "A toolkit that uses an AI coding assistant to scan job listings, score how well you fit each one, and automatically write a tailored resume and cover letter for every application.",
+  "buyer": "A career coach or outplacement consultant who handles dozens of job-seeking clients at once and wants to cut the hours spent on tailored applications per client.",
+  "business_use_cases": [
+    "A career coaching business sets this up once and runs it for every client's job search, charging for a 'AI-accelerated job search' package instead of billing by the hour for resume edits.",
+    "A university career center offers it to graduating students as a guided workshop, turning a one-off resume review into a repeatable weekly process.",
+    "A staffing agency uses the fit-scoring step internally to pre-screen which open roles are worth pushing to a given candidate before a recruiter spends time on it."
+  ],
+  "money_ideas": [
+    { "idea": "Wrap it into a done-for-you 'AI job search sprint' service for individual job seekers, charging per application batch.", "revenue_model": "one-off" },
+    { "idea": "License a hosted, no-setup version to career coaches and bootcamps as a white-labeled add-on to their existing programs.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Package it as a weekend 'resume tailoring sprint' service: take five friends' real job searches, run the pipeline for each, and sell the finished tailored packets for a flat fee.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-19T12:10:00Z"
+}

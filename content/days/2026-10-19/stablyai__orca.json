@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-19",
+  "owner": "stablyai",
+  "name": "orca",
+  "full_name": "stablyai/orca",
+  "url": "https://github.com/stablyai/orca",
+  "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+  "language": "TypeScript",
+  "stars_total": 97512,
+  "stars_today": 1591,
+  "one_liner": "A desktop and mobile app that lets you run several different AI coding assistants side by side on the same project, each working in its own isolated copy, and check on them from your phone.",
+  "buyer": "A freelance developer or small dev shop juggling multiple client projects who wants to run several AI coding tasks in parallel and review the results from anywhere.",
+  "business_use_cases": [
+    "A freelance developer runs five client fixes in parallel overnight in separate worktrees, reviewing and merging the best results from their phone in the morning.",
+    "A small dev agency standardizes every contractor on this app so clients can see work happening across GitHub and Linear without extra status meetings.",
+    "A solo indie hacker uses the parallel-worktree feature to try several AI-generated approaches to the same feature and pick the winner before committing."
+  ],
+  "money_ideas": [
+    { "idea": "It is already positioned as a paid desktop product; a studio could build and sell add-on templates or workflow presets for it.", "revenue_model": "one-off" },
+    { "idea": "Offer managed remote-runtime hosting (SSH worktrees on beefy cloud machines) as a convenience tier for people without their own servers.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Set it up to run three AI agents in parallel on your next side project this weekend, pick the best diff each time, and write up the workflow as a paid mini-course for other devs.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-19T12:10:00Z"
+}

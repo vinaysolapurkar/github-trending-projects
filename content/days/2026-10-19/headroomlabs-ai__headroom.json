@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-19",
+  "owner": "headroomlabs-ai",
+  "name": "headroom",
+  "full_name": "headroomlabs-ai/headroom",
+  "url": "https://github.com/headroomlabs-ai/headroom",
+  "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+  "language": "Python",
+  "stars_total": 75987,
+  "stars_today": 317,
+  "one_liner": "A filter that shrinks the huge logs, files, and data dumps an AI agent reads before it reaches the AI, cutting what you pay per request without changing the answers you get.",
+  "buyer": "An operations lead at a company running AI agents at scale (support bots, coding agents, internal tools) who is watching their monthly AI API bill climb.",
+  "business_use_cases": [
+    "A SaaS company running an AI support agent drops it in front of their existing chatbot to cut their monthly model API bill with no code changes.",
+    "An AI coding tool vendor bundles it to let customers run longer agent sessions on the same budget, as a selling point against competitors.",
+    "A data pipeline team feeds large log files and API responses through it before any LLM step, so an existing RAG system handles bigger documents for the same cost."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted enterprise tier with a team dashboard, which the project already teases as 'Headroom for Teams'.", "revenue_model": "subscription" },
+    { "idea": "Sell integration consulting to companies wiring it into an existing high-volume AI agent pipeline.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Drop the proxy in front of one expensive internal AI workflow this weekend, measure the token savings, and pitch the exact dollar number to your manager or a client as a quick cost-cutting win.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-19T12:10:00Z"
+}

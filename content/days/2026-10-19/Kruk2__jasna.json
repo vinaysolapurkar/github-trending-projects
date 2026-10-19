@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-19",
+  "owner": "Kruk2",
+  "name": "jasna",
+  "full_name": "Kruk2/jasna",
+  "url": "https://github.com/Kruk2/jasna",
+  "description": "Video restoration tool",
+  "language": "Python",
+  "stars_total": 2709,
+  "stars_today": 502,
+  "one_liner": "A free desktop app that finds and digitally un-blurs mosaic-censored patches in videos and images, mainly used on Japanese adult videos, running entirely on your own gaming GPU.",
+  "buyer": "An individual hobbyist with a gaming PC; this is a consumer novelty app, not something a legitimate business builds on.",
+  "business_use_cases": [
+    "No credible mainstream business use case: its core function is reversing censorship on adult content, which most payment processors, ad networks, and app stores won't support.",
+    "A video restoration studio could in theory reuse its general mosaic-removal technique on non-adult archival footage with similar artifacts, but that is a stretch beyond its stated purpose.",
+    "Its paid 'supporter model' tiers show there is some willingness to pay among hobbyists, but it is donation-style support for a hobby project, not a scalable business."
+  ],
+  "money_ideas": [
+    { "idea": "The project itself already monetizes via donation-gated supporter models for better restoration quality.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Not recommended as a weekend business project: the core use case sits in a legal and ethical gray area tied to adult content, and most normal business infrastructure (payments, hosting, app stores) will reject it.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-19T12:10:00Z"
+}

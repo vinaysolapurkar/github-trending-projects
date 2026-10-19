@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-19",
+  "owner": "anthropics",
+  "name": "claude-code",
+  "full_name": "anthropics/claude-code",
+  "url": "https://github.com/anthropics/claude-code",
+  "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+  "language": "TypeScript",
+  "stars_total": 152368,
+  "stars_today": 167,
+  "one_liner": "An AI assistant that lives in your terminal, reads your whole codebase, and can write code, run commands, and manage git for you when you describe what you want in plain English.",
+  "buyer": "Already Anthropic's own commercial product sold directly to developers and companies; the opportunity for an outside builder is in add-ons, not the tool itself.",
+  "business_use_cases": [
+    "A developer builds and sells a packaged plugin or skill (as this repo's plugin system supports) that automates a specific workflow, like a compliance checklist for a regulated industry.",
+    "A consultancy specializes in training engineering teams to adopt it effectively and set up repo-specific rules, selling that as an onboarding service.",
+    "An agency builds custom hooks and automations on top of it for clients who want their own internal tools wired into their coding workflow."
+  ],
+  "money_ideas": [
+    { "idea": "Build and sell niche plugins, skills, or hook packages for specific industries or workflows on top of the official plugin system.", "revenue_model": "one-off" },
+    { "idea": "Offer paid corporate training and setup consulting for teams adopting it at scale.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build one polished plugin this weekend for a workflow you personally find tedious, and list it so other developers using the tool can install it directly.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-19T12:10:00Z"
+}

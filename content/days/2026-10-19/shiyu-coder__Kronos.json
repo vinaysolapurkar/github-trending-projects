@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-19",
+  "owner": "shiyu-coder",
+  "name": "Kronos",
+  "full_name": "shiyu-coder/Kronos",
+  "url": "https://github.com/shiyu-coder/Kronos",
+  "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+  "language": "Python",
+  "stars_total": 41321,
+  "stars_today": 355,
+  "one_liner": "A free, pre-trained AI model that reads a stock or crypto chart's price history and forecasts what it might do next, trained on data from over 45 exchanges worldwide.",
+  "buyer": "A quant trading hobbyist or small fintech team who wants a ready-made price-forecasting model instead of training one from scratch.",
+  "business_use_cases": [
+    "A small prop trading shop uses it as a baseline signal generator, layering their own risk management and execution logic on top.",
+    "A retail trading app adds an 'AI forecast' feature to its charts using this model, as a premium differentiator over free charting tools.",
+    "An independent trader builds and sells a subscription newsletter or Discord bot that posts the model's daily forecasts on popular tickers."
+  ],
+  "money_ideas": [
+    { "idea": "Build a subscription signal service or bot that publishes the model's forecasts for a curated list of assets.", "revenue_model": "subscription" },
+    { "idea": "Offer custom fine-tuning and integration services for trading firms who want it adapted to their specific instruments.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Wire the live demo's forecasting logic into a simple Discord bot this weekend that posts a daily forecast for a handful of popular crypto pairs, and charge for access to the premium ticker list.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-19T12:10:00Z"
+}

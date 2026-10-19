@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-19",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing today edits or assembles short social video clips from existing footage; ComfyUI and Jasna generate or restore images/video but don't cut clips together." },
+    { "problem_id": "p002", "repo": "Comfy-Org/ComfyUI", "why": "Its node-based diffusion pipelines can generate on-brand product photography variations without a photographer, once a workflow is set up.", "confidence": "medium" },
+    { "problem_id": "p003", "repo": "akitaonrails/ai-memory", "why": "It gives AI coding agents long-term, cross-session, cross-tool memory so project context survives even after you quit and reopen the agent.", "confidence": "high" },
+    { "problem_id": "p004", "repo": null, "why": "Nothing today enforces lean, spec-first coding discipline; opencode and ruflo generate and orchestrate code but don't police scope or complexity." },
+    { "problem_id": "p005", "repo": null, "why": "Nothing today organizes or indexes a backlog of research PDFs." },
+    { "problem_id": "p006", "repo": "Comfy-Org/ComfyUI", "why": "It can generate illustrative stills for a news explainer when no real footage exists, though it won't assemble them into a finished video on its own.", "confidence": "low" },
+    { "problem_id": "p007", "repo": null, "why": "Nothing today provides bioinformatics-specific tooling for a small lab." },
+    { "problem_id": "p008", "repo": null, "why": "Nothing today is a private, law-firm-grade chat interface; today's agent tools (opencode, ruflo, orca) are coding assistants, not a client-safe chat product." },
+    { "problem_id": "p009", "repo": null, "why": "Nothing today narrates written text into video; that gap was filled by a voice-cloning tool on an earlier day, not by anything in today's scrape." },
+    { "problem_id": "p010", "repo": "akitaonrails/ai-memory", "why": "Its memory lives in plain, git-backed markdown files you can grep, edit by hand, or open in a notes app, a genuinely private and self-owned store, though it's built for AI-agent memory rather than general note-taking.", "confidence": "medium" },
+    { "problem_id": "p011", "repo": null, "why": "Nothing today specifically maps or explains an unfamiliar codebase's structure to a new hire; today's coding agents (opencode, ruflo) write and edit code but aren't built for codebase comprehension." },
+    { "problem_id": "p012", "repo": "shiyu-coder/Kronos", "why": "It's a free, pre-trained foundation model for financial forecasting, giving an aspiring founder a concrete starting point (a trading-signal product) rather than training a model from scratch.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "Nothing today addresses restaurant inventory management." }
+  ]
+}

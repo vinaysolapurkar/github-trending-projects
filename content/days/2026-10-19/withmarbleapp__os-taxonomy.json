@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-19",
+  "owner": "withmarbleapp",
+  "name": "os-taxonomy",
+  "full_name": "withmarbleapp/os-taxonomy",
+  "url": "https://github.com/withmarbleapp/os-taxonomy",
+  "description": "",
+  "language": "JavaScript",
+  "stars_total": 5856,
+  "stars_today": 427,
+  "one_liner": "A free, ready-made map of everything a child learns from preschool through elementary school, broken into thousands of small skills and showing exactly which skills must come before which others.",
+  "buyer": "A founder building a personalized tutoring app or homeschool curriculum product who would otherwise spend months manually mapping out what to teach in what order.",
+  "business_use_cases": [
+    "An edtech startup uses the prerequisite graph to automatically figure out what a struggling student is actually missing, instead of hand-coding a curriculum sequence.",
+    "A homeschool curriculum company builds a personalized weekly lesson planner on top of it, tailored to each child's age and gaps.",
+    "A tutoring marketplace uses the standards alignment to automatically match a student's school curriculum to the right practice material."
+  ],
+  "money_ideas": [
+    { "idea": "Build a paid adaptive-practice app on top of the taxonomy that recommends the next skill a child should learn.", "revenue_model": "subscription" },
+    { "idea": "Offer a curriculum-mapping service to small tutoring centers or homeschool co-ops using this dataset as the backbone.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build a one-page 'what should my kid learn next' tool this weekend that takes a child's age and one weak subject, and spits out the next five micro-topics to practice.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-19T12:10:00Z"
+}

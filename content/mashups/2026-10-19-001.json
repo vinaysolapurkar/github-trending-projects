@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-19-001",
+  "date": "2026-10-19",
+  "repo_a": "withmarbleapp/os-taxonomy",
+  "repo_b": "debpalash/VoiceStudio",
+  "title": "The Family-Voice Tutor",
+  "pitch": "os-taxonomy already knows exactly which of 1,590 micro-skills a child is missing and why, down to a plain-language description and an assessment prompt for each one. Feed the next missing skill into a short script, then run it through VoiceStudio's voice cloning and 646-language dubbing so the lesson is narrated in the family's own language, in a voice the child actually trusts: a parent's, a grandparent's, or a favorite teacher's. A homeschool platform or immigrant-family tutoring service could sell this as a daily personalized 'lesson video' feature, solving two problems at once: knowing what to teach next, and making it land in a language and voice the child will actually listen to.",
+  "why_now": "Both pieces shipped today as free, ready-to-use components: a structured, prerequisite-aware curriculum graph and a voice-cloning pipeline that already does mass-market dubbing. Multilingual and homeschool families are a fast-growing, underserved edtech segment that generic one-size-fits-all tutoring apps don't target well."
+}

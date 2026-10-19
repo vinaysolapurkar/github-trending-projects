@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-19",
+  "owner": "Comfy-Org",
+  "name": "ComfyUI",
+  "full_name": "Comfy-Org/ComfyUI",
+  "url": "https://github.com/Comfy-Org/ComfyUI",
+  "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+  "language": "Python",
+  "stars_total": 139156,
+  "stars_today": 1011,
+  "one_liner": "A visual, drag-and-drop workbench for building custom AI image, video, and audio generation pipelines on your own computer, without writing code.",
+  "buyer": "A creative agency or indie game studio that wants an in-house AI art pipeline instead of paying per-image fees to a closed tool like Midjourney.",
+  "business_use_cases": [
+    "A game studio builds a repeatable pipeline to mass-produce concept art and texture variations in-house instead of outsourcing every iteration to artists.",
+    "A marketing agency builds one reusable node pipeline for a client's product photography style and reuses it across every new product listing.",
+    "A print-on-demand shop wires up a pipeline that automatically generates on-brand artwork variations for each new product it adds to the store."
+  ],
+  "money_ideas": [
+    { "idea": "Build and sell custom ComfyUI workflow templates for specific niches, such as product photography or game concept art, on creator marketplaces.", "revenue_model": "one-off" },
+    { "idea": "Offer a managed, hosted service running pre-built workflows so non-technical creatives don't need to set up their own GPUs.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Build one repeatable workflow for a style you use often, like product shots, this weekend, and sell access to run it as a service for a niche of small sellers.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-19T12:10:00Z"
+}

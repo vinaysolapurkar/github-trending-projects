@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-19",
+  "owner": "akitaonrails",
+  "name": "ai-memory",
+  "full_name": "akitaonrails/ai-memory",
+  "url": "https://github.com/akitaonrails/ai-memory",
+  "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+  "language": "Rust",
+  "stars_total": 10850,
+  "stars_today": 666,
+  "one_liner": "A shared notebook for AI coding assistants, so when you switch tools or come back the next day, the AI remembers what you were building and what already failed, instead of starting from zero.",
+  "buyer": "A tech lead running a small engineering team that uses several different AI coding tools and is tired of re-explaining the same project context to each one every morning.",
+  "business_use_cases": [
+    "A software consultancy runs one shared memory server across all client projects so any consultant picking up a ticket inherits the full history of what was tried on that codebase.",
+    "A solo founder juggling multiple AI coding tools (one for quick edits, one for big refactors) keeps both in sync on the same project without manually re-briefing either one.",
+    "An engineering onboarding program points new hires' AI assistants at the team's memory server so a new hire's agent already knows the codebase's quirks on day one."
+  ],
+  "money_ideas": [
+    { "idea": "Run a hosted, managed memory server for teams who don't want to self-host, billed per seat.", "revenue_model": "subscription" },
+    { "idea": "Offer paid setup and integration consulting for companies wiring it into their existing agent fleet.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Stand up one shared memory server for your own small team this weekend and point every teammate's coding agent at it, then sell the same setup to a few other small dev shops.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-19T12:10:00Z"
+}

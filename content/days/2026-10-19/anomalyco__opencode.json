@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-19",
+  "owner": "anomalyco",
+  "name": "opencode",
+  "full_name": "anomalyco/opencode",
+  "url": "https://github.com/anomalyco/opencode",
+  "description": "The open source coding agent.",
+  "language": "TypeScript",
+  "stars_total": 217196,
+  "stars_today": 1310,
+  "one_liner": "A free, open-source version of an AI programming assistant that writes and edits code for you from the command line, instead of paying for a closed commercial one.",
+  "buyer": "An engineering manager at a cost-conscious startup who wants the team to use an AI coding agent without being locked into one vendor's pricing or terms.",
+  "business_use_cases": [
+    "A dev agency standardizes every client project on this instead of a paid tool, cutting software licensing costs across dozens of contractors.",
+    "A platform team forks it to bake in internal coding standards and security rules, then rolls it out company-wide as the approved AI coding tool.",
+    "A consultancy builds and sells custom agent configurations and prompt packs on top of it for specific tech stacks (e.g. a Rails-focused setup)."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid setup, customization, and training services helping companies adopt and configure it internally.", "revenue_model": "one-off" },
+    { "idea": "Build and sell premium plugin packs (custom agents, workflows, integrations) on top of the free core tool.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build and sell one polished, opinionated starter config (agents, rules, integrations) for a specific popular framework, and charge for the setup package.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-19T12:10:00Z"
+}

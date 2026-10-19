@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-19",
+  "owner": "HKUDS",
+  "name": "CLI-Anything",
+  "full_name": "HKUDS/CLI-Anything",
+  "url": "https://github.com/HKUDS/CLI-Anything",
+  "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+  "language": "Python",
+  "stars_total": 54931,
+  "stars_today": 607,
+  "one_liner": "A toolkit and marketplace of command-line wrappers that let AI agents directly operate ordinary desktop software (like Blender, Photoshop-alikes, or note apps) the same way a human would click through menus.",
+  "buyer": "A software vendor or power-user community that wants their existing desktop app to be usable by AI agents without building an entire API from scratch.",
+  "business_use_cases": [
+    "A niche software vendor (e.g. a CAD or audio tool maker) commissions or builds a CLI wrapper so customers can automate it with AI agents, as a competitive feature.",
+    "An agency specializing in AI workflow automation builds and sells custom CLI wrappers for clients' in-house legacy tools that have no API.",
+    "A community maintainer builds a wrapper for a popular niche app, lists it on the CLI-Hub marketplace, and takes paid requests for custom features."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid, contracted development of a CLI wrapper for a specific piece of software a client wants AI agents to control.", "revenue_model": "one-off" },
+    { "idea": "Run a hosted, maintained version of a popular wrapper (with updates as the underlying app changes) and charge a small usage fee.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Pick one desktop app you use constantly that has no API, build a CLI wrapper for its most annoying repetitive task this weekend, and publish it to the CLI-Hub.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-19T12:10:00Z"
+}
