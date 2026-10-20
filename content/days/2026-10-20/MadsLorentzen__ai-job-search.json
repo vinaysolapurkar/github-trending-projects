@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-20",
+  "owner": "MadsLorentzen",
+  "name": "ai-job-search",
+  "full_name": "MadsLorentzen/ai-job-search",
+  "url": "https://github.com/MadsLorentzen/ai-job-search",
+  "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+  "language": "Python",
+  "stars_total": 59076,
+  "stars_today": 3890,
+  "one_liner": "A toolkit that reads job postings, rewrites your resume and cover letter to match each one, and preps you for the interview — running entirely on your own laptop.",
+  "buyer": "An independent career coach who wants to offer 'AI-tailored application' packages to job-seeking clients without building any software themselves.",
+  "business_use_cases": [
+    "A career coach runs it for clients during paid 1:1 sessions, turning a 2-hour resume-rewrite into a 20-minute guided workflow.",
+    "An outplacement firm bundles it into severance packages for laid-off employees as a 'done with you' job search accelerator.",
+    "A bootcamp or university career center offers it as a lab exercise so grads leave with 10 tailored applications instead of one generic resume."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell 1:1 'set this up for you' sessions to non-technical job seekers who can't install Python/LaTeX/Claude Code themselves.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a monthly 'application concierge' subscription where you run it weekly against new postings on a client's behalf.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, set it up for three job-seeking friends, run their applications through it, and charge a flat fee per finished application packet — you're the install layer most non-coders can't do themselves.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-20T12:12:00Z"
+}

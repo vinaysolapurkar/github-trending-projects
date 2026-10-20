@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-20",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing today edits or assembles existing short-form video clips; ComfyUI generates new images/video but doesn't cut together footage you already shot." },
+    { "problem_id": "p002", "repo": "Comfy-Org/ComfyUI", "why": "Its node-based diffusion pipelines can generate on-brand product photography variations without booking a photographer, once a workflow is set up.", "confidence": "medium" },
+    { "problem_id": "p003", "repo": "akitaonrails/ai-memory", "why": "It gives AI coding agents long-term, cross-session memory so project context survives between sessions; still the best fit from a recent day since nothing new today addresses this.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "DietrichGebert/ponytail", "why": "It's built specifically to make an AI coding agent write the smallest correct amount of code and reuse what already exists, directly targeting bloated, expensive-to-maintain AI output.", "confidence": "high" },
+    { "problem_id": "p005", "repo": "xerj-org/xerj", "why": "Its local, no-cloud-upload indexing turns a folder of papers and PDFs into something instantly searchable; still the best fit from a recent day since nothing new today organizes a research backlog.", "confidence": "medium" },
+    { "problem_id": "p006", "repo": "Comfy-Org/ComfyUI", "why": "It can generate illustrative stills or clips for a news explainer when no real footage exists, though it won't assemble a finished video end to end on its own.", "confidence": "low" },
+    { "problem_id": "p007", "repo": "K-Dense-AI/scientific-agent-skills", "why": "Its 177 validated bioinformatics and cheminformatics skills give a small lab correct analysis workflows without a dedicated bioinformatics hire; still the best fit from a recent day.", "confidence": "medium" },
+    { "problem_id": "p008", "repo": "vllm-project/vllm", "why": "Self-hosting an open-weight model behind vLLM keeps every query on the firm's own servers, which is the actual requirement behind 'won't leak client data' — though it's infrastructure, not an off-the-shelf chat app, so it still needs a UI built on top.", "confidence": "medium" },
+    { "problem_id": "p009", "repo": "debpalash/VoiceStudio", "why": "Its voice cloning and dubbing pipeline can narrate a written blog post into a video voiceover; still the best fit from a recent day since nothing new today does text-to-narration.", "confidence": "high" },
+    { "problem_id": "p010", "repo": "akitaonrails/ai-memory", "why": "Its memory lives in plain, git-backed markdown files you can read, edit, or back up yourself — a genuinely self-owned store, though built for AI-agent memory rather than general note-taking.", "confidence": "medium" },
+    { "problem_id": "p011", "repo": "Graphify-Labs/graphify", "why": "It's built exactly for this: turning an unfamiliar codebase's code, docs, schemas, and configs into a queryable, explained map a new hire can search instead of reading blind.", "confidence": "high" },
+    { "problem_id": "p012", "repo": "shiyu-coder/Kronos", "why": "It's a free, pre-trained foundation model for financial forecasting, giving an aspiring founder a concrete starting point (a trading-signal product) rather than training a model from scratch.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "Nothing today or recently addresses restaurant inventory management." }
+  ]
+}

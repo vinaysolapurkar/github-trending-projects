@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-20",
+  "owner": "ruvnet",
+  "name": "ruflo",
+  "full_name": "ruvnet/ruflo",
+  "url": "https://github.com/ruvnet/ruflo",
+  "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+  "language": "TypeScript",
+  "stars_total": 77513,
+  "stars_today": 683,
+  "one_liner": "A coordination layer that lets many AI coding agents work together on the same project like a small team, sharing memory and routing tasks between them.",
+  "buyer": "A technical founder running a lean team who wants several AI agents handling different parts of a project in parallel instead of hiring more engineers.",
+  "business_use_cases": [
+    "A small dev shop splits a client project into parallel agent-run workstreams, advertising faster turnaround on fixed-bid contracts.",
+    "An internal tools team stands up a shared agent swarm for repetitive maintenance work (dependency bumps, test fixes) across many repos.",
+    "A trainer builds a paid workshop teaching teams how to set up and supervise multi-agent coding workflows safely."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid consulting to set up and tune multi-agent swarms for specific client codebases.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell a premium hosted-coordination or support tier for teams running it at scale.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Pick one repetitive maintenance chore (dependency upgrades, lint fixes) and automate it end-to-end with a small agent swarm this weekend, then offer it as a cleanup service to other repo owners.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-20T12:12:00Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-20",
+  "owner": "msitarzewski",
+  "name": "agency-agents",
+  "full_name": "msitarzewski/agency-agents",
+  "url": "https://github.com/msitarzewski/agency-agents",
+  "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+  "language": "Shell",
+  "stars_total": 161981,
+  "stars_today": 590,
+  "one_liner": "A set of pre-built AI 'employees' with specific personas — a frontend specialist, a Reddit community manager, a reality-checker — that you assign tasks to like a tiny virtual agency.",
+  "buyer": "A solo marketer or small agency owner who can't afford a full team of specialists but needs specialist-level output across several disciplines.",
+  "business_use_cases": [
+    "A solo marketer runs client content (social copy, community replies, landing pages) through the relevant persona agents instead of hiring freelancers per task.",
+    "A small agency uses it to pitch more clients than its human headcount would normally allow, using the agents as a first-pass production layer.",
+    "A startup founder without a marketing team uses the 'community ninja' and 'whimsy injector' personas to keep up a consistent social presence solo."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a 'virtual marketing team' retainer to small businesses who can't afford a real one.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell one-off 'content sprint' packages (a month of social posts, landing page copy) produced through the agent set.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Pick one local business this weekend, run a month of their social content through the relevant persona agents, and sell it as a flat-fee 'content sprint' package.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-20T12:12:00Z"
+}

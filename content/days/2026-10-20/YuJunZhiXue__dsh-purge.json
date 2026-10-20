@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-20",
+  "owner": "YuJunZhiXue",
+  "name": "dsh-purge",
+  "full_name": "YuJunZhiXue/dsh-purge",
+  "url": "https://github.com/YuJunZhiXue/dsh-purge",
+  "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+  "language": "JavaScript",
+  "stars_total": 10443,
+  "stars_today": 1168,
+  "one_liner": "A tool whose stated purpose is bypassing the safety restrictions ('jailbreaking') built into AI chat models, with swappable prompts aimed at different models.",
+  "buyer": "Honestly: nobody you'd want as a customer. The realistic 'buyers' are people trying to get a chatbot to do something its maker deliberately blocked — not a durable business relationship.",
+  "business_use_cases": [
+    "None we'd recommend building a business on — using it to extract restricted behavior from a vendor's model is a terms-of-service violation, not a product foundation.",
+    "The only 'legitimate' adjacent use is red-team safety testing of your own models, and that already has established, less legally fraught tooling.",
+    "Reselling access to jailbreak prompts invites account bans from the model providers you depend on and reputational and legal exposure with no stable moat."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Not recommended: selling subscription access to jailbreak prompts is high legal/ToS risk with providers who can shut it off overnight.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Skip this one. If you're interested in AI safety testing as a business, build on established red-teaming frameworks instead — the durable version of this idea is selling audits to AI companies, not selling bypass prompts to their users.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-20T12:12:00Z"
+}

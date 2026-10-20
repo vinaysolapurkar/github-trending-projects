@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-20",
+  "owner": "sickn33",
+  "name": "agentic-awesome-skills",
+  "full_name": "sickn33/agentic-awesome-skills",
+  "url": "https://github.com/sickn33/agentic-awesome-skills",
+  "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+  "language": "Python",
+  "stars_total": 48005,
+  "stars_today": 58,
+  "one_liner": "A searchable local library and control panel of over 2,600 pre-written 'skill' playbooks that AI coding agents can pick from, so you don't have to write agent instructions from scratch.",
+  "buyer": "Mainly other developers building agent tooling — this is infrastructure for people already deep in the AI-coding-agent ecosystem, not a general business buyer.",
+  "business_use_cases": [
+    "An AI tooling team uses it to discover and vet reusable skills instead of reinventing agent instructions for every new project.",
+    "A dev tools vendor integrates the catalog into their own product as a built-in skill marketplace.",
+    "A consultant curates and recommends a vetted subset of the catalog for clients adopting agent-based workflows, as a paid advisory add-on."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid curation/advisory: pick and configure the right 20 skills out of 2,600+ for a specific client's stack.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This is dev infrastructure, not a product most businesses would pay for directly — if you want to use it, the honest weekend project is curating a tiny vetted subset for your own stack, not trying to sell the catalog itself.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-20T12:12:00Z"
+}

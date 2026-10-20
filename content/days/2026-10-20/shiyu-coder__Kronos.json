@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-20",
+  "owner": "shiyu-coder",
+  "name": "Kronos",
+  "full_name": "shiyu-coder/Kronos",
+  "url": "https://github.com/shiyu-coder/Kronos",
+  "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+  "language": "Python",
+  "stars_total": 42041,
+  "stars_today": 719,
+  "one_liner": "A pre-trained AI model built specifically to understand and forecast patterns in financial market data, free to download and use as a starting point.",
+  "buyer": "An aspiring fintech founder or quant hobbyist who wants to build a trading-signal or market-analysis product without training a model from scratch.",
+  "business_use_cases": [
+    "A retail-trading tool builder fine-tunes it into a paid signal/alert service for a specific market niche (e.g. small-cap momentum).",
+    "A prop trading shop uses it as a baseline anomaly-detection layer to flag unusual price action for human review.",
+    "A fintech content creator builds a 'what the model sees' newsletter or dashboard product around its forecasts."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a subscription trading-signal or market-anomaly alert service built on top of it.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer a one-off custom fine-tuning service for firms wanting it adapted to their specific instrument set.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Fine-tune it on one narrow, boring market (a single commodity or small-cap sector) this weekend and ship a daily email digest of its signal — narrow and boring beats 'general market predictor' for a first paying niche. Note: any trading-signal product has real regulatory and liability considerations — get advice before taking money for it.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-20T12:12:00Z"
+}

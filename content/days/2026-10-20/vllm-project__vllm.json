@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-20",
+  "owner": "vllm-project",
+  "name": "vllm",
+  "full_name": "vllm-project/vllm",
+  "url": "https://github.com/vllm-project/vllm",
+  "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+  "language": "Python",
+  "stars_total": 94237,
+  "stars_today": 98,
+  "one_liner": "Software that runs large AI language models efficiently on your own servers, instead of paying a cloud AI provider per request.",
+  "buyer": "A law firm or healthcare provider's IT lead who needs an AI chat assistant but is contractually or legally barred from sending client data to an external AI vendor.",
+  "business_use_cases": [
+    "A law firm self-hosts an open-weight model behind it to get an internal AI chat assistant where client data never leaves their own servers.",
+    "A healthcare company builds a HIPAA-conscious internal AI tool on top of it instead of relying on a third-party API with uncertain data handling.",
+    "A GPU-cloud reseller offers 'private LLM inference' as a service built on it, for customers who need self-hosted AI but don't want to run the infrastructure themselves."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a 'private, self-hosted AI chat' setup and support package for regulated-industry clients (law, health, finance).",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Run a managed private-inference hosting service and charge per-GPU-hour or per-seat.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Stand up a self-hosted chat assistant on one open-weight model this weekend, wire it into a document search tool, and pitch it to one local law or accounting firm as 'ChatGPT that never leaves your building.'",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-20T12:12:00Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-20",
+  "owner": "DietrichGebert",
+  "name": "ponytail",
+  "full_name": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+  "language": "JavaScript",
+  "stars_total": 168697,
+  "stars_today": 1007,
+  "one_liner": "A skill that makes your AI coding assistant write the smallest correct amount of code instead of the biggest impressive-looking amount — reusing what's already in your codebase before adding anything new.",
+  "buyer": "An engineering lead at a startup who's watched their AI coding bill and codebase size balloon and wants both back under control.",
+  "business_use_cases": [
+    "A startup CTO installs it fleet-wide to cut AI coding token spend and reduce the backlog of 'AI-generated cruft' their senior devs have to clean up.",
+    "A fractional CTO consultancy offers a paid 'AI coding hygiene audit' that installs and tunes this skill across a client's repos.",
+    "An engineering training company builds a workshop around the before/after examples to teach 'lean AI-assisted coding' as a billable course."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a one-time 'AI coding cost audit' that benchmarks a client's current token/line-of-code spend against a Ponytail-equipped baseline.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer ongoing fractional-CTO retainers that include maintaining this and similar coding-discipline skills across a client's agents.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This is a dev-productivity tool, not a product in itself — the honest weekend project is running its own benchmark against your team's current AI setup and pitching the savings number to your manager, not trying to sell the skill itself.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-20T12:12:00Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-20",
+  "owner": "headroomlabs-ai",
+  "name": "headroom",
+  "full_name": "headroomlabs-ai/headroom",
+  "url": "https://github.com/headroomlabs-ai/headroom",
+  "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+  "language": "Python",
+  "stars_total": 76517,
+  "stars_today": 555,
+  "one_liner": "A tool that shrinks the logs, files, and search results fed into an AI model before it sees them, cutting the token bill without changing the answers it gives.",
+  "buyer": "A startup running high-volume AI agent pipelines (coding agents, RAG search, customer support bots) watching their LLM API bill climb every month.",
+  "business_use_cases": [
+    "A startup with expensive multi-agent pipelines drops it in front of their existing LLM calls and immediately cuts their monthly API spend.",
+    "A RAG/search product wraps it around their retrieval layer to pass more context per dollar without hitting context-window limits.",
+    "A cost-optimization consultancy audits clients' AI pipelines and installs it as the first, highest-ROI fix before touching anything else."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a 'cut your LLM bill' audit that benchmarks a client's current spend against a Headroom-equipped setup, priced as a cut of the savings.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Build a hosted proxy version so non-technical teams get the savings without integrating a library themselves.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Benchmark one client's current agent logs/token spend this weekend, drop Headroom in front of it, and show them the before/after bill — then price your fee as a percentage of what you saved them.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-20T12:12:00Z"
+}

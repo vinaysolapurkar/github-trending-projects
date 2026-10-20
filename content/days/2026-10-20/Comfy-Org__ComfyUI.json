@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-20",
+  "owner": "Comfy-Org",
+  "name": "ComfyUI",
+  "full_name": "Comfy-Org/ComfyUI",
+  "url": "https://github.com/Comfy-Org/ComfyUI",
+  "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+  "language": "Python",
+  "stars_total": 140329,
+  "stars_today": 1201,
+  "one_liner": "A visual, node-based app for generating and editing images, video, 3D, and audio with AI models, running on your own computer instead of a paid cloud service.",
+  "buyer": "A small e-commerce seller who currently pays a photographer or stock-photo site for every new product listing.",
+  "business_use_cases": [
+    "An e-commerce store owner generates consistent, on-brand product photography variations (different backgrounds, angles, lifestyle shots) without booking a shoot.",
+    "A YouTuber or news explainer channel generates illustrative b-roll and thumbnail art for stories where no real footage exists.",
+    "A local print-on-demand or small design studio offers AI-generated custom art and mockups as a cheap add-on service to clients."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build pre-made ComfyUI workflows for a specific niche (product photography, book covers, thumbnail art) and sell them as templates.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Run a 'generate your product photos' service where clients upload one real photo and get back a full catalog shoot.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Offer a monthly managed-ComfyUI hosting plan for creators who don't want to manage GPUs themselves.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build one polished product-photography workflow this weekend (plain product shot in, five styled lifestyle variants out) and sell it as a $20 one-off service to five local Etsy or Shopify sellers.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-20T12:12:00Z"
+}

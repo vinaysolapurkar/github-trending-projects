@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-20",
+  "owner": "Graphify-Labs",
+  "name": "graphify",
+  "full_name": "Graphify-Labs/graphify",
+  "url": "https://github.com/Graphify-Labs/graphify",
+  "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+  "language": "Python",
+  "stars_total": 129530,
+  "stars_today": 751,
+  "one_liner": "A tool that reads an entire codebase — code, docs, database schemas, config files, PDFs — and turns it into a map you (or an AI) can search and ask questions about, with every connection explained.",
+  "buyer": "An engineering manager who just inherited a legacy codebase (via a new hire, acquisition, or departed team) and needs to understand it fast.",
+  "business_use_cases": [
+    "A new engineering hire gets a navigable architecture map on day one instead of spending weeks reading code to find how pieces connect.",
+    "A due-diligence consultant uses it to quickly map an acquisition target's codebase and flag architectural risk before a deal closes.",
+    "A legacy-modernization consultancy sells 'instant codebase map' as the first paid deliverable before quoting a bigger rewrite project."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a fixed-price 'codebase comprehension report' for companies onboarding new engineers or evaluating an acquisition.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Bundle it into ongoing legacy-system consulting retainers as the always-current reference map.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Run it against a messy open-source or client repo this weekend, turn the output into a one-page 'how this codebase actually works' doc, and sell that doc as a fixed-price onboarding deliverable.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-20T12:12:00Z"
+}

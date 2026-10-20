@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-20",
+  "owner": "cloudflare",
+  "name": "security-audit-skill",
+  "full_name": "cloudflare/security-audit-skill",
+  "url": "https://github.com/cloudflare/security-audit-skill",
+  "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+  "language": "JavaScript",
+  "stars_total": 33098,
+  "stars_today": 849,
+  "one_liner": "A step-by-step playbook that turns an AI coding agent into a security auditor, running a structured six-phase review and double-checking its own findings before reporting them.",
+  "buyer": "A solo or small-team security consultant who wants to take on more fixed-fee code audits per month without hiring more auditors.",
+  "business_use_cases": [
+    "A freelance pentester uses it to run the tedious recon and coverage-mapping phases automatically, then spends their billable hours only on the interesting findings.",
+    "A SaaS company runs it internally before every release as a cheap pre-release security gate, instead of paying for an external audit every time.",
+    "A bug bounty hunter points it at many public repos in parallel to surface candidate vulnerabilities faster than manual review."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer fixed-price 'AI-assisted security audit' packages to small startups who can't afford a traditional pentest firm.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Wrap it in a hosted dashboard that continuously re-audits a customer's repo on every push.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Run it against five open-source repos you don't maintain this weekend, write up the confirmed findings as a public portfolio, and use that portfolio to pitch your first paid audit client.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-20T12:12:00Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-20",
+  "owner": "anthropics",
+  "name": "knowledge-work-plugins",
+  "full_name": "anthropics/knowledge-work-plugins",
+  "url": "https://github.com/anthropics/knowledge-work-plugins",
+  "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+  "language": "Python",
+  "stars_total": 30614,
+  "stars_today": 262,
+  "one_liner": "A library of ready-made plugins that teach Claude how a specific job (legal, finance, ops, etc.) actually gets done — its tools, its workflows, its slash commands — instead of starting from a blank slate every time.",
+  "buyer": "An operations lead at a professional-services firm (consulting, accounting, legal) who wants every employee's Claude usage to follow the same firm-specific playbook.",
+  "business_use_cases": [
+    "A consulting firm customizes a plugin with its own templates and terminology so every consultant's AI output looks and works the same way.",
+    "An accounting firm standardizes month-end close workflows across staff so output quality doesn't depend on who ran the AI.",
+    "A Claude-focused consultancy sells 'plugin customization' as a packaged service to firms adopting Cowork for the first time."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer fixed-price plugin customization projects for professional-services firms rolling out Claude Cowork.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Run an ongoing retainer maintaining and updating a firm's custom plugin set as their processes change.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Pick one repetitive task at a local professional-services firm (client intake, weekly reporting) this weekend, customize the closest plugin to match their exact process, and sell the customization as a fixed-price deliverable.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-20T12:12:00Z"
+}

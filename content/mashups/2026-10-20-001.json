@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-20-001",
+  "date": "2026-10-20",
+  "repo_a": "Graphify-Labs/graphify",
+  "repo_b": "cloudflare/security-audit-skill",
+  "title": "The One-Pass Security Audit",
+  "pitch": "cloudflare's security-audit-skill spends its entire first phase on reconnaissance: mapping architecture, trust boundaries, and input surfaces before a single vulnerability hunter starts work. Graphify already does exactly that, deterministically, for any codebase in minutes: a queryable graph of every file, schema, config, and dependency with every edge explained. Feed Graphify's map straight into the audit skill's reconnaissance phase instead of having it rebuild the map from scratch on every run, and a solo security consultant can skip the most expensive, least billable hour of every engagement. Package the combo as a fixed-fee 'one-pass audit' for small SaaS companies that could never afford a traditional multi-week pentest.",
+  "why_now": "Both tools trended the same day for the same reason: companies want AI agents to understand a codebase correctly before acting on it, not approximately. Graphify solves the 'understand it' half with deterministic parsing instead of a vector store that can hallucinate structure; the audit skill solves the 'act on it correctly' half with independently verified findings. A solo consultant who wires them together can underbid a traditional audit firm on price while still shipping a verified, structured report."
+}

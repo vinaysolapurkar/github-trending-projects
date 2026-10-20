@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-20",
+  "owner": "anomalyco",
+  "name": "opencode",
+  "full_name": "anomalyco/opencode",
+  "url": "https://github.com/anomalyco/opencode",
+  "description": "The open source coding agent.",
+  "language": "TypeScript",
+  "stars_total": 218382,
+  "stars_today": 1256,
+  "one_liner": "A free, open-source AI coding assistant you can run yourself instead of relying on a closed, paid vendor's tool.",
+  "buyer": "An enterprise engineering org that wants an AI coding agent but can't or won't send proprietary code to a third-party vendor's cloud.",
+  "business_use_cases": [
+    "A regulated company (finance, healthcare) self-hosts it to get AI coding assistance without a vendor contract or data residency concerns.",
+    "A dev tools consultancy forks and customizes it for a vertical (e.g. embedded systems, a specific legacy stack) and sells the customized version.",
+    "An agency offers 'bring your own model' AI coding setup services for clients who want to control their own LLM costs and data."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid setup and self-hosting support for enterprises wanting it on their own infrastructure.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build and sell a managed, hosted version with team features for companies that don't want to run it themselves.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Package a 'self-hosted AI coding assistant in an afternoon' setup service for one regulated-industry client this weekend — the pitch is data control, not features.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-20T12:12:00Z"
+}

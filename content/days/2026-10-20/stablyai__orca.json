@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-20",
+  "owner": "stablyai",
+  "name": "orca",
+  "full_name": "stablyai/orca",
+  "url": "https://github.com/stablyai/orca",
+  "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+  "language": "TypeScript",
+  "stars_total": 99047,
+  "stars_today": 1559,
+  "one_liner": "A desktop and mobile app that lets you run several AI coding assistants side by side, each in its own isolated copy of your project, and check on them from your phone.",
+  "buyer": "A technical founder or small dev shop lead who wants to run 3-5 AI coding tasks in parallel instead of babysitting one agent at a time.",
+  "business_use_cases": [
+    "A one-person dev shop takes on more fixed-bid client work by running several client projects' agents in parallel worktrees.",
+    "A dev agency sells 'overnight AI dev' as a service: queue up tickets before leaving, review finished diffs on a phone the next morning.",
+    "A trainer runs paid workshops teaching small teams how to supervise multiple coding agents safely without creating merge chaos."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a 'parallel AI dev sprint' package to startups wanting a backlog cleared fast.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build and sell a review/QA layer on top that catches agents stepping on each other before merge.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Pick a client's stale backlog, fan five tickets across five Orca worktrees this weekend, and sell the client a 'cleared your backlog overnight' one-off invoice.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-20T12:12:00Z"
+}
