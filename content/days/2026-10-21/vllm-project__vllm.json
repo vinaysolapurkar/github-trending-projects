@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-21",
+  "owner": "vllm-project",
+  "name": "vllm",
+  "full_name": "vllm-project/vllm",
+  "url": "https://github.com/vllm-project/vllm",
+  "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+  "language": "Python",
+  "stars_total": 94663,
+  "stars_today": 128,
+  "one_liner": "Software that lets a company run AI chatbot models on its own computers instead of paying OpenAI or Anthropic per word generated — like owning the factory instead of renting time on someone else's.",
+  "buyer": "A startup CTO whose AI product has enough usage that per-token API bills are now a top-3 cost line, or a healthcare/legal company that legally cannot send data to a third-party API.",
+  "business_use_cases": [
+    "A legal-tech startup self-hosts a model with vLLM so client documents never leave their own servers, satisfying a law firm's data-residency requirement.",
+    "A high-volume customer support SaaS switches its chatbot backend to self-hosted vLLM to cut per-conversation AI costs once volume passes a breakeven point.",
+    "A batch-processing company (e.g. transcript summarization at scale) runs nightly jobs on vLLM instead of paying API rates for millions of calls."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer 'private LLM hosting' as a managed service for regulated industries (legal, healthcare) billed by usage.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Consulting: audit a startup's AI cost stack and migrate their hottest-volume endpoint from a paid API to self-hosted vLLM for a fixed project fee.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This is infrastructure plumbing, not a weekend product — the fastest real build is a cost-optimization audit script that estimates a client's break-even point between API billing and self-hosting, sold as a cheap diagnostic report.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-21T12:08:42.184Z"
+}

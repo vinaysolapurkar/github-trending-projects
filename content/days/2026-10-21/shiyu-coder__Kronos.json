@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-21",
+  "owner": "shiyu-coder",
+  "name": "Kronos",
+  "full_name": "shiyu-coder/Kronos",
+  "url": "https://github.com/shiyu-coder/Kronos",
+  "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+  "language": "Python",
+  "stars_total": 42586,
+  "stars_today": 733,
+  "one_liner": "An AI model trained to read price-chart patterns (like a human chartist) and forecast what a stock or crypto price might do next.",
+  "buyer": "A crypto trading bot developer or small quant researcher who wants a pattern-forecasting signal to feed into a trading strategy, not a retail investor looking for guaranteed returns.",
+  "business_use_cases": [
+    "A crypto trading bot developer adds Kronos's forecasts as one signal among several in an existing algorithmic strategy.",
+    "A fintech app offers a 'market pattern insight' widget to retail users, clearly labeled as a probabilistic model output, not financial advice.",
+    "A quant researcher uses it to backtest forecasting ideas faster than building a foundation model from scratch."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell API access to Kronos-based forecasts to other trading-bot developers, billed per call.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "A subscription 'daily market signal' newsletter for retail crypto traders, generated from the model's output.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build a small backtesting dashboard that runs Kronos against a handful of liquid crypto pairs and reports its historical hit rate honestly — a credibility tool before selling any signal product.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-21T12:08:42.184Z"
+}

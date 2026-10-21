@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-21",
+  "owner": "twentyhq",
+  "name": "twenty",
+  "full_name": "twentyhq/twenty",
+  "url": "https://github.com/twentyhq/twenty",
+  "description": "The open alternative to Salesforce, designed for AI.",
+  "language": "TypeScript",
+  "stars_total": 58796,
+  "stars_today": 105,
+  "one_liner": "A free, open alternative to Salesforce — a customer and sales tracker a small business can run and customize itself instead of paying per-seat software fees.",
+  "buyer": "A small business owner or sales manager who's been quoted Salesforce/HubSpot pricing and can't justify the per-seat cost for a 5-10 person sales team.",
+  "business_use_cases": [
+    "A small B2B services company replaces a $50/seat/month CRM with a self-hosted Twenty instance, saving thousands a year.",
+    "A real estate brokerage customizes Twenty's objects and fields to track listings, buyers, and showings instead of paying for an industry-specific CRM.",
+    "A boutique recruiting agency builds a custom pipeline view in Twenty to track candidates and client companies in one system."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer 'CRM setup and customization' as a fixed-price service for small businesses who want Twenty self-hosted but don't want to touch Docker themselves.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build and sell industry-specific object/field templates (e.g. a real-estate or restaurant-supplier pack) on top of Twenty's open core.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Package a one-click 'Twenty for [industry]' setup — pre-built objects, fields, and views for a specific small-business vertical — and sell the install + onboarding as a flat-fee weekend service.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-21T12:08:42.184Z"
+}

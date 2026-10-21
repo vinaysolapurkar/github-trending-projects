@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-21",
+  "owner": "Graphify-Labs",
+  "name": "graphify",
+  "full_name": "Graphify-Labs/graphify",
+  "url": "https://github.com/Graphify-Labs/graphify",
+  "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+  "language": "Python",
+  "stars_total": 130912,
+  "stars_today": 802,
+  "one_liner": "A tool that reads an entire codebase — code, docs, configs, PDFs — and turns it into a map you can ask questions of, instead of grepping through files to understand how everything connects.",
+  "buyer": "An engineering manager onboarding a new hire onto a large, messy, undocumented legacy codebase who needs them productive in days, not months.",
+  "business_use_cases": [
+    "A new engineering hire asks the graph 'what calls this function and why' instead of spending their first two weeks reading code cold.",
+    "An engineering team doing acquisition due diligence maps a target company's codebase quickly to assess its real complexity before a deal closes.",
+    "A compliance team traces how a sensitive data field flows through a codebase for an audit, using the explained edges instead of manual code review."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Graphify itself already sells a Cloud subscription; an independent angle is 'legacy codebase onboarding' consulting using the free local tool as the first step.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Offer a fixed-price 'codebase X-ray' service: run graphify on a client's messy legacy repo and deliver a one-page map plus a written explanation of its riskiest connections, within a week.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-21T12:08:42.184Z"
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-21",
+  "owner": "stablyai",
+  "name": "orca",
+  "full_name": "stablyai/orca",
+  "url": "https://github.com/stablyai/orca",
+  "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+  "language": "TypeScript",
+  "stars_total": 100527,
+  "stars_today": 1565,
+  "one_liner": "A control-room app that lets one person run several AI coding assistants at once, each working on its own copy of the code, so you can compare their results and keep an eye on them from your phone.",
+  "buyer": "The founder of a small dev shop or agency juggling several client codebases at once, who wants each developer to supervise multiple AI agents instead of writing code by hand.",
+  "business_use_cases": [
+    "A two-person dev agency uses it to run client A's bug fixes and client B's new feature in parallel worktrees, reviewing both from one dashboard.",
+    "A solo indie hacker fans the same feature prompt across three different AI agents, picks the best diff, and ships it the same day.",
+    "A contract QA reviewer annotates AI-written diffs line by line and sends comments straight back to the agent instead of writing a separate review doc."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Already a commercial downloadable product (onOrca.dev); an independent builder's angle is selling 'fleet management' consulting to agencies adopting it.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Not much to 'steal' here — it's already a polished funded product. The honest weekend project is writing a setup guide + SSH-worktree template for a specific stack (e.g. Rails or Next.js) and selling it to agencies adopting the tool.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-21T12:08:42.184Z"
+}

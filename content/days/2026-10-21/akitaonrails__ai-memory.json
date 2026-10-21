@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-21",
+  "owner": "akitaonrails",
+  "name": "ai-memory",
+  "full_name": "akitaonrails/ai-memory",
+  "url": "https://github.com/akitaonrails/ai-memory",
+  "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+  "language": "Rust",
+  "stars_total": 12020,
+  "stars_today": 810,
+  "one_liner": "A shared notebook for AI coding assistants — so when you switch from one AI tool to another, or come back the next day, it remembers what you were doing and why, instead of making you re-explain everything.",
+  "buyer": "An engineering team lead whose developers use different AI coding tools (Claude Code, Cursor, Codex) and keep losing context when they switch between them or between machines.",
+  "business_use_cases": [
+    "A dev team runs a shared ai-memory server so a developer who starts a task in Claude Code and finishes it in Codex doesn't have to re-explain the architecture.",
+    "A freelance developer keeps per-client memory servers so returning to a client's project after weeks away doesn't cost an hour of re-orientation.",
+    "A dev agency onboarding a new hire points them at the project's memory server instead of writing a fresh onboarding doc for every AI session."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a hosted, managed version of the memory server for teams who don't want to run their own homelab box.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Consulting: set up and configure a team's shared memory server and cross-project profile as a one-time engagement.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Spin up a hosted, zero-setup version of the memory server aimed at small dev teams, charged per seat, so they skip the homelab/self-hosting step entirely.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-21T12:08:42.184Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-21",
+  "owner": "headroomlabs-ai",
+  "name": "headroom",
+  "full_name": "headroomlabs-ai/headroom",
+  "url": "https://github.com/headroomlabs-ai/headroom",
+  "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+  "language": "Python",
+  "stars_total": 76985,
+  "stars_today": 549,
+  "one_liner": "A filter that shrinks everything an AI assistant reads — logs, files, search results — down to a fraction of the size before it reaches the AI, without losing the important lines, so you pay for fewer words and get the same answers.",
+  "buyer": "The CTO of an AI-agent startup whose biggest line item is LLM API token spend, especially one whose agents read large log files or JSON API responses.",
+  "business_use_cases": [
+    "A DevOps-AI startup wraps its log-triage agent with Headroom and cuts its monthly LLM bill by 60-95% on JSON-heavy incident data.",
+    "An agency running many client AI coding agents wraps each with 'headroom wrap claude' to cut Claude Code token spend across the whole team.",
+    "A RAG-based customer support product compresses retrieved document chunks before they hit the model, letting it stuff more context into each answer for the same cost."
+  ],
+  "money_ideas": [
+    {
+      "idea": "The project already monetizes via 'Headroom for Teams' enterprise tier; an independent angle is a paid integration service wiring it into a client's existing agent stack.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build a managed proxy version for non-technical teams who just want to point their API traffic at a URL and see the savings.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Wrap a specific popular AI coding tool with `headroom wrap` and publish before/after token-cost numbers on a specific real codebase — a credible case study sells the integration service.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-21T12:08:42.184Z"
+}

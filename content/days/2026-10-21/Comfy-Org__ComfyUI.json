@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-21",
+  "owner": "Comfy-Org",
+  "name": "ComfyUI",
+  "full_name": "Comfy-Org/ComfyUI",
+  "url": "https://github.com/Comfy-Org/ComfyUI",
+  "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+  "language": "Python",
+  "stars_total": 141207,
+  "stars_today": 1206,
+  "one_liner": "A visual, drag-and-drop tool for generating images, videos, and audio with AI models, running on your own computer instead of a monthly subscription service.",
+  "buyer": "A small e-commerce store owner who can't afford a professional product photographer, or a freelance video editor who needs B-roll and can't license stock footage for every project.",
+  "business_use_cases": [
+    "An Etsy or Shopify seller generates lifestyle product photography locally instead of paying $50-200 per photoshoot.",
+    "A freelance video editor builds custom ComfyUI workflows to generate b-roll and background assets for client videos, undercutting stock footage subscriptions.",
+    "A local ad agency offers 'AI visual assets' as a cheap add-on service to small business clients who can't afford a photo shoot."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build a 'product photography as a service' shop: clients send a plain product photo, you return 10 styled lifestyle shots using a ComfyUI workflow, billed per order.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell packaged ComfyUI workflow templates (e.g. 'Etsy product photo pack') on a marketplace.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a subscription 'unlimited AI product photos' plan for small e-commerce stores, run on your own ComfyUI server.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build a one-weekend Shopify/Etsy add-on: a form where a seller uploads one plain product photo and a ComfyUI workflow returns five styled lifestyle images, sold per batch.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-21T12:08:42.184Z"
+}

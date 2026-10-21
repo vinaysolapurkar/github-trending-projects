@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-21-001",
+  "date": "2026-10-21",
+  "repo_a": "strelov1/freehire",
+  "repo_b": "MadsLorentzen/ai-job-search",
+  "title": "Job Search Autopilot",
+  "pitch": "freehire already scrapes 3.3M+ real, deduplicated job postings straight from company career pages and ships saved searches with email/Telegram digests. ai-job-search already knows how to score a posting against a candidate's profile and draft a tailored CV and cover letter for it. Wire the two together: every time freehire's digest surfaces a new posting that matches a saved search, pipe it straight into ai-job-search's fit-evaluation and drafter-reviewer pipeline, and hand the candidate a ready-to-send, tailored application instead of just a link. The buyer is a busy, employed professional doing a passive job search who wants applications prepared for them, not just postings found for them — sold as a monthly subscription that bundles 'we find it' with 'we draft it.'",
+  "why_now": "Both projects are trending the same day and are a near-perfect pipeline fit: freehire solves sourcing (real postings, deduplicated, with a digest and API already built), and ai-job-search solves the harder, more valuable half (tailoring and application prep) that freehire's own README says is 'half the problem.' Neither needs to be rebuilt — only connected."
+}

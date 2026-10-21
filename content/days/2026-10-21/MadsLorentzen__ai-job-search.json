@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-21",
+  "owner": "MadsLorentzen",
+  "name": "ai-job-search",
+  "full_name": "MadsLorentzen/ai-job-search",
+  "url": "https://github.com/MadsLorentzen/ai-job-search",
+  "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+  "language": "Python",
+  "stars_total": 62138,
+  "stars_today": 3861,
+  "one_liner": "A tool that uses Claude Code to read job postings, rewrite your CV and cover letter to fit each one, and coach you for the interview — like a personal job-search assistant that lives in your terminal.",
+  "buyer": "A laid-off professional (the creator was a geophysicist) doing a serious job search, or a career coach who wants to offer AI-tailored applications to clients.",
+  "business_use_cases": [
+    "A career coach runs this for each client's job search instead of manually editing CVs for every application.",
+    "A laid-off professional applies to 50+ tailored roles in the time it used to take to do 5, the way the creator landed a signed offer.",
+    "A university career center sets it up on lab machines so students get tailored cover letters without hiring more advisors."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Career coaches charge clients a flat fee per application cycle, using this instead of billing hourly for CV edits.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build a hosted, no-setup version for non-technical job seekers who can't install Claude Code, LaTeX, and Python themselves.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Package the /setup, /scrape, /apply flow as a hosted web app with a simple upload-your-resume onboarding, so non-technical job seekers skip the Python/LaTeX/CLI setup entirely.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-21T12:08:42.184Z"
+}

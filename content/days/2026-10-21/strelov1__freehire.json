@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-21",
+  "owner": "strelov1",
+  "name": "freehire",
+  "full_name": "strelov1/freehire",
+  "url": "https://github.com/strelov1/freehire",
+  "description": "freehire — the open-source search engine for job seekers",
+  "language": "Go",
+  "stars_total": 2015,
+  "stars_today": 405,
+  "one_liner": "A job search engine that pulls listings straight from company career pages — not recruiter reposts — so the jobs you see are real, current, and not duplicated across ten job boards.",
+  "buyer": "A niche recruiting agency or regional staffing firm that wants fresh, deduplicated job leads without paying for a big job-board data license.",
+  "business_use_cases": [
+    "A regional staffing agency builds lead lists of companies actively hiring in their specialty by filtering freehire's data by region and seniority.",
+    "An indie developer launches a niche vertical job board (e.g. 'freehire for biotech in Boston') using the open dataset and pipeline as the backend.",
+    "A recruiter uses the API to flag 'ghost jobs' and avoid wasting outreach time on postings that aren't real."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Launch a narrow vertical job board on top of the open dataset, monetized through featured/paid employer listings.",
+      "revenue_model": "ads"
+    },
+    {
+      "idea": "Sell API access to the deduplicated, structured job data to recruiting agencies as a lead source.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Fork the pipeline to build one narrow vertical job board (one industry, one region) with featured-listing ads as the revenue model — the hard scraping/dedup work is already done for you.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-21T12:08:42.184Z"
+}

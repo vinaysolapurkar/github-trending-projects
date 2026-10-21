@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-21",
+  "owner": "DietrichGebert",
+  "name": "ponytail",
+  "full_name": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+  "language": "JavaScript",
+  "stars_total": 170682,
+  "stars_today": 1208,
+  "one_liner": "A set of instructions that makes an AI coding assistant act like a grumpy, experienced senior developer — it reuses what's already in your code instead of writing hundreds of new lines for a simple feature.",
+  "buyer": "An engineering lead at a startup who's watched their AI coding tool's token bill and codebase size balloon and wants both back under control.",
+  "business_use_cases": [
+    "A startup's eng lead installs it team-wide to cut AI-written code volume and token spend without changing which AI tool they use.",
+    "A contract developer uses it on client projects to keep AI-generated pull requests small enough for a human to actually review.",
+    "A bootcamp teaching AI-assisted development uses it to show students the difference between lazy AI code and bloated AI code."
+  ],
+  "money_ideas": [
+    {
+      "idea": "No direct revenue model — it is a free skill/plugin, not a product; value capture would require bundling it into a paid consulting offer.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "There isn't a real business here to build on top of a free prompt-engineering skill; the closest honest play is a short paid workshop teaching teams 'how to prompt your AI agent to write less code,' using this as the lesson.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-21T12:08:42.184Z"
+}
