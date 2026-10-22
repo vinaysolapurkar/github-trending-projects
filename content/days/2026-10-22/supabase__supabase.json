@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-22",
+  "owner": "supabase",
+  "name": "supabase",
+  "full_name": "supabase/supabase",
+  "url": "https://github.com/supabase/supabase",
+  "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+  "language": "TypeScript",
+  "stars_total": 113272,
+  "stars_today": 683,
+  "one_liner": "A ready-made backend for apps — database, logins, file storage, and APIs — so a small team can launch a web or mobile app without building server infrastructure from scratch.",
+  "buyer": "A first-time founder or indie developer who wants to ship a working app MVP in weeks, not months, without hiring a backend engineer.",
+  "business_use_cases": [
+    "A solo founder builds and launches a SaaS MVP's entire backend (auth, database, file uploads) in a weekend instead of hiring a backend contractor.",
+    "A mobile app studio standardizes on Supabase across client projects so every new app reuses the same auth and database patterns, cutting delivery time.",
+    "An aspiring AI founder bolts on Supabase's vector/embeddings toolkit to add AI search to a product without learning a separate vector database."
+  ],
+  "money_ideas": [
+    { "idea": "An agency sells fixed-price 'MVP in 2 weeks' packages built entirely on Supabase, pocketing the margin between the flat fee and actual build time.", "revenue_model": "one-off" },
+    { "idea": "Build and sell vertical starter kits (e.g. a booking-app template, a marketplace template) pre-wired to Supabase.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build and sell one polished, narrow starter template (e.g. 'SaaS waitlist + auth + Stripe in one Supabase project') that founders can clone and launch in a day.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-22T12:10:00.000Z"
+}

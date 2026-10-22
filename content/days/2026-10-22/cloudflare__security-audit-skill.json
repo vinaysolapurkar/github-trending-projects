@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-22",
+  "owner": "cloudflare",
+  "name": "security-audit-skill",
+  "full_name": "cloudflare/security-audit-skill",
+  "url": "https://github.com/cloudflare/security-audit-skill",
+  "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+  "language": "JavaScript",
+  "stars_total": 38095,
+  "stars_today": 2979,
+  "one_liner": "Turns an AI coding assistant into a methodical security inspector that hunts for vulnerabilities in your codebase, double-checks its own findings, and writes a real report — the same approach Cloudflare uses internally.",
+  "buyer": "A freelance penetration tester or small security consultancy who wants to audit more client codebases per week without lowering quality, by having AI do the first-pass hunting that a human then verifies.",
+  "business_use_cases": [
+    "A boutique security firm uses it to triage a new client's codebase overnight, then has a human analyst focus only on the confirmed findings the next morning.",
+    "A startup runs it before every major release as a pre-launch security gate, catching issues before a real pentest firm would charge thousands to find them.",
+    "A bug bounty hunter runs it across many open-source targets to surface candidate vulnerabilities faster than manual review, then submits verified ones."
+  ],
+  "money_ideas": [
+    { "idea": "Offer 'AI-assisted security audit' packages to startups that can't afford a full manual pentest, priced well below traditional audit firms.", "revenue_model": "one-off" },
+    { "idea": "Run it as a subscription CI check that re-audits a client's repo on every release and emails a findings report.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Package this skill into a 'security audit in a weekend' service for indie SaaS founders: run it, have a human verify the top findings, deliver a clean PDF report for a flat fee.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-22T12:10:00.000Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-22",
+  "owner": "anthropics",
+  "name": "knowledge-work-plugins",
+  "full_name": "anthropics/knowledge-work-plugins",
+  "url": "https://github.com/anthropics/knowledge-work-plugins",
+  "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+  "language": "Python",
+  "stars_total": 31298,
+  "stars_today": 303,
+  "one_liner": "A free starter pack of 'job roles' for Claude — install one and your AI assistant suddenly knows how a salesperson, lawyer, or finance analyst actually works, including which tools to check.",
+  "buyer": "An operations or IT lead at a mid-size company rolling out Claude Cowork who needs the sales, legal, or finance team to get useful results on day one instead of generic chatbot answers.",
+  "business_use_cases": [
+    "A RevOps manager installs the sales plugin so every rep's Claude instance automatically pulls from HubSpot and drafts call-prep notes the same way.",
+    "A legal ops team customizes the legal plugin with their own NDA templates and risk thresholds so contract triage follows firm policy instead of generic advice.",
+    "An IT consultancy builds a side business configuring and connecting these plugins (wiring up Slack, Jira, Snowflake, etc.) for companies that lack the technical staff to do it themselves."
+  ],
+  "money_ideas": [
+    { "idea": "Offer 'Claude Cowork onboarding' as a paid service: connect a client's tools and tune 2-3 of these plugins to their terminology and workflows.", "revenue_model": "one-off" },
+    { "idea": "Build and sell industry-specific plugin packs (e.g. a healthcare-compliance flavor of the legal plugin) that extend this free base.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Pick one plugin (e.g. customer-support) and ship a done-for-you configured version pre-wired to the three most common tool combos (Zendesk+Slack, Intercom+Notion, etc.) as a paid template.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-22T12:10:00.000Z"
+}

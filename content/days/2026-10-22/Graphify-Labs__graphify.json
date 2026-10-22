@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-22",
+  "owner": "Graphify-Labs",
+  "name": "graphify",
+  "full_name": "Graphify-Labs/graphify",
+  "url": "https://github.com/Graphify-Labs/graphify",
+  "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+  "language": "Python",
+  "stars_total": 132294,
+  "stars_today": 1407,
+  "one_liner": "Maps a messy codebase — code, docs, database schemas, PDFs — into a navigable map of how everything connects, so you can ask questions about it instead of grepping through files for hours.",
+  "buyer": "An engineering manager who just inherited a legacy codebase (via acquisition or a departed team) and needs new hires to understand it in days, not months.",
+  "business_use_cases": [
+    "A dev consultancy runs it on a new client's undocumented legacy system during the first week of an engagement to scope the work accurately before quoting a price.",
+    "A new engineering hire at a startup uses it to self-onboard onto a large codebase without waiting weeks for a senior engineer's time.",
+    "A due-diligence firm evaluating a startup acquisition runs it to quickly assess codebase complexity and technical debt before the deal closes."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid 'codebase comprehension' reports for M&A technical due diligence, generated in hours instead of the weeks a manual audit takes.", "revenue_model": "one-off" },
+    { "idea": "The project's own cloud tier (Graphify Cloud) already monetizes always-on, cross-repo graphs via subscription; a reseller could bundle it with onboarding consulting.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Offer a fixed-price 'understand this codebase in 48 hours' service for startups about to onboard a contractor or new hire, using this tool to generate the map and a plain-English walkthrough doc.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-22T12:10:00.000Z"
+}

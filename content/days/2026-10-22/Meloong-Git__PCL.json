@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-22",
+  "owner": "Meloong-Git",
+  "name": "PCL",
+  "full_name": "Meloong-Git/PCL",
+  "url": "https://github.com/Meloong-Git/PCL",
+  "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+  "language": "Visual Basic .NET",
+  "stars_total": 8539,
+  "stars_today": 115,
+  "one_liner": "A free, popular Minecraft game launcher (mainly used in China) that makes it easier to install, update, and run modded Minecraft.",
+  "buyer": "Honestly, nobody pays for this — it's a donation-supported hobby project for Minecraft players, not a business tool. The closest thing to a 'buyer' is a Minecraft server community that benefits from easier player onboarding.",
+  "business_use_cases": [
+    "A Minecraft server community (e.g. a Chinese gaming server) recommends it to members as the easiest way to join with the right mods pre-configured, reducing support tickets.",
+    "A Minecraft modpack creator bundles instructions around this launcher to lower the setup barrier for their modpack's audience.",
+    "A gaming content creator reviews or recommends it on video, picking up modest affiliate/sponsorship revenue unrelated to the launcher itself."
+  ],
+  "money_ideas": [
+    { "idea": "Accept community donations (the project's own model, via 爱发电/afdian) rather than selling anything — this is the honest ceiling here.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "There isn't a real weekend business here — this is a passion project for Minecraft players, not a monetizable pain point. If anything, study how it earns community trust and donations as a pattern for other niche hobby tools.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-22T12:10:00.000Z"
+}

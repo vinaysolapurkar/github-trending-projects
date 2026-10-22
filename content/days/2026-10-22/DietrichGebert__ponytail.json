@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-22",
+  "owner": "DietrichGebert",
+  "name": "ponytail",
+  "full_name": "DietrichGebert/ponytail",
+  "url": "https://github.com/DietrichGebert/ponytail",
+  "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+  "language": "JavaScript",
+  "stars_total": 172586,
+  "stars_today": 1949,
+  "one_liner": "A free add-on that makes AI coding assistants write much less, simpler code by reusing what's already in your project instead of inventing new stuff.",
+  "buyer": "A startup CTO paying a monthly AI coding bill who wants smaller, cheaper, easier-to-maintain code out of the same AI agent — without hiring a senior engineer to review every line.",
+  "business_use_cases": [
+    "A small dev shop installs it across client projects so AI-generated code stays lean, cutting the hours spent later cleaning up bloated AI output.",
+    "A solo indie developer uses it to keep an AI-built app maintainable as it grows, avoiding a rewrite six months in.",
+    "A coding bootcamp or course teaches it as a 'how to actually use AI agents well' module, since it visibly changes output quality."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid 'AI code audit' service that re-runs a client's existing AI-generated codebase through this skill and reports the savings in code size and token cost.", "revenue_model": "one-off" },
+    { "idea": "The project itself is building toward a paid product (per its own waitlist); a third party could instead sell training/workshops on using it well inside teams.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Ship a tiny SaaS dashboard that runs this skill's benchmark (lines of code, tokens, cost) on a team's own repo before/after and sells the before/after report as a lead magnet for an AI-coding consultancy.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-22T12:10:00.000Z"
+}

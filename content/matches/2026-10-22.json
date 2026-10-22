@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-22",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing today or recently edits existing social-media video footage; today's tools are about code, security, and backend infra, not video editing." },
+    { "problem_id": "p002", "repo": "Comfy-Org/ComfyUI", "why": "Still the best fit available: runs locally to generate product/lifestyle photography, replacing a paid photographer for e-commerce listings.", "confidence": "high" },
+    { "problem_id": "p003", "repo": "akitaonrails/ai-memory", "why": "Built specifically to carry project context and handoffs across AI coding sessions, which is exactly this problem.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "DietrichGebert/ponytail", "why": "Today's top trend is built for exactly this: it makes AI coding agents reuse existing code and write far less of it, directly cutting bloat and maintenance cost.", "confidence": "high" },
+    { "problem_id": "p005", "repo": "Graphify-Labs/graphify", "why": "Parses PDFs and docs alongside code into a queryable knowledge graph, though it's optimized for codebases rather than a pure research-paper library.", "confidence": "medium" },
+    { "problem_id": "p006", "repo": null, "why": "Nothing today generates visual explainer content from scratch; today's trending repos are backend, security, and dev-tooling focused." },
+    { "problem_id": "p007", "repo": null, "why": "No repo today or recently addresses bioinformatics or lab-specific workflows." },
+    { "problem_id": "p008", "repo": "vllm-project/vllm", "why": "Lets a firm self-host an LLM so client chat data never leaves their own servers, which still fits better than today's cloud-connector-based plugins.", "confidence": "high" },
+    { "problem_id": "p009", "repo": null, "why": "Nothing today or recently does text-to-narrated-video for blog content." },
+    { "problem_id": "p010", "repo": null, "why": "ai-memory is self-hosted and markdown-based, but it's built for AI coding-agent memory, not general personal note-taking." },
+    { "problem_id": "p011", "repo": "Graphify-Labs/graphify", "why": "Directly built to map an unfamiliar codebase into a queryable graph so a new hire can understand how it fits together — trending again today.", "confidence": "high" },
+    { "problem_id": "p012", "repo": "supabase/supabase", "why": "Gives a first-time AI founder a ready-made database, auth, storage, and vector toolkit to start building on immediately.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "Nothing today manages restaurant inventory; the closest trending tools are developer- and security-focused, not retail/ops software." }
+  ]
+}

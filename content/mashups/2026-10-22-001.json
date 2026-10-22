@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-22-001",
+  "date": "2026-10-22",
+  "repo_a": "cloudflare/security-audit-skill",
+  "repo_b": "Graphify-Labs/graphify",
+  "title": "Instant Audit Scope",
+  "pitch": "security-audit-skill's first and most time-consuming phase is reconnaissance: mapping architecture, trust boundaries, and input surfaces before any hunting can start. graphify already does exactly that mapping — deterministic, local AST parsing that turns a codebase (plus its docs, configs, and schemas) into an explained graph of how everything connects. Feed graphify's graph straight into security-audit-skill's reconnaissance phase instead of having the audit agent rediscover the architecture from scratch, and the whole audit pipeline gets faster and cheaper to run. Package this as a 'pre-scoped security audit' service: a boutique security consultancy or a freelance pentester runs the combined pipeline on a new client's codebase on day one, delivers a scoped findings report by day two, and prices audits by the day instead of by the week — buyers are startups and agencies that need a credible audit but can't afford a traditional four-week engagement.",
+  "why_now": "Both tools trended on the same day and solve adjacent halves of the same job: graphify builds the map, security-audit-skill hunts and verifies on top of a map. Wiring recon straight from one into the other needs no new code, just a pipeline — and it directly removes the slowest, most manual phase of an AI-assisted security audit."
+}

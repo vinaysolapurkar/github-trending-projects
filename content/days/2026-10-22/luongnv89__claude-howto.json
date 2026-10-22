@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-22",
+  "owner": "luongnv89",
+  "name": "claude-howto",
+  "full_name": "luongnv89/claude-howto",
+  "url": "https://github.com/luongnv89/claude-howto",
+  "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+  "language": "Python",
+  "stars_total": 42629,
+  "stars_today": 428,
+  "one_liner": "A free, illustrated how-to manual that teaches you to use Claude Code properly — slash commands, hooks, agents, and all — with diagrams and copy-paste templates instead of dry documentation.",
+  "buyer": "A developer or small team lead who just adopted Claude Code and wants a guided weekend crash course instead of piecing things together from scattered docs and forum posts.",
+  "business_use_cases": [
+    "A dev team uses it as onboarding material so new hires get productive with Claude Code in a day instead of a week of trial and error.",
+    "A freelance 'AI coding coach' uses the guide's structure as a syllabus for paid 1:1 or small-group coaching sessions.",
+    "A training company licenses the structure (with permission) as the backbone of a paid corporate workshop on adopting AI coding tools."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid, live cohort-based course that goes beyond the free guide with office hours, code review, and a certificate.", "revenue_model": "one-off" },
+    { "idea": "Sell premium add-on template packs (industry-specific CLAUDE.md files, hook libraries) that extend the free guide's templates.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Record a paid 2-hour live workshop that walks a team through this exact guide's modules, tailored to their own codebase instead of generic examples.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-22T12:10:00.000Z"
+}

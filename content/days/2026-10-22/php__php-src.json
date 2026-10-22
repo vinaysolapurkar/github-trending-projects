@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-22",
+  "owner": "php",
+  "name": "php-src",
+  "full_name": "php/php-src",
+  "url": "https://github.com/php/php-src",
+  "description": "The PHP Interpreter",
+  "language": "C",
+  "stars_total": 40782,
+  "stars_today": 110,
+  "one_liner": "The actual engine that runs the PHP programming language — the software that powers huge chunks of the web, from WordPress blogs to Facebook's early codebase.",
+  "buyer": "Nobody buys this directly — it's free, public infrastructure maintained by volunteers and companies like Zend/Perforce. The real 'buyer' is any business that already runs a PHP website and depends on it staying fast and secure.",
+  "business_use_cases": [
+    "A hosting company bundles the latest PHP runtime into its shared-hosting plans so WordPress and Laravel sites run faster and more securely.",
+    "A dev agency keeps client PHP sites on a supported PHP version to avoid security liability and stay eligible for extension support.",
+    "A performance consultancy profiles a client's e-commerce site against the newest PHP release and sells a 'free speed upgrade' as a paid migration project."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid 'PHP version upgrade & compatibility audit' services to agencies still running old PHP versions on client sites.", "revenue_model": "one-off" },
+    { "idea": "Run a managed PHP hosting service that always tracks the latest stable release and markets that as a security/performance selling point.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Build a one-click 'is your PHP site safe?' scanner that checks a site's PHP version and flags outdated/unsupported runtimes for small business owners who don't know what PHP even is.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-22T12:10:00.000Z"
+}

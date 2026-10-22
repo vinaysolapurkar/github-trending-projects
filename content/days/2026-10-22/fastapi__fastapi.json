@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-22",
+  "owner": "fastapi",
+  "name": "fastapi",
+  "full_name": "fastapi/fastapi",
+  "url": "https://github.com/fastapi/fastapi",
+  "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+  "language": "Python",
+  "stars_total": 103410,
+  "stars_today": 96,
+  "one_liner": "A free toolkit Python developers use to build the behind-the-scenes APIs that power apps and websites — the plumbing, not something an end customer ever sees directly.",
+  "buyer": "Nobody buys this directly — it's a free, foundational developer tool. The real customer is a company that needs developers who already know it, or a service built on top of it.",
+  "business_use_cases": [
+    "A dev agency standardizes all client backend projects on FastAPI so engineers are interchangeable across projects and onboarding is fast.",
+    "A startup builds its AI product's API layer on FastAPI because of its speed and automatic documentation, cutting backend development time.",
+    "A SaaS company (FastAPI Cloud, one of the project's own sponsors) sells managed hosting specifically tuned for FastAPI apps."
+  ],
+  "money_ideas": [
+    { "idea": "Offer managed hosting or deployment-as-a-service specifically optimized for FastAPI apps (a crowded space, but with existing demand).", "revenue_model": "subscription" },
+    { "idea": "Sell a paid course or template pack ('Production FastAPI in a day') bundling auth, Stripe billing, and deployment boilerplate most teams rebuild from scratch.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Package a opinionated FastAPI starter kit (auth + billing + background jobs + deploy script) and sell it once to indie developers who don't want to wire up the boring parts themselves.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-22T12:10:00.000Z"
+}
