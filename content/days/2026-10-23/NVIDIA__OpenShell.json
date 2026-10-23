@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-23",
+  "owner": "NVIDIA",
+  "name": "OpenShell",
+  "full_name": "NVIDIA/OpenShell",
+  "url": "https://github.com/NVIDIA/OpenShell",
+  "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+  "language": "Rust",
+  "stars_total": 18254,
+  "stars_today": 211,
+  "one_liner": "A locked-down sandbox for AI agents — it lets an AI assistant use real tools, files, and passwords safely, without giving it the keys to everything.",
+  "buyer": "A platform engineering or security lead at a company deploying many AI agents internally who is nervous about agents leaking secrets or touching systems they shouldn't.",
+  "business_use_cases": [
+    "An enterprise IT team runs every internal AI coding agent through OpenShell so none of them can see real API keys or reach unapproved systems.",
+    "A managed-AI-agent vendor uses OpenShell as the safety layer inside its product, letting it advertise 'enterprise-grade agent sandboxing' to risk-averse buyers.",
+    "A fintech or healthcare company that must prove data-access controls adopts OpenShell so every agent action is policy-enforced and auditable for compliance."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a managed/hosted OpenShell gateway with monitoring and policy-writing support as a subscription service for companies that don't want to self-host.", "revenue_model": "subscription" },
+    { "idea": "Sell consulting to write and audit the access policies for a company's specific agent fleet.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Stand up a hosted OpenShell gateway with a simple policy dashboard and sell it to small AI-agent startups as 'agent safety-as-a-service' before they build their own.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-23T12:20:00.000Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-23",
+  "owner": "SnailSploit",
+  "name": "Claude-Red",
+  "full_name": "SnailSploit/Claude-Red",
+  "url": "https://github.com/SnailSploit/Claude-Red",
+  "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+  "language": "Python",
+  "stars_total": 8028,
+  "stars_today": 209,
+  "one_liner": "A free library of structured guides that teach an AI coding assistant expert-level offensive-security methodology — from SQL injection to exploit development — for use in authorized security testing.",
+  "buyer": "A red-team lead or security training company that wants to speed up authorized penetration tests and CTF prep using an AI assistant pre-loaded with attack methodology.",
+  "business_use_cases": [
+    "A boutique pentesting firm equips its AI-assisted engagements with these skills so junior testers get senior-level attack methodology on tap during authorized tests.",
+    "A cybersecurity training company builds CTF practice courses and workshops around these skills, since they already map attack categories to runnable methodology.",
+    "A bug bounty hunter uses the relevant skill files to speed up triage and payload crafting on in-scope, authorized targets."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a paid training course or workshop that teaches security teams how to use these skills effectively in authorized engagements.", "revenue_model": "one-off" },
+    { "idea": "Offer managed, AI-assisted pentesting services where this skill library is the methodology backbone, billed per engagement.", "revenue_model": "usage" }
+  ],
+  "steal_this": "The skills themselves are free and open, so the real business is the service wrapped around them: package a one-day 'AI-assisted pentest readiness' workshop for security teams.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-23T12:20:00.000Z"
+}

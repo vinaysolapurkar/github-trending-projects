@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-23",
+  "owner": "nodejs",
+  "name": "node",
+  "full_name": "nodejs/node",
+  "url": "https://github.com/nodejs/node",
+  "description": "Node.js JavaScript runtime",
+  "language": "JavaScript",
+  "stars_total": 122605,
+  "stars_today": 76,
+  "one_liner": "The core program that runs JavaScript outside a web browser — the engine behind huge amounts of backend software and developer tooling.",
+  "buyer": "Not a product for an end buyer; it's foundational open-source infrastructure used by every company running a JavaScript backend, maintained under the OpenJS Foundation.",
+  "business_use_cases": [
+    "A hosting or cloud provider markets fast Node.js runtime support and version upgrades as part of its platform offering.",
+    "A consultancy offers paid 'upgrade my app to the latest LTS Node.js' migration services to companies stuck on end-of-life versions.",
+    "A performance consultancy sells profiling and optimization audits for companies running high-traffic Node.js backends."
+  ],
+  "money_ideas": [
+    { "idea": "Sell Node.js version-upgrade and migration services to companies on deprecated or unsupported releases.", "revenue_model": "one-off" },
+    { "idea": "Offer ongoing performance-tuning retainers for companies running Node.js at scale.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "There's no weekend product in the runtime itself — the real opportunity is a service business: offer fixed-price Node.js LTS upgrade packages to companies you find still running old versions.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-23T12:20:00.000Z"
+}

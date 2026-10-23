@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-23-001",
+  "date": "2026-10-23",
+  "repo_a": "NVIDIA/OpenShell",
+  "repo_b": "cloudflare/security-audit-skill",
+  "title": "Agent Governance Pack",
+  "pitch": "OpenShell locks down what an AI agent can touch at runtime — files, network, credentials — enforced by the kernel and checked by formal verification before any policy change is approved. security-audit-skill does the complementary job on the code side: it runs a structured, independently-verified audit of a codebase and produces machine-readable findings. Bundle the two into a single 'AI agent governance' package: every agent a company deploys runs inside an OpenShell sandbox, and every codebase those agents touch gets a recurring security-audit-skill pass, with both reports feeding one compliance dashboard. The buyer is a platform engineering or security team at a company scaling internal AI coding agents that needs to show containment AND audit evidence before leadership or a compliance team will approve a wider rollout — exactly the kind of proof risk-averse enterprises ask for before they'll let agents touch production systems.",
+  "why_now": "Both trended on the same day as part of the same wave: companies are racing to deploy more autonomous coding agents, and the blocker is rarely capability — it's trust. OpenShell proves what an agent *can't* do at runtime; security-audit-skill proves what's *wrong* in the code it produced or touched. Selling them together turns two separate open-source tools into the one artifact a security team actually needs to sign off."
+}

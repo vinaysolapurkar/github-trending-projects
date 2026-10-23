@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-23",
+  "owner": "anthropics",
+  "name": "knowledge-work-plugins",
+  "full_name": "anthropics/knowledge-work-plugins",
+  "url": "https://github.com/anthropics/knowledge-work-plugins",
+  "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+  "language": "Python",
+  "stars_total": 31923,
+  "stars_today": 643,
+  "one_liner": "A free pack of ready-made 'skill sets' that teach an AI assistant how to do specific jobs — sales, legal, finance, support — so it acts like a specialist instead of a generic chatbot.",
+  "buyer": "An operations or IT lead at a mid-size company rolling out AI tools to non-technical teams (sales, legal, finance) who wants the assistant to already know their function's workflows.",
+  "business_use_cases": [
+    "A consultancy customizes the 'legal' or 'finance' plugin with a client's own templates and tool connections, then sells the customized setup as a packaged implementation.",
+    "An agency builds and sells a bespoke plugin for an underserved role (e.g. real estate, recruiting) not in the official set, filling the gap for a niche industry.",
+    "An IT team standardizes company-wide on the 'productivity' plugin, cutting onboarding time for new hires learning internal tools."
+  ],
+  "money_ideas": [
+    { "idea": "Sell paid implementation and customization services: adapt a plugin to a specific company's tools, terminology, and workflows.", "revenue_model": "one-off" },
+    { "idea": "Build and sell original plugins for roles or industries the official marketplace doesn't cover yet.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Pick one underserved role (e.g. property management, recruiting) and build a complete plugin for it this weekend, then sell setup-and-customization packages to small firms in that niche.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-23T12:20:00.000Z"
+}

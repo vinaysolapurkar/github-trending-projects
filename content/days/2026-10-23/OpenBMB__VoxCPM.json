@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-23",
+  "owner": "OpenBMB",
+  "name": "VoxCPM",
+  "full_name": "OpenBMB/VoxCPM",
+  "url": "https://github.com/OpenBMB/VoxCPM",
+  "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+  "language": "Python",
+  "stars_total": 40006,
+  "stars_today": 144,
+  "one_liner": "An AI model that turns typed text into extremely natural-sounding speech in 30 languages, including the ability to design a brand-new voice from a description or clone someone's voice from a short clip.",
+  "buyer": "An audiobook publisher, e-learning company, or indie game studio that needs large volumes of professional-sounding narration without hiring voice actors for every language.",
+  "business_use_cases": [
+    "An audiobook publisher auto-narrates backlist titles into multiple languages overnight instead of booking voice-actor studio time per language.",
+    "An e-learning company dubs existing English course videos into Spanish, French, and other languages automatically, keeping a consistent 'instructor voice' across all of them.",
+    "An indie game studio generates hundreds of unique NPC voice lines from text descriptions alone, without a casting budget for background characters."
+  ],
+  "money_ideas": [
+    { "idea": "Run a 'text-to-audiobook' service: upload a manuscript, get back narrated audio in a chosen voice, charge per finished hour of audio produced.", "revenue_model": "usage" },
+    { "idea": "Offer a subscription dubbing and localization tool for course creators and YouTubers to translate and voice their content into multiple languages.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Build a simple site: paste text or upload a PDF, pick a voice style, download narrated audio — charge per minute generated.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-23T12:20:00.000Z"
+}

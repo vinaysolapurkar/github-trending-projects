@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-23",
+  "owner": "cloudflare",
+  "name": "security-audit-skill",
+  "full_name": "cloudflare/security-audit-skill",
+  "url": "https://github.com/cloudflare/security-audit-skill",
+  "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+  "language": "JavaScript",
+  "stars_total": 40774,
+  "stars_today": 2706,
+  "one_liner": "A plug-in playbook that turns an AI coding assistant into a structured security auditor, finding and double-checking vulnerabilities in a codebase.",
+  "buyer": "An independent penetration tester or boutique security consultancy that wants to cut audit time without hiring more analysts.",
+  "business_use_cases": [
+    "A freelance pentester runs this skill against a client's codebase before kickoff, delivering a first-pass vulnerability list in hours instead of days of manual review.",
+    "A security consultancy wires it into its standard engagement pipeline as the always-on first pass, so human reviewers only triage already-verified findings.",
+    "A SaaS company with no dedicated security team runs it quarterly on its own repo as a cheap, in-house pre-audit before paying for an external pentest."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a 'pre-audit' service: run the skill against a client's repo and sell the structured findings report as a fixed-price deliverable before they commit to a full manual engagement.", "revenue_model": "one-off" },
+    { "idea": "Package it as the backbone of a subscription 'continuous security review' service that re-runs on every release and alerts on new findings.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Wrap this skill in a simple web form: paste a GitHub URL, get a structured vulnerability report back in an hour, charge a flat fee per scan.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-23T12:20:00.000Z"
+}

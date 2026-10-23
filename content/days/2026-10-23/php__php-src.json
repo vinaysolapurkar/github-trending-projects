@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-23",
+  "owner": "php",
+  "name": "php-src",
+  "full_name": "php/php-src",
+  "url": "https://github.com/php/php-src",
+  "description": "The PHP Interpreter",
+  "language": "C",
+  "stars_total": 41450,
+  "stars_today": 722,
+  "one_liner": "The actual program that runs the PHP programming language — the engine behind a huge share of the web.",
+  "buyer": "Not really a product for a specific buyer; it's foundational open-source infrastructure maintained by the PHP core team, used indirectly by every hosting company and PHP-based app.",
+  "business_use_cases": [
+    "A hosting company bundles the latest PHP build into its shared hosting plans, marketing faster page loads from PHP-version upgrades.",
+    "A legacy enterprise app pays a consultant to migrate from an old, unsupported PHP version to a current one to stay inside the security-support window.",
+    "A performance consultancy sells runtime-tuning audits to high-traffic PHP sites, profiling against mainline php-src behavior."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid PHP version-upgrade and migration services to companies stuck on deprecated versions.", "revenue_model": "one-off" },
+    { "idea": "Sell hosting plans that market 'always on latest stable PHP' as a performance and security differentiator.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "There's no weekend product in the interpreter itself — it's core language infrastructure, not a tool to wrap. The real weekend project is downstream: find one company visibly running an end-of-life PHP version and pitch a paid upgrade.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-23T12:20:00.000Z"
+}
