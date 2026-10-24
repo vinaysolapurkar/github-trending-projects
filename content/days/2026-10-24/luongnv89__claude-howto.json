@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-24",
+  "owner": "luongnv89",
+  "name": "claude-howto",
+  "full_name": "luongnv89/claude-howto",
+  "url": "https://github.com/luongnv89/claude-howto",
+  "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+  "language": "Python",
+  "stars_total": 44156,
+  "stars_today": 1053,
+  "one_liner": "A free, structured tutorial series that teaches developers how to actually use Claude Code well, with diagrams, quizzes, and copy-paste templates instead of just a feature list.",
+  "buyer": "A developer or small team lead who just adopted Claude Code and wants a guided path to get real productivity out of it instead of fumbling through trial and error.",
+  "business_use_cases": [
+    "A dev team onboarding new hires points them at this guide instead of writing their own internal Claude Code training material.",
+    "A coding bootcamp or corporate trainer uses the modules as the backbone of a paid 'AI-assisted development' workshop.",
+    "A freelance developer uses the advanced templates to set up client projects with production-ready hooks and subagent pipelines faster, billing for the setup."
+  ],
+  "money_ideas": [
+    { "idea": "Turn the guided learning path into a paid cohort-based course or live workshop with office hours.", "revenue_model": "one-off" },
+    { "idea": "Sell a premium tier of more advanced, maintained templates and plugin bundles beyond the free repo.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Package the existing modules into a one-day paid live workshop for teams adopting Claude Code — the content already exists, the repo just needs a presenter.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-24T12:05:46.000Z"
+}

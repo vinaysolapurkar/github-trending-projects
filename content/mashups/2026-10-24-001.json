@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-24-001",
+  "date": "2026-10-24",
+  "repo_a": "makecindy/cindy",
+  "repo_b": "NVIDIA/OpenShell",
+  "title": "Guardrailed Cindy for Small Business",
+  "pitch": "Cindy is a consumer-friendly AI agent that actually drives your computer and apps to finish real work, but that same autonomy is exactly what makes a non-technical small-business owner nervous about letting it touch their invoices, email, or customer data unsupervised. OpenShell solves precisely that trust problem: it sandboxes an agent's file, network, and credential access behind an explicit policy, so the agent can act freely inside its lane and nowhere else. Package Cindy running inside an OpenShell sandbox as a turnkey offering for small businesses — 'the AI assistant that can do real work on your computer, but literally cannot touch your bank login or delete your backups unless you say so.' The buyer is a small-business owner or solo professional who wants Cindy's out-of-the-box usefulness without having to trust it blindly.",
+  "why_now": "Both trended the same day because the AI-agent market just split into two needs at once: agents that *do* more (Cindy) and agents that are *contained* while doing it (OpenShell). Consumer-facing agent products are racing ahead of the safety story non-technical buyers actually need, which is the exact gap a 'safety-wrapped Cindy' service fills before a bigger vendor bundles the two itself."
+}

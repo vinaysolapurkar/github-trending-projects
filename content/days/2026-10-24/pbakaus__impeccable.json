@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-24",
+  "owner": "pbakaus",
+  "name": "impeccable",
+  "full_name": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "description": "The design language that makes your AI harness better at design.",
+  "language": "Rust",
+  "stars_total": 85859,
+  "stars_today": 541,
+  "one_liner": "A design rulebook and set of commands that stops an AI coding assistant from producing the same cliched look (purple gradients, cards-in-cards, Inter font) on every project it builds.",
+  "buyer": "A solo developer or small product team shipping their own app UI who wants it to look professionally designed without hiring a designer.",
+  "business_use_cases": [
+    "An indie SaaS builder runs `/impeccable polish` before every launch so the product doesn't look like an obvious AI-generated clone of every other SaaS site.",
+    "A freelance developer uses `/impeccable audit` and `/impeccable critique` as a built-in design-review step they can bill clients for.",
+    "A small agency standardizes every project on Impeccable so client deliverables have a consistent, non-generic design quality bar."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid 'design doctor' service: run the audit and critique commands against a client's existing app and deliver a prioritized fix list.", "revenue_model": "one-off" },
+    { "idea": "Build and sell premium theme/template packs that plug into the same command system for specific niches (fintech, healthtech, etc.).", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Offer a flat-fee 'AI design audit' for indie founders: run `/impeccable audit` + `/impeccable critique` on their live app and send back a short punch list within 24 hours.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-24T12:05:46.000Z"
+}

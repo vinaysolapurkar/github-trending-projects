@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-24",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing in today's scrape or the last couple weeks is a social-media video editor; we'll notify when one trends." },
+    { "problem_id": "p002", "repo": null, "why": "No recent trending repo targets product photography for e-commerce sellers." },
+    { "problem_id": "p003", "repo": "akitaonrails/ai-memory", "why": "It's built specifically to give coding-agent CLIs persistent memory and handoff across sessions, which is exactly this problem.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "DietrichGebert/ponytail", "why": "It's a skill designed to make an AI agent write less code and avoid over-engineering, directly targeting bloated AI-generated code.", "confidence": "high" },
+    { "problem_id": "p005", "repo": null, "why": "Nothing recent is built for organizing a personal library of research PDFs; Graphify-Labs/graphify is close but is aimed at codebases, not academic papers, so it's not an honest fit." },
+    { "problem_id": "p006", "repo": null, "why": "No recent repo helps a creator generate visuals for news explainers without their own footage." },
+    { "problem_id": "p007", "repo": "K-Dense-AI/scientific-agent-skills", "why": "It turns an AI agent into a scientist with 100+ scientific databases, which is a real substitute for a bioinformatics team on small-lab budgets.", "confidence": "high" },
+    { "problem_id": "p008", "repo": null, "why": "Nothing recent is specifically a private, self-hosted AI chat positioned for law-firm-grade confidentiality." },
+    { "problem_id": "p009", "repo": "OpenBMB/VoxCPM", "why": "It turns written text into natural multilingual narration, which is the core step in turning a blog post into a narrated video.", "confidence": "high" },
+    { "problem_id": "p010", "repo": null, "why": "No recent trending repo is a private, self-owned notes app alternative." },
+    { "problem_id": "p011", "repo": "Graphify-Labs/graphify", "why": "It's explicitly built to turn an unfamiliar codebase into a navigable, explained map for someone who just inherited it.", "confidence": "high" },
+    { "problem_id": "p012", "repo": "luongnv89/claude-howto", "why": "It's a structured, guided path for going from zero to building real things with an AI coding agent, which is what a first-time AI founder needs.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "No recent trending repo addresses restaurant inventory management." }
+  ]
+}

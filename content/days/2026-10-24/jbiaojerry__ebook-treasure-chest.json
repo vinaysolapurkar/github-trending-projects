@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-24",
+  "owner": "jbiaojerry",
+  "name": "ebook-treasure-chest",
+  "full_name": "jbiaojerry/ebook-treasure-chest",
+  "url": "https://github.com/jbiaojerry/ebook-treasure-chest",
+  "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+  "language": "Python",
+  "stars_total": 22277,
+  "stars_today": 220,
+  "one_liner": "A big, searchable list of download links for Chinese-language ebooks, organized by topic, with a simple search website on top.",
+  "buyer": "Honestly, nobody legitimate pays for this — it's a free link directory, and much of the content it links to appears to be unlicensed copies of copyrighted books.",
+  "business_use_cases": [
+    "There isn't a real above-board business use case: it's a consumption directory for readers, not a tool a company would buy or build on.",
+    "The only 'business' pattern visible in the repo itself is its own 'buy us a coffee' donation box, which is not a scalable model.",
+    "A copyright holder's business use case here is defensive, not commercial: watching repos like this for takedown requests."
+  ],
+  "money_ideas": [
+    { "idea": "There is no honest revenue model to recommend — this is a link aggregator for likely-pirated content, and monetizing it would mean profiting from copyright infringement.", "revenue_model": "n/a" }
+  ],
+  "steal_this": "Nothing to build here. If the appeal is 'a searchable catalog of books for a niche audience,' build that instead on fully licensed content (e.g. public-domain texts, or a legitimate affiliate storefront) rather than copying this project's approach.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-24T12:05:46.000Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-24",
+  "owner": "makecindy",
+  "name": "cindy",
+  "full_name": "makecindy/cindy",
+  "url": "https://github.com/makecindy/cindy",
+  "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+  "language": "TypeScript",
+  "stars_total": 3754,
+  "stars_today": 471,
+  "one_liner": "A desktop and mobile app that gives you one AI assistant that can actually use your computer and apps to finish real tasks, switching between different AI models and tools under the hood without you noticing.",
+  "buyer": "A busy professional or small-business owner who wants one AI assistant to actually complete tasks on their computer (not just chat), and is willing to pay for a managed service instead of configuring raw AI coding tools themselves.",
+  "business_use_cases": [
+    "A non-technical small-business owner uses Cindy to handle recurring computer tasks (filing, data entry, scheduling) without learning Claude Code or Codex directly.",
+    "A startup team uses Cindy's automation features to run a recurring report-generation or monitoring task that notifies them via chat.",
+    "A consultant builds a niche practice offering 'Cindy automation setup' for solo professionals who want AI handling their admin work but don't know where to start."
+  ],
+  "money_ideas": [
+    { "idea": "Resell setup and workflow-building services: configure Cindy's memory, skills, and automations for a client's specific business.", "revenue_model": "one-off" },
+    { "idea": "Build and sell a packaged 'skill' (per the project's own extensibility model) for a specific vertical (real estate, legal intake, etc.) once the marketplace opens.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Pick one repetitive task a local small business does weekly (invoice chasing, appointment confirmations) and build a Cindy automation for it as a paid one-time setup service.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-24T12:05:46.000Z"
+}

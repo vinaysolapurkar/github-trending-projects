@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-24",
+  "owner": "pollen-robotics",
+  "name": "microduck",
+  "full_name": "pollen-robotics/microduck",
+  "url": "https://github.com/pollen-robotics/microduck",
+  "description": "A Tiny biped duck robot 🦆",
+  "language": "Rust",
+  "stars_total": 10632,
+  "stars_today": 421,
+  "one_liner": "A small, buyable robot duck (about the size of a cat) that walks, rolls, picks things up, and gets back up when knocked over, controlled by a gamepad or its own trained AI.",
+  "buyer": "A robotics hobbyist, STEM educator, or research lab that wants an affordable, hackable walking robot to teach or experiment on without building hardware from scratch.",
+  "business_use_cases": [
+    "A university robotics course buys a fleet of these as an affordable, open platform for teaching reinforcement learning and control instead of expensive research robots.",
+    "A STEM education company builds a curriculum and robot-kit bundle around it for schools and after-school programs.",
+    "A robotics YouTuber or influencer builds a content business around customizing, racing, or teaching with the duck, selling add-on parts or tutorials to the community."
+  ],
+  "money_ideas": [
+    { "idea": "Sell curated educational kits (duck + lesson plans + custom parts) to schools and STEM programs.", "revenue_model": "one-off" },
+    { "idea": "Sell premium pre-trained behavior packs (tricks, games, new RL policies) as add-on content for owners.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Buy the duck, build a 5-lesson 'teach a robot to walk' curriculum for middle schoolers, and sell it as a weekend STEM workshop kit.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-24T12:05:46.000Z"
+}

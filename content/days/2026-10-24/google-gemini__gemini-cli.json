@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-24",
+  "owner": "google-gemini",
+  "name": "gemini-cli",
+  "full_name": "google-gemini/gemini-cli",
+  "url": "https://github.com/google-gemini/gemini-cli",
+  "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+  "language": "TypeScript",
+  "stars_total": 107601,
+  "stars_today": 38,
+  "one_liner": "A free terminal tool from Google that lets you chat with its Gemini AI to read code, fix bugs, and automate coding tasks directly from the command line.",
+  "buyer": "A developer or small dev team already using Google Cloud or a Gemini subscription who wants an AI coding assistant without paying for a separate tool.",
+  "business_use_cases": [
+    "A development agency already on Google Cloud standardizes on it for client coding work instead of paying for a second AI coding subscription.",
+    "A freelance developer uses its scripting mode to automate repetitive tasks like rebasing branches or triaging pull requests across many client repos.",
+    "An enterprise using Vertex AI wires it into CI pipelines for automated code review or doc generation tasks."
+  ],
+  "money_ideas": [
+    { "idea": "Build and sell MCP server integrations that connect gemini-cli to niche business tools a company already uses.", "revenue_model": "one-off" },
+    { "idea": "Offer setup and automation consulting for teams that want to wire gemini-cli into their CI/CD pipeline.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Note is already being superseded by Google's own Antigravity CLI per the repo's own README — a 'steal this' here is really just migrating existing gemini-cli automations rather than building new business on it.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-24T12:05:46.000Z"
+}

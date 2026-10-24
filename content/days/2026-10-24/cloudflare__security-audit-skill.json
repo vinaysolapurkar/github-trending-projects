@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-24",
+  "owner": "cloudflare",
+  "name": "security-audit-skill",
+  "full_name": "cloudflare/security-audit-skill",
+  "url": "https://github.com/cloudflare/security-audit-skill",
+  "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+  "language": "JavaScript",
+  "stars_total": 43009,
+  "stars_today": 2271,
+  "one_liner": "A set of instructions that turns an AI coding assistant into a security auditor, so it hunts for vulnerabilities in a codebase in careful stages and double-checks its own findings before reporting them.",
+  "buyer": "A security engineer or engineering lead at a software company who wants cheap, repeatable first-pass security reviews before a human pentest or release.",
+  "business_use_cases": [
+    "A startup with no dedicated security team runs this skill against its codebase before every major release to catch obvious vulnerabilities for free.",
+    "A security consultancy uses it as the first pass on a client engagement, so human pentesters spend their paid hours on the hard findings instead of the easy ones.",
+    "An open-source maintainer runs it on pull requests to flag risky changes (new network calls, loosened auth checks) before merging."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted 'continuous audit' service that runs this skill against a company's repos on every release and emails a report.", "revenue_model": "subscription" },
+    { "idea": "Sell a few hours of expert review to interpret and prioritize the findings it produces.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Wrap it in a GitHub Action that runs on every PR and posts the findings as a bot comment — sell it as a cheap automated security reviewer for small teams.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-24T12:05:46.000Z"
+}

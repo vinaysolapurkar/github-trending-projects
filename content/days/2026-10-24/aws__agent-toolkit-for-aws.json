@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-24",
+  "owner": "aws",
+  "name": "agent-toolkit-for-aws",
+  "full_name": "aws/agent-toolkit-for-aws",
+  "url": "https://github.com/aws/agent-toolkit-for-aws",
+  "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+  "language": "Python",
+  "stars_total": 2966,
+  "stars_today": 11,
+  "one_liner": "A free, official AWS-made toolkit that teaches AI coding assistants how to correctly set up and deploy things on Amazon's cloud, instead of guessing.",
+  "buyer": "An agency or freelance developer who builds on AWS for clients and wants their AI assistant to stop making expensive cloud-architecture mistakes.",
+  "business_use_cases": [
+    "A small dev shop installs the toolkit so its AI coding assistant stops suggesting outdated or insecure AWS setups for client projects.",
+    "A startup's one DevOps engineer uses the 'startup advisor' plugin to get AWS cost and architecture guidance it can't afford to hire a consultant for.",
+    "A security-focused agency uses the devsecops plugin to have an agent run vulnerability scans and penetration tests on AWS workloads it manages for clients."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid AWS architecture/cost audits where you run the agent toolkit against a client's AWS account and deliver a cleanup report.", "revenue_model": "one-off" },
+    { "idea": "Package it into a managed 'AWS copilot' service for small businesses who have no in-house cloud expertise.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Offer a flat-fee 'AWS cost and security checkup' service for small businesses, using this toolkit to do the AI-assisted legwork in an afternoon.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-24T12:05:46.000Z"
+}

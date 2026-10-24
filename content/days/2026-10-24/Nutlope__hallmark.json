@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-24",
+  "owner": "Nutlope",
+  "name": "hallmark",
+  "full_name": "Nutlope/hallmark",
+  "url": "https://github.com/Nutlope/hallmark",
+  "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+  "language": "CSS",
+  "stars_total": 31502,
+  "stars_today": 567,
+  "one_liner": "A rulebook that an AI coding assistant follows so the websites and apps it designs stop looking like generic 'made by AI' templates, and instead look like something a real design studio made.",
+  "buyer": "A solo founder or small agency shipping a product landing page or app UI who can't afford a designer but doesn't want their site to look AI-generated.",
+  "business_use_cases": [
+    "A solo SaaS founder uses it to redesign their landing page so it looks hand-crafted instead of like every other AI-built startup site.",
+    "A small web agency installs it across client projects as a built-in quality bar, letting them promise 'no generic AI design' as a selling point.",
+    "A no-code/low-code tool bundles it under the hood so every site its users generate looks distinct rather than templated."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid 'redesign and audit' service: run Hallmark's audit/redesign commands on a client's existing site and deliver a polished version.", "revenue_model": "one-off" },
+    { "idea": "Build a hosted SaaS wrapper that lets non-technical founders paste a URL and get a Hallmark-styled rebuild, charging per project.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Offer a weekend 'landing page glow-up' service: run `/hallmark redesign` on a founder's existing site, ship the result same-day, charge a flat fee.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-24T12:05:46.000Z"
+}
