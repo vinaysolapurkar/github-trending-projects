@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-25-001",
+  "date": "2026-10-25",
+  "repo_a": "TauricResearch/TradingAgents",
+  "repo_b": "coollabsio/coolify",
+  "title": "Your Own Trading Desk, On Your Own Server",
+  "pitch": "TradingAgents gives a retail trader a free, multi-agent research desk — fundamentals, news, sentiment, and risk analysts that debate a trade before it's placed. The catch is that running it well means handing your API keys, your strategy, and your portfolio data to whatever cloud host you pick, which is exactly the trust problem self-directed traders worry about. Coolify solves that: it's a self-hostable PaaS that lets anyone with a cheap VPS run and manage serious software without touching a third-party cloud dashboard. Package TradingAgents pre-wired inside a one-click Coolify deployment, and sell it to retail and small quant-curious traders as 'your own AI trading research desk, on a server only you control' — no subscription to a SaaS that sees your strategy, no monthly per-seat fee, just a one-time setup charge.",
+  "why_now": "Both trended the same day because the two biggest frictions in DIY AI trading tools just showed up next to each other: sophisticated multi-agent research (TradingAgents) and the self-hosting infrastructure to run it privately (Coolify). Retail traders are increasingly wary of SaaS tools reading their strategies and positions, which makes a 'runs entirely on infrastructure you own' pitch land better right now than it would have a year ago."
+}

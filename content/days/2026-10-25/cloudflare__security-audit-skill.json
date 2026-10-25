@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-25",
+  "owner": "cloudflare",
+  "name": "security-audit-skill",
+  "full_name": "cloudflare/security-audit-skill",
+  "url": "https://github.com/cloudflare/security-audit-skill",
+  "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+  "language": "JavaScript",
+  "stars_total": 45811,
+  "stars_today": 2874,
+  "one_liner": "A free toolkit that turns an AI coding assistant into a structured security auditor, finding and double-checking real vulnerabilities in a codebase.",
+  "buyer": "An independent security consultant or small pentest shop who wants to multiply how many codebases they can audit without hiring more analysts.",
+  "business_use_cases": [
+    "A freelance security consultant uses it to do a first-pass automated audit on client codebases, then spends their billable hours only on triaging and confirming the real findings.",
+    "A startup's engineering lead runs it before a funding round or SOC2 push to catch obvious vulnerabilities before paying for a full professional pentest.",
+    "A boutique security firm builds a productized 'rapid audit' offering priced below a traditional pentest, using this skill as the core engine."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a flat-fee 'automated security audit' report to small startups who can't afford a full traditional pentest.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Use it internally to cut the hours a boutique security consultancy bills per engagement, increasing margin on existing retainer clients.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Run it against a client's or your own side project's codebase this weekend and package the resulting report as a paid 'security health check' offer.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-25T12:05:06.871Z"
+}

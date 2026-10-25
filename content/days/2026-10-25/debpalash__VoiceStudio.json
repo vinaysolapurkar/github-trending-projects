@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-25",
+  "owner": "debpalash",
+  "name": "VoiceStudio",
+  "full_name": "debpalash/VoiceStudio",
+  "url": "https://github.com/debpalash/VoiceStudio",
+  "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+  "language": "Python",
+  "stars_total": 85677,
+  "stars_today": 1588,
+  "one_liner": "A free, run-it-yourself replacement for paid voice-cloning services like ElevenLabs — clone a voice, dub a video into another language, or turn text into narration, all on your own computer.",
+  "buyer": "An audiobook publisher, video localization studio, or podcast producer who's currently paying per-minute fees to a cloud voice service and wants to cut that cost while keeping voice recordings private.",
+  "business_use_cases": [
+    "A small audiobook publisher narrates and produces books in-house using cloned narrator voices instead of hiring voice actors or paying per-minute cloud TTS fees.",
+    "A video agency dubs client marketing videos into multiple languages for international launches without sending footage or voice data to a third-party cloud service.",
+    "A course creator turns written lesson scripts into natural-sounding narrated videos in several languages to reach international students."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a dubbing/localization service to YouTubers and course creators who want their content in multiple languages without hiring voice actors per language.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Run a self-hosted 'audiobook production' shop for independent authors, charging per finished audiobook.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell a managed, privacy-guaranteed voice-cloning subscription to businesses (e.g. call centers, e-learning companies) that can't send voice data to third-party clouds.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Clone your own voice, dub one of your existing videos into two other languages this weekend, and post it as a before/after demo to attract localization clients.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-25T12:05:06.871Z"
+}

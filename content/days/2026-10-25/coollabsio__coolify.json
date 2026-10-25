@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-25",
+  "owner": "coollabsio",
+  "name": "coolify",
+  "full_name": "coollabsio/coolify",
+  "url": "https://github.com/coollabsio/coolify",
+  "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+  "language": "PHP",
+  "stars_total": 63844,
+  "stars_today": 150,
+  "one_liner": "A free, self-hosted alternative to Heroku and Vercel — deploy and manage apps, databases, and services on your own server instead of renting someone else's cloud.",
+  "buyer": "A freelance developer or small agency serving budget-conscious small-business clients who want reliable app hosting without ongoing per-seat cloud platform fees.",
+  "business_use_cases": [
+    "A freelance developer deploys and manages client apps on a single VPS using Coolify, charging a monthly 'hosting management' fee instead of clients paying Heroku/Vercel bills directly.",
+    "A small agency standardizes all client deployments on self-hosted Coolify to cut recurring cloud platform costs and increase their own margin.",
+    "A technical consultant migrates a startup off an expensive PaaS onto their own servers via Coolify as a one-time cost-cutting project."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a 'managed self-hosted deployment' service: set up and maintain Coolify on a client's own server for a recurring fee undercutting Heroku/Vercel pricing.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Run a one-time migration service moving small businesses off expensive PaaS platforms onto self-hosted Coolify.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Migrate one of your own side projects off a paid PaaS onto a cheap VPS running Coolify this weekend, then offer the same migration as a paid service to a client still paying Heroku/Vercel bills.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-25T12:05:06.871Z"
+}

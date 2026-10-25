@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-25",
+  "owner": "TauricResearch",
+  "name": "TradingAgents",
+  "full_name": "TauricResearch/TradingAgents",
+  "url": "https://github.com/TauricResearch/TradingAgents",
+  "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+  "language": "Python",
+  "stars_total": 113920,
+  "stars_today": 309,
+  "one_liner": "A free toolkit where several specialized AI 'analysts' (fundamentals, news, sentiment, risk) debate and vote on a trade, like a miniature research desk you run yourself.",
+  "buyer": "A self-directed retail trader or small quant-curious investor who wants a disciplined, multi-angle research process instead of trading on gut feeling, and is willing to pay for a polished version of this workflow.",
+  "business_use_cases": [
+    "A retail trader runs it against their own watchlist each morning as a structured 'second opinion' before placing trades, instead of guessing.",
+    "A small fintech content creator builds a paid newsletter or Discord where they publish daily TradingAgents-generated research debates with their own commentary.",
+    "A boutique quant shop uses it as a rapid prototyping layer to test new trading-strategy ideas before committing engineering time to a full backtest system."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Package a hosted, easier-to-use version with a clean dashboard and charge retail traders a monthly fee for daily multi-agent trade research.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell curated 'AI trading desk' reports built on top of it to a paid newsletter audience.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Run it against five stocks you already follow this weekend and publish the AI debate transcripts as free content to build an audience for a future paid tool.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-25T12:05:06.871Z"
+}

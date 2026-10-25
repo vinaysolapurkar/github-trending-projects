@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-25",
+  "owner": "AgriciDaniel",
+  "name": "claude-seo",
+  "full_name": "AgriciDaniel/claude-seo",
+  "url": "https://github.com/AgriciDaniel/claude-seo",
+  "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+  "language": "Python",
+  "stars_total": 20212,
+  "stars_today": 179,
+  "one_liner": "A free, comprehensive SEO audit toolkit for an AI coding assistant — checks technical SEO, site speed, structured data, and even how well AI search engines like ChatGPT can find and cite your site.",
+  "buyer": "A solo SEO freelancer or small marketing agency who wants to run thorough, consistent audits for clients without hiring extra analysts or buying several expensive SEO tool subscriptions.",
+  "business_use_cases": [
+    "An SEO freelancer runs it against every new client site as the first deliverable, turning a normally multi-hour manual audit into a same-day paid report.",
+    "A small marketing agency standardizes all client onboarding on this audit, then upsells ongoing SEO and 'AI search visibility' optimization retainers.",
+    "A local-business web developer bundles a 'Google and AI-search ready' audit into every site build as a premium add-on."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a one-time SEO + AI-search-readiness audit report to small-business website owners.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer an ongoing monthly SEO monitoring retainer built on top of the free audit, re-running it and tracking improvement over time.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Run a full audit against three local businesses' websites this weekend and cold-pitch each owner a paid fix-it report based on the results.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-25T12:05:06.871Z"
+}

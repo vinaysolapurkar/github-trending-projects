@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-25",
+  "owner": "Nutlope",
+  "name": "hallmark",
+  "full_name": "Nutlope/hallmark",
+  "url": "https://github.com/Nutlope/hallmark",
+  "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+  "language": "CSS",
+  "stars_total": 32850,
+  "stars_today": 1359,
+  "one_liner": "A rulebook an AI coding tool follows so the websites it builds for you don't look like every other AI-made site.",
+  "buyer": "A solo SaaS founder or indie hacker shipping their own landing page or app UI with an AI coding tool, who's embarrassed that it looks generic and 'AI-made.'",
+  "business_use_cases": [
+    "A freelance developer installs Hallmark into their AI coding workflow and markets 'AI-built sites that don't look AI-built' as a premium service to small-business clients.",
+    "A no-code/low-code agency uses it as an internal quality gate so every AI-assisted client site clears a design bar before delivery.",
+    "A design-conscious indie founder uses the 48 built-in themes to quickly ship a landing page that looks custom-made instead of templated."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid custom theme creation or a full redesign/audit service for teams that want a Hallmark-quality look but don't want to configure it themselves.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell a curated theme pack beyond the free 48 to design-conscious indie developers.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Run Hallmark's audit against three local small-business websites, then offer each owner a paid redesign showing the before/after.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-25T12:05:06.871Z"
+}

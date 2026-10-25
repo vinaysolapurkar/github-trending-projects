@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-25",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing in today's scrape or recent days is a social-media video editor." },
+    { "problem_id": "p002", "repo": null, "why": "No recent trending repo targets product photography for e-commerce sellers." },
+    { "problem_id": "p003", "repo": "JetBrains/thinkrail", "why": "It's an agentic IDE built specifically to retain durable project knowledge across sessions through living specs, directly targeting this problem.", "confidence": "high" },
+    { "problem_id": "p004", "repo": null, "why": "Today's design skills (Hallmark, Impeccable) fix AI-generated UI, not AI-generated code bloat; nothing recent targets over-engineered code specifically." },
+    { "problem_id": "p005", "repo": null, "why": "Nothing recent is built for organizing a personal library of research PDFs." },
+    { "problem_id": "p006", "repo": null, "why": "No recent repo helps a creator generate visuals for news explainers without their own footage." },
+    { "problem_id": "p007", "repo": null, "why": "Nothing in today's scrape addresses bioinformatics or lab science specifically." },
+    { "problem_id": "p008", "repo": null, "why": "Cindy runs locally, which is close, but it's a general computer-use agent, not a private AI chat positioned for law-firm confidentiality; not an honest fit." },
+    { "problem_id": "p009", "repo": "debpalash/VoiceStudio", "why": "It turns written text into natural multilingual narration and can dub video, which is exactly the step needed to turn a blog post into a narrated video.", "confidence": "high" },
+    { "problem_id": "p010", "repo": null, "why": "No recent trending repo is a private, self-owned notes app alternative." },
+    { "problem_id": "p011", "repo": null, "why": "Nothing in today's scrape maps or explains an unfamiliar codebase." },
+    { "problem_id": "p012", "repo": null, "why": "No recent repo is a general on-ramp for a first-time AI product founder; today's tools (trading, SEO, design skills) are each too narrow a starting point." },
+    { "problem_id": "p013", "repo": null, "why": "Coolify can host restaurant software but isn't itself an inventory tool, so it's too generic to count as an honest match." }
+  ]
+}

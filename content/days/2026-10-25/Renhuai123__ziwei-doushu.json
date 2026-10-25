@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-25",
+  "owner": "Renhuai123",
+  "name": "ziwei-doushu",
+  "full_name": "Renhuai123/ziwei-doushu",
+  "url": "https://github.com/Renhuai123/ziwei-doushu",
+  "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+  "language": "TypeScript",
+  "stars_total": 7372,
+  "stars_today": 489,
+  "one_liner": "A free, open-source engine (plus a massive dataset of interpretations) for casting and reading Chinese astrology charts — the kind of fortune-telling millions of Chinese speakers pay apps for.",
+  "buyer": "A Chinese-language app developer or content creator who wants to launch a fortune-telling or astrology app for a market that already spends real money on this, without building the chart-casting engine and interpretation content from scratch.",
+  "business_use_cases": [
+    "A developer builds a consumer astrology app for Chinese-speaking users, charging for detailed readings while using this engine and dataset as the core free tier.",
+    "A content creator or matchmaking service offers personalized chart readings as a paid add-on to an existing dating or lifestyle app.",
+    "A wellness or life-coaching business in Chinese-speaking markets adds 'AI-assisted' astrology readings as a premium upsell to existing consultations."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Launch an app offering free basic charts with paid in-depth readings or yearly forecasts, since the underlying engine and content are free to use.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a subscription for ongoing personalized forecasts (monthly/yearly updates) built on the dataset.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Wire the engine to a simple chat interface this weekend and offer free basic readings to build an audience before adding paid in-depth reports.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-25T12:05:06.871Z"
+}

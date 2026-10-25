@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-25",
+  "owner": "pbakaus",
+  "name": "impeccable",
+  "full_name": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "description": "The design language that makes your AI harness better at design.",
+  "language": "Rust",
+  "stars_total": 86985,
+  "stars_today": 1113,
+  "one_liner": "A set of design rules and commands that teaches an AI coding assistant to stop making websites that all look the same.",
+  "buyer": "A solo developer or small product team shipping their own app's frontend with an AI coding tool, who wants it to look professionally designed without hiring a designer.",
+  "business_use_cases": [
+    "A freelance developer adds Impeccable to their toolchain and advertises 'AI-assisted builds that pass a real design audit' to land better-paying client work.",
+    "A bootstrapped startup uses its 62 detector rules as an automated design QA step before every release, catching generic-looking UI before customers see it.",
+    "A design agency uses it internally to speed up first-draft UI for AI-assisted projects, then applies human polish on top."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'AI design audit' service to startups: run Impeccable's detector rules against their site and deliver a fix-it report.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build and sell additional PRODUCT.md setup templates or industry-specific design presets on top of the open-source base.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Run Impeccable's audit against your own side project this weekend and ship the fixes it flags before showing it to anyone.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-25T12:05:06.871Z"
+}
