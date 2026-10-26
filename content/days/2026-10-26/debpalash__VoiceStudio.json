@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-26",
+  "owner": "debpalash",
+  "name": "VoiceStudio",
+  "full_name": "debpalash/VoiceStudio",
+  "url": "https://github.com/debpalash/VoiceStudio",
+  "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+  "language": "Python",
+  "stars_total": 87935,
+  "stars_today": 2292,
+  "one_liner": "A free, fully-offline alternative to ElevenLabs that clones voices, dubs videos into other languages, and turns text into audiobooks — all running on your own computer.",
+  "buyer": "An independent podcaster, audiobook publisher, or video localization agency who wants ElevenLabs-level voice tools without the ongoing per-minute subscription cost.",
+  "business_use_cases": [
+    "An indie audiobook publisher narrates backlist titles in a cloned voice instead of paying studio voice-actor rates.",
+    "A YouTube creator dubs their videos into multiple languages to reach international audiences without hiring voice talent per language.",
+    "A localization agency offers cheaper dubbing packages to small clients by running this instead of paying per-minute cloud TTS fees."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a dubbing/voiceover service for indie creators and small businesses, priced per video or per minute.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Sell audiobook narration-as-a-service to self-published authors who can't afford studio narrators.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Run a subscription service that batch-dubs a YouTube channel's back catalog into new languages monthly.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Dub one popular public-domain audiobook chapter or a friend's YouTube video into two languages this weekend and use it as a portfolio piece to pitch paid dubbing work.",
+  "opportunity_rating": 5,
+  "generated_at": "2026-10-26T12:15:00.000Z"
+}

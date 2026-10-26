@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-26",
+  "owner": "TauricResearch",
+  "name": "TradingAgents",
+  "full_name": "TauricResearch/TradingAgents",
+  "url": "https://github.com/TauricResearch/TradingAgents",
+  "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+  "language": "Python",
+  "stars_total": 115289,
+  "stars_today": 1376,
+  "one_liner": "A framework where a team of AI 'analyst' bots debate stock picks and hand off a buy/sell decision, like a mini trading desk.",
+  "buyer": "A retail algorithmic trader or small quant hobbyist who wants a research-and-debate process behind their trades instead of gut-feel picks.",
+  "business_use_cases": [
+    "A retail trader runs it nightly on a personal watchlist to get a written research memo before the market opens.",
+    "A fintech newsletter writer uses its multi-agent debate output as the raw material for a daily 'bull vs bear' column.",
+    "A small quant shop backtests its decision logic against historical data to validate a signal before risking real capital."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Package daily AI-generated trade theses as a paid newsletter or Discord subscription for retail traders.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer a hosted version with brokerage integration, charging for compute and data access.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Run it this weekend against a 10-stock watchlist, backtest the last 6 months, and publish the results as a free Substack post to build an audience before selling a paid tier.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-26T12:15:00.000Z"
+}

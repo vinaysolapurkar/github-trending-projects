@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-26",
+  "owner": "pollen-robotics",
+  "name": "microduck",
+  "full_name": "pollen-robotics/microduck",
+  "url": "https://github.com/pollen-robotics/microduck",
+  "description": "A Tiny biped duck robot 🦆",
+  "language": "Rust",
+  "stars_total": 12123,
+  "stars_today": 844,
+  "one_liner": "A tiny two-legged robot duck kit that walks using machine-learning control, built to be assembled and programmed by hobbyists and students.",
+  "buyer": "A STEM education company or robotics club organizer looking for an affordable, engaging hands-on robotics kit.",
+  "business_use_cases": [
+    "A STEM education company sells assembled or kit versions of it as classroom robotics projects for middle/high schoolers.",
+    "A robotics YouTuber or maker builds a paid build-along course teaching assembly and the reinforcement-learning control code.",
+    "A university robotics lab uses it as a cheap physical testbed for teaching reinforcement learning to students."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell pre-assembled or kitted versions with a printed guide to schools and hobbyists.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell a paid video course walking through assembly and training the walking policy.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build one this weekend, film the assembly and first steps, and list it as a paid build-along course or a kit on a maker marketplace.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-26T12:15:00.000Z"
+}

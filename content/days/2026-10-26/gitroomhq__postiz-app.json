@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-26",
+  "owner": "gitroomhq",
+  "name": "postiz-app",
+  "full_name": "gitroomhq/postiz-app",
+  "url": "https://github.com/gitroomhq/postiz-app",
+  "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+  "language": "TypeScript",
+  "stars_total": 37939,
+  "stars_today": 146,
+  "one_liner": "A scheduling tool that plans, writes and posts your social media content automatically across platforms, with an AI agent doing the busywork.",
+  "buyer": "A small business owner or solo social media manager juggling multiple client accounts who wants to automate scheduling and content drafting.",
+  "business_use_cases": [
+    "A freelance social media manager runs it to handle scheduling and first-draft captions for five client accounts at once.",
+    "A small e-commerce brand automates its own posting calendar instead of paying for Buffer or Hootsuite.",
+    "An agency self-hosts it to offer white-labeled social scheduling as part of a broader marketing retainer without paying per-seat SaaS fees."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Self-host it and resell managed social media scheduling to small businesses as a monthly retainer.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer a one-off 'set up your automated posting calendar' service for small business owners.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Self-host it this weekend, connect two of your own social accounts, and offer a free month of automated posting to one local business to get a testimonial.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-26T12:15:00.000Z"
+}

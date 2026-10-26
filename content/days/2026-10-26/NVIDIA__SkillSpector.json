@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-26",
+  "owner": "NVIDIA",
+  "name": "SkillSpector",
+  "full_name": "NVIDIA/SkillSpector",
+  "url": "https://github.com/NVIDIA/SkillSpector",
+  "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+  "language": "Python",
+  "stars_total": 21713,
+  "stars_today": 203,
+  "one_liner": "A security scanner that checks whether an AI agent 'skill' (an add-on for tools like Claude Code) is safe to install, or secretly malicious.",
+  "buyer": "A security or platform engineering lead at a company that lets employees install third-party AI agent skills and worries about supply-chain attacks.",
+  "business_use_cases": [
+    "An enterprise security team wires it into CI so no AI agent skill gets installed company-wide without passing a scan.",
+    "A marketplace for AI skills (like a plugin store) runs it automatically on every submission before listing.",
+    "A security consultancy offers 'AI supply-chain audits' for companies rolling out agentic coding tools, using it as the core scanner."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a hosted scanning-as-a-service API that skill marketplaces or enterprises pay to call per scan.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Sell an enterprise dashboard/reporting layer on top of the open-source scanner for compliance teams.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Scan every skill in a popular public skill marketplace this weekend, publish the vulnerability stats as a report, and use it to pitch a paid monitoring subscription to that marketplace.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-26T12:15:00.000Z"
+}

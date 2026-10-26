@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-26",
+  "owner": "Nutlope",
+  "name": "hallmark",
+  "full_name": "Nutlope/hallmark",
+  "url": "https://github.com/Nutlope/hallmark",
+  "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+  "language": "CSS",
+  "stars_total": 35077,
+  "stars_today": 2235,
+  "one_liner": "A tool that makes websites built by AI coding assistants look like a real designer made them, instead of the generic 'AI slop' look.",
+  "buyer": "A freelance web developer or small digital agency who builds client sites with AI coding tools and needs the output to look professional enough to hand to a paying client.",
+  "business_use_cases": [
+    "A freelance developer runs every AI-built landing page through it before client delivery, cutting down on 'this looks AI-generated' revision requests.",
+    "A small web agency standardizes its AI-assisted build pipeline on it so junior staff ship senior-level visual polish without hiring a dedicated designer.",
+    "A no-code consultant uses the theme catalog to give each client site a distinct look instead of the same templated feel every AI tool produces."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a 'de-AI-slop' polish pass as a paid add-on to existing website-build or landing-page services.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Bundle it into a monthly website-maintenance retainer that keeps client sites visually current.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Re-skin three existing AI-built client sites this weekend with it and pitch the before/after as a free upgrade to land a maintenance retainer.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-26T12:15:00.000Z"
+}

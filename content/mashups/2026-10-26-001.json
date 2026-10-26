@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-26-001",
+  "date": "2026-10-26",
+  "repo_a": "Panniantong/Agent-Reach",
+  "repo_b": "debpalash/VoiceStudio",
+  "title": "ReDub Radar",
+  "pitch": "Point Agent-Reach at YouTube, Bilibili and XiaoHongShu for a tight niche (cooking, gadget reviews, pet content) and let it surface the videos that are already blowing up today. Feed the winners into VoiceStudio to clone the original creator's voice and dub the video into two or three languages that platform hasn't been localized into yet, then repost on fresh regional accounts. It's a one-person 'trend arbitrage' operation: no filming, no translators, no per-minute cloud TTS bill, just spotting what's already working and getting there first in an underserved language market. The buyer is a solo content operator running several regional accounts who wants first-mover presence without a production team.",
+  "why_now": "Both repos trended on the same day and both are free, local, self-hosted tools — the two costs that used to make this kind of cross-platform localization play (API fees for monitoring, subscription fees for voice cloning) uneconomical for a solo operator are now effectively zero."
+}

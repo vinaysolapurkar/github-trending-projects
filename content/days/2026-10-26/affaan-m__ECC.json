@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-26",
+  "owner": "affaan-m",
+  "name": "ECC",
+  "full_name": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+  "language": "JavaScript",
+  "stars_total": 289236,
+  "stars_today": 853,
+  "one_liner": "A toolkit that makes AI coding assistants like Claude Code work better and more reliably — more of a tune-up kit for developers than something a non-coder would ever touch.",
+  "buyer": "A software engineer or engineering manager already using AI coding assistants daily who wants fewer mistakes and wasted tokens from their agent.",
+  "business_use_cases": [
+    "An engineering team installs it org-wide to standardize how their AI coding agents handle memory and security across projects.",
+    "A dev-tools consultant offers 'AI coding agent audits' for companies, using it as part of the toolkit to speed up agents.",
+    "A platform team builds internal guardrails on top of its security module before letting AI agents touch production code."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid setup and tuning consulting for engineering teams adopting AI coding agents at scale.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "There's little standalone business here for a non-developer — it's a dev-productivity tool, not a product to resell.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-26T12:15:00.000Z"
+}

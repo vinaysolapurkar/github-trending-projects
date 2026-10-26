@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-26",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing today edits video for social media specifically; we'll notify when it trends." },
+    { "problem_id": "p002", "repo": null, "why": "Nothing today addresses product photography for e-commerce." },
+    { "problem_id": "p003", "repo": "JetBrains/thinkrail", "why": "Its 'living specs' feature is built specifically to give an AI coding assistant durable, carried-over knowledge of a project instead of starting fresh each session.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "multica-ai/andrej-karpathy-skills", "why": "It's a drop-in Claude Code config aimed at the exact failure modes (wrong assumptions, no pushback, unmanaged confusion) that produce bloated, over-engineered output, though it's a prompt tweak, not a guarantee.", "confidence": "medium" },
+    { "problem_id": "p005", "repo": null, "why": "No repo today handles organizing or searching research PDFs." },
+    { "problem_id": "p006", "repo": "alchaincyf/huashu-design", "why": "It generates infographics and short animations from a single sentence, which covers the visual-explainer need even with zero footage, though it's aimed more at marketing decks than news explainers.", "confidence": "medium" },
+    { "problem_id": "p007", "repo": null, "why": "Nothing today touches bioinformatics or lab tooling." },
+    { "problem_id": "p008", "repo": null, "why": "Nothing today is a private, on-prem AI chat built for confidentiality; today's local-first agent tools still default to cloud services, so this isn't a safe recommendation for client data." },
+    { "problem_id": "p009", "repo": "debpalash/VoiceStudio", "why": "It turns text into narrated, natural-sounding audio locally, which covers the narration half of 'blog post to video'; it won't generate the visuals on its own.", "confidence": "medium" },
+    { "problem_id": "p010", "repo": null, "why": "No note-taking app in today's or recent crops." },
+    { "problem_id": "p011", "repo": "JetBrains/thinkrail", "why": "Its living-specs graph is meant to capture how a project actually works as you explore it, which is useful for mapping a messy inherited codebase, though it builds that picture over time rather than instantly.", "confidence": "medium" },
+    { "problem_id": "p012", "repo": null, "why": "Nothing today is a guided starting point for a first-time AI founder; today's repos are either infrastructure or already-built products, not a how-to-start resource." },
+    { "problem_id": "p013", "repo": null, "why": "No inventory-management tool in today's crop." }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-26",
+  "owner": "JetBrains",
+  "name": "thinkrail",
+  "full_name": "JetBrains/thinkrail",
+  "url": "https://github.com/JetBrains/thinkrail",
+  "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+  "language": "TypeScript",
+  "stars_total": 2304,
+  "stars_today": 1156,
+  "one_liner": "An experimental code editor from JetBrains that remembers how your project works and gets smarter about it the more you use it.",
+  "buyer": "A software engineering team lead evaluating next-generation AI coding tools, not an external business buyer.",
+  "business_use_cases": [
+    "An engineering team adopts it to cut the time developers spend re-explaining project context to AI assistants on every task.",
+    "A dev-tools reviewer or YouTuber covers it as part of a comparison series on agentic IDEs.",
+    "A consulting shop doing client codebase work uses its 'living specs' feature to onboard onto unfamiliar projects faster."
+  ],
+  "money_ideas": [
+    {
+      "idea": "There isn't an independent business here — it's JetBrains' own incubator product, not something to build a company on top of.",
+      "revenue_model": "n/a"
+    }
+  ],
+  "steal_this": "Nothing to build this weekend — try it on a real project for personal productivity, but don't start a business around someone else's incubator tool.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-26T12:15:00.000Z"
+}

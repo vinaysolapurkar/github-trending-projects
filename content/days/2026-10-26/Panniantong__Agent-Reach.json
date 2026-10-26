@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-26",
+  "owner": "Panniantong",
+  "name": "Agent-Reach",
+  "full_name": "Panniantong/Agent-Reach",
+  "url": "https://github.com/Panniantong/Agent-Reach",
+  "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+  "language": "Python",
+  "stars_total": 102900,
+  "stars_today": 723,
+  "one_liner": "A command-line tool that lets an AI agent read and search Twitter, Reddit, YouTube, GitHub and Chinese platforms directly, without paying for each platform's API.",
+  "buyer": "A social-media growth marketer, market researcher, or content strategist who needs cross-platform trend and sentiment data without stacking expensive API subscriptions.",
+  "business_use_cases": [
+    "A social-listening agency builds client trend reports by pulling mentions across Twitter, Reddit and YouTube in one pass.",
+    "A content strategist mines trending topics across platforms each morning to feed a content calendar.",
+    "A market researcher tracks competitor product mentions and sentiment across Western and Chinese platforms for a client expanding into new markets."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a weekly cross-platform trend report for a specific niche (e.g. skincare, fintech) to brand marketers.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer one-off competitor social-listening audits for brands entering a new market.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Pull a week of cross-platform mentions for one niche this weekend, turn it into a sample trend report, and pitch it cold to three brands in that niche. Note: scraping social platforms can run against their terms of service, so check that before reselling data pulled this way.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-26T12:15:00.000Z"
+}

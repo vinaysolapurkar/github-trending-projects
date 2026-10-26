@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-26",
+  "owner": "nightly-labs",
+  "name": "openbot",
+  "full_name": "nightly-labs/openbot",
+  "url": "https://github.com/nightly-labs/openbot",
+  "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+  "language": "TypeScript",
+  "stars_total": 1087,
+  "stars_today": 86,
+  "one_liner": "A desktop app that lets you run several different AI coding assistants (Claude, Codex, Grok) side by side in their own workspaces so they can work in parallel and hand work to each other.",
+  "buyer": "A software engineer or small dev team juggling multiple AI coding tools who wants one control panel instead of switching between terminals and browser tabs.",
+  "business_use_cases": [
+    "A solo developer runs three agents in parallel on different parts of a feature, then reviews and merges the best outputs.",
+    "A small dev shop standardizes multi-agent workflows on it to parallelize client work across contractors' preferred tools.",
+    "A dev-tools reviewer covers it as part of content comparing multi-agent orchestration setups."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer setup/configuration consulting for small dev teams wanting a multi-agent workflow.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "There's little non-developer business here — it's a workflow tool for engineers, not a product to resell.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-26T12:15:00.000Z"
+}

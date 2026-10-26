@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-26",
+  "owner": "pbakaus",
+  "name": "impeccable",
+  "full_name": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "description": "The design language that makes your AI harness better at design.",
+  "language": "Rust",
+  "stars_total": 88450,
+  "stars_today": 1551,
+  "one_liner": "A style guide and command set that stops AI coding tools from making every website look the same generic 'AI-made' way.",
+  "buyer": "A freelance web developer or small agency shipping client sites with AI tools who needs each site to look distinct and on-brand.",
+  "business_use_cases": [
+    "A freelance developer runs `/impeccable polish` on every client project before delivery as a built-in quality gate.",
+    "A small agency uses its design-review commands to replace a manual design-critique step, saving a design hire.",
+    "A SaaS founder uses the 'critique' and 'audit' commands to catch accessibility and UX issues before launch."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a fixed-price 'design polish pass' for existing websites, run through the full command set.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Run the full command pipeline on your own portfolio site this weekend, screenshot the before/after, and use it to pitch polish passes to local businesses with dated websites.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-26T12:15:00.000Z"
+}

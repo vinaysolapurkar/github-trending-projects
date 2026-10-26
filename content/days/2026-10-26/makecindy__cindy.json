@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-26",
+  "owner": "makecindy",
+  "name": "cindy",
+  "full_name": "makecindy/cindy",
+  "url": "https://github.com/makecindy/cindy",
+  "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+  "language": "TypeScript",
+  "stars_total": 5706,
+  "stars_today": 1268,
+  "one_liner": "A free desktop and mobile app that gives you one AI assistant who can use several different AI engines (Claude, Codex, Grok) to actually get work done on your computer and phone.",
+  "buyer": "A tech-savvy solo founder or power user who wants one 'AI teammate' app instead of juggling separate coding-agent subscriptions and interfaces.",
+  "business_use_cases": [
+    "A solopreneur uses it to automate recurring admin tasks (emails, scheduling, file organization) across desktop and phone from one assistant.",
+    "A small agency standardizes staff onto it so everyone shares memory, skills and automations instead of each person configuring their own agent setup.",
+    "A productivity influencer builds a course or template pack around configuring Cindy's skills and memory for specific workflows."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a curated pack of Cindy skills/automations for a specific niche (e.g. freelancers, real estate agents).",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer paid setup/configuration consulting for small businesses that want an 'AI teammate' but don't want to configure it themselves.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Configure three ready-made automations (inbox triage, meeting prep, weekly report) this weekend and sell the skill pack to a local small business.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-26T12:15:00.000Z"
+}

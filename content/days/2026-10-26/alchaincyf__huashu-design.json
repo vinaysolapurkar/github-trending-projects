@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-26",
+  "owner": "alchaincyf",
+  "name": "huashu-design",
+  "full_name": "alchaincyf/huashu-design",
+  "url": "https://github.com/alchaincyf/huashu-design",
+  "description": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+  "language": "HTML",
+  "stars_total": 26447,
+  "stars_today": 177,
+  "one_liner": "A Chinese-market design tool where typing one sentence into an AI agent gets you back a finished deliverable — a web page, app prototype, editable PowerPoint, animation, or infographic.",
+  "buyer": "A marketing freelancer or small agency serving Chinese-speaking clients who needs fast, presentable pitch decks, prototypes and infographics without hiring a designer.",
+  "business_use_cases": [
+    "A marketing freelancer generates client pitch decks and infographics same-day instead of waiting on a designer.",
+    "A startup founder produces an app prototype and a launch animation for investor pitches without design budget.",
+    "A small agency offers rapid-turnaround deliverables (decks, infographics, prototypes) as a premium same-day service tier."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a same-day turnaround design service for pitch decks and infographics to startups and freelancers.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Bundle it into a monthly content/marketing-materials retainer for small clients.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Produce three sample deliverables (a deck, an infographic, a short promo animation) this weekend for your own portfolio, then pitch same-day design turnaround to local Chinese-speaking small businesses.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-26T12:15:00.000Z"
+}
