@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-27",
+  "owner": "JetBrains",
+  "name": "thinkrail",
+  "full_name": "JetBrains/thinkrail",
+  "url": "https://github.com/JetBrains/thinkrail",
+  "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+  "language": "TypeScript",
+  "stars_total": 3494,
+  "stars_today": 1211,
+  "one_liner": "A code editor built around an AI coding agent that remembers how your project works over time, lets several AI sessions work in parallel without stepping on each other, and manages the pull-request process for you.",
+  "buyer": "A JetBrains-style professional developer or small dev shop that wants an AI-first editor with real isolation between parallel agent tasks, not just a chat sidebar bolted onto an existing IDE.",
+  "business_use_cases": [
+    "A small dev shop runs multiple AI agent workspaces in parallel on different features of the same client repo, merging only the branch that works out.",
+    "A technical lead uses the living-specs feature to give new AI agent sessions durable project context, cutting the ramp-up cost of onboarding a fresh agent session.",
+    "A freelance developer uses the built-in PR workflow (draft, CI status, merge) to manage client review cycles faster without leaving the editor."
+  ],
+  "money_ideas": [
+    { "idea": "Offer 'AI-parallel development' as a premium delivery speed tier to clients, priced on top of normal project rates.", "revenue_model": "one-off" },
+    { "idea": "Build a training or consulting offer around running git-worktree-isolated agent workflows for dev teams adopting AI coding tools.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Pick a real open feature on your current project this weekend, spin up two parallel workspaces to try two different approaches, and ship whichever one wins.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-27T12:15:00.000Z"
+}

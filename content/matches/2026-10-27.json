@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-27",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing today edits video for social media specifically." },
+    { "problem_id": "p002", "repo": null, "why": "Nothing today addresses product photography for e-commerce." },
+    { "problem_id": "p003", "repo": "affaan-m/ECC", "why": "It adds a persistent-memory layer to the coding agent specifically so the assistant carries project context across sessions instead of starting cold each time.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "obra/superpowers", "why": "Its methodology is built around true TDD, YAGNI, and DRY discipline for AI coding agents, which directly targets bloated, over-engineered AI-written code.", "confidence": "high" },
+    { "problem_id": "p005", "repo": null, "why": "No repo today handles organizing or searching research PDFs." },
+    { "problem_id": "p006", "repo": null, "why": "Nothing today generates explainer visuals from text with no footage." },
+    { "problem_id": "p007", "repo": null, "why": "Nothing today touches bioinformatics or lab tooling." },
+    { "problem_id": "p008", "repo": null, "why": "Nothing today is a private, on-prem AI chat built for confidentiality; today's local-first tools still route through cloud model providers, so this isn't a safe fit for client data." },
+    { "problem_id": "p009", "repo": null, "why": "Nothing today turns written text into narrated video." },
+    { "problem_id": "p010", "repo": null, "why": "No note-taking app in today's crop." },
+    { "problem_id": "p011", "repo": "JetBrains/thinkrail", "why": "Its living-specs graph is built to capture how a project actually works as an agent explores it, which helps map an inherited, messy codebase over time.", "confidence": "medium" },
+    { "problem_id": "p012", "repo": null, "why": "Nothing today is a guided starting point for a first-time AI founder; today's repos are infrastructure and already-built products, not a how-to-start resource." },
+    { "problem_id": "p013", "repo": null, "why": "No inventory-management tool in today's crop." }
+  ]
+}

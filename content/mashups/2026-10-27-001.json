@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-27-001",
+  "date": "2026-10-27",
+  "repo_a": "gitroomhq/postiz-app",
+  "repo_b": "HKUDS/DeepTutor",
+  "title": "Course Drip",
+  "pitch": "An online course creator or tutoring business feeds their lesson content into DeepTutor to generate bite-sized study prompts, quiz questions, and progress recaps for each student cohort, then uses Postiz to auto-schedule those recaps and quiz nudges straight to the business's own social channels and the student group chat as daily posts. Students get a steady drip of personalized, spaced-repetition content without the creator manually writing a single post, and the business gets a public-facing content calendar that doubles as free marketing for the next cohort. The buyer is a course creator or tutoring center that wants retention content and top-of-funnel marketing produced by the same pipeline.",
+  "why_now": "Both tools are free and self-hostable, so a solo course creator can run a 'content engine + tutoring engine' combo with zero per-seat SaaS cost at the exact moment both repos are spiking in visibility and community support."
+}

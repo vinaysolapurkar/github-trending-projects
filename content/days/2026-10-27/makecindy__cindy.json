@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-27",
+  "owner": "makecindy",
+  "name": "cindy",
+  "full_name": "makecindy/cindy",
+  "url": "https://github.com/makecindy/cindy",
+  "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+  "language": "TypeScript",
+  "stars_total": 7126,
+  "stars_today": 1446,
+  "one_liner": "A free desktop and phone app that lets one AI assistant work across all your devices, using the AI subscriptions you already pay for, and actually operate your computer and apps for you.",
+  "buyer": "A busy small-business owner or solopreneur who already pays for Claude Code or Codex and wants one assistant that follows them from laptop to phone and can actually click around their apps, not just chat.",
+  "business_use_cases": [
+    "A solo real-estate agent sets up a personal assistant companion that drafts listings on their desktop, then checks and replies to leads from the same session on their phone.",
+    "A small e-commerce owner builds a recurring automation that checks inventory and drafts restock orders every morning without renting any server.",
+    "A freelance operator creates role-specific companions (a research agent, a client-communication agent) that share memory and skills instead of starting from zero each time."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid setup of custom companions and automations for non-technical small-business owners.", "revenue_model": "one-off" },
+    { "idea": "Build and sell a packaged 'companion' (role, skills, automations) for a specific niche like real estate or local services.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build one companion this weekend that handles a single recurring chore (daily inventory check, lead triage) for a local business you know, and sell it as a done-for-you automation.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-27T12:15:00.000Z"
+}

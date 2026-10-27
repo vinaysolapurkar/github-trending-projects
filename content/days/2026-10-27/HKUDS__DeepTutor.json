@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-27",
+  "owner": "HKUDS",
+  "name": "DeepTutor",
+  "full_name": "HKUDS/DeepTutor",
+  "url": "https://github.com/HKUDS/DeepTutor",
+  "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+  "language": "Python",
+  "stars_total": 44863,
+  "stars_today": 1587,
+  "one_liner": "A free AI tutoring platform that builds a personalized learning path from your own documents and videos, tracks what you've learned, and quizzes you over time like a real tutor would.",
+  "buyer": "A tutoring center owner or independent test-prep tutor who wants to offer personalized, trackable study plans without hiring extra tutors for every student.",
+  "business_use_cases": [
+    "An independent test-prep tutor uploads a student's course materials and lets it generate a personalized learning path and spaced-repetition quizzes between sessions.",
+    "A small online course creator self-hosts it to give paying students a 'study companion' that tracks their progress through the course materials.",
+    "A corporate L&D team uses it to turn internal training PDFs into self-paced, quizzed learning tracks instead of building custom e-learning software."
+  ],
+  "money_ideas": [
+    { "idea": "Self-host it and offer a branded 'AI study companion' as a premium add-on to existing tutoring or course packages.", "revenue_model": "subscription" },
+    { "idea": "Charge a setup fee to configure it with a client's own course materials and learning paths.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Load one of your own course's materials into it this weekend and offer a free 'AI study buddy' trial to your existing students to justify a premium tier.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-27T12:15:00.000Z"
+}

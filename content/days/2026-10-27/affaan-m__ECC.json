@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-27",
+  "owner": "affaan-m",
+  "name": "ECC",
+  "full_name": "affaan-m/ECC",
+  "url": "https://github.com/affaan-m/ECC",
+  "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+  "language": "JavaScript",
+  "stars_total": 290353,
+  "stars_today": 1183,
+  "one_liner": "A plugin that upgrades your AI coding assistant with memory, security checks, and better habits, so it performs more like a careful senior engineer and less like a fast but careless intern.",
+  "buyer": "A startup engineering lead whose team leans heavily on AI coding assistants and has been burned by security slip-ups or sloppy, forgetful output.",
+  "business_use_cases": [
+    "An engineering lead installs it across the team's AI coding tools to get built-in security scanning before code ships, instead of relying on a separate paid SAST tool.",
+    "A dev agency standardizes every project on it so client codebases get consistent research-first development discipline regardless of which junior developer is driving the AI tool.",
+    "A solo SaaS founder uses the persistent memory feature so their AI assistant stops relearning the same project context every session, cutting wasted back-and-forth."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid onboarding and configuration of the plugin for teams adopting AI-assisted development at scale.", "revenue_model": "one-off" },
+    { "idea": "Sell the hosted Pro tier (private-repo GitHub App) as a reseller or implementation partner for agencies.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Install it on your team's AI coding setup this weekend, run it through one real feature branch, and document the security catches it made as a pitch for internal adoption budget.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-27T12:15:00.000Z"
+}

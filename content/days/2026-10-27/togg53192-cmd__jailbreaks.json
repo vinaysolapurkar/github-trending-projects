@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-27",
+  "owner": "togg53192-cmd",
+  "name": "jailbreaks",
+  "full_name": "togg53192-cmd/jailbreaks",
+  "url": "https://github.com/togg53192-cmd/jailbreaks",
+  "description": "LIST OF ALL MY JAILBREAKS",
+  "language": null,
+  "stars_total": 4869,
+  "stars_today": 890,
+  "one_liner": "A public collection of prompts designed to trick AI chatbots into ignoring their safety rules. It's a curiosity list, not a product.",
+  "buyer": "No legitimate business buyer. The only realistic paying audience is an AI safety or red-teaming team studying these prompts to make their own models more resistant to manipulation.",
+  "business_use_cases": [
+    "An AI vendor's red-team uses the collection as a reference set of known jailbreak patterns to test their own model's defenses against.",
+    "A security researcher cites specific entries in a report on instruction-hierarchy and prompt-injection weaknesses across model providers.",
+    "There is no realistic consumer or SMB use case here; using it to actually bypass a platform's policies is a terms-of-service violation, not a business."
+  ],
+  "money_ideas": [
+    { "idea": "None that are legitimate. The only adjacent legal business is paid AI red-teaming or robustness testing, which this list could inform as one input among many.", "revenue_model": "usage" }
+  ],
+  "steal_this": "There's nothing worth building here. If you work in AI safety, skim it as one data point for red-teaming; otherwise skip it entirely.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-27T12:15:00.000Z"
+}

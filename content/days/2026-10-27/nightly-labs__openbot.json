@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-27",
+  "owner": "nightly-labs",
+  "name": "openbot",
+  "full_name": "nightly-labs/openbot",
+  "url": "https://github.com/nightly-labs/openbot",
+  "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+  "language": "TypeScript",
+  "stars_total": 1872,
+  "stars_today": 794,
+  "one_liner": "A desktop app that gives you a 'team' of AI assistants, each with its own workspace and to-do list, that can hand work to each other and run on your own computer.",
+  "buyer": "A solo founder or small agency owner running several AI-assisted projects at once who wants each one tracked separately instead of juggling one chat window per task.",
+  "business_use_cases": [
+    "A one-person software shop runs a 'coding agent' and a 'QA agent' side by side on the same app, with one filing bugs the other then fixes overnight.",
+    "A content agency gives each client its own persistent agent workspace that remembers that client's style guide and prior work across sessions.",
+    "A technical consultant sets up delegated, crash-safe task queues so client requests keep processing even when they're away from the keyboard."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a managed, pre-configured 'agent team' setup service to small businesses who want this but can't install and wire it up themselves.", "revenue_model": "one-off" },
+    { "idea": "Offer ongoing agent-workspace administration and monitoring as a retainer for agencies running many client agents.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Set up two agent workspaces this weekend — one that researches a niche and one that drafts outreach emails from the research — and sell the combo as a lead-gen service.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-27T12:15:00.000Z"
+}

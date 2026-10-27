@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-27",
+  "owner": "pbakaus",
+  "name": "impeccable",
+  "full_name": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "description": "The design language that makes your AI harness better at design.",
+  "language": "Rust",
+  "stars_total": 89858,
+  "stars_today": 1458,
+  "one_liner": "A set of design rules and commands you give an AI coding tool so the websites it builds stop looking like every other AI-built website.",
+  "buyer": "A freelance developer or small product team who ships client or internal sites with AI coding tools and keeps getting called out for the same generic 'AI look'.",
+  "business_use_cases": [
+    "A freelance web developer runs `/impeccable polish` on every client delivery as a final quality gate before handoff, reducing revision cycles.",
+    "A startup's one-person design-and-dev team uses the 24 commands (critique, harden, onboard) to cover UX review work it can't afford to hire a designer for.",
+    "A design agency builds a 'design audit' service around the deterministic detector rules, selling a scored report plus fixes to clients with existing sites."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a flat-fee 'design audit and polish' package built on the audit and polish commands.", "revenue_model": "one-off" },
+    { "idea": "Offer a retainer that re-runs the audit commands on a client's site monthly as it grows.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Run `/impeccable audit` and `/impeccable polish` against three of your own past client projects this weekend and turn the before/after screenshots into a cold-outreach portfolio piece.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-27T12:15:00.000Z"
+}
