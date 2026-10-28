@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-28",
+  "owner": "makecindy",
+  "name": "cindy",
+  "full_name": "makecindy/cindy",
+  "url": "https://github.com/makecindy/cindy",
+  "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+  "language": "TypeScript",
+  "stars_total": 7828,
+  "stars_today": 740,
+  "one_liner": "A free app that connects all your computers and your phone into one AI assistant, letting you bring AI subscriptions you already pay for (like Claude or Codex) and pick up work from any device.",
+  "buyer": "A freelance consultant or small business owner juggling a laptop, home desktop and phone who wants one assistant that works across all of them instead of separate chat windows.",
+  "business_use_cases": [
+    "A freelancer sets up recurring automations (e.g. weekly report drafting) that run on their home machine and check in from their phone.",
+    "A small business owner uses the shared, multi-device memory to keep an AI 'ops companion' aware of context across every device they work from.",
+    "A technical consultant builds a custom 'companion' persona for a client and demonstrates it running their actual remote-desktop workflow as part of a sales pitch."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a 'set up your personal AI assistant across all your devices' onboarding service to non-technical small business owners.", "revenue_model": "one-off" },
+    { "idea": "Build and sell a packaged Skill (via its SkillHub) for a specific profession's recurring workflow.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "It's a free client app, not something to resell directly — the fastest move is building one polished, sellable Skill for it this weekend and listing it on SkillHub.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-28T12:35:00.000Z"
+}

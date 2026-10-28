@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-28",
+  "owner": "elayadesign",
+  "name": "ai-design-skills",
+  "full_name": "elayadesign/ai-design-skills",
+  "url": "https://github.com/elayadesign/ai-design-skills",
+  "description": "",
+  "language": null,
+  "stars_total": 10570,
+  "stars_today": 1395,
+  "one_liner": "A drop-in instruction file that teaches AI coding tools how to design and write a professional-looking landing page from scratch, including the copy and visual style.",
+  "buyer": "A freelance web developer or one-person digital agency who builds landing pages for small local businesses and wants AI output that doesn't look like a template everyone recognizes.",
+  "business_use_cases": [
+    "A freelancer installs it in every new client project so the AI's first landing-page draft is already client-ready instead of needing a full design pass.",
+    "A no-code agency uses it to standardize page quality across junior staff who use AI tools but lack formal design training.",
+    "A SaaS founder uses it to generate a believable marketing site before they can afford to hire a designer."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a 'landing page in 48 hours' service to small businesses, using the skill to cut design time dramatically.", "revenue_model": "one-off" },
+    { "idea": "Package a customized, branded fork of the skill (with a client's own fonts/colors baked in) as a paid starter kit for agencies.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Fork it this weekend, swap in your own color/type system, and offer three 'done in a day' landing pages to local businesses at a fixed price to prove the workflow.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-28T12:35:00.000Z"
+}

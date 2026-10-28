@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-28",
+  "owner": "togg53192-cmd",
+  "name": "jailbreaks",
+  "full_name": "togg53192-cmd/jailbreaks",
+  "url": "https://github.com/togg53192-cmd/jailbreaks",
+  "description": "LIST OF ALL MY JAILBREAKS",
+  "language": null,
+  "stars_total": 6368,
+  "stars_today": 1478,
+  "one_liner": "A public collection of fake system prompts and persona tricks people paste into AI chatbots to try to get them to ignore their safety rules.",
+  "buyer": "Honestly, there isn't a legitimate paying buyer here — the repo's own stated purpose is research into prompt-injection resistance, not a commercial product.",
+  "business_use_cases": [
+    "A company's AI safety or security team references entries like these as test cases when red-teaming their own chatbot's defenses.",
+    "An AI vendor's trust-and-safety team studies the collection to understand current instruction-override techniques they need to guard against.",
+    "A security researcher writing about prompt-injection risk cites patterns from it as examples in a report for clients."
+  ],
+  "money_ideas": [
+    { "idea": "An AI red-teaming consultant could reference entries like these while running a paid security assessment of a client's chatbot deployment.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "There's no real weekend business here. If you work in AI security, the one legitimate move is running your own chatbot against a few of these prompts to see if it holds up — not building anything that uses them to bypass a product's rules.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-28T12:35:00.000Z"
+}

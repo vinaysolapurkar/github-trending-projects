@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-28",
+  "owner": "pbakaus",
+  "name": "impeccable",
+  "full_name": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+  "language": "Rust",
+  "stars_total": 91311,
+  "stars_today": 1471,
+  "one_liner": "A set of 24 plain-English commands (like 'polish', 'audit', 'critique') that let you steer an AI coding tool's design decisions the way you'd direct a human designer.",
+  "buyer": "An indie developer or small agency shipping client apps who needs a consistent, non-generic design process but can't justify hiring a full-time designer.",
+  "business_use_cases": [
+    "A solo developer runs `/impeccable audit` and `/impeccable polish` before every client handoff to catch and fix generic 'AI-made' design tells.",
+    "An agency standardizes their design review step on these commands so junior staff can produce senior-level polish without a dedicated designer on every project.",
+    "A freelancer sells a one-time 'design critique and fix' pass on an existing AI-built product using the tool's structured audit output as the deliverable report."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid 'ship-ready polish pass' service for founders who built their MVP with AI tools and know it needs a design cleanup.", "revenue_model": "one-off" },
+    { "idea": "Package a PRODUCT.md + DESIGN.md starter template for a specific vertical (e.g. local services) and sell it to agencies serving that niche.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Run `/impeccable audit` on your own last AI-built side project this weekend, fix what it flags, and use the before/after as a portfolio piece to sell polish passes to others.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-28T12:35:00.000Z"
+}

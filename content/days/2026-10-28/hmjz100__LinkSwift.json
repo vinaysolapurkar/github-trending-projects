@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-28",
+  "owner": "hmjz100",
+  "name": "LinkSwift",
+  "full_name": "hmjz100/LinkSwift",
+  "url": "https://github.com/hmjz100/LinkSwift",
+  "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+  "language": "JavaScript",
+  "stars_total": 33788,
+  "stars_today": 3209,
+  "one_liner": "A browser script that extracts the direct download link hidden behind nine popular Chinese cloud-storage services, skipping their slow built-in download page.",
+  "buyer": "There isn't really a business buyer — this is a free personal convenience script for individual users frustrated with their cloud-drive provider's download speed limits.",
+  "business_use_cases": [
+    "An individual user installs it personally to download their own files faster from a cloud-storage account they already pay for.",
+    "A power user bundles it with other browser scripts for personal file-management convenience; this is personal tooling, not a service to sell.",
+    "There is no credible third-party business use case beyond individual personal use — reselling access to it would likely violate the cloud providers' terms of service."
+  ],
+  "money_ideas": [
+    { "idea": "None that doesn't risk violating the cloud providers' terms of service — there's no honest revenue model here.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "There's no legitimate weekend business to build on this one — it's a personal utility that works around a provider's own download limits, and productizing that is a terms-of-service risk, not an opportunity.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-28T12:35:00.000Z"
+}

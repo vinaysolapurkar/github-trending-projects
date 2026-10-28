@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-28",
+  "owner": "obra",
+  "name": "superpowers",
+  "full_name": "obra/superpowers",
+  "url": "https://github.com/obra/superpowers",
+  "description": "An agentic skills framework & software development methodology that works.",
+  "language": "Shell",
+  "stars_total": 306939,
+  "stars_today": 1096,
+  "one_liner": "A process pack that forces an AI coding assistant to first ask what you actually want, then plan, then write tests before code, instead of rushing straight into writing software.",
+  "buyer": "A software consultancy owner who sells 'AI-accelerated development' to clients and needs a repeatable, trustworthy process to point to instead of ad-hoc vibe coding.",
+  "business_use_cases": [
+    "A dev shop adopts it as their standard methodology so every client engagement follows the same spec-first, test-driven process regardless of which engineer runs it.",
+    "A startup's single engineer uses it to let an AI agent work autonomously for hours on a feature without drifting off the agreed plan.",
+    "A coding bootcamp licenses the methodology (with permission/attribution) as the backbone of an 'AI-assisted engineering' course module."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid onboarding/training for engineering teams adopting this workflow, since it changes how a team runs projects.", "revenue_model": "one-off" },
+    { "idea": "Build a companion dashboard-as-a-service that tracks spec/plan/test compliance across a team's repos.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "It's free and already popular (300k+ stars), so there's no product to resell — the real weekend move is becoming visibly good at it and selling 'we build with Superpowers' as a trust signal to clients.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-28T12:35:00.000Z"
+}

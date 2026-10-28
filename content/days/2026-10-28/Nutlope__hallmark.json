@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-28",
+  "owner": "Nutlope",
+  "name": "hallmark",
+  "full_name": "Nutlope/hallmark",
+  "url": "https://github.com/Nutlope/hallmark",
+  "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+  "language": "CSS",
+  "stars_total": 39950,
+  "stars_today": 2109,
+  "one_liner": "A rulebook that stops AI website builders from producing the same generic-looking template everyone gets, by picking from fifty distinct visual styles and checking the result against a list of telltale 'AI-made' signs.",
+  "buyer": "A solo SaaS founder or indie hacker building their own product site who wants it to look custom-designed without hiring or paying a designer.",
+  "business_use_cases": [
+    "An indie founder uses it to generate a launch landing page that doesn't scream 'built with AI' to potential customers or investors.",
+    "A small agency standardizes client site builds on it so output quality doesn't depend on which staff member or AI tool did the work.",
+    "A freelance developer offers a 'redesign audit' service, using the skill's audit mode to show prospective clients concrete problems with their current site."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a flat-fee 'de-slop my AI-built site' audit and fix service to founders who already built a site with AI tools.", "revenue_model": "one-off" },
+    { "idea": "Sell a curated set of client-ready theme presets built on top of it for a specific niche (e.g. fintech, local services).", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Run `/hallmark audit` against three AI-generated sites you can find publicly, then cold-pitch those businesses a fixed-price redesign using the findings as proof.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-28T12:35:00.000Z"
+}

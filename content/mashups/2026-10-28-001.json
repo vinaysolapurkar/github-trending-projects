@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-28-001",
+  "date": "2026-10-28",
+  "repo_a": "ruvnet/RuView",
+  "repo_b": "debpalash/VoiceStudio",
+  "title": "The Camera-Free Wellness Check-In",
+  "pitch": "RuView turns an ordinary WiFi router into a camera-free sensor that detects falls, breathing and presence through walls. VoiceStudio is a free, fully-local voice-cloning and dubbing engine. Combine them: when RuView's sensing flags something unusual in an elderly relative's home (no movement for too long, a sudden fall signature, irregular breathing), the system doesn't just send a text alert — it uses VoiceStudio to call the resident in a cloned voice of their own family member, asking if they're okay, and separately notifies the family in plain language. Buyers are adult children of aging parents and small assisted-living operators who want fall/vitals monitoring without installing cameras or forcing an elderly person to interact with a cold, robotic alert system. Sell it as a privacy-first home monitoring kit (hardware + local software, no cloud, no video) with a small monthly fee for alerting and voice minutes.",
+  "why_now": "Both repos are trending today on exactly the same theme — doing sensitive, personal things (health monitoring, voice interaction) fully locally instead of through a cloud API — which is the fastest-growing wedge in home-health tech right now as privacy concerns around always-on cameras and cloud voice assistants keep rising."
+}

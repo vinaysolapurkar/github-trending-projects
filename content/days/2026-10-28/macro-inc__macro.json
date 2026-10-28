@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-28",
+  "owner": "macro-inc",
+  "name": "macro",
+  "full_name": "macro-inc/macro",
+  "url": "https://github.com/macro-inc/macro",
+  "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+  "language": "Rust",
+  "stars_total": 5185,
+  "stars_today": 106,
+  "one_liner": "An all-in-one work app that bundles email, team chat, documents, tasks, video calls and a customer database into one connected system, so a small team doesn't need five separate subscriptions.",
+  "buyer": "An operations lead at a 10-20 person startup currently paying for Slack, Notion, Linear and HubSpot separately who wants one bill and one searchable system instead.",
+  "business_use_cases": [
+    "A small startup migrates off Slack+Notion+HubSpot onto it to cut software spend and give their AI agents one unified place to search company knowledge.",
+    "An agency uses the built-in CRM and shared inboxes to manage client email and project tasks in the same tool their team already chats in.",
+    "A small company uses it as the shared memory layer that lets internal AI agents answer questions by pulling from email, docs and tasks together."
+  ],
+  "money_ideas": [
+    { "idea": "Become a certified implementation partner that migrates small companies off their fragmented tool stack onto it, charging for setup and data migration.", "revenue_model": "one-off" },
+    { "idea": "Offer ongoing admin-as-a-service (managing integrations, training staff) for small teams that adopt it but lack an internal ops person.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Pick one real friction point your own team has (e.g. email-to-task handoff) and build a one-page case study migrating that single workflow into it, then pitch the migration service to other small teams.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-28T12:35:00.000Z"
+}

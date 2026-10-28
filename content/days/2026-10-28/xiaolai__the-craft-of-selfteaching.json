@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-28",
+  "owner": "xiaolai",
+  "name": "the-craft-of-selfteaching",
+  "full_name": "xiaolai/the-craft-of-selfteaching",
+  "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+  "description": "One has no future if one couldn't teach themself.",
+  "language": "Jupyter Notebook",
+  "stars_total": 18269,
+  "stars_today": 143,
+  "one_liner": "A free, self-paced book written as interactive notebooks that teaches complete beginners how to learn Python programming on their own, in Chinese.",
+  "buyer": "Honestly, hard to find a paying buyer — it's a free book explicitly licensed as non-commercial (CC-BY-NC-ND), which forbids anyone from selling it or derivative works.",
+  "business_use_cases": [
+    "A self-taught learner reads it for free to pick up programming fundamentals; there's no business transaction here.",
+    "A Chinese-language coding bootcamp could reference it as supplementary free reading, but cannot legally sell access to it or a repackaged version.",
+    "A teacher could use it as free classroom material, again without any revenue attached since the license blocks commercial use."
+  ],
+  "money_ideas": [
+    { "idea": "None viable — the CC-BY-NC-ND license explicitly forbids commercial use of the content itself.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "There's no legitimate weekend business here — the license explicitly prohibits commercial use of the content itself.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-28T12:35:00.000Z"
+}

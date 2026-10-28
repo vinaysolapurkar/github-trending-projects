@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-28",
+  "owner": "nightly-labs",
+  "name": "openbot",
+  "full_name": "nightly-labs/openbot",
+  "url": "https://github.com/nightly-labs/openbot",
+  "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+  "language": "TypeScript",
+  "stars_total": 2910,
+  "stars_today": 1053,
+  "one_liner": "A desktop app that gives you a small team of AI 'coworkers,' each running a different AI model, with their own workspace, a shared task queue, and the ability to message each other and hand off work.",
+  "buyer": "A lean technical founder who wants to simulate having a few junior assistants to prototype internal automations, without the cost or overhead of hiring.",
+  "business_use_cases": [
+    "A solo founder assigns separate AI teammates to research, drafting and QA tasks that hand off to each other via the shared task queue.",
+    "A small agency prototypes a multi-agent workflow (e.g. one agent researches, one writes, one reviews) before deciding whether to build a custom product around it.",
+    "A technical consultant demos agent-to-agent collaboration to a client as a proof-of-concept before proposing a production automation build."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a 'design your AI team' consulting engagement that configures task queues and agent roles for a specific client workflow.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "This is an explicit development preview that the authors warn runs agents with full, unconfirmed file and network access — the honest weekend move is testing it in a sandboxed VM to learn the multi-agent pattern, not deploying it for anyone's real work yet.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-28T12:35:00.000Z"
+}

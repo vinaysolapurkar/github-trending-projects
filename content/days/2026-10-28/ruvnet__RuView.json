@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-28",
+  "owner": "ruvnet",
+  "name": "RuView",
+  "full_name": "ruvnet/RuView",
+  "url": "https://github.com/ruvnet/RuView",
+  "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+  "language": "Rust",
+  "stars_total": 100547,
+  "stars_today": 415,
+  "one_liner": "Turns an ordinary WiFi router into a sensor that can tell whether someone is home, how they're breathing, and whether they've fallen — using only radio signals and no cameras at all.",
+  "buyer": "An operator of an assisted-living or elder-care facility who needs fall and vital-sign monitoring for residents but can't install cameras for privacy and dignity reasons.",
+  "business_use_cases": [
+    "An elder-care facility deploys cheap sensor nodes in each room to get fall detection and breathing/heart-rate alerts without any camera, satisfying residents' privacy concerns.",
+    "A smart-home installer adds camera-free presence and room-occupancy sensing to security systems for privacy-conscious homeowners, integrating with Home Assistant or Apple Home.",
+    "A hotel or coworking operator uses the room-occupancy and activity signals to automate cleaning schedules and space utilization reporting without installing cameras."
+  ],
+  "money_ideas": [
+    { "idea": "Sell pre-configured ESP32 sensor kits bundled with a monthly monitoring/alerting subscription to families with elderly relatives at home.", "revenue_model": "subscription" },
+    { "idea": "Offer installation and integration services for smart-home installers wanting to add camera-free sensing to existing Home Assistant setups.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Buy a couple of cheap ESP32 boards this weekend, wire up the Home Assistant integration in one room, and pitch a local assisted-living facility a free pilot in exchange for a case study.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-28T12:35:00.000Z"
+}

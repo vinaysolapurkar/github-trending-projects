@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-28",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing trending today edits short-form video for social media; we'll notify when a real fit trends." },
+    { "problem_id": "p002", "repo": null, "why": "No product-photography tool trended today." },
+    { "problem_id": "p003", "repo": "JetBrains/thinkrail", "why": "Its living SPEC.md files give the agent durable project knowledge that survives between sessions, directly solving the context-loss problem.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "obra/superpowers", "why": "It explicitly enforces spec-first planning, TDD, YAGNI and DRY to stop agents from shipping bloated, over-engineered code.", "confidence": "high" },
+    { "problem_id": "p005", "repo": null, "why": "Nothing today organizes or indexes personal research PDFs/articles." },
+    { "problem_id": "p006", "repo": null, "why": "No footage-free news-visualization tool trended today." },
+    { "problem_id": "p007", "repo": null, "why": "Nothing today is a bioinformatics tool for a small lab." },
+    { "problem_id": "p008", "repo": null, "why": "The local-first agent tools trending today (openbot, cindy) still route requests to cloud model providers, so none is a genuinely private law-firm chat solution yet." },
+    { "problem_id": "p009", "repo": "debpalash/VoiceStudio", "why": "It's built specifically to turn written text into natural narration and dub video, and runs fully locally, from an earlier trending day.", "confidence": "high" },
+    { "problem_id": "p010", "repo": null, "why": "No self-hosted personal notes app trended today; the closest tool (Macro) is a cloud team workspace, not a private notes replacement." },
+    { "problem_id": "p011", "repo": "pbakaus/impeccable", "why": "Its `/impeccable document` command generates a root DESIGN.md from an existing codebase, which helps a new hire see how it's structured, though it's a design-focused tool, not a general code-comprehension one.", "confidence": "low" },
+    { "problem_id": "p012", "repo": "obra/superpowers", "why": "It's a full start-to-finish methodology (spec, plan, build, test) for building software with AI agents, a reasonable starting point for a first AI product.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "Nothing today manages restaurant inventory." }
+  ]
+}

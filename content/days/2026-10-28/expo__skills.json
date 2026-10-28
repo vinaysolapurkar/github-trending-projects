@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-28",
+  "owner": "expo",
+  "name": "skills",
+  "full_name": "expo/skills",
+  "url": "https://github.com/expo/skills",
+  "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+  "language": "Shell",
+  "stars_total": 3361,
+  "stars_today": 212,
+  "one_liner": "An official instruction pack that teaches AI coding assistants exactly how to build, deploy and upgrade mobile apps correctly using Expo's app-building framework, instead of guessing and making framework mistakes.",
+  "buyer": "A mobile app development agency that builds client apps with Expo and wants faster, more reliable AI-assisted delivery with fewer framework-specific errors.",
+  "business_use_cases": [
+    "A mobile dev agency installs it across all client projects so AI-assisted app builds follow Expo's current best practices instead of outdated patterns.",
+    "A freelance mobile developer uses the upgrade and app-store skills to safely handle SDK upgrades and store submissions for clients without re-learning the process each time.",
+    "A startup's single engineer uses it to confidently ship a native-feeling app without a dedicated mobile specialist on the team."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a fixed-price 'Expo app build or SDK upgrade' service to small businesses, using the skills to cut delivery time and error risk.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "It's a free official tool, not a resellable product — the fastest move is using it to take on one small 'build my app' client project this weekend and pricing it based on the time it saves you.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-28T12:35:00.000Z"
+}
