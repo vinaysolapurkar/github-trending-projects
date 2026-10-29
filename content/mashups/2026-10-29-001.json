@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-29-001",
+  "date": "2026-10-29",
+  "repo_a": "elayadesign/ai-design-skills",
+  "repo_b": "pbakaus/impeccable",
+  "title": "The Slop-Free Landing Page Pipeline",
+  "pitch": "ai-design-skills gives your coding agent a ready-made playbook for building a landing page from scratch — intake questions, structure, conversion copy, and a full visual system. Impeccable is a built-in critic that scans whatever the agent just built and flags the generic 'AI slop' tells (purple gradients, Inter everywhere, cards nested in cards) before it ships. Chained together, a freelancer or agency gets a repeatable two-step pipeline: generate the page with the design skill, then run `/impeccable audit` and `critique` against it automatically before showing the client anything. The buyer is a solo freelance developer or small agency selling landing pages to startups who can't afford a dedicated designer but also can't afford to hand over a page that screams 'built by AI in an afternoon.'",
+  "why_now": "Both repos trended today for the same underlying complaint: AI-built interfaces default to the same tired look, and clients can tell. Chaining a design-generation skill straight into a slop detector turns that complaint into a two-command workflow a freelancer can sell as a quality guarantee today."
+}

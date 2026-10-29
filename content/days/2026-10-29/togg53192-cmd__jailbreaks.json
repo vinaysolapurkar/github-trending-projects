@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-29",
+  "owner": "togg53192-cmd",
+  "name": "jailbreaks",
+  "full_name": "togg53192-cmd/jailbreaks",
+  "url": "https://github.com/togg53192-cmd/jailbreaks",
+  "description": "LIST OF ALL MY JAILBREAKS",
+  "language": null,
+  "stars_total": 7948,
+  "stars_today": 1610,
+  "one_liner": "A personal collection of system prompts people use to try to get AI chatbots to ignore their safety rules.",
+  "buyer": "No legitimate buyer. This is a plain-text list of prompt-injection and persona-lock text for researchers and curious tinkerers, not a tool a business would pay for.",
+  "business_use_cases": [
+    "An AI safety researcher reads it as a reference of real-world jailbreak patterns when testing how resistant their own model or product is to instruction override.",
+    "A company building an LLM-based product uses the collection as a red-team test set to probe their own guardrails before launch."
+  ],
+  "money_ideas": [
+    { "idea": "None that are legitimate as a product built on this repo directly — any commercial use would be adjacent (AI red-teaming/safety services), not the list itself.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "There's nothing to build or sell from this repo itself; it's a curiosity and a liability risk, not a business opportunity. If anything, use it only internally as a red-team checklist for your own product's guardrails, never as something to publish or resell.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-10-29T12:06:43.000Z"
+}

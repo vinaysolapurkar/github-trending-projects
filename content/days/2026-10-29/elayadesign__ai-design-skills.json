@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-29",
+  "owner": "elayadesign",
+  "name": "ai-design-skills",
+  "full_name": "elayadesign/ai-design-skills",
+  "url": "https://github.com/elayadesign/ai-design-skills",
+  "description": "",
+  "language": null,
+  "stars_total": 11720,
+  "stars_today": 1178,
+  "one_liner": "A free, drop-in instruction file that teaches your AI coding tool how to design a professional-looking landing page instead of a generic one, with more skills promised later.",
+  "buyer": "A solo SaaS founder or freelance developer who can code but can't design, and needs their AI-built landing page to look like it came from a real design studio.",
+  "business_use_cases": [
+    "A solo SaaS founder installs the skill so their AI assistant builds a launch landing page with real conversion copy and a coherent visual system instead of a generic template.",
+    "A freelance developer uses it as a standard starting point on every client project to guarantee a baseline of design quality without hiring a designer.",
+    "An agency forks it, edits the design-values section to match a client's brand, and reuses that customized skill across that client's future pages."
+  ],
+  "money_ideas": [
+    { "idea": "Sell forked, pre-branded versions of the skill (fonts/colors/motion locked to a specific brand) to agencies as a paid starter kit.", "revenue_model": "one-off" },
+    { "idea": "Offer paid custom skill-writing for other page types (pricing pages, dashboards) beyond the single landing-page skill currently included.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "It's free, MIT-licensed, and explicitly says 'use it, fork it, ship it, sell what you build with it' — the fastest move is literally installing it and shipping a client landing page with it this weekend, no separate product needed.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-29T12:06:43.000Z"
+}

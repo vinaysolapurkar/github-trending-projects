@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-29",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing trending today edits short-form video for social media." },
+    { "problem_id": "p002", "repo": null, "why": "No product-photography tool trended today." },
+    { "problem_id": "p003", "repo": "thedotmack/claude-mem", "why": "It's built specifically to capture, compress, and re-inject project context across sessions so a coding assistant stops forgetting the project.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "obra/superpowers", "why": "It enforces spec-first planning, red/green TDD, YAGNI and DRY to stop agents from shipping bloated, over-engineered code.", "confidence": "high" },
+    { "problem_id": "p005", "repo": null, "why": "Nothing today organizes or indexes personal research PDFs/articles." },
+    { "problem_id": "p006", "repo": null, "why": "No footage-free news-visualization tool trended today." },
+    { "problem_id": "p007", "repo": null, "why": "Nothing today is a bioinformatics tool for a small lab." },
+    { "problem_id": "p008", "repo": null, "why": "Today's local-first agent tools (OpenMausBot, openbot, OpenBot) still route conversations through cloud model providers (Claude/Codex/Grok APIs), so none is a genuinely private law-firm chat solution." },
+    { "problem_id": "p009", "repo": null, "why": "No text-to-narrated-video tool trended today." },
+    { "problem_id": "p010", "repo": null, "why": "Nothing today is a self-hosted personal notes app; DeepTutor is a tutoring product, not a notes replacement." },
+    { "problem_id": "p011", "repo": "JetBrains/thinkrail", "why": "Its living SPEC.md graph documents how a codebase fits together as the agent reads and maintains it, giving a new hire durable project knowledge.", "confidence": "medium" },
+    { "problem_id": "p012", "repo": "obra/superpowers", "why": "It's a complete start-to-finish methodology (spec, plan, build, test) for building software with AI agents, a reasonable on-ramp for a first AI product.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "Nothing today manages restaurant inventory." }
+  ]
+}

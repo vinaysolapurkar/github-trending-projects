@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-29",
+  "owner": "CopilotKit",
+  "name": "OpenBot",
+  "full_name": "CopilotKit/OpenBot",
+  "url": "https://github.com/CopilotKit/OpenBot",
+  "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+  "language": "TypeScript",
+  "stars_total": 7767,
+  "stars_today": 240,
+  "one_liner": "A starter template for building your own internal 'AI coworkers' platform, where every AI action on your company's tools has to pass a permission check and gets logged, running entirely on your own servers.",
+  "buyer": "A mid-size company's IT or ops leader who wants AI assistants touching internal systems (files, browsers, internal tools) but needs an audit trail and permission gate before legal and security will sign off.",
+  "business_use_cases": [
+    "A finance team deploys the included Risk Analyst-style agent to read expense claims against policy, with every tool action gated and logged for compliance review.",
+    "An internal IT team stands this up as the company's 'ChatGPT equivalent' that only acts on internal systems through an auditable, revocable permission gateway instead of an opaque SaaS.",
+    "A regulated company (healthcare, finance) uses it specifically because it's self-hosted and every agent action is recorded, satisfying audit requirements closed SaaS tools can't meet."
+  ],
+  "money_ideas": [
+    { "idea": "CopilotKit itself sells 'we'll stand this up inside your infra and customize it' as a paid engineering engagement, per the README's own pitch.", "revenue_model": "one-off" },
+    { "idea": "A systems integrator could resell the same 'build your governed AI coworker platform' service to companies who find CopilotKit's template but want a local partner.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "It's explicitly a template, not a product — the realistic move is cloning it for one real internal use case (e.g. expense-policy checking) and selling the finished, customized deployment to one company this quarter, not reselling the template itself.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-29T12:06:43.000Z"
+}

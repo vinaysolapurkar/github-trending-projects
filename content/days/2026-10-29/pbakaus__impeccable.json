@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-29",
+  "owner": "pbakaus",
+  "name": "impeccable",
+  "full_name": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+  "language": "Rust",
+  "stars_total": 94186,
+  "stars_today": 2881,
+  "one_liner": "Gives your AI coding tool a vocabulary of design commands (like 'make it bolder' or 'polish this') and a built-in critic that catches generic, cookie-cutter-looking pages before you ship them.",
+  "buyer": "A freelance web developer or small agency that builds client sites with AI help and keeps getting called out for every project looking like the same generic template.",
+  "business_use_cases": [
+    "A freelance designer-developer runs `/impeccable audit` on every client project before delivery as a built-in quality gate, charging a 'polish pass' as a line item.",
+    "A no-code/low-code agency standardizes it across all AI-assisted builds so client sites stop looking like obvious AI output (purple gradients, generic cards).",
+    "A SaaS startup's single engineer uses `critique` and `harden` to get a professional-looking UI without hiring a designer for the MVP."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid 'AI slop removal' audit service for startups that already shipped an AI-built site and know it looks generic.", "revenue_model": "one-off" },
+    { "idea": "Package it into a productized weekly retainer: run audits and polish passes on a client's site as it evolves.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Offer a $200 'AI Slop Audit' this weekend: run `/impeccable audit` and `critique` against any startup's live site, send them the ranked findings as a free teaser report, then sell the fix.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-29T12:06:43.000Z"
+}

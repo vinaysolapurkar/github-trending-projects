@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-29",
+  "owner": "thedotmack",
+  "name": "claude-mem",
+  "full_name": "thedotmack/claude-mem",
+  "url": "https://github.com/thedotmack/claude-mem",
+  "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+  "language": "TypeScript",
+  "stars_total": 104210,
+  "stars_today": 324,
+  "one_liner": "Gives your AI coding assistant a memory that survives between sessions, so it doesn't forget what you were working on and why every time you close the chat.",
+  "buyer": "An indie developer or small dev team lead working on a long-running codebase with AI assistants who is tired of re-explaining project context every new session.",
+  "business_use_cases": [
+    "A solo developer installs it so their coding assistant remembers past architectural decisions and in-progress refactors across weeks, cutting repeated re-explaining.",
+    "A small team standardizes on it so every engineer's agent sessions share compressed project memory, keeping agents consistent across different people's chats.",
+    "A technical writer or consultant uses it to keep an AI assistant's memory of a client's codebase intact between billable sessions."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted 'Pro' memory tier (already referenced in the README as 'CMEM Pro') with better compression/retrieval for teams who don't want to self-host.", "revenue_model": "subscription" },
+    { "idea": "Charge for integration support getting this wired into a company's specific multi-agent and multi-tool setup.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "It already ships a hosted Pro tier, so there isn't much left to build around the core tool itself — the real weekend move is just installing it on your own coding setup and writing up the before/after as content to attract consulting clients.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-29T12:06:43.000Z"
+}

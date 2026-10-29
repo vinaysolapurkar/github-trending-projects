@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-29",
+  "owner": "nightly-labs",
+  "name": "openbot",
+  "full_name": "nightly-labs/openbot",
+  "url": "https://github.com/nightly-labs/openbot",
+  "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+  "language": "TypeScript",
+  "stars_total": 3590,
+  "stars_today": 705,
+  "one_liner": "A desktop app that gives you a roster of AI 'teammates' (powered by whichever coding assistants you already have) that each keep their own files, task queue, and can message each other, running on your own computer.",
+  "buyer": "A technical founder or small dev team lead who already pays for Claude/Codex/Grok and wants those tools to act like persistent coworkers instead of disconnected chat windows.",
+  "business_use_cases": [
+    "A small dev team assigns one persistent agent per workstream (bug triage, docs, refactors) so work queues and context survive between sessions instead of resetting each chat.",
+    "A solo founder has agents hand tasks to each other (one researches, one drafts, one reviews) through the built-in agent-to-agent messaging instead of manually relaying context.",
+    "An agency runs a shared desktop channel so a human and multiple agents collaborate on one task with explicit delegation and hand-off controls."
+  ],
+  "money_ideas": [
+    { "idea": "None baked in — it explicitly runs on the user's own agent subscriptions and local machine, so there's little to resell as a product.", "revenue_model": "subscription" },
+    { "idea": "Sell setup/configuration consulting for teams who want this but don't want to manage the self-hosted server piece themselves.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "It's explicitly in development preview with full-access agents and no per-action confirmation yet, which is a real safety flag — the honest weekend move is trying it solo on throwaway tasks, not pitching it to clients yet.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-29T12:06:43.000Z"
+}

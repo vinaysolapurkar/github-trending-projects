@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-29",
+  "owner": "HKUDS",
+  "name": "DeepTutor",
+  "full_name": "HKUDS/DeepTutor",
+  "url": "https://github.com/HKUDS/DeepTutor",
+  "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+  "language": "Python",
+  "stars_total": 49045,
+  "stars_today": 1926,
+  "one_liner": "An AI tutor that remembers what you've already learned and keeps adapting lessons to you over months, instead of starting from scratch every session like a chatbot.",
+  "buyer": "An online tutoring company or test-prep business owner who wants to offer 'personal tutor that remembers you' as a paid subscription product instead of one-off chatbot sessions.",
+  "business_use_cases": [
+    "A test-prep company (SAT/GMAT/language exams) white-labels it as the engine behind a 'your own AI tutor' subscription that tracks a student's weak spots across weeks.",
+    "A corporate L&D team runs it internally so new hires get a tutor that remembers their onboarding progress across modules instead of repeating the same intro content.",
+    "A homeschool parent runs it locally to give each of their kids a tutor that adapts to that specific child's pace and gaps over the school year."
+  ],
+  "money_ideas": [
+    { "idea": "Sell monthly seats for a hosted, white-labeled version to tutoring centers and course creators.", "revenue_model": "subscription" },
+    { "idea": "Charge course platforms a per-student integration fee to bolt lifelong-memory tutoring onto their existing video courses.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Point it at one narrow subject (e.g. just GMAT quant) and ship a branded landing page this weekend offering 'an AI tutor that never forgets your weak spots' as a $15/mo niche product.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-10-29T12:06:43.000Z"
+}

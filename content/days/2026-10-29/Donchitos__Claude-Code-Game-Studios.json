@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-29",
+  "owner": "Donchitos",
+  "name": "Claude-Code-Game-Studios",
+  "full_name": "Donchitos/Claude-Code-Game-Studios",
+  "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+  "language": "Shell",
+  "stars_total": 28633,
+  "stars_today": 538,
+  "one_liner": "Turns a single Claude Code chat into a simulated game studio, with dozens of specialist AI 'roles' (designer, programmer, QA, artist) that review each other's work so a solo person's game project stays organized instead of turning into a mess of hardcoded hacks.",
+  "buyer": "A solo or small-team indie game developer who already uses Claude Code and wants their AI-built game project to have design docs, QA passes, and structure instead of accumulating spaghetti code.",
+  "business_use_cases": [
+    "A solo indie dev uses it to force a design-doc-first, reviewed workflow on their game project so scope and code quality don't collapse after a few weeks of solo vibe-coding.",
+    "A tiny 2-3 person indie studio adopts it as a shared process so AI-assisted contributions from different people stay consistent and get the same 'QA lead' and 'creative director' review gates.",
+    "A game-dev educator or YouTuber uses it as a teaching framework to show students how a real studio's roles and review gates work, using AI agents to play each role."
+  ],
+  "money_ideas": [
+    { "idea": "It's free and open (MIT), funded via Buy Me a Coffee/GitHub Sponsors donations rather than a product sale.", "revenue_model": "subscription" },
+    { "idea": "A developer could sell paid custom agent/skill packs tailored to a specific engine or genre (e.g. a roguelike-specific QA/balance agent set) as an add-on.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Pick one small game prototype you've been putting off, run it entirely through this studio template for a weekend, and ship a devlog about the experience — the content itself (not the template) is the sellable thing, since the repo is free and donation-funded.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-10-29T12:06:43.000Z"
+}

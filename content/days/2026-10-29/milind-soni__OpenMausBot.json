@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-29",
+  "owner": "milind-soni",
+  "name": "OpenMausBot",
+  "full_name": "milind-soni/OpenMausBot",
+  "url": "https://github.com/milind-soni/OpenMausBot",
+  "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+  "language": "TypeScript",
+  "stars_total": 7050,
+  "stars_today": 1190,
+  "one_liner": "A chat app where every contact is actually an AI assistant running on your own machine, each with its own personality, its own cloud computer to work on, and apps it's allowed to use.",
+  "buyer": "A small business owner or solopreneur who wants a team of specialized AI 'employees' (one for support, one for research, one for admin) without paying for separate SaaS subscriptions or sending data to a closed platform.",
+  "business_use_cases": [
+    "A small agency sets up separate bots for client research, invoice follow-ups, and social scheduling, each with its own memory and connected apps, run on infrastructure they control.",
+    "A privacy-conscious professional (lawyer, consultant) runs bots locally so sensitive client chats and files never leave their own machine or vendor's cloud.",
+    "A technical reseller offers 'set up your own AI team' as a service, configuring bots for non-technical small business owners."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid setup and bot-configuration services for non-technical small business owners who want this but can't install/configure it themselves.", "revenue_model": "one-off" },
+    { "idea": "Sell managed hosting of the 'cloud computer' each bot uses, since self-hosting that part is the hard bit for most buyers.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Package a ready-to-go 'AI front desk' bundle (3 pre-configured bots: inbox triage, scheduling, research) and sell it as a one-time setup to local small businesses this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-10-29T12:06:43.000Z"
+}
