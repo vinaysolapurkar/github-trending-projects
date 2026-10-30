@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-30",
+  "owner": "macro-inc",
+  "name": "macro",
+  "full_name": "macro-inc/macro",
+  "url": "https://github.com/macro-inc/macro",
+  "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+  "language": "Rust",
+  "stars_total": 5696,
+  "stars_today": 379,
+  "generated_at": "2026-10-30T12:10:24.938Z",
+  "one_liner": "An all-in-one work app that replaces Slack, email, Notion, and a CRM with one tool where everything is linked together and shared with your team's AI.",
+  "buyer": "A startup founder or ops lead frustrated with paying for and switching between five different SaaS tools every day.",
+  "business_use_cases": [
+    "A 10-person startup replaces its Slack-plus-Notion-plus-HubSpot stack with it to cut SaaS spend and keep everything searchable in one place.",
+    "An agency owner uses the shared AI memory feature so every new hire's AI assistant instantly knows a client's history from day one.",
+    "A solo consultant self-hosts it as a lightweight personal CRM, inbox, and task manager instead of paying for four separate subscriptions."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Hosted team plan priced per seat (this is already the company's own commercial model, per their site).",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Migration and onboarding service helping teams move off their current tool stack onto it.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "There's not much white space to build a competing product on since it's already a funded company's hosted SaaS; the real opportunity is reselling migration and onboarding services to teams switching over.",
+  "opportunity_rating": 3
+}

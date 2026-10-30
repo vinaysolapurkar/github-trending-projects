@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-30",
+  "owner": "CopilotKit",
+  "name": "OpenBot",
+  "full_name": "CopilotKit/OpenBot",
+  "url": "https://github.com/CopilotKit/OpenBot",
+  "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+  "language": "TypeScript",
+  "stars_total": 8459,
+  "stars_today": 707,
+  "generated_at": "2026-10-30T12:10:24.938Z",
+  "one_liner": "An open-source 'AI coworker' platform that runs on your own servers, where each assistant gets its own browser, files, and permissions, and every action is logged.",
+  "buyer": "An IT or security lead at a mid-size regulated company who wants staff to get agentic AI help without sending company data through a third-party vendor's cloud.",
+  "business_use_cases": [
+    "A finance or healthcare company deploys it internally so staff get agentic AI tooling while all data and actions stay on company infrastructure.",
+    "An IT consultancy stands it up for clients whose compliance team previously blocked adoption of hosted AI assistants.",
+    "A software company gives each support rep an AI coworker that can browse internal tools, with a full audit log of every action for review."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Paid implementation and custom-agent-stack integration services for enterprise clients.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Managed hosting and support contract for companies who want it running without owning the infrastructure.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer a flat-fee 'OpenBot in a weekend' deployment for one department of a mid-size company, like support, then sell a monthly support retainer on top.",
+  "opportunity_rating": 4
+}

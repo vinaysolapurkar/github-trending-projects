@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-30",
+  "owner": "expo",
+  "name": "skills",
+  "full_name": "expo/skills",
+  "url": "https://github.com/expo/skills",
+  "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+  "language": "Shell",
+  "stars_total": 3785,
+  "stars_today": 233,
+  "generated_at": "2026-10-30T12:10:24.938Z",
+  "one_liner": "A pack of ready-made instructions that teach AI coding assistants how to correctly build and ship mobile apps using Expo.",
+  "buyer": "Honestly, no standalone paying buyer — this is official free tooling Expo gives away to make its own platform stickier, useful only to developers who already build with Expo.",
+  "business_use_cases": [
+    "A mobile dev shop installs it so every developer's AI assistant follows the same Expo best practices instead of hallucinating deprecated APIs.",
+    "An indie app developer uses it to speed up App Store submission chores, like configuring EAS builds, by letting their agent follow the skill instead of reading docs."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Not independently monetizable; a third party could bundle it into a paid 'AI app factory' course as supporting material.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "There isn't much to steal here — it's vendor infrastructure given away for free; skip building a standalone product on top of it.",
+  "opportunity_rating": 1
+}

@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-30-001",
+  "date": "2026-10-30",
+  "repo_a": "lightpanda-io/browser",
+  "repo_b": "pingdotgg/t3code",
+  "title": "Browser Fleet, Pocket Control",
+  "pitch": "Combine Lightpanda's ultra-light headless browser with T3 Code's mobile agent-control app to run dozens of cheap browser-automation agents at once — price scraping, lead gen, QA testing — while a solo operator approves risky steps and checks results from their phone between meetings. That pairing lets a one-person shop undercut agencies that are still paying for heavyweight Chromium instances and staring at a desk-bound dashboard all day.",
+  "why_now": "Browser-driven AI agents are becoming routine, Lightpanda just made running many of them dramatically cheaper, and mobile agent-control apps like T3 Code are maturing right now — together they turn 'run an agent' into 'run a fleet of agents from your phone.'"
+}

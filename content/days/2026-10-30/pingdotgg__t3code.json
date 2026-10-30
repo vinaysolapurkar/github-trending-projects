@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-30",
+  "owner": "pingdotgg",
+  "name": "t3code",
+  "full_name": "pingdotgg/t3code",
+  "url": "https://github.com/pingdotgg/t3code",
+  "description": "",
+  "language": "TypeScript",
+  "stars_total": 32280,
+  "stars_today": 920,
+  "generated_at": "2026-10-30T12:10:24.938Z",
+  "one_liner": "A mobile, web, and desktop app that lets you watch and steer your AI coding assistants (Claude Code, Codex, Cursor, and more) remotely from your phone.",
+  "buyer": "A busy engineering manager or solo founder who wants to kick off and babysit long AI coding tasks from their phone while away from their desk.",
+  "business_use_cases": [
+    "A solo founder starts a long AI coding task before leaving the office and approves or steers it from their phone over lunch.",
+    "A dev team adopts it so engineers can review and approve agent actions on mobile during a commute or between meetings.",
+    "An agency running many client coding agents in parallel uses the dashboard to triage which agent needs attention right now."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A paid team tier with multi-user device management and shared visibility into running agents.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "White-labeling the mobile remote-control layer for AI tooling vendors who don't want to build their own app.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build a thin layer on top that pushes a notification each morning summarizing what every agent did overnight — a 'morning digest' nobody has shipped yet.",
+  "opportunity_rating": 4
+}

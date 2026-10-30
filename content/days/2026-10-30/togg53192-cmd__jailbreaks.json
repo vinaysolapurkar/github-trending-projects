@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-30",
+  "owner": "togg53192-cmd",
+  "name": "jailbreaks",
+  "full_name": "togg53192-cmd/jailbreaks",
+  "url": "https://github.com/togg53192-cmd/jailbreaks",
+  "description": "LIST OF ALL MY JAILBREAKS",
+  "language": null,
+  "stars_total": 9971,
+  "stars_today": 2053,
+  "generated_at": "2026-10-30T12:10:24.938Z",
+  "one_liner": "A public library of prompts designed to bypass the safety rules of various AI chatbots.",
+  "buyer": "Honestly, nobody legitimate should be paying for this — it's a hobbyist list with no real commercial path, and using it against production AI products can violate those products' terms of service.",
+  "business_use_cases": [
+    "An AI safety researcher or red-teamer references it to understand common failure modes while hardening their own system's guardrails.",
+    "A vendor's trust-and-safety team scans it to patch known jailbreak patterns in their own model's defenses."
+  ],
+  "money_ideas": [
+    {
+      "idea": "No legitimate revenue model — a product built around 'jailbreak prompts as a service' invites ToS violations and real legal and reputational risk.",
+      "revenue_model": "not recommended"
+    }
+  ],
+  "steal_this": "Don't build a product around this; at most, use it as a reading list to stress-test your own AI product's safety filters before shipping.",
+  "opportunity_rating": 1
+}

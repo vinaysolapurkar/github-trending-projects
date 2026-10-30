@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-30",
+  "owner": "HKUDS",
+  "name": "DeepTutor",
+  "full_name": "HKUDS/DeepTutor",
+  "url": "https://github.com/HKUDS/DeepTutor",
+  "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+  "language": "Python",
+  "stars_total": 51269,
+  "stars_today": 2282,
+  "generated_at": "2026-10-30T12:10:24.938Z",
+  "one_liner": "An AI tutor that remembers a student over time and adapts lessons to them personally, instead of resetting to zero every session like a normal chatbot.",
+  "buyer": "An ed-tech startup or homeschool parent who wants personalized, continuously-adapting tutoring without hiring a full-time 1:1 human tutor.",
+  "business_use_cases": [
+    "An ed-tech startup white-labels it as the tutoring engine behind a subject-specific app, like math or language learning.",
+    "A homeschooling parent runs it locally to give their child a tutor that remembers weak spots across months, not just one session.",
+    "A test-prep company builds a product on top that tracks a student's long-term progress toward a target SAT or GRE score."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A per-student monthly subscription for a hosted tutoring product built on this engine.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Licensing the engine to existing ed-tech platforms as a backend upgrade.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Pick one narrow subject, like high-school algebra, and launch a $15/month 'personal AI tutor' product this weekend using this as the backend.",
+  "opportunity_rating": 4
+}
