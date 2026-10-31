@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-31",
+  "owner": "mattpocock",
+  "name": "skills",
+  "full_name": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "language": "Shell",
+  "stars_total": 307863,
+  "stars_today": 882,
+  "generated_at": "2026-10-31T12:05:30.255Z",
+  "one_liner": "A free collection of 'playbooks' one well-known engineer uses to get disciplined, non-bloated results out of AI coding tools, shared for anyone to copy.",
+  "buyer": "A startup engineering lead whose AI coding agents keep producing over-engineered, expensive-to-maintain code and wants a repeatable process instead.",
+  "business_use_cases": [
+    "A startup CTO adopts the skills directly so the team's AI-assisted code stops accumulating unnecessary abstractions and bloat.",
+    "A dev educator studies the structure and builds their own paid 'AI engineering discipline' course around similar principles.",
+    "A team lead cherry-picks a few skills to standardize how the whole team briefs its coding agents before a project kicks off."
+  ],
+  "money_ideas": [
+    {
+      "idea": "The author already funnels free skills into a paid newsletter and course; the real model is skills-as-marketing for paid training.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Pick the three best skills, adapt them to your own stack, and publish your own niche 'skills for X framework' repo as a lead magnet for consulting work.",
+  "opportunity_rating": 2
+}

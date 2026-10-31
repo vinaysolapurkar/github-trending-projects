@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-31",
+  "owner": "thedotmack",
+  "name": "claude-mem",
+  "full_name": "thedotmack/claude-mem",
+  "url": "https://github.com/thedotmack/claude-mem",
+  "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+  "language": "TypeScript",
+  "stars_total": 107017,
+  "stars_today": 1723,
+  "generated_at": "2026-10-31T12:05:30.255Z",
+  "one_liner": "Gives an AI coding assistant a long-term memory so it remembers your project between chat sessions instead of starting from scratch every time.",
+  "buyer": "A freelance developer or small dev team billing clients for AI-assisted work who is tired of re-explaining the same codebase context every new session.",
+  "business_use_cases": [
+    "A freelance developer juggling five client codebases installs it so switching projects doesn't mean five rounds of re-explaining architecture.",
+    "A small agency standardizes it across the team so every engineer's Claude Code session shares the same compressed project history.",
+    "A solo founder uses it to keep a six-month AI-assisted rebuild coherent without manually re-pasting notes every morning."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Hosted 'Pro' memory tier with faster retrieval and larger context budgets (already referenced in the project's own README).",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Paid consulting to wire it into a company's specific multi-agent, multi-tool dev setup.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Install it on your own project, document the before/after context-loss pain with screenshots, and publish that as content to attract AI-tooling consulting clients.",
+  "opportunity_rating": 2
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-31",
+  "owner": "vorssaint",
+  "name": "vorssaint-utils",
+  "full_name": "vorssaint/vorssaint-utils",
+  "url": "https://github.com/vorssaint/vorssaint-utils",
+  "description": "Free and open-source macOS menu bar toolkit.",
+  "language": "Swift",
+  "stars_total": 31526,
+  "stars_today": 499,
+  "generated_at": "2026-10-31T12:05:30.255Z",
+  "one_liner": "A free macOS menu-bar app that bundles a dozen small utilities, the kind of thing you'd otherwise buy as separate paid Mac apps, into one icon.",
+  "buyer": "A Mac power user who's tired of paying for and juggling a dozen separate $5-15 menu-bar utility apps.",
+  "business_use_cases": [
+    "A Mac-focused app reviewer or YouTuber builds content comparing it against the paid utilities it replaces, driving affiliate or ad traffic.",
+    "An IT consultant recommends it to small-business Mac fleets to cut per-seat software licensing costs.",
+    "A developer forks the open codebase to build and sell one specialized premium utility not covered by the free bundle."
+  ],
+  "money_ideas": [
+    {
+      "idea": "The project itself is free and open-source, so the real business is building a paid 'pro' utility that plugs a gap it leaves, sold alongside it.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Affiliate or content revenue from 'best free menu bar app' comparison content built around it.",
+      "revenue_model": "ads"
+    }
+  ],
+  "steal_this": "Identify the one paid menu-bar utility this doesn't replace yet, build just that single feature this weekend, and market it directly to this project's user base.",
+  "opportunity_rating": 2
+}

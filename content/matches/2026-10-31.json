@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-31",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing trending today or recently is a social-media video editor; honest null." },
+    { "problem_id": "p002", "repo": null, "why": "No product-photography tool has trended recently; honest null." },
+    { "problem_id": "p003", "repo": "thedotmack/claude-mem", "why": "It's built specifically to give an AI coding assistant persistent memory across sessions, which is exactly this complaint.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "mattpocock/skills", "why": "A working engineer's own skill set explicitly aimed at disciplined, non-bloated results from AI coding agents instead of over-engineered output.", "confidence": "high" },
+    { "problem_id": "p005", "repo": null, "why": "Nothing today or recently organizes or indexes a personal PDF/article library; honest null." },
+    { "problem_id": "p006", "repo": null, "why": "No footage-free news-visualization tool has trended recently." },
+    { "problem_id": "p007", "repo": "K-Dense-AI/scientific-agent-skills", "why": "It turns a general AI agent into a lab research assistant with validated science skills and scientific database connections, a direct fit for a lab that can't afford a bioinformatics team.", "confidence": "high" },
+    { "problem_id": "p008", "repo": "CopilotKit/OpenBot", "why": "It's a self-hosted AI coworker platform where data and every action stay on your own infrastructure with a full audit log, which is what a law firm worried about client-data leaks actually needs.", "confidence": "high" },
+    { "problem_id": "p009", "repo": "debpalash/VoiceStudio", "why": "It turns text into natural narration in many languages fully offline, which covers most of turning a blog post into a narrated video, though it doesn't handle the video assembly itself.", "confidence": "medium" },
+    { "problem_id": "p010", "repo": null, "why": "vorssaint-utils is a self-hosted Mac menu-bar toolkit, not a notes app, so it doesn't actually fit; no self-hosted notes app has trended recently. Honest null." },
+    { "problem_id": "p011", "repo": null, "why": "Nothing recent specifically maps or explains how an existing messy codebase fits together." },
+    { "problem_id": "p012", "repo": "obra/superpowers", "why": "It's a structured methodology plus reusable skills for building software with an AI agent, which gives a first-time builder an actual process to start from.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "No restaurant inventory tool has trended recently; honest null." }
+  ]
+}

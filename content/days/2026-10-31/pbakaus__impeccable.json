@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-31",
+  "owner": "pbakaus",
+  "name": "impeccable",
+  "full_name": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+  "language": "Rust",
+  "stars_total": 97666,
+  "stars_today": 1339,
+  "generated_at": "2026-10-31T12:05:30.255Z",
+  "one_liner": "Teaches an AI coding assistant good visual taste, so the apps and sites it builds stop looking like generic 'AI slop' and start looking designed.",
+  "buyer": "A non-designer founder or solo developer shipping their own product who can't afford a designer but is embarrassed by how their AI-generated UI looks.",
+  "business_use_cases": [
+    "A bootstrapped SaaS founder installs it so their coding agent stops generating the same cookie-cutter rounded-card dashboard every project ships with.",
+    "A small agency building client sites with AI tools uses it to raise the visual bar across every deliverable without hiring a designer.",
+    "A hackathon team runs it right before demo day so their AI-built prototype looks polished in front of judges."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Paid curated style packs beyond the free defaults, aimed at specific industries (real estate, restaurants, fitness).",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Agency/team license bundling it with templates and a Slack-based design review bot.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build a small before/after gallery of real AI-generated pages styled with it vs. without, then sell the install-and-setup as a flat $49 service to indie hackers.",
+  "opportunity_rating": 3
+}

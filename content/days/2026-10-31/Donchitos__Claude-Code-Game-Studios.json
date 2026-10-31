@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-31",
+  "owner": "Donchitos",
+  "name": "Claude-Code-Game-Studios",
+  "full_name": "Donchitos/Claude-Code-Game-Studios",
+  "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+  "language": "Shell",
+  "stars_total": 30673,
+  "stars_today": 1347,
+  "generated_at": "2026-10-31T12:05:30.255Z",
+  "one_liner": "Turns a single Claude Code AI assistant into a whole simulated game-development studio: 49 specialist AI 'employees' and dozens of workflows that coordinate like a real studio's departments.",
+  "buyer": "A solo indie game developer who can't afford to hire artists, designers, and QA testers but wants a structured, studio-like process instead of working alone and unstructured.",
+  "business_use_cases": [
+    "A solo indie dev uses it to simulate having a full art, design, and QA team to actually finish a game they'd otherwise abandon alone.",
+    "A small 2-3 person studio adopts the coordination system to divide work between humans and AI agents without inventing their own process from scratch.",
+    "A game-dev educator builds a course teaching students how a real studio pipeline works, using this as the hands-on simulation."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Paid 'studio-in-a-box' templates for specific genres (platformer, roguelike, visual novel) pre-tuned for this system.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "A Discord community or coaching service helping indie devs actually finish games using the workflow.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Pick one of the included QA or playtesting agents, package it standalone with a short tutorial, and sell it to the large solo-gamedev audience this weekend.",
+  "opportunity_rating": 3
+}

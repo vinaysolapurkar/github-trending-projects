@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-31-001",
+  "date": "2026-10-31",
+  "repo_a": "Donchitos/Claude-Code-Game-Studios",
+  "repo_b": "pbakaus/impeccable",
+  "title": "Game Studio, Good Taste",
+  "pitch": "Claude-Code-Game-Studios gives a solo developer the coordination of a full 49-agent studio, but like most AI-assisted software its screens, store pages, and marketing art still default to generic 'AI slop' visuals. Wire Impeccable's design vocabulary into the studio's art- and UI-facing agents so every menu screen and store asset gets the same polish-and-critique pass a real studio's art director would give it. A solo indie developer ends up with both the team structure and the visual taste that most AI-built games are still missing, for the cost of a config step, not a hire.",
+  "why_now": "Both projects trended on the same day: one solves team structure for solo AI-assisted game development, the other solves the visual-polish problem that's been the most common complaint about AI-built software all year. Combining them costs nothing but wiring."
+}

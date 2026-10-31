@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-31",
+  "owner": "bregman-arie",
+  "name": "devops-exercises",
+  "full_name": "bregman-arie/devops-exercises",
+  "url": "https://github.com/bregman-arie/devops-exercises",
+  "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+  "language": "Python",
+  "stars_total": 85560,
+  "stars_today": 341,
+  "generated_at": "2026-10-31T12:05:30.255Z",
+  "one_liner": "A giant free library of practice questions and exercises for DevOps, cloud, and SRE job interviews, covering things like Linux, AWS, Docker, and Kubernetes.",
+  "buyer": "A job-seeking DevOps or SRE engineer prepping for interviews, or a bootcamp that wants ready-made curriculum content.",
+  "business_use_cases": [
+    "A coding bootcamp or training company adapts the question bank as paid course curriculum instead of writing one from scratch.",
+    "A career-coaching service for engineers sells mock-interview sessions built directly on this question set.",
+    "A recruiting firm uses it to build a free DevOps skills-screening quiz that attracts candidates to their job board."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A paid 'premium' interview-prep app layering spaced-repetition and progress tracking on top of the free question bank.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sponsored job listings placed alongside the free study content to reach job-seeking engineers.",
+      "revenue_model": "ads"
+    }
+  ],
+  "steal_this": "Turn the questions into a simple flashcard quiz web app with a free tier and a paid 'track my progress' tier, and launch it this weekend.",
+  "opportunity_rating": 2
+}

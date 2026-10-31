@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-31",
+  "owner": "Orkas-AI",
+  "name": "Orkas",
+  "full_name": "Orkas-AI/Orkas",
+  "url": "https://github.com/Orkas-AI/Orkas",
+  "description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
+  "language": "JavaScript",
+  "stars_total": 5861,
+  "stars_today": 1004,
+  "generated_at": "2026-10-31T12:05:30.255Z",
+  "one_liner": "A free desktop app where you tell an AI 'Commander' your goal, and it splits the goal into to-do items and hands them to a team of specialist AI helpers that keep the work moving over time.",
+  "buyer": "A solo small-business owner or freelancer who wants an ongoing AI 'staff' handling recurring tasks without hiring anyone.",
+  "business_use_cases": [
+    "A solo consultant sets up a recurring weekly automation, like drafting the client status report every Friday, and the Commander keeps it running unattended.",
+    "A small e-commerce owner assigns separate agents to inventory emails and customer-support drafts, reviewing finished work each morning.",
+    "An agency owner uses the project and to-do structure to keep a long client engagement organized across many AI sessions instead of starting over each time."
+  ],
+  "money_ideas": [
+    {
+      "idea": "The built-in credits model for the proprietary Orkas model is already usage-based; a business could resell curated agent 'packs' for specific trades.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "A paid setup service that configures scheduled automations for non-technical small-business owners.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Pick one repetitive weekly task a local business owner complains about, configure it as a scheduled automation in this tool, and sell the finished setup as a flat $200 one-time service.",
+  "opportunity_rating": 3
+}

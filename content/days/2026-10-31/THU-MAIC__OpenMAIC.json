@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-31",
+  "owner": "THU-MAIC",
+  "name": "OpenMAIC",
+  "full_name": "THU-MAIC/OpenMAIC",
+  "url": "https://github.com/THU-MAIC/OpenMAIC",
+  "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+  "language": "TypeScript",
+  "stars_total": 41998,
+  "stars_today": 115,
+  "generated_at": "2026-10-31T12:05:30.255Z",
+  "one_liner": "A one-click virtual classroom where several AI characters, like a teacher and classmates, interact with a student together, instead of one single chatbot tutor.",
+  "buyer": "An online school or e-learning platform that wants a more engaging, classroom-like AI learning experience than a plain 1:1 chatbot tutor.",
+  "business_use_cases": [
+    "An online tutoring platform licenses the engine to offer a 'virtual classroom' upgrade that feels more social than a 1:1 chatbot.",
+    "A corporate training company uses the multi-agent classroom format to make compliance or onboarding courses less boring.",
+    "A university or bootcamp pilots it as a free supplementary study-group simulator for students without a study partner."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A white-labeled classroom product licensed per-seat to schools or e-learning platforms.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "A consumer app charging per course or subject unlocked.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build one polished 'virtual study group' experience for a single popular exam, like SAT vocabulary, and sell it as a $10/month add-on this weekend.",
+  "opportunity_rating": 3
+}

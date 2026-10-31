@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-31",
+  "owner": "milind-soni",
+  "name": "OpenMausBot",
+  "full_name": "milind-soni/OpenMausBot",
+  "url": "https://github.com/milind-soni/OpenMausBot",
+  "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+  "language": "TypeScript",
+  "stars_total": 9200,
+  "stars_today": 1304,
+  "generated_at": "2026-10-31T12:05:30.255Z",
+  "one_liner": "A chat app where each contact is really an AI worker with its own computer, apps, and personality, so you message them like coworkers and they go do the task.",
+  "buyer": "A small business owner or solo operator who wants a team of task-doing AI assistants without paying for several closed AI-vendor subscriptions.",
+  "business_use_cases": [
+    "An e-commerce seller runs one bot to monitor supplier emails and another to draft customer replies, treating them like two part-time hires in one app.",
+    "A marketing freelancer keeps a 'research bot' and a 'content bot' in separate chats with separate logins and files, so client work stays cleanly siloed.",
+    "A small dev shop self-hosts it to give every employee a company-branded AI assistant without routing data through a closed third-party vendor."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Hosted/managed version with provisioned cloud computers per bot, billed per seat.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Pre-built bot personas (bookkeeper, support, social-media) sold as ready-to-install templates.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Package three or four ready-made bot personas (inbox triage, invoice chasing, social replies) as a weekend 'starter pack' and sell the setup to small business owners.",
+  "opportunity_rating": 3
+}
