@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-01",
+  "owner": "pingdotgg",
+  "name": "t3code",
+  "full_name": "pingdotgg/t3code",
+  "url": "https://github.com/pingdotgg/t3code",
+  "description": "",
+  "language": "TypeScript",
+  "stars_total": 36559,
+  "stars_today": 3100,
+  "generated_at": "2026-11-01T12:10:21.201Z",
+  "one_liner": "A remote control for the AI coding assistants already running on your computer — a mobile app, web app, and desktop app that let you check on and steer Claude Code, Codex, or Cursor from your phone instead of staring at a terminal all day.",
+  "buyer": "A developer who already pays for Claude Code or Codex and wants to kick off and babysit long-running coding tasks from their phone while away from their desk.",
+  "business_use_cases": [
+    "A solo developer starts a long refactor before leaving for lunch and approves or redirects it from their phone instead of sitting at the keyboard.",
+    "A technical founder reviews and approves AI agent actions from a hotel room during travel without needing a laptop open.",
+    "A small dev team uses it as a lightweight shared dashboard to see what every teammate's AI agent is currently doing across machines."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A hosted team tier with shared visibility, permissions, and audit history across a company's developers.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Paid push-notification/alerting add-ons for specific failure or completion events.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "It's free and open already — the fastest weekend move is building a narrow companion: a Slack/Discord bridge that posts agent status updates into a team channel.",
+  "opportunity_rating": 3
+}

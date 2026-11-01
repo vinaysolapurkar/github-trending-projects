@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-01",
+  "owner": "beenuar",
+  "name": "AiSOC",
+  "full_name": "beenuar/AiSOC",
+  "url": "https://github.com/beenuar/AiSOC",
+  "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
+  "language": "Python",
+  "stars_total": 5856,
+  "stars_today": 436,
+  "generated_at": "2026-11-01T12:10:21.201Z",
+  "one_liner": "A self-hosted AI security guard for a company's computer systems: it watches alerts from security tools, uses AI to investigate what looks suspicious, and shows a human exactly what it checked before anything gets acted on.",
+  "buyer": "An IT manager at a small-to-mid-size company who needs basic security monitoring but can't afford a full enterprise security operations team or a pricey SIEM contract.",
+  "business_use_cases": [
+    "A small company's one-person IT team deploys it to get automated first-pass triage on security alerts instead of manually reviewing everything.",
+    "An MSP (managed service provider) offers it as the engine behind a 'security monitoring' add-on service for multiple small-business clients.",
+    "A compliance-focused startup uses its auditable decision log to satisfy a security-review requirement without buying an expensive commercial SOC platform."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A managed-hosting tier for companies that want the tool but not the operational burden of running it.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Paid detection-rule packs for specific industries (healthcare, fintech compliance).",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "An MSP could stand this up for one existing client this weekend as a pilot 'AI-assisted monitoring' add-on and use that as the case study to sell it to the rest of their book of business.",
+  "opportunity_rating": 4
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-01",
+  "owner": "FlashML-org",
+  "name": "FreeToken",
+  "full_name": "FlashML-org/FreeToken",
+  "url": "https://github.com/FlashML-org/FreeToken",
+  "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+  "language": "Python",
+  "stars_total": 15098,
+  "stars_today": 232,
+  "generated_at": "2026-11-01T12:10:21.201Z",
+  "one_liner": "Software that lets a large AI model, the kind normally run in a data center, run on a gaming PC or workstation at usable speed by cleverly splitting the work between the GPU and the CPU.",
+  "buyer": "A technically sophisticated hobbyist or small startup that wants to run frontier-scale open AI models privately on owned hardware instead of paying ongoing cloud inference bills.",
+  "business_use_cases": [
+    "A privacy-focused startup runs a large open-weight model entirely on-premises for sensitive client work, avoiding cloud API costs and data-exposure risk.",
+    "A systems integrator builds and sells pre-configured 'AI workstation' hardware bundles tuned for this engine as a one-time hardware sale.",
+    "An AI enthusiast community builds shared how-to content and configs for running specific popular models well on consumer GPUs."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Selling pre-built, pre-tuned desktop hardware ('AI workstation in a box') bundled with this software configured out of the box.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Paid support/consulting for companies deploying it in production on owned hardware.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build and sell a single pre-configured hardware/software bundle for one popular model this quarter rather than trying to be a general platform — a narrow, concrete offer sells faster.",
+  "opportunity_rating": 3
+}

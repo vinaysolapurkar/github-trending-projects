@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-01",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing trending today or recently edits short-form video for social media; honest null." },
+    { "problem_id": "p002", "repo": null, "why": "No product-photography tool has trended recently; honest null." },
+    { "problem_id": "p003", "repo": "thedotmack/claude-mem", "why": "It's built specifically to capture, compress, and re-inject session context so a coding assistant stops forgetting the project between sessions — trending again today.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "mattpocock/skills", "why": "A working engineer's own skill set aimed at disciplined, non-bloated output from AI coding agents instead of over-engineered code; still fresh from yesterday's trending list.", "confidence": "medium" },
+    { "problem_id": "p005", "repo": null, "why": "Nothing today or recently organizes or indexes a personal PDF/article library; honest null." },
+    { "problem_id": "p006", "repo": null, "why": "No footage-free news-visualization tool has trended recently." },
+    { "problem_id": "p007", "repo": null, "why": "AiSOC is a security-operations triage tool, not a bioinformatics assistant, so it doesn't actually fit; nothing recent genuinely solves a small lab's lack of bioinformatics staff. Honest null." },
+    { "problem_id": "p008", "repo": "CopilotKit/OpenBot", "why": "It's a self-hosted AI coworker platform where data and every tool action stay on the company's own infrastructure with a full audit log before anything executes, which is what a law firm worried about client-data leaks actually needs — trending again today.", "confidence": "high" },
+    { "problem_id": "p009", "repo": "debpalash/VoiceStudio", "why": "It turns text into natural narration offline across many languages, covering most of turning a blog post into a narrated video, though it doesn't assemble the video itself.", "confidence": "medium" },
+    { "problem_id": "p010", "repo": null, "why": "No self-hosted personal notes app has trended recently; honest null." },
+    { "problem_id": "p011", "repo": null, "why": "Nothing today or recently specifically maps or explains how an existing messy codebase fits together." },
+    { "problem_id": "p012", "repo": "obra/superpowers", "why": "It's a complete start-to-finish methodology plus reusable skills for building software with an AI agent, a reasonable on-ramp for someone who doesn't know where to start.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "No restaurant inventory tool has trended recently; honest null." }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-01",
+  "owner": "thedotmack",
+  "name": "claude-mem",
+  "full_name": "thedotmack/claude-mem",
+  "url": "https://github.com/thedotmack/claude-mem",
+  "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+  "language": "TypeScript",
+  "stars_total": 108474,
+  "stars_today": 1527,
+  "generated_at": "2026-11-01T12:10:21.201Z",
+  "one_liner": "Gives an AI coding assistant a memory. It quietly records what the assistant did in each session, boils that down with AI, and feeds the useful parts back in next time, so the assistant stops forgetting your project between chats.",
+  "buyer": "A solo developer or small dev team paying for Claude Code, Codex, or similar tools who is tired of re-explaining their project's architecture and decisions every single session.",
+  "business_use_cases": [
+    "A freelance developer runs it so a client project picks up exactly where it left off each morning, cutting the re-orientation time they'd otherwise bill the client for.",
+    "A dev agency standardizes it across every engineer's AI assistant so institutional knowledge about a client's codebase survives staff turnover and session resets.",
+    "A technical course creator uses the compressed session summaries as raw material for 'what I actually did today' devlogs without manually taking notes."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A hosted, managed version of the memory-compression pipeline so non-technical teams don't have to run the infrastructure themselves.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Paid 'memory packs' — pre-seeded project context for popular frameworks so a new project starts with best-practice context already injected.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Package the memory-compression engine as a lightweight companion tool for a single popular IDE AI plugin and sell it as a weekend side project to the huge audience of people already annoyed by context loss.",
+  "opportunity_rating": 3
+}

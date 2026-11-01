@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-01",
+  "owner": "patchy631",
+  "name": "ai-engineering-hub",
+  "full_name": "patchy631/ai-engineering-hub",
+  "url": "https://github.com/patchy631/ai-engineering-hub",
+  "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+  "language": "Jupyter Notebook",
+  "stars_total": 39775,
+  "stars_today": 573,
+  "generated_at": "2026-11-01T12:10:21.201Z",
+  "one_liner": "A big free library of over 90 hands-on tutorial projects for building things with AI — chatbots, document search, AI agents — organized from beginner to advanced, with working code for each one.",
+  "buyer": "An aspiring AI developer or a company training up its engineers who wants concrete, working examples instead of starting from theory or a blank page.",
+  "business_use_cases": [
+    "A bootcamp or corporate training program uses the beginner-to-advanced structure as a ready-made curriculum instead of building one from scratch.",
+    "A freelance AI consultant uses specific project templates (e.g. the agentic RAG examples) as a fast starting point for client work, billing for the customization."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A paid 'cohort' course or workshop that walks a paying audience through the free repo's projects live, charging for structure and support rather than the content.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sponsored project additions or sponsored tool integrations within the hub (already partly monetized via the newsletter/eBook funnel).",
+      "revenue_model": "ads"
+    }
+  ],
+  "steal_this": "Pick the three most-requested beginner projects, record a tight paid video walkthrough for each, and sell that as a cheap companion course this weekend.",
+  "opportunity_rating": 2
+}

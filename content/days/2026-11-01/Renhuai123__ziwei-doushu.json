@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-01",
+  "owner": "Renhuai123",
+  "name": "ziwei-doushu",
+  "full_name": "Renhuai123/ziwei-doushu",
+  "url": "https://github.com/Renhuai123/ziwei-doushu",
+  "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+  "language": "TypeScript",
+  "stars_total": 12742,
+  "stars_today": 953,
+  "generated_at": "2026-11-01T12:10:21.201Z",
+  "one_liner": "An open-source engine for Zi Wei Dou Shu, a traditional Chinese astrology chart system, plus a massive dataset of pre-written readings — it calculates your 'chart' from your birth date/time and can explain what it traditionally means.",
+  "buyer": "A Chinese-language app or content creator building a fortune-telling or astrology product who wants a correct, well-researched calculation engine instead of building the astrology math themselves.",
+  "business_use_cases": [
+    "A Chinese astrology app uses the free engine and licensed dataset as its backend instead of paying a specialist to build the calculation logic.",
+    "A content creator builds a 'daily reading' social account or mini-app using the engine to generate personalized posts for followers.",
+    "A matchmaking or relationship app in Chinese-speaking markets adds a 'compatibility chart' feature as a differentiator using this engine."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A paid consumer app offering personalized readings, charging for deeper reports beyond a free basic chart.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "A subscription for ongoing yearly/monthly fortune updates tied to a user's saved chart.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Wrap the engine in a simple web form that takes a birthdate and spits out a free basic chart plus a paid 'full reading' PDF — a clear weekend-buildable product for Chinese-speaking markets.",
+  "opportunity_rating": 3
+}

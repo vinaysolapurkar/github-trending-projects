@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-01",
+  "owner": "shiyu-coder",
+  "name": "Kronos",
+  "full_name": "shiyu-coder/Kronos",
+  "url": "https://github.com/shiyu-coder/Kronos",
+  "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+  "language": "Python",
+  "stars_total": 44932,
+  "stars_today": 611,
+  "generated_at": "2026-11-01T12:10:21.201Z",
+  "one_liner": "An AI model trained specifically to read candlestick-chart patterns in financial markets and forecast what price movement comes next, the way a language model predicts the next word.",
+  "buyer": "A quant trading hobbyist or small prop-trading shop that wants a forecasting signal without building a financial model from scratch, and can tolerate the real risk that it's wrong.",
+  "business_use_cases": [
+    "A small trading firm uses it as one input signal among several in an existing strategy, rather than trading on it alone.",
+    "A fintech content creator builds a 'what does the AI see' dashboard around its public demo to attract an audience interested in algorithmic trading.",
+    "A crypto trading-bot vendor offers it as an optional forecasting module inside their existing bot product."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A subscription dashboard showing the model's forecasts for popular tickers/crypto pairs, clearly labeled as a research signal, not investment advice.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "A fine-tuning service that adapts the base model to a specific market or asset class for quant teams.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Wrap the public demo's forecast output into a simple Discord bot that posts daily BTC/ETH predictions to a trading community this weekend — honest fun, not a trading signal to bet real money on.",
+  "opportunity_rating": 2
+}

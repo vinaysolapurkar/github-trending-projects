@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-01",
+  "owner": "togg53192-cmd",
+  "name": "jailbreaks",
+  "full_name": "togg53192-cmd/jailbreaks",
+  "url": "https://github.com/togg53192-cmd/jailbreaks",
+  "description": "LIST OF ALL MY JAILBREAKS",
+  "language": null,
+  "stars_total": 12528,
+  "stars_today": 730,
+  "generated_at": "2026-11-01T12:10:21.201Z",
+  "one_liner": "A public collection of prompts designed to trick various AI chatbots into ignoring their safety rules and behaving however the user wants.",
+  "buyer": "Nobody legitimate. The only 'buyers' here are people trying to misuse AI systems or, on the defensive side, security researchers studying how these tricks work.",
+  "business_use_cases": [
+    "A legitimate AI-safety researcher studies these prompts to understand and defend against instruction-hijacking attacks.",
+    "An AI vendor's red team uses published jailbreaks like these as test cases to harden their own model's defenses."
+  ],
+  "money_ideas": [
+    {
+      "idea": "There is no honest consumer business here. The one legitimate adjacent revenue is selling AI red-teaming/defense services, not the jailbreaks themselves.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Don't build a product on this repo. The only defensible weekend project in this space is a prompt-injection detector that uses lists like this as a test suite, not a product that uses them to break safety rules.",
+  "opportunity_rating": 1
+}

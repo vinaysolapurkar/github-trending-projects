@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-01-001",
+  "date": "2026-11-01",
+  "repo_a": "thedotmack/claude-mem",
+  "repo_b": "CopilotKit/OpenBot",
+  "title": "The Coworker That Remembers",
+  "pitch": "OpenBot gives a company a roster of self-hosted AI 'coworkers,' each with its own browser, files, and tools — but like most agent platforms, every new conversation starts from zero. Wire claude-mem's session-compression pipeline into OpenBot's gateway so each Bot keeps a running, auditable memory of the company's decisions, tickets, and past conversations instead of relearning them every time. The combination turns a roster of stateless assistants into coworkers that actually get better the longer they work somewhere — sold as a managed-deployment add-on to the operations teams already adopting OpenBot.",
+  "why_now": "Both trended on the same day: one solves cross-session amnesia for coding agents, the other is a self-hosted internal-AI platform whose biggest early-adopter complaint is exactly that amnesia, just for office work instead of code. The fix is wiring, not a new product."
+}

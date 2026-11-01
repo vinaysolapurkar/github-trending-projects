@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-01",
+  "owner": "milind-soni",
+  "name": "OpenMausBot",
+  "full_name": "milind-soni/OpenMausBot",
+  "url": "https://github.com/milind-soni/OpenMausBot",
+  "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+  "language": "TypeScript",
+  "stars_total": 10109,
+  "stars_today": 919,
+  "generated_at": "2026-11-01T12:10:21.201Z",
+  "one_liner": "A chat app where every contact in your sidebar is a real AI agent with its own personality, its own virtual computer, and its own set of connected apps — like having a team of digital employees you message like friends.",
+  "buyer": "A small business owner or solo operator who wants several specialized AI assistants (one for email, one for research, one for scheduling) without juggling separate tools or paying for multiple SaaS subscriptions.",
+  "business_use_cases": [
+    "A solo consultant runs one bot dedicated to client research, one to drafting proposals, and one to inbox triage, each with memory of its own thread.",
+    "A small agency gives each team member a personal 'bot roster' tuned to their role, replacing a patchwork of point-solution SaaS tools.",
+    "A productized-service business builds a client-facing bot persona on top of it and resells access as a branded assistant."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Pre-built 'bot personas' for common roles (bookkeeper, social-media manager, customer-support triage) sold as installable packs.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "A hosted version with managed cloud computers per bot for users who don't want to self-host.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build and sell one polished, narrow bot persona (e.g. an invoice-chasing bot for freelancers) on top of this framework this weekend rather than trying to compete with the whole platform.",
+  "opportunity_rating": 3
+}

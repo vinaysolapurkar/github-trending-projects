@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-01",
+  "owner": "lightpanda-io",
+  "name": "browser",
+  "full_name": "lightpanda-io/browser",
+  "url": "https://github.com/lightpanda-io/browser",
+  "description": "Lightpanda: the headless browser designed for AI and automation",
+  "language": "Zig",
+  "stars_total": 39603,
+  "stars_today": 827,
+  "generated_at": "2026-11-01T12:10:21.201Z",
+  "one_liner": "A browser built from scratch to be driven by robots and AI, not humans — no tabs, no rendering flourishes, just fetching and reading web pages using far less memory and time than a normal browser.",
+  "buyer": "A startup running web-scraping or AI-agent infrastructure at scale who is currently paying a large cloud bill to run hundreds of full Chrome instances.",
+  "business_use_cases": [
+    "A web-scraping-as-a-service company swaps Chrome for this in its crawling fleet and cuts server costs by running far more concurrent sessions per machine.",
+    "An AI agent startup uses it as the 'eyes' for autonomous browsing agents that need to read and act on web pages without the overhead of a full browser.",
+    "A QA/monitoring company runs uptime and content checks on thousands of client websites on a fraction of the hardware a Selenium/Chrome grid would need."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A hosted 'browser-as-a-service' API that bills per page fetched, undercutting existing headless-Chrome cloud providers on price because of the lower resource footprint.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Paid managed fleets with SLAs for companies that need reliable large-scale scraping but don't want to run the infrastructure.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Spin up a cheap 'fetch any URL as clean markdown/JSON' API on top of this this weekend and sell it to indie AI-agent builders who are currently overpaying a scraping API for the same thing.",
+  "opportunity_rating": 4
+}

@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-01",
+  "owner": "anomalyco",
+  "name": "hex",
+  "full_name": "anomalyco/hex",
+  "url": "https://github.com/anomalyco/hex",
+  "description": "Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta.",
+  "language": "Rust",
+  "stars_total": 2529,
+  "stars_today": 172,
+  "generated_at": "2026-11-01T12:10:21.201Z",
+  "one_liner": "A free Mac (and beta Windows/Linux) app that types what you say, fully offline — hold a shortcut, speak, release, and the text pastes wherever your cursor is, similar in spirit to Handy.",
+  "buyer": "A Mac user who wants fast, private dictation and doesn't want to pay a monthly fee to a commercial dictation service like Wispr Flow or Superwhisper.",
+  "business_use_cases": [
+    "A writer dictates drafts hands-free into any text editor without sending voice data anywhere.",
+    "A developer dictates commit messages, comments, or quick notes while their hands are busy with something else."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Paid 'Modes' marketplace — pre-built text-processing presets for specific apps or professions sold as add-ons.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Enterprise deployment support for organizations rolling it out across many Macs.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This space already has two strong free offline options trending the same week (this and Handy) — the real opportunity is a thin paid layer of custom vocabulary/macros, not another dictation app.",
+  "opportunity_rating": 2
+}

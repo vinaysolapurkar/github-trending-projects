@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-01",
+  "owner": "hyprwm",
+  "name": "Hyprland",
+  "full_name": "hyprwm/Hyprland",
+  "url": "https://github.com/hyprwm/Hyprland",
+  "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+  "language": "C++",
+  "stars_total": 39133,
+  "stars_today": 37,
+  "generated_at": "2026-11-01T12:10:21.201Z",
+  "one_liner": "A highly customizable way to arrange windows on a Linux desktop, with smooth animations and visual polish, for people who want a nicer-looking, tiling-window-manager-style setup.",
+  "buyer": "This is a hobbyist power-user tool for Linux desktop enthusiasts, not something most businesses would ever buy — there isn't a real commercial buyer here.",
+  "business_use_cases": [
+    "A Linux-focused YouTuber or streamer builds content (setup tours, ricing tutorials) around configuring it, monetized through the content platform, not the tool itself.",
+    "A boutique Linux hardware reseller pre-configures and ships laptops with a polished Hyprland setup as a selling point for enthusiast buyers."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Selling pre-made, polished configuration themes/dotfiles bundles to enthusiasts who want the look without the setup effort.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Package and sell a single polished, ready-to-install config theme this weekend to the enthusiast community — a tiny, honest niche product, not a real business.",
+  "opportunity_rating": 1
+}

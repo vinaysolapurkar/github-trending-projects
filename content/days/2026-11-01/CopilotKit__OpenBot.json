@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-01",
+  "owner": "CopilotKit",
+  "name": "OpenBot",
+  "full_name": "CopilotKit/OpenBot",
+  "url": "https://github.com/CopilotKit/OpenBot",
+  "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+  "language": "TypeScript",
+  "stars_total": 9226,
+  "stars_today": 178,
+  "generated_at": "2026-11-01T12:10:21.201Z",
+  "one_liner": "A self-hosted 'AI coworker' platform: instead of one chatbot, you get several AI assistants that each have their own browser, their own files, and only the tools you specifically grant them, with every action logged and approved before it happens.",
+  "buyer": "An IT or operations leader at a mid-size company who wants internal AI assistants but can't let employee or customer data leave the company's own servers.",
+  "business_use_cases": [
+    "A company's ops team deploys a 'Knowledge' bot trained on internal docs so employees stop pinging the same people with the same questions.",
+    "A fintech team uses the included Risk Analyst template as a starting point for an internal compliance-review assistant, keeping everything on their own infrastructure.",
+    "A consultancy white-labels it to offer clients a custom-branded internal AI assistant deployment without building a platform from scratch."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Paid 'build it for you' deployment and customization services for companies that don't want to self-host it themselves.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "A hosted/managed tier for the model backend (CopilotKit's own Intelligence offering) sold on top of the free open-source core.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Deploy it for one real internal use case (e.g. handbook Q&A) at a small company this weekend as a proof-of-concept, then sell the customization and deployment as a service.",
+  "opportunity_rating": 4
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-01",
+  "owner": "cjpais",
+  "name": "Handy",
+  "full_name": "cjpais/Handy",
+  "url": "https://github.com/cjpais/Handy",
+  "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+  "language": "Rust",
+  "stars_total": 36058,
+  "stars_today": 611,
+  "generated_at": "2026-11-01T12:10:21.201Z",
+  "one_liner": "Free software that turns your voice into typed text in any app on your computer, entirely offline — hold a key, talk, and your words appear where your cursor is.",
+  "buyer": "A privacy-conscious professional (writer, lawyer, support agent) who wants dictation that never sends audio to the cloud, and doesn't want to pay for a commercial dictation subscription.",
+  "business_use_cases": [
+    "A writer or journalist drafts articles by voice entirely offline, keeping unpublished work off any third-party server.",
+    "A support team deploys it company-wide as a free dictation tool instead of paying per-seat for a commercial transcription SaaS.",
+    "An accessibility-focused nonprofit recommends and supports it for users who need hands-free text input but can't afford paid tools."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Paid enterprise support and deployment (MDM profiles, fleet updates) for companies rolling it out to many machines.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "A paid companion app with custom vocabularies/macros for specific professions (legal, medical dictation shortcuts).",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build a thin paid layer of profession-specific vocabulary packs and text-replacement macros (legal terms, medical shorthand) on top of the free core app.",
+  "opportunity_rating": 2
+}

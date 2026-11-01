@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-01",
+  "owner": "public-apis",
+  "name": "public-apis",
+  "full_name": "public-apis/public-apis",
+  "url": "https://github.com/public-apis/public-apis",
+  "description": "A collective list of free APIs",
+  "language": "Python",
+  "stars_total": 493988,
+  "stars_today": 298,
+  "generated_at": "2026-11-01T12:10:21.201Z",
+  "one_liner": "A giant, community-maintained list of free APIs you can call from your own code — weather, currency, trivia, and hundreds more, all in one directory.",
+  "buyer": "Honestly, nobody pays for this directly — it's a reference list for developers, not a product. Its value is as a starting point, not as something to sell.",
+  "business_use_cases": [
+    "A developer browses it to quickly find a free data source instead of building one from scratch, saving research time on a side project.",
+    "A coding bootcamp uses it as a source of beginner project ideas built around real, free APIs."
+  ],
+  "money_ideas": [
+    {
+      "idea": "None directly — any money made is one step removed, e.g. a paid curated/filtered version with uptime checks and better search.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build a tiny paid search/filter layer on top (uptime-checked, categorized, with code snippets) rather than trying to monetize the list itself.",
+  "opportunity_rating": 1
+}
