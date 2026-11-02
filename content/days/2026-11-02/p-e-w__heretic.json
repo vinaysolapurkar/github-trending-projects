@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-02",
+  "owner": "p-e-w",
+  "name": "heretic",
+  "full_name": "p-e-w/heretic",
+  "url": "https://github.com/p-e-w/heretic",
+  "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+  "language": "Python",
+  "stars_total": 37783,
+  "stars_today": 404,
+  "one_liner": "A tool that edits an existing AI model's behavior — like removing its refusals or reducing its corporate-sounding filler — without retraining it, on a home gaming PC.",
+  "buyer": "A niche and ethically mixed market: hobbyists running uncensored local chatbots, and AI safety or red-team researchers probing how easily a model's guardrails come off.",
+  "business_use_cases": [
+    "An AI red-team researcher uses it to stress-test how robust a model's safety training actually is before recommending it for deployment.",
+    "A hobbyist publishes a 'spicier' fine-tune of an open model for a local-AI enthusiast community — an ethically contested use case, not a storefront to build on.",
+    "A benchmark author uses the 'suppress slop' and 'reduce sycophancy' modes to produce more natural-sounding outputs for research, separate from censorship removal."
+  ],
+  "money_ideas": [
+    { "idea": "Paid red-team and robustness-testing services for companies deploying open models, using this as part of the toolkit.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "The legitimate weekend build here is a safety-testing report generator for open-weight models, not an uncensored-chatbot product — the censorship-removal use case carries real reputational and platform risk and shouldn't be the business.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-02T12:12:32.000Z"
+}

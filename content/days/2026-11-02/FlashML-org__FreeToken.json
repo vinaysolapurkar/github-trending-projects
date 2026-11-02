@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-02",
+  "owner": "FlashML-org",
+  "name": "FreeToken",
+  "full_name": "FlashML-org/FreeToken",
+  "url": "https://github.com/FlashML-org/FreeToken",
+  "description": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+  "language": "Python",
+  "stars_total": 15749,
+  "stars_today": 654,
+  "one_liner": "Lets a gaming PC run AI models the size you'd normally need a data center for, by only loading the small part of the model each answer actually needs.",
+  "buyer": "A small company that wants to run a large, capable AI model privately on owned hardware instead of paying per-token to a cloud API.",
+  "business_use_cases": [
+    "A law firm or healthcare practice runs a frontier-scale model on an in-office workstation so client data never leaves the building.",
+    "An AI dev-tools company offers 'bring your own GPU' local inference to developers worried about per-token costs on large coding tasks.",
+    "A hardware reseller bundles a pre-configured 'private AI workstation' with FreeToken preinstalled for small businesses."
+  ],
+  "money_ideas": [
+    { "idea": "Sell preconfigured private-AI hardware bundled with support.", "revenue_model": "one-off" },
+    { "idea": "Paid tuning and consulting to get a specific model running fast on a customer's exact hardware.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Sell a turnkey 'private ChatGPT in a box' appliance to small professional-services firms (law, medical, accounting) worried about client data leaving their office.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-02T12:12:32.000Z"
+}

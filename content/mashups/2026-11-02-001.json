@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-02-001",
+  "date": "2026-11-02",
+  "repo_a": "paperclipai/paperclip",
+  "repo_b": "vercel-labs/agent-desktop",
+  "title": "The AI Employee Who Can Use Your Ancient Desktop Software",
+  "pitch": "Paperclip gives a founder a dashboard of AI 'employees' — a CEO, engineers, marketers — but like most agent platforms, those employees can only act where there's an API or a browser. Most real back-office work in small businesses still happens in old desktop-only software: a 20-year-old accounting package, a dental scheduler, a local insurance claims tool. Wire agent-desktop's accessibility-tree automation into one of Paperclip's agent roles and you get an 'operations' employee that can actually click through that legacy app the way a human temp would — reading screens, filling forms, retrying safely on stale state. Sold to the huge population of small businesses whose core software will never get modernized, this turns Paperclip from 'manage your AI coworkers' into 'hire an AI coworker who can use the software you're actually stuck with.'",
+  "why_now": "Both trended today: one is the open-source platform for running a team of AI agents as a business, the other is the first widely adopted tool for giving any agent reliable desktop-app control via OS accessibility trees instead of fragile screenshots. Neither alone solves the 'my real software has no API' problem that blocks most small-business automation; together they do."
+}

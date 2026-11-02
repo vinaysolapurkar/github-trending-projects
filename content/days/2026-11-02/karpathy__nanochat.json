@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-02",
+  "owner": "karpathy",
+  "name": "nanochat",
+  "full_name": "karpathy/nanochat",
+  "url": "https://github.com/karpathy/nanochat",
+  "description": "The best ChatGPT that $100 can buy.",
+  "language": "Python",
+  "stars_total": 59614,
+  "stars_today": 325,
+  "one_liner": "A complete, minimal recipe for training your own small ChatGPT-style AI from scratch for under $100 of cloud GPU time.",
+  "buyer": "Mostly students, researchers, and educators — not really a paying business buyer; this is a teaching and research tool, not a commercial product.",
+  "business_use_cases": [
+    "A university course uses it as the hands-on lab for teaching how large language models are actually trained end-to-end.",
+    "An AI bootcamp sells a cohort-based course built around reproducing and tweaking the speedrun.",
+    "A GPU cloud provider uses it as a reference workload to market their hardware to AI researchers."
+  ],
+  "money_ideas": [
+    { "idea": "A paid cohort course teaching people to run and extend the speedrun on rented GPUs.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Package a guided, paid weekend workshop — 'train your own tiny ChatGPT' — for curious non-ML engineers, using this repo as the technical backbone.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-02T12:12:32.000Z"
+}

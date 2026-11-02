@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-02",
+  "owner": "thedotmack",
+  "name": "claude-mem",
+  "full_name": "thedotmack/claude-mem",
+  "url": "https://github.com/thedotmack/claude-mem",
+  "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+  "language": "TypeScript",
+  "stars_total": 110213,
+  "stars_today": 1799,
+  "one_liner": "Gives an AI coding assistant a memory, so it stops forgetting your project every time you start a new chat.",
+  "buyer": "A solo developer or small dev team paying for Claude Code, Codex, or similar tools who is tired of re-explaining their project's architecture and decisions every single session.",
+  "business_use_cases": [
+    "A freelance developer runs it per client so each morning's session resumes exactly where yesterday's left off, cutting unbillable 'get the AI back up to speed' time.",
+    "A dev agency standardizes it across the team so a client's architecture and decisions survive staff turnover and tool resets.",
+    "A cohort-based coding bootcamp bundles it so each student's AI pair-programmer remembers earlier lessons across a multi-week curriculum."
+  ],
+  "money_ideas": [
+    { "idea": "A hosted, managed version of the memory-compression pipeline so non-technical teams don't have to run the infrastructure themselves.", "revenue_model": "subscription" },
+    { "idea": "Paid 'memory packs' — pre-seeded project context for popular frameworks so a new project starts with best-practice context already injected.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Package the memory-compression engine as a lightweight companion tool for a single popular IDE AI plugin and sell it to the huge audience already annoyed by context loss.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-02T12:12:32.000Z"
+}

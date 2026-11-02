@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-02",
+  "owner": "paperclipai",
+  "name": "paperclip",
+  "full_name": "paperclipai/paperclip",
+  "url": "https://github.com/paperclipai/paperclip",
+  "description": "The open-source app everyone uses to manage agents at work",
+  "language": "TypeScript",
+  "stars_total": 110097,
+  "stars_today": 507,
+  "one_liner": "A dashboard for running a 'company' made of AI agents — you set goals and a budget, and it assigns the work to bots that act like a CEO, engineers, and marketers.",
+  "buyer": "A solo founder or very small startup who wants to run parts of their business with a 'team' of AI agents instead of hiring, and needs one place to track their work, cost, and permissions.",
+  "business_use_cases": [
+    "A solo founder runs a 'CEO' and 'marketer' agent pair to draft and execute a go-to-market plan while they focus on the product.",
+    "An agency runs client deliverables through a roster of agent 'employees' and uses the dashboard to track hours and cost per client.",
+    "A startup uses the budget and governance controls to cap how much an autonomous agent team can spend before a human has to approve more."
+  ],
+  "money_ideas": [
+    { "idea": "A hosted cloud version (already teased via its own waitlist) so non-technical founders don't have to self-host.", "revenue_model": "subscription" },
+    { "idea": "A marketplace of pre-built 'org chart' templates, such as a full marketing team, sold as paid templates.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Stand up one narrow 'department' — just a customer-support agent team — on top of it for a specific niche business, and sell that as a managed service rather than the whole platform.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-02T12:12:32.000Z"
+}

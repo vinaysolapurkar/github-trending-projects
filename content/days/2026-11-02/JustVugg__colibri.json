@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-02",
+  "owner": "JustVugg",
+  "name": "colibri",
+  "full_name": "JustVugg/colibri",
+  "url": "https://github.com/JustVugg/colibri",
+  "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+  "language": "C",
+  "stars_total": 46163,
+  "stars_today": 655,
+  "one_liner": "Runs enormous AI models on an ordinary gaming PC by streaming the parts it needs from disk instead of requiring a huge GPU to hold the whole thing in memory.",
+  "buyer": "A privacy-conscious small business or power user who wants to run a frontier-scale AI model locally without buying tens of thousands of dollars of GPU hardware.",
+  "business_use_cases": [
+    "A small business runs a large local model for internal document Q&A so sensitive files never touch a cloud API.",
+    "A developer-tools reseller sells pre-configured 'run any big model at home' PCs with colibri installed.",
+    "A hobbyist builds and sells a simple chat front-end on top of it for people who want ChatGPT-class answers fully offline."
+  ],
+  "money_ideas": [
+    { "idea": "Sell preconfigured local-AI hardware bundles with the engine pre-installed and tuned.", "revenue_model": "one-off" },
+    { "idea": "A paid setup/support service for non-technical buyers who want it running but can't do the CLI setup themselves.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Offer a cheap 'we'll set this up on your machine over a screen share' service to the large audience of enthusiasts who want this running but are intimidated by the command line.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-02T12:12:32.000Z"
+}

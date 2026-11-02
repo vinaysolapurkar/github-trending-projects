@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-02",
+  "owner": "vercel-labs",
+  "name": "agent-desktop",
+  "full_name": "vercel-labs/agent-desktop",
+  "url": "https://github.com/vercel-labs/agent-desktop",
+  "description": "Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels.",
+  "language": "Rust",
+  "stars_total": 7889,
+  "stars_today": 2243,
+  "one_liner": "Lets an AI agent actually use the programs on your computer by reading each app's internal UI structure and clicking/typing on it directly, instead of guessing from a screenshot.",
+  "buyer": "A product team at an RPA or AI-agent startup that needs their agent to reliably operate old desktop software (claims systems, Excel, internal tools) that never got an API.",
+  "business_use_cases": [
+    "An automation agency wires it into back-office bots that process claims inside a 20-year-old desktop insurance system no API was ever built for.",
+    "A QA team builds a nightly agent that walks a Windows desktop app end-to-end and files a ticket the moment a step breaks.",
+    "An accessibility-testing vendor repurposes the accessibility-tree reader to audit third-party desktop apps for screen-reader compliance."
+  ],
+  "money_ideas": [
+    { "idea": "A hosted desktop-agent API that takes a natural-language instruction and returns verified actions/state for a named app, billed per action.", "revenue_model": "usage" },
+    { "idea": "Paid 'agent-ready' compliance audits for software vendors who want their desktop app certified as reliably automatable.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build a scheduler that logs into one specific painful desktop app (e.g. a dental-practice management tool) every morning, pulls a report, and emails it out — sell that single integration to the many small businesses stuck on that software.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-02T12:12:32.000Z"
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-02",
+  "owner": "kornia",
+  "name": "kornia",
+  "full_name": "kornia/kornia",
+  "url": "https://github.com/kornia/kornia",
+  "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+  "language": "Python",
+  "stars_total": 11992,
+  "stars_today": 412,
+  "one_liner": "A toolbox of image-processing and 3D-geometry building blocks for people writing computer-vision software, built to run fast on graphics cards.",
+  "buyer": "A computer-vision engineer at a startup building AR, robotics, or document-scanning software who doesn't want to rewrite geometry math from scratch.",
+  "business_use_cases": [
+    "A robotics startup uses its camera-calibration and depth tools to get a robot's vision stack working faster.",
+    "A document-scanning app uses its perspective-warp and feature-matching tools to straighten and stitch photographed pages.",
+    "An AR startup uses its differentiable geometry to align virtual objects with a phone camera feed in real time."
+  ],
+  "money_ideas": [
+    { "idea": "Paid consulting and support contracts for companies shipping it inside production computer-vision products.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This is plumbing, not a product — the realistic weekend win is building one specific vertical tool on top of it (e.g. a 'scan and straighten receipts' app) rather than trying to sell the library itself.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-02T12:12:32.000Z"
+}

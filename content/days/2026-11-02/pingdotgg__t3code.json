@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-02",
+  "owner": "pingdotgg",
+  "name": "t3code",
+  "full_name": "pingdotgg/t3code",
+  "url": "https://github.com/pingdotgg/t3code",
+  "description": "",
+  "language": "TypeScript",
+  "stars_total": 39827,
+  "stars_today": 3216,
+  "one_liner": "A mobile app, desktop app, and web dashboard for controlling the coding AI agents already running on your computer — Claude Code, Codex, Cursor and others — from anywhere.",
+  "buyer": "A developer or small dev team who kicks off long AI coding tasks and wants to check progress, approve actions, or nudge the agent from their phone instead of staying glued to a laptop.",
+  "business_use_cases": [
+    "A developer starts a long refactor on their desktop, then approves risky file changes from their phone on the train home.",
+    "A small agency runs several clients' AI coding tasks in parallel and uses the dashboard to see which ones are stuck waiting for approval.",
+    "A technical founder reviews and merges AI-written pull requests from their phone between meetings instead of context-switching to a laptop."
+  ],
+  "money_ideas": [
+    { "idea": "A hosted remote-access tier for teams needing secure multi-device, multi-user control beyond the free local server.", "revenue_model": "subscription" },
+    { "idea": "A managed cloud relay that keeps agents running and reporting even when the developer's own machine is asleep.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "The free tool already covers most of this; the buildable weekend add-on is a push-notification layer that pings your phone the instant an agent needs a decision.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-02T12:12:32.000Z"
+}

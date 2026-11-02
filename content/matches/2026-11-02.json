@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-02",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing trending today or recently edits short-form video for social media; honest null." },
+    { "problem_id": "p002", "repo": null, "why": "No product-photography tool has trended recently; honest null." },
+    { "problem_id": "p003", "repo": "thedotmack/claude-mem", "why": "It's built specifically to capture, compress, and re-inject session context so a coding assistant stops forgetting the project between sessions — trending again today.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "mattpocock/skills", "why": "A working engineer's own skill set aimed at disciplined, non-bloated output from AI coding agents instead of over-engineered code; trending again today.", "confidence": "medium" },
+    { "problem_id": "p005", "repo": null, "why": "Nothing today or recently organizes or indexes a personal PDF/article library; honest null." },
+    { "problem_id": "p006", "repo": null, "why": "No footage-free news-visualization tool has trended recently." },
+    { "problem_id": "p007", "repo": null, "why": "Nothing today or recently is a bioinformatics assistant for a small lab; honest null." },
+    { "problem_id": "p008", "repo": "FlashML-org/FreeToken", "why": "It serves large AI models entirely on hardware the firm owns, so client data never has to leave the building — a reasonable fit for a law firm wary of cloud AI, though it's an inference engine, not a finished chat app.", "confidence": "medium" },
+    { "problem_id": "p009", "repo": null, "why": "Nothing today or recently turns a written blog post into a narrated video; honest null." },
+    { "problem_id": "p010", "repo": null, "why": "No self-hosted personal notes app has trended recently; honest null." },
+    { "problem_id": "p011", "repo": null, "why": "Nothing today or recently maps or explains how an existing messy codebase fits together; honest null." },
+    { "problem_id": "p012", "repo": null, "why": "Today's list is mostly infra and dev tooling, not a genuine on-ramp for someone who doesn't know where to start building an AI product; honest null." },
+    { "problem_id": "p013", "repo": null, "why": "No restaurant inventory tool has trended recently; honest null." }
+  ]
+}

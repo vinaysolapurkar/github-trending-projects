@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-02",
+  "owner": "shiyu-coder",
+  "name": "Kronos",
+  "full_name": "shiyu-coder/Kronos",
+  "url": "https://github.com/shiyu-coder/Kronos",
+  "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+  "language": "Python",
+  "stars_total": 45746,
+  "stars_today": 855,
+  "one_liner": "An AI model trained specifically to read and predict patterns in financial candlestick charts, the way a language model reads and predicts sentences.",
+  "buyer": "A quant trader or small prop-trading shop that wants a forecasting signal without building a time-series model from scratch.",
+  "business_use_cases": [
+    "A retail algo-trading hobbyist feeds it crypto price data to generate a forecast signal as one input to their own strategy.",
+    "A fintech startup builds a 'next 24 hours' price-forecast widget for a trading app using the model as the backend.",
+    "A trading-education company builds a demo tool showing students how a foundation model reads candlestick patterns."
+  ],
+  "money_ideas": [
+    { "idea": "A paid API that returns short-horizon price forecasts for a basket of assets, billed per call.", "revenue_model": "usage" },
+    { "idea": "A subscription trading-signal newsletter built on the model's outputs.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Wrap the live demo into a simple Telegram bot that posts a daily 24-hour BTC/ETH forecast, with premium access to more assets and faster updates — but be upfront with users that this is a research model, not a guaranteed trading edge.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-02T12:12:32.000Z"
+}

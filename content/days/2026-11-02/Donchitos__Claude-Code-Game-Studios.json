@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-02",
+  "owner": "Donchitos",
+  "name": "Claude-Code-Game-Studios",
+  "full_name": "Donchitos/Claude-Code-Game-Studios",
+  "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+  "language": "Shell",
+  "stars_total": 32993,
+  "stars_today": 1380,
+  "one_liner": "Turns a single Claude Code chat into a simulated game studio — dozens of specialist AI 'employees' like a designer, programmer, and QA tester that hand work to each other.",
+  "buyer": "A solo indie game developer with coding skills but no design, art, or QA team, who wants Claude Code to act like a full studio around them.",
+  "business_use_cases": [
+    "A solo dev uses it to get a structured game design doc, sprint plan, and QA pass instead of winging an entire project in one chat.",
+    "A game-dev content creator streams 'building a game with a 49-agent AI studio' as the hook for their channel.",
+    "A small 2-3 person studio borrows the hierarchy and rules as lightweight process scaffolding instead of hiring a producer."
+  ],
+  "money_ideas": [
+    { "idea": "A paid, polished version with a hosted dashboard and progress tracking for small studios, instead of raw markdown files.", "revenue_model": "subscription" },
+    { "idea": "Genre-specific agent packs (roguelike studio, mobile puzzle studio) sold as add-ons.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Fork it down to 5 core agents (designer, programmer, artist, QA, producer) and ship a 'mini studio' template for one specific engine — far easier to actually finish a game with.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-02T12:12:32.000Z"
+}
