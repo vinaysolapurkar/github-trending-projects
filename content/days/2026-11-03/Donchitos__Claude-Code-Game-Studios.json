@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-03",
+  "owner": "Donchitos",
+  "name": "Claude-Code-Game-Studios",
+  "full_name": "Donchitos/Claude-Code-Game-Studios",
+  "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+  "language": "Shell",
+  "stars_total": 34160,
+  "stars_today": 1181,
+  "one_liner": "Turns a single AI coding assistant into an entire pretend game studio — dozens of specialized AI 'employees' (designers, programmers, artists) that coordinate to help one person build a video game.",
+  "buyer": "A solo indie game developer or very small team who wants the structure and coverage of a real studio (art, design, QA, production) without hiring anyone.",
+  "business_use_cases": [
+    "A solo hobbyist uses it to go from idea to playable prototype faster by having 'specialist' agents handle art direction, level design, and QA in parallel.",
+    "A game-dev content creator builds tutorials and courses showing how to run an AI 'studio' to make games, monetized through sponsorships and course sales.",
+    "A tiny two-person indie studio uses it to cover roles (sound design, narrative writing) they don't have a human for."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A paid course or coaching program teaching indie developers how to run this workflow to actually finish and ship a game.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Premium specialized agent/skill packs for specific genres (RPG systems, roguelike generation) sold to the existing user base.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Use it this weekend to take one small, scoped game idea from concept to a playable prototype, then document and sell the process as a case-study course.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-03T12:06:47.000Z"
+}

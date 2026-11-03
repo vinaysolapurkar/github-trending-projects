@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-03",
+  "owner": "spotify",
+  "name": "portal-ai-plugins",
+  "full_name": "spotify/portal-ai-plugins",
+  "url": "https://github.com/spotify/portal-ai-plugins",
+  "description": "",
+  "language": "TypeScript",
+  "stars_total": 2916,
+  "stars_today": 94,
+  "one_liner": "Lets AI coding assistants plug directly into Spotify's internal developer-tools platform, so engineers can ask an AI to check service health or run internal actions instead of digging through dashboards.",
+  "buyer": "An internal platform engineering team at a company that already runs Spotify's Backstage-style developer portal and wants their engineers' AI coding agents to use it directly.",
+  "business_use_cases": [
+    "A platform team at a mid-size tech company wires it in so any engineer's AI coding agent can pull service ownership and incident history without leaving the terminal.",
+    "An SRE team lets an agent run read-only diagnostics across the service catalog before every on-call handoff.",
+    "A consultancy specializing in developer-platform rollouts offers it as part of a package when they set up Backstage-style portals for clients."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Paid implementation/integration services for companies adopting developer-portal plugins for their AI coding tools.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This is a vendor-specific internal tool with essentially no standalone market — not a weekend project opportunity for an outside builder.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-03T12:06:47.000Z"
+}

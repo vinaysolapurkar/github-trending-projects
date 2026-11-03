@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-03",
+  "owner": "p-e-w",
+  "name": "heretic",
+  "full_name": "p-e-w/heretic",
+  "url": "https://github.com/p-e-w/heretic",
+  "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+  "language": "Python",
+  "stars_total": 38461,
+  "stars_today": 699,
+  "one_liner": "A tool that strips the built-in 'safety' filters and overly-agreeable personality out of an open AI model, without needing to retrain it.",
+  "buyer": "A niche AI hobbyist, researcher, or builder of an adult/uncensored chatbot product who specifically wants a model that won't refuse or over-hedge its answers.",
+  "business_use_cases": [
+    "A roleplay/companion-app startup uses it to produce a less restrictive base model for a product whose entire pitch is a model that doesn't constantly refuse.",
+    "An AI red-team/security researcher uses it to study exactly how safety training affects model behavior, for academic or vendor-advisory work.",
+    "A model fine-tuning marketplace sells 'de-sycophanted' variants of popular open models to developers frustrated with models that always agree with the user."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell access to pre-modified model checkpoints (hosted inference) for builders who don't want to run the modification themselves.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "This is a legitimately dual-use tool — the honest 'steal this' is a paid consulting service helping niche AI apps pick and tune the right open model for their use case, not a mass-market product.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-03T12:06:47.000Z"
+}

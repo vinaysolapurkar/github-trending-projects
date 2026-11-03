@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-03",
+  "owner": "floci-io",
+  "name": "floci",
+  "full_name": "floci-io/floci",
+  "url": "https://github.com/floci-io/floci",
+  "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+  "language": "Java",
+  "stars_total": 28178,
+  "stars_today": 219,
+  "one_liner": "A free tool that pretends to be Amazon's cloud (AWS) on your own laptop, so developers can test cloud-dependent code without an AWS account or any cloud bill.",
+  "buyer": "A backend developer or small startup team that wants to test AWS-dependent code locally and cheaply, without paying for a commercial local-AWS emulator license.",
+  "business_use_cases": [
+    "A startup's engineering team runs it in CI to test Lambda/S3/DynamoDB-dependent code on every pull request without touching a real AWS bill.",
+    "A coding bootcamp uses it to teach cloud-native development without requiring students to set up (and pay for) real AWS accounts.",
+    "A consultancy builds client demos and prototypes against it before ever provisioning real cloud infrastructure, cutting proof-of-concept costs."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Paid enterprise support/SLA tier for companies relying on it in CI pipelines.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Developer infrastructure, not a product opportunity for an outside builder — the realistic move is contributing features and building reputation, not building a business on top of it.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-03T12:06:47.000Z"
+}

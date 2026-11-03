@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-03-001",
+  "date": "2026-11-03",
+  "repo_a": "Usagi-org/ai-goofish-monitor",
+  "repo_b": "D4Vinci/Scrapling",
+  "title": "The Western Marketplace Sniper",
+  "pitch": "ai-goofish-monitor is a slick, AI-driven watch-and-alert system for China's Xianyu marketplace: define what you want in plain language, and it scans listings around the clock, scores matches with AI, and pings you the instant something fits. Its scraping layer is tied to one site. Scrapling is a general-purpose scraping framework built specifically to survive anti-bot defenses across arbitrary sites. Swap ai-goofish-monitor's Xianyu-specific scraper for Scrapling's adapter layer and you get the same AI-scored, instant-alert sniping experience for Facebook Marketplace, Craigslist, eBay, and Vinted — a product that doesn't exist cleanly in the West today. Sell it to resellers, collectors, and small-parts buyers who currently refresh marketplace tabs by hand.",
+  "why_now": "Both trended today: one proves the AI-monitoring-and-alert UX works and is popular, the other proves scraping resilience across stubborn, anti-bot sites is solved generically. Neither alone covers the gap; combined, they turn a single-market Chinese tool into a cross-marketplace Western product."
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-03",
+  "owner": "anomalyco",
+  "name": "hex",
+  "full_name": "anomalyco/hex",
+  "url": "https://github.com/anomalyco/hex",
+  "description": "Local voice dictation for mac, windows and linux",
+  "language": "Rust",
+  "stars_total": 4226,
+  "stars_today": 1134,
+  "one_liner": "Hold a key, talk, let go, and your words get typed into whatever app you're using — all processed on your own computer, nothing sent to the cloud.",
+  "buyer": "A busy professional who writes a lot of text all day (emails, notes, reports) and wants a faster, more private alternative to typing or cloud dictation tools.",
+  "business_use_cases": [
+    "A lawyer or consultant dictates case notes and emails throughout the day without worrying about client data leaving their machine.",
+    "A support agent or recruiter dictates call summaries and CRM notes hands-free between calls, cutting admin time.",
+    "An IT department rolls it out org-wide as a privacy-compliant alternative to cloud dictation tools for regulated industries."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A paid 'Pro' tier with advanced features (custom vocabularies, team deployment, premium models) on top of a free core app.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Bulk licensing deals sold directly to compliance-sensitive companies (legal, healthcare, finance) who need on-device dictation.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build and sell a tiny add-on pack of custom vocabulary/snippets for one specific profession (e.g. medical shorthand, legal citations) that plugs into it out of the box.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-03T12:06:47.000Z"
+}

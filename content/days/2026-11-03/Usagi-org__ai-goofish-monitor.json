@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-03",
+  "owner": "Usagi-org",
+  "name": "ai-goofish-monitor",
+  "full_name": "Usagi-org/ai-goofish-monitor",
+  "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+  "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+  "language": "Python",
+  "stars_total": 16106,
+  "stars_today": 204,
+  "one_liner": "An AI tool that watches China's biggest secondhand marketplace around the clock and alerts you the moment an item matching exactly what you want shows up.",
+  "buyer": "A secondhand-goods reseller or collector in China who wants to snipe underpriced or rare listings before anyone else sees them.",
+  "business_use_cases": [
+    "A reseller sets it to watch for underpriced electronics or collectibles and gets an instant phone alert to message the seller before competitors do.",
+    "A parts hunter for a repair shop monitors for specific rare components (e.g. a discontinued phone screen model) and buys the moment one appears.",
+    "A sourcing agent for overseas buyers runs it against several product categories and resells the service of 'always finding it first' to clients abroad."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Run it as a paid sourcing/sniping service for collectors or resellers who don't want to set it up themselves, charging a flat monthly fee per tracked category.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Charge a success fee (percentage of savings) each time it finds and secures an underpriced item for a client.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Pick one high-demand, easy-to-verify item category (e.g. a specific discontinued gadget) and run this as a personal sourcing side-hustle this weekend, flipping what it finds.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-03T12:06:47.000Z"
+}

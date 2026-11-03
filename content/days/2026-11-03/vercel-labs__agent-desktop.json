@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-03",
+  "owner": "vercel-labs",
+  "name": "agent-desktop",
+  "full_name": "vercel-labs/agent-desktop",
+  "url": "https://github.com/vercel-labs/agent-desktop",
+  "description": "Computer use CLI for AI agents",
+  "language": "Rust",
+  "stars_total": 11568,
+  "stars_today": 3792,
+  "one_liner": "Lets an AI agent see and click through the real buttons and menus of any desktop app on your computer, the way a human would, instead of guessing from a screenshot.",
+  "buyer": "An automation consultant who gets paid to automate back-office work at companies still running old desktop-only software with no API.",
+  "business_use_cases": [
+    "An RPA shop automates a 15-year-old desktop claims-processing app for a regional insurer that has no exportable API.",
+    "A QA team builds an overnight agent that exercises a Windows accounting app end-to-end and reports exactly which screen broke after an update.",
+    "A managed-IT provider offers 'AI data entry' as a service, having an agent re-key orders from one legacy desktop system into a newer web app every night."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A per-workflow automation service that builds and maintains agent scripts for a client's specific legacy desktop app.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "A hosted API that takes a plain-English instruction plus an app name and returns the verified result of operating that app.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Pick one painful, ubiquitous desktop tool (e.g. QuickBooks Desktop) and sell a single automation that exports a nightly report from it, pitched directly to the small businesses still stuck on it.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-03T12:06:47.000Z"
+}

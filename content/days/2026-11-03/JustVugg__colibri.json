@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-03",
+  "owner": "JustVugg",
+  "name": "colibri",
+  "full_name": "JustVugg/colibri",
+  "url": "https://github.com/JustVugg/colibri",
+  "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+  "language": "C",
+  "stars_total": 46935,
+  "stars_today": 803,
+  "one_liner": "Software that lets you run enormous AI models on a regular gaming computer by keeping the parts it's using in memory and pulling the rest off your hard drive as needed.",
+  "buyer": "A small AI startup or solo power-user who wants to run frontier-scale open models without paying for expensive cloud GPUs or buying a data-center card.",
+  "business_use_cases": [
+    "A boutique AI consultancy offers clients 'run it on your own hardware' deployments of huge open-source models for data-sensitive work, using a single workstation instead of a cloud GPU bill.",
+    "A hobbyist AI YouTuber builds content around running and benchmarking frontier open models on consumer PCs, driving sponsorships and affiliate hardware sales.",
+    "A homelab/self-hosting enthusiast sells pre-configured mini-PCs set up to run specific large models for people who don't want to do the setup themselves."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell pre-built or pre-configured hardware bundles tuned to run specific popular large models smoothly.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Paid setup and tuning service for companies wanting one specific huge model running affordably on their own servers.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build and sell a simple benchmarking/config dashboard that tells someone exactly which large models their specific PC can run well with colibri, and auto-generates the config.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-03T12:06:47.000Z"
+}

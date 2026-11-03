@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-03",
+  "owner": "shiyu-coder",
+  "name": "Kronos",
+  "full_name": "shiyu-coder/Kronos",
+  "url": "https://github.com/shiyu-coder/Kronos",
+  "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+  "language": "Python",
+  "stars_total": 46230,
+  "stars_today": 503,
+  "one_liner": "An AI model trained specifically to understand and predict patterns in financial market data, the way language models understand text.",
+  "buyer": "A quantitative trading shop or fintech startup that wants a ready-made foundation model for market prediction instead of training one from scratch.",
+  "business_use_cases": [
+    "A small prop-trading team uses it as a base model to build and backtest new trading signals faster than training their own model from zero.",
+    "A fintech startup builds a retail-facing 'market trend' feature into a trading app, powered by the model's predictions.",
+    "A financial-research firm offers a paid report service that uses the model to flag unusual pattern shifts across a watchlist of assets."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A paid API that returns the model's market-pattern predictions for a given ticker, billed per query.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "A subscription research product that surfaces the model's flagged anomalies across a curated asset watchlist.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Fine-tune it on one specific, narrow market (e.g. a single crypto pair) and ship a simple paid alert bot — do not pitch this as investment advice, pitch it as a research signal.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-03T12:06:47.000Z"
+}

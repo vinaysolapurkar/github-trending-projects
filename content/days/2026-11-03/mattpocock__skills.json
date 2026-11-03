@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-03",
+  "owner": "mattpocock",
+  "name": "skills",
+  "full_name": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "language": "Shell",
+  "stars_total": 310808,
+  "stars_today": 1164,
+  "one_liner": "A ready-made library of instructions ('skills') that make AI coding assistants work more like a careful senior engineer and less like an over-eager intern.",
+  "buyer": "A solo developer or small dev team already using AI coding agents daily who wants more consistent, less sloppy output without building their own prompt library from scratch.",
+  "business_use_cases": [
+    "A freelance developer installs it across every client project so their AI agent follows the same disciplined process instead of improvising each time.",
+    "A coding bootcamp licenses a curated version to teach students how to work with AI agents responsibly from day one.",
+    "A newsletter/course business builds a paid community and premium skill packs around it, as the author already has with their existing newsletter."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A paid 'pro' tier of more advanced or industry-specific skill packs sold to the existing newsletter audience.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sponsored workshops or paid training sessions teaching teams how to adopt a disciplined AI-agent workflow.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Package three or four of the most popular skills into a single 'AI coding agent starter kit' and sell it as a one-time download to developers just getting into agent-based coding.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-03T12:06:47.000Z"
+}
