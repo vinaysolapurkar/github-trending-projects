@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-04",
+  "matches": [
+    { "problem_id": "p001", "repo": "harry0703/MoneyPrinterTurbo", "why": "It turns a topic or keyword into a finished, subtitled short video with music in one pass, replacing the hours a solo creator spends scripting and editing by hand.", "confidence": "high" },
+    { "problem_id": "p002", "repo": "scenario-labs/skills", "why": "It generates production-ready product images (and keeps them visually consistent) through an AI agent, which is a real substitute for a hired photographer for simple product shots.", "confidence": "medium" },
+    { "problem_id": "p003", "repo": "thedotmack/claude-mem", "why": "It's built specifically to give a coding assistant persistent memory across sessions, which is exactly this problem stated word for word.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "garrytan/gstack", "why": "It adds a reviewer role that explicitly hunts for production bugs and a designer role that catches 'AI slop' before a PR ships, directly targeting over-engineered or bloated AI output.", "confidence": "high" },
+    { "problem_id": "p005", "repo": "AgriciDaniel/claude-obsidian", "why": "It's built to take any dropped-in article or PDF and file it automatically into a searchable, connected notes vault — the exact workflow a researcher drowning in papers needs.", "confidence": "high" },
+    { "problem_id": "p006", "repo": "harry0703/MoneyPrinterTurbo", "why": "Given just a topic or keyword, it automatically finds and assembles matching footage, so a news/explainer creator with no footage of their own can still get a visual video out.", "confidence": "medium" },
+    { "problem_id": "p007", "repo": null, "why": "Nothing in today's or recent trending repos addresses bioinformatics workflows specifically; we'll notify when something like a genomics or lab-automation tool trends." },
+    { "problem_id": "p008", "repo": "vllm-project/vllm", "why": "It lets a firm run an LLM entirely on its own servers instead of sending client data to an outside AI provider, which is the core requirement for a law firm's private chat.", "confidence": "medium" },
+    { "problem_id": "p009", "repo": null, "why": "Today's video tools (e.g. MoneyPrinterTurbo) start from a topic or keyword, not from an existing written blog post, so the fit is too loose to call a real match honestly." },
+    { "problem_id": "p010", "repo": null, "why": "No trending repo this cycle is itself a self-owned notes app replacement; today's note-adjacent tool (claude-obsidian) is a filing assistant on top of an existing app, not a standalone alternative." },
+    { "problem_id": "p011", "repo": "tt-a1i/archify", "why": "It turns a codebase (or a description of one) into a polished, shareable diagram of how the system fits together, which is exactly what a new hire needs to orient themselves.", "confidence": "high" },
+    { "problem_id": "p012", "repo": "garrytan/gstack", "why": "It's explicitly built for first-time Claude Code users and non-technical founders, giving them structured roles (PM, designer, QA) instead of a blank prompt to figure out alone.", "confidence": "high" },
+    { "problem_id": "p013", "repo": null, "why": "No trending repo today or recently is a restaurant inventory or small-business stock management tool; we'll notify when one appears." }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-04",
+  "owner": "NVIDIA",
+  "name": "auto-ontology",
+  "full_name": "NVIDIA/auto-ontology",
+  "url": "https://github.com/NVIDIA/auto-ontology",
+  "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+  "language": "Python",
+  "stars_total": 3648,
+  "stars_today": 2053,
+  "one_liner": "A tool that teaches an AI assistant exactly what a company's database columns and tables actually mean, so the AI stops guessing and gives correct numbers.",
+  "buyer": "A head of data/analytics at a mid-size company who is rolling out AI chatbots for business reporting and is tired of the AI confidently returning wrong revenue figures.",
+  "business_use_cases": [
+    "A data consultancy sells a 2-week engagement that maps a client's messy warehouse into a certified ontology so their new AI analyst tool stops hallucinating numbers.",
+    "An enterprise SaaS company bundles this under the hood so its 'ask your data a question' feature is actually trustworthy enough to show executives.",
+    "A fractional data-engineering freelancer offers 'AI accuracy audits' to companies already using an AI BI tool, finding and fixing the queries it gets wrong."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Implementation and certification consulting for enterprises adopting AI-driven analytics.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Ongoing retainer to maintain and expand the ontology as the client's database evolves.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, pick one small business with a messy spreadsheet-based 'database' and build them a tiny ontology layer so their AI chatbot can finally answer 'what were last month's sales by region' correctly.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-04T12:07:45.000Z"
+}

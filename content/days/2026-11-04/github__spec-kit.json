@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-04",
+  "owner": "github",
+  "name": "spec-kit",
+  "full_name": "github/spec-kit",
+  "url": "https://github.com/github/spec-kit",
+  "description": "💫 Toolkit to help you get started with SDD or any other process!",
+  "language": "Python",
+  "stars_total": 146914,
+  "stars_today": 810,
+  "one_liner": "A free toolkit that makes an AI coding assistant write a proper spec and plan before it starts coding, instead of guessing as it goes.",
+  "buyer": "An engineering lead at a startup frustrated that AI-generated code keeps drifting from what was actually asked for.",
+  "business_use_cases": [
+    "A dev-process consultancy bundles this into a paid 'AI-assisted spec-driven development' rollout for engineering teams adopting AI coding tools at scale.",
+    "A technical writer/PM hybrid freelancer offers to write the specs and templates GitHub's tool consumes, as a service for non-technical founders who can't write specs themselves.",
+    "A bootcamp or course creator uses it as the backbone of a paid 'how to actually manage an AI coding agent' class."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Consulting engagement rolling out spec-driven AI development practices across a team, billed per engagement.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Ongoing retainer as the 'spec writer' who turns a non-technical founder's ideas into specs this toolkit can execute.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "It's a free process tool from GitHub — the real money is in being the human who writes great specs for founders who can't, charged by the project.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-04T12:07:45.000Z"
+}

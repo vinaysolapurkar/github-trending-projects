@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-04",
+  "owner": "harry0703",
+  "name": "MoneyPrinterTurbo",
+  "full_name": "harry0703/MoneyPrinterTurbo",
+  "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+  "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+  "language": "Python",
+  "stars_total": 138541,
+  "stars_today": 615,
+  "one_liner": "Type in a topic or a few keywords and it automatically writes a script, finds matching clips, adds subtitles and music, and hands you a finished short video.",
+  "buyer": "A solo content creator or small social-media agency who needs to publish several short videos a day across TikTok/YouTube Shorts/Reels and can't script, shoot, and edit each one by hand.",
+  "business_use_cases": [
+    "A 'faceless channel' operator runs a dozen niche YouTube Shorts channels (facts, quotes, finance tips) that this tool fully auto-generates daily, monetized via ad revenue.",
+    "A small marketing agency offers local businesses a 'done-for-you social video' package: client gives a topic each week, agency delivers 5 ready-to-post short videos.",
+    "A course or app creator turns their written lesson outlines into a stream of short promotional/explainer videos to drive traffic to the paid product."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Run a network of niche auto-generated video channels and monetize through platform ad revenue and affiliate links.",
+      "revenue_model": "ads"
+    },
+    {
+      "idea": "Sell a 'weekly short-form video pack' subscription to small businesses who just supply a topic each week.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Pick one tight niche (e.g. 'daily personal-finance tip') and this weekend set up an automated pipeline from this tool straight to a scheduled posting tool — let it run as a faceless channel for a month before touching it again.",
+  "opportunity_rating": 5,
+  "generated_at": "2026-11-04T12:07:45.000Z"
+}

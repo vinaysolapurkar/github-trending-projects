@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-04",
+  "owner": "JiaFeiMiao-K-Cat",
+  "name": "DiscImageStudio",
+  "full_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+  "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+  "description": "",
+  "language": "C#",
+  "stars_total": 5986,
+  "stars_today": 1792,
+  "one_liner": "A free app that turns any photo into a pattern you can burn directly onto the shiny side of a CD, DVD, or Blu-ray disc, so the image is visible to the naked eye.",
+  "buyer": "An Etsy seller or small gift shop that makes personalized, nostalgic gifts (think custom mixtape CDs, wedding favor discs) for customers who want something tangible and retro.",
+  "business_use_cases": [
+    "An Etsy shop sells 'laser-etched photo discs' as wedding favors, baby-announcement keepsakes, or retro mixtape gifts with a custom image burned onto each one.",
+    "A novelty gift kiosk at malls or events offers 'burn your photo onto a disc' as an instant personalized souvenir.",
+    "A small print shop adds this as an upsell add-on next to its existing photo-printing and custom-merchandise services."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell individual custom-etched discs as physical keepsake products online.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer it as a paid upsell add-on at an existing photo/gift printing business.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, burn ten sample discs with different photo styles, list them on Etsy as 'laser-etched keepsake discs,' and see if the novelty gift market bites before investing further.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-04T12:07:45.000Z"
+}

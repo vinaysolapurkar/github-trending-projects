@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-04-001",
+  "date": "2026-11-04",
+  "repo_a": "harry0703/MoneyPrinterTurbo",
+  "repo_b": "scenario-labs/skills",
+  "title": "The Brand-Consistent Faceless Studio",
+  "pitch": "MoneyPrinterTurbo turns a topic or keyword into a finished short video with script, clips, subtitles, and music in one pass — but its visuals are generic stock-style footage, not anything tied to a specific brand or recurring character. Scenario's skills generate on-brand, consistent images, video, and 3D assets (the same mascot, product, or art style across every output) and check cost before spending. Wire them together and you get an automated short-form video pipeline that doesn't just produce generic AI slop — it produces a recognizable, branded series: the same cartoon mascot explaining a different finance tip every day, or the same product rendered consistently across a week of ad creatives. A small agency could sell this as a 'branded content engine' retainer to local businesses who want a consistent social presence without a video team, charging monthly for a steady drip of on-brand short videos instead of one-off generic clips.",
+  "why_now": "Both repos are trending the same day and solve opposite halves of the same problem: MoneyPrinterTurbo nails automated video assembly but has no brand memory, while Scenario's skills nail consistent, on-brand asset generation but don't assemble finished videos. Neither alone is sellable as a premium service; stacked together, they are."
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-04",
+  "owner": "garrytan",
+  "name": "gstack",
+  "full_name": "garrytan/gstack",
+  "url": "https://github.com/garrytan/gstack",
+  "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+  "language": "TypeScript",
+  "stars_total": 139034,
+  "stars_today": 285,
+  "one_liner": "A free, ready-made set of slash commands that turns one person's AI coding assistant into a whole pretend engineering team — a product manager, a designer, a reviewer, a QA tester — all built in.",
+  "buyer": "A non-technical or first-time founder who wants to ship a real product with an AI coding assistant but has no engineering team and no idea how to structure the process.",
+  "business_use_cases": [
+    "A solo-founder coaching service uses this free toolkit as the backbone of a paid 'ship your MVP in 30 days' program for non-technical founders.",
+    "An indie-hacker community charges for office hours/templates layered on top of a free tool like this, since the tool itself is given away by a famous investor.",
+    "A bootcamp for non-technical founders builds a curriculum around structured AI-agent workflows like this one."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Paid coaching or cohort program teaching non-technical founders to ship with an AI-agent 'team' workflow.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Done-for-you setup and customization of the workflow for a founder's specific product, billed as a small project fee.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Don't compete with a free tool backed by a famous VC's name — instead, sell the thing it can't give away: a weekend of 1:1 hands-on setup and coaching for a non-technical founder using it.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-04T12:07:45.000Z"
+}

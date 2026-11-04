@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-04",
+  "owner": "vercel-labs",
+  "name": "agent-desktop",
+  "full_name": "vercel-labs/agent-desktop",
+  "url": "https://github.com/vercel-labs/agent-desktop",
+  "description": "Computer use CLI for AI agents",
+  "language": "Rust",
+  "stars_total": 13995,
+  "stars_today": 2463,
+  "one_liner": "Lets an AI agent actually click buttons and type into any desktop program on your computer, the way a human would, without needing screenshots.",
+  "buyer": "An operations manager at a small or mid-size company stuck using an old desktop program (insurance quoting software, legacy accounting tool) with no API, who currently pays staff to do repetitive data entry in it.",
+  "business_use_cases": [
+    "An automation agency builds custom 'AI office workers' for insurance brokers and accounting firms that operate legacy desktop software nobody will ever add an API to.",
+    "A back-office outsourcing company replaces part of its human data-entry team with AI agents driving the same desktop apps those humans used.",
+    "A vertical SaaS reseller offers 'automate your clunky 2004-era desktop software' as a productized service for dental offices, auto shops, and other small businesses stuck on old tools."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Productized RPA-style automation service: client provides the desktop app, you build and maintain the agent, billed monthly per workflow.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "One-off custom automation builds for a single painful manual workflow (e.g. nightly report generation in legacy software).",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Find one small business still doing manual data entry into an old Windows desktop app, and this weekend build them a single automated workflow with this tool — then sell it as a $200/month 'set it and forget it' service.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-04T12:07:45.000Z"
+}

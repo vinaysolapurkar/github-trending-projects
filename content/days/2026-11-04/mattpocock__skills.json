@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-04",
+  "owner": "mattpocock",
+  "name": "skills",
+  "full_name": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "language": "Shell",
+  "stars_total": 312170,
+  "stars_today": 1376,
+  "one_liner": "A free collection of pre-written instructions that make an AI coding assistant behave like an experienced engineer instead of a sloppy intern.",
+  "buyer": "A coding educator or newsletter creator building an audience of developers who want to use AI assistants more effectively — the repo's own author is already doing this.",
+  "business_use_cases": [
+    "A dev-education creator uses the free repo as a funnel into a paid newsletter or cohort course on 'real engineering with AI' (exactly the model the author already runs).",
+    "An engineering-training company licenses or adapts a curated skill pack as part of a corporate 'AI coding onboarding' workshop.",
+    "A plugin marketplace sells premium, industry-specific skill packs (fintech compliance skills, healthcare data-handling skills) built on the same pattern."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Free skill pack as a lead magnet into a paid newsletter or course on engineering with AI.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Premium, specialized skill packs sold a la carte to teams in regulated industries.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Clone the funnel, not just the skills: publish 5 free, genuinely excellent skills for a narrow niche (e.g. 'Shopify app developers') and use it to build a paid newsletter list this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-04T12:07:45.000Z"
+}

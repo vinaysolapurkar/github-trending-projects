@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-04",
+  "owner": "MichaelCade",
+  "name": "90DaysOfDevOps",
+  "full_name": "MichaelCade/90DaysOfDevOps",
+  "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+  "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
+  "language": "Shell",
+  "stars_total": 30140,
+  "stars_today": 156,
+  "one_liner": "A free, structured 90-day study plan that teaches someone DevOps from scratch, written by one person's public learning journal.",
+  "buyer": "A corporate training manager at a company that needs to upskill junior sysadmins into DevOps engineers without paying for an expensive bootcamp.",
+  "business_use_cases": [
+    "A training company licenses or adapts the structure into a paid, instructor-led cohort course with live mentoring and certificates.",
+    "A career-change bootcamp uses the free curriculum as marketing content, then upsells a paid, accelerated and mentored version.",
+    "A corporate L&D team runs internal 90-day DevOps upskilling cohorts for junior staff, using this as the free syllabus backbone."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Paid cohort-based course with live mentorship and project reviews on top of the free curriculum.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Corporate training licensing/workshops sold to companies upskilling their own staff.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Use the free content as a lead magnet this weekend: build a simple landing page offering a paid, 2-week-accelerated, mentor-reviewed version of the same 90-day plan.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-04T12:07:45.000Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-04",
+  "owner": "scenario-labs",
+  "name": "skills",
+  "full_name": "scenario-labs/skills",
+  "url": "https://github.com/scenario-labs/skills",
+  "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+  "language": "Python",
+  "stars_total": 2079,
+  "stars_today": 224,
+  "one_liner": "Plugs into your AI assistant so it can generate on-brand images, video, audio, and 3D models that actually look consistent from one asset to the next, and warns you the price before it spends your money.",
+  "buyer": "A small marketing agency or indie game studio that needs a steady stream of branded visual assets but can't afford a full in-house art team.",
+  "business_use_cases": [
+    "A boutique game-asset studio offers indie game developers AI-assisted concept art, 3D props, and animation with a consistent visual style across a whole project.",
+    "An ad agency produces a month's worth of on-brand social media visuals for small-business clients, keeping the same product/character look across every post.",
+    "A real-estate or architecture firm generates consistent-style 3D renders and walkthrough visuals for property listings without hiring a 3D artist."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Monthly subscription delivering a fixed batch of on-brand visual assets to small-business or agency clients.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Per-project one-off fee for a complete branded asset pack (logo variants, social templates, product renders).",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, pick one local business, generate a month's worth of consistent, on-brand social media visuals with this toolkit, and pitch it to them as a $300/month 'AI content studio' retainer.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-04T12:07:45.000Z"
+}

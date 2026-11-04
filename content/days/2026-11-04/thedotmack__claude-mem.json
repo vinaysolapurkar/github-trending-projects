@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-04",
+  "owner": "thedotmack",
+  "name": "claude-mem",
+  "full_name": "thedotmack/claude-mem",
+  "url": "https://github.com/thedotmack/claude-mem",
+  "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+  "language": "TypeScript",
+  "stars_total": 112421,
+  "stars_today": 1165,
+  "one_liner": "Gives an AI coding assistant a memory, so it remembers what you built and decided yesterday instead of starting from zero every time you open it.",
+  "buyer": "A solo developer or small dev team using AI coding assistants daily who is sick of re-explaining their codebase and decisions every single session.",
+  "business_use_cases": [
+    "A dev-tools startup builds a hosted, team-shared version so a whole company's AI agents share project memory and institutional knowledge.",
+    "An agency running many client projects through AI coding assistants uses it to keep each client's context cleanly separated and never re-explained.",
+    "A 'managed AI dev environment' service bundles this plus other agent tooling and sells it as a monthly seat to small dev teams."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Hosted cloud-sync tier that stores and shares agent memory across a team's machines, billed per seat.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "One-off setup/integration service for companies rolling this out across their engineering org.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build a thin hosted wrapper this weekend: a $9/month 'team memory sync' service on top of the open-source tool for small dev teams who don't want to self-host.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-04T12:07:45.000Z"
+}
