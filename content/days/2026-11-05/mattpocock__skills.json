@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-05",
+  "owner": "mattpocock",
+  "name": "skills",
+  "full_name": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "language": "Shell",
+  "stars_total": 314170,
+  "stars_today": 2053,
+  "one_liner": "A free, battle-tested cheat sheet that teaches your AI coding assistant to work like a careful senior engineer instead of a sloppy intern.",
+  "buyer": "An engineering manager at a startup who's watched AI coding tools produce bloated, buggy code and wants a disciplined process installed on every developer's machine.",
+  "business_use_cases": [
+    "A dev-tools consultancy bundles these skills into a paid 'AI engineering onboarding' workshop for teams newly adopting Claude Code or Cursor.",
+    "A boutique dev shop adapts and sells a private, stricter version of these skills tailored to one client's stack, as a retainer add-on.",
+    "The author monetizes indirectly: the repo itself is a funnel into a paid newsletter and course on working with AI coding tools."
+  ],
+  "money_ideas": [
+    { "idea": "Private, client-specific skill packs sold alongside development retainers.", "revenue_model": "subscription" },
+    { "idea": "Paid workshop or course teaching teams how to adopt and extend a skills-based AI workflow.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Fork it into a niche-specific pack (e.g. 'skills for regulated fintech codebases') and sell it as a one-time $99 download to teams in that niche this weekend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-05T12:06:43.504Z"
+}

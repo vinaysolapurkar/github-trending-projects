@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-05",
+  "matches": [
+    { "problem_id": "p001", "repo": "harry0703/MoneyPrinterTurbo", "why": "It still generates a finished, subtitled short video from a topic in one pass, cutting the manual editing hours a solo creator spends each week — though it was yesterday's trend, not today's.", "confidence": "medium" },
+    { "problem_id": "p002", "repo": "scenario-labs/skills", "why": "It generates production-ready, brand-consistent product images through an AI agent, a real substitute for a hired photographer for simple product shots.", "confidence": "medium" },
+    { "problem_id": "p003", "repo": "thedotmack/claude-mem", "why": "It's built specifically to give a coding assistant persistent memory across sessions, directly matching this problem, even though it didn't trend again today.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "garrytan/gstack", "why": "It adds a reviewer role that explicitly hunts for production bugs and a designer role that catches 'AI slop' before a PR ships, directly targeting bloated or over-engineered AI output.", "confidence": "high" },
+    { "problem_id": "p005", "repo": null, "why": "Nothing trending this week organizes or indexes a personal library of research PDFs; we'll notify when something like that trends." },
+    { "problem_id": "p006", "repo": "harry0703/MoneyPrinterTurbo", "why": "Given just a topic, it automatically finds and assembles matching footage, so a news/explainer creator with no footage of their own can still get a visual video out.", "confidence": "medium" },
+    { "problem_id": "p007", "repo": null, "why": "Nothing in today's or recent trending repos addresses bioinformatics workflows specifically; we'll notify when a genomics or lab-automation tool trends." },
+    { "problem_id": "p008", "repo": "JustVugg/colibri", "why": "It runs large models entirely on hardware a firm already owns, so client data never has to leave the building — a reasonable fit for a law firm wary of cloud AI, though it's an inference engine, not a finished chat app.", "confidence": "medium" },
+    { "problem_id": "p009", "repo": "microsoft/VibeVoice", "why": "It can turn written text into natural-sounding narration, solving the hardest half of this problem — you'd still need to pair it with a video-assembly tool to get a finished narrated video, not just audio.", "confidence": "medium" },
+    { "problem_id": "p010", "repo": null, "why": "No trending repo this cycle is itself a self-owned notes app replacement; honest null." },
+    { "problem_id": "p011", "repo": null, "why": "Nothing today or recently maps or explains how an existing messy codebase fits together; honest null." },
+    { "problem_id": "p012", "repo": "garrytan/gstack", "why": "It's explicitly built for first-time Claude Code users and non-technical founders, giving them structured roles (PM, designer, QA) instead of a blank prompt to figure out alone.", "confidence": "high" },
+    { "problem_id": "p013", "repo": null, "why": "No trending repo today or recently is a restaurant inventory or small-business stock management tool; we'll notify when one appears." }
+  ]
+}

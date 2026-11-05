@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-05",
+  "owner": "ConardLi",
+  "name": "garden-skills",
+  "full_name": "ConardLi/garden-skills",
+  "url": "https://github.com/ConardLi/garden-skills",
+  "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+  "language": "JavaScript",
+  "stars_total": 13946,
+  "stars_today": 181,
+  "one_liner": "A free grab-bag of ready-made AI agent recipes for making polished websites, images, and short promo videos faster.",
+  "buyer": "A freelance web designer or solo indie hacker who wants to turn client briefs or product ideas into polished output faster, without hiring a designer or video editor.",
+  "business_use_cases": [
+    "A freelance designer uses the 'web-design-engineer' skill to turn client briefs into polished sites faster, taking on more clients at the same rate.",
+    "A solo SaaS founder uses the 'motion-showreel' and 'web-video-presentation' skills to produce marketing videos without hiring a video editor.",
+    "A small agency curates and sells niche skill bundles (e.g. for restaurant or real-estate sites) built on top of this collection."
+  ],
+  "money_ideas": [
+    { "idea": "Paid custom skill-bundle commissions for a specific industry niche.", "revenue_model": "one-off" },
+    { "idea": "Faster freelance throughput lets a designer take more clients at the same hourly rate.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Wrap the 'web-design-engineer' and 'beautiful-article' skills into a $49 one-click 'make my landing page pretty' service for indie hackers this weekend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-05T12:06:43.504Z"
+}

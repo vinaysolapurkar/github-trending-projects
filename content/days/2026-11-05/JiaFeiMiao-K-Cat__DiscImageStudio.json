@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-05",
+  "owner": "JiaFeiMiao-K-Cat",
+  "name": "DiscImageStudio",
+  "full_name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+  "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+  "description": "",
+  "language": "C#",
+  "stars_total": 6967,
+  "stars_today": 1778,
+  "one_liner": "A tool that lets any regular disc burner etch a visible picture onto the shiny side of a CD, DVD, or Blu-ray, instead of just burning invisible data.",
+  "buyer": "A small gift shop, indie musician, or retro-tech hobbyist seller who wants to sell personalized or nostalgic physical discs as a novelty product.",
+  "business_use_cases": [
+    "An indie musician sells limited-edition CDs with custom laser-etched cover art directly on the disc surface as premium merch.",
+    "A novelty gift shop offers a 'burn your photo onto a disc' personalized keepsake service for weddings or birthdays.",
+    "A retro-tech hobbyist shop sells nostalgia-themed custom-etched discs (retro game or album art) to collectors."
+  ],
+  "money_ideas": [
+    { "idea": "Sell one-off personalized etched discs through an Etsy-style storefront.", "revenue_model": "one-off" },
+    { "idea": "A monthly 'mystery etched disc' subscription box for retro-media collectors.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "List a $15 'laser-etched custom CD' gift on Etsy this weekend using any home disc burner and this tool, marketed to the vinyl and indie-music nostalgia crowd.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-05T12:06:43.504Z"
+}

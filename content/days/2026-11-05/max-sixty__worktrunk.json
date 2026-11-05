@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-05",
+  "owner": "max-sixty",
+  "name": "worktrunk",
+  "full_name": "max-sixty/worktrunk",
+  "url": "https://github.com/max-sixty/worktrunk",
+  "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+  "language": "Rust",
+  "stars_total": 11310,
+  "stars_today": 546,
+  "one_liner": "A command-line tool that keeps multiple AI coding agents working on the same codebase at once without their changes tripping over each other.",
+  "buyer": "An engineering lead running several AI coding agents in parallel (one per feature or client) who needs them isolated so their work doesn't collide.",
+  "business_use_cases": [
+    "An AI-development agency running many parallel Claude Code sessions for different clients uses it to keep every client's branch cleanly isolated.",
+    "A dev-tools startup bundles it into a larger 'agent orchestration' product it sells to engineering teams scaling up AI-assisted development.",
+    "A consultancy teaches a paid workshop on 'running ten AI agents at once' using it as the core tool, selling the setup as a service."
+  ],
+  "money_ideas": [
+    { "idea": "Paid support or setup consulting for teams adopting a multi-agent development workflow.", "revenue_model": "one-off" },
+    { "idea": "Bundle it as a feature inside a broader paid agent-orchestration SaaS.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Build a lightweight status dashboard on top that shows which worktree each of a team's AI agents is on and what it's doing, and sell it to shops running several agents in parallel.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-05T12:06:43.504Z"
+}

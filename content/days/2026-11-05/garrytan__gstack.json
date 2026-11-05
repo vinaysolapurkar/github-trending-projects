@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-05",
+  "owner": "garrytan",
+  "name": "gstack",
+  "full_name": "garrytan/gstack",
+  "url": "https://github.com/garrytan/gstack",
+  "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+  "language": "TypeScript",
+  "stars_total": 139617,
+  "stars_today": 290,
+  "one_liner": "A free toolkit that turns one AI coding assistant into a whole pretend engineering team — a CEO, designer, QA tester, and security reviewer who each check your work before it ships.",
+  "buyer": "A solo founder or first-time technical CEO who can code a feature but has no team to review, design-check, or QA it before customers see it.",
+  "business_use_cases": [
+    "A solo founder uses it to get CEO-level product pushback, a design review, and a QA pass on every feature, effectively replacing three early hires he can't yet afford.",
+    "A small agency builds a 'ship like a VC-backed startup' process for client work on top of it, charging clients for the extra review rigor.",
+    "A bootcamp or accelerator uses it as the toolkit in a paid course teaching non-technical founders how to ship software with AI."
+  ],
+  "money_ideas": [
+    { "idea": "Paid course or cohort teaching founders to run the gstack workflow, riding Garry Tan's name recognition.", "revenue_model": "one-off" },
+    { "idea": "Consulting retainer where an agency runs the gstack review pipeline on a client's codebase every sprint.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Package the '/office-hours' and '/review' flow into a hosted micro-SaaS for non-technical founders who don't want to set up Claude Code themselves — charge a flat monthly fee to run their repo through it.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-05T12:06:43.504Z"
+}

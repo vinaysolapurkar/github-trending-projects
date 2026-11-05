@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-05",
+  "owner": "Usagi-org",
+  "name": "ai-goofish-monitor",
+  "full_name": "Usagi-org/ai-goofish-monitor",
+  "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+  "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+  "language": "Python",
+  "stars_total": 17303,
+  "stars_today": 242,
+  "one_liner": "A robot that watches China's biggest secondhand marketplace around the clock and instantly alerts you when an item you want shows up underpriced.",
+  "buyer": "A reseller or sourcing agent who flips used electronics, watches, or collectibles and needs to beat other buyers to underpriced listings the moment they appear.",
+  "business_use_cases": [
+    "A reseller runs the monitor 24/7 on cameras, sneakers, or watches, buying underpriced finds within seconds and reselling them at a markup.",
+    "A sourcing agency offers overseas collectors a 'we snipe it for you' concierge service, using the monitor to catch rare items before other buyers notice.",
+    "A small retailer tracks competitors' listings and pricing patterns on the marketplace to adjust its own prices in near real time."
+  ],
+  "money_ideas": [
+    { "idea": "Charge clients a flat finder's fee or commission per successful item sourced through the monitor.", "revenue_model": "usage" },
+    { "idea": "Sell a managed 'concierge sourcing' subscription that watches a client's wish list continuously.", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Wire the notification channel to Telegram, pick one collectible niche (e.g. film cameras), and launch a 'we'll ping you the second one drops below market price' bot this weekend, charging a small monthly fee per watched category.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-05T12:06:43.504Z"
+}

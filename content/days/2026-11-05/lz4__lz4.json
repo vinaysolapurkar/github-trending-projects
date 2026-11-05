@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-05",
+  "owner": "lz4",
+  "name": "lz4",
+  "full_name": "lz4/lz4",
+  "url": "https://github.com/lz4/lz4",
+  "description": "Extremely Fast Compression algorithm",
+  "language": "C",
+  "stars_total": 12229,
+  "stars_today": 16,
+  "one_liner": "A tool that shrinks files and data streams extremely fast so they take up less space or less bandwidth to send.",
+  "buyer": "A firmware engineer at an IoT or embedded-device company who needs to shrink sensor data before sending it over a slow, expensive radio or cellular link.",
+  "business_use_cases": [
+    "A device maker compresses sensor logs with it before uploading over cheap LoRa or cellular connections, cutting their monthly data costs.",
+    "A game studio compresses asset bundles so players download updates faster, reducing server bandwidth bills.",
+    "A backend team compresses logs or CDN payloads to shrink their egress bill."
+  ],
+  "money_ideas": [
+    { "idea": "A one-off consulting audit that retrofits LZ4 compression into a client's IoT or logging pipeline to cut their bandwidth or storage bill, billed as a project.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Honestly, there isn't a new weekend business here — this is mature, widely-embedded infrastructure (it's already inside the Linux kernel and countless products), not a product on its own. The only real play is a one-off consulting gig: find a client paying too much for bandwidth or storage and drop LZ4 into their pipeline.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-05T12:06:43.504Z"
+}

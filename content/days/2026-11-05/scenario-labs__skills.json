@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-05",
+  "owner": "scenario-labs",
+  "name": "skills",
+  "full_name": "scenario-labs/skills",
+  "url": "https://github.com/scenario-labs/skills",
+  "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+  "language": "Python",
+  "stars_total": 2749,
+  "stars_today": 224,
+  "one_liner": "Lets an AI agent generate images, video, and 3D art that actually look like the same brand or character every time, instead of a different random style each run.",
+  "buyer": "A small ad agency or indie game studio's art director who needs a steady stream of on-brand visuals but can't afford a full-time artist.",
+  "business_use_cases": [
+    "A small agency produces a week's worth of consistent, branded social ad creative (same mascot or product) for several SMB clients at once.",
+    "An indie game studio generates consistent character art and 3D assets for a title without hiring a dedicated art team.",
+    "An e-commerce brand generates a full week of on-brand product photography variants automatically instead of booking a photo shoot."
+  ],
+  "money_ideas": [
+    { "idea": "A retainer-style 'always-on-brand content' subscription sold to small businesses.", "revenue_model": "subscription" },
+    { "idea": "One-off project packages for game studios or brands needing a defined art asset set.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Offer a $200/week 'always-on-brand social content' subscription to five local businesses, running them all through one Scenario pipeline this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-05T12:06:43.504Z"
+}

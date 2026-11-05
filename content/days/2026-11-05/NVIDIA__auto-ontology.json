@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-05",
+  "owner": "NVIDIA",
+  "name": "auto-ontology",
+  "full_name": "NVIDIA/auto-ontology",
+  "url": "https://github.com/NVIDIA/auto-ontology",
+  "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+  "language": "Python",
+  "stars_total": 6346,
+  "stars_today": 2050,
+  "one_liner": "A library that builds a 'business dictionary' for a company's data, so an AI assistant knows what a term like 'revenue' actually means before it answers a question about it.",
+  "buyer": "A data platform lead at a mid-size company whose execs have stopped trusting the AI chatbot's numbers because it keeps pulling the wrong definition of a metric.",
+  "business_use_cases": [
+    "A data consultancy sells an 'ontology audit' engagement: map a client's messy warehouse into one trusted set of definitions so their AI dashboards stop contradicting each other.",
+    "A vertical AI startup (finance, healthcare ops) uses it as the grounding layer behind a 'trustworthy analytics copilot' it sells to enterprises, citing sources on every answer.",
+    "A BI/analytics vendor bolts it on as a governance add-on so customers can prove, in an audit, exactly where an AI-generated number came from."
+  ],
+  "money_ideas": [
+    { "idea": "Enterprise subscription for hosting and maintaining a client's ontology as their data and definitions evolve.", "revenue_model": "subscription" },
+    { "idea": "One-off consulting engagement to build the initial ontology and wire it into an existing BI stack.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Pick one public dataset (e.g. a city's open-data budget spreadsheets) and build a weekend demo: 'ask the budget questions, get a cited, provably-correct answer' — a good sales demo for the audit-consulting pitch above.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-05T12:06:43.504Z"
+}

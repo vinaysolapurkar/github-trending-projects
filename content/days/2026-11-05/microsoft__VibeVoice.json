@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-05",
+  "owner": "microsoft",
+  "name": "VibeVoice",
+  "full_name": "microsoft/VibeVoice",
+  "url": "https://github.com/microsoft/VibeVoice",
+  "description": "Open-Source Frontier Voice AI",
+  "language": "Python",
+  "stars_total": 55390,
+  "stars_today": 214,
+  "one_liner": "A free, high-quality AI voice engine that can read text aloud in a natural-sounding voice, or transcribe speech back into text.",
+  "buyer": "An audiobook or online-course creator who wants professional-sounding narration without paying for a voice actor or studio time.",
+  "business_use_cases": [
+    "A self-publishing audiobook platform narrates books in multiple voices affordably instead of hiring voice actors per title.",
+    "A course creator turns written lesson scripts into narrated video lessons cheaply, cutting production cost per course.",
+    "A customer-support company builds a low-cost multilingual voice assistant for phone support using the TTS and transcription stack together."
+  ],
+  "money_ideas": [
+    { "idea": "Subscription 'narrate your blog or book' web app charged per month.", "revenue_model": "subscription" },
+    { "idea": "Usage-based API resell margin for a hosted narration endpoint.", "revenue_model": "usage" }
+  ],
+  "steal_this": "Build a simple web app this weekend: paste in a blog post, pick a voice, get back a narrated MP3 — charge $9/month for unlimited narrations.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-05T12:06:43.504Z"
+}

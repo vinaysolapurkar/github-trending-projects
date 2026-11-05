@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-05-001",
+  "date": "2026-11-05",
+  "repo_a": "Usagi-org/ai-goofish-monitor",
+  "repo_b": "vercel-labs/agent-browser",
+  "title": "The Universal Marketplace Sniper",
+  "pitch": "ai-goofish-monitor is a sharp AI-driven watch-and-alert pipeline — keyword tasks, smart filtering, instant notifications — but it's wired specifically to one Chinese marketplace (Xianyu) through a custom Playwright scraper. agent-browser gives an AI agent a generic way to open any website and read it as a clean, structured accessibility tree instead of a screenshot, so it doesn't need a bespoke script per site. Swap ai-goofish's site-specific scraping layer for agent-browser's generic one and the same AI-analysis-and-alert pipeline now works on eBay, Facebook Marketplace, Mercari, or any local classifieds site — one watch-and-snipe engine instead of a different scraper for every marketplace. A cross-border sourcing agency could sell this as a single 'watch everywhere, buy the moment it drops' service to collectors and resellers who currently need five separate tools to cover five separate marketplaces.",
+  "why_now": "Both repos are trending today and solve opposite halves of the same problem: ai-goofish-monitor nails the AI monitoring and alerting logic but is locked to one site, while agent-browser nails generic, accessibility-tree-based site navigation but has no monitoring or alerting brain of its own. Neither alone covers more than a single marketplace profitably; combined, the same pipeline scales across every marketplace a client cares about."
+}

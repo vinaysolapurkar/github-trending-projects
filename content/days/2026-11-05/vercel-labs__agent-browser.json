@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-05",
+  "owner": "vercel-labs",
+  "name": "agent-browser",
+  "full_name": "vercel-labs/agent-browser",
+  "url": "https://github.com/vercel-labs/agent-browser",
+  "description": "Browser automation CLI for AI agents",
+  "language": "Rust",
+  "stars_total": 45616,
+  "stars_today": 132,
+  "one_liner": "Gives an AI agent a web browser it can actually operate — open pages, click, fill forms — by reading the page's structure instead of guessing from a screenshot.",
+  "buyer": "A small ops or growth team that needs to fill out the same web forms or portals over and over (applications, listings, submissions) and wants it done automatically, on any site.",
+  "business_use_cases": [
+    "An agency builds an 'AI browses the web for you' service: automated form filling, account setup, and data entry across any web portal, without writing a custom scraper per site.",
+    "A testing company offers automated regression and accessibility checks for web apps by having an agent snapshot and diff pages after each release.",
+    "A lead-generation shop automates filling out directory listings or submission forms at scale for clients."
+  ],
+  "money_ideas": [
+    { "idea": "SaaS wrapper for non-technical ops teams to automate repetitive web form workflows.", "revenue_model": "subscription" },
+    { "idea": "One-off custom web automation gigs for businesses with a specific painful manual process.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build a niche 'auto-apply' bot for a specific repetitive web task (e.g. submitting a business to local directories) and charge per successful submission this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-05T12:06:43.504Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-05",
+  "owner": "google",
+  "name": "skills",
+  "full_name": "google/skills",
+  "url": "https://github.com/google/skills",
+  "description": "Agent Skills for Google products and technologies",
+  "language": "Python",
+  "stars_total": 22100,
+  "stars_today": 199,
+  "one_liner": "Google's own official cheat sheets that teach an AI coding assistant how to correctly set up and use Google Cloud, so it doesn't fumble things like security permissions.",
+  "buyer": "A cloud consultancy or systems integrator doing Google Cloud migrations who wants to cut the hours its engineers spend on repetitive setup and configuration work.",
+  "business_use_cases": [
+    "A cloud consultancy packages these skills into a faster, AI-assisted 'secure Google Cloud setup in a week' service it sells to startups.",
+    "A SaaS vendor building on Google Cloud uses the skills to auto-generate correct IAM and authentication setup, cutting onboarding engineering time per new customer.",
+    "A training company builds a paid 'agentic GCP operations' course using the skills as its curriculum."
+  ],
+  "money_ideas": [
+    { "idea": "Bundle the skills into a billable cloud-setup consulting engagement.", "revenue_model": "one-off" },
+    { "idea": "Paid certification course on using AI agents for Google Cloud operations.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Package one recipe (e.g. the IAM/auth skill) into a one-click 'secure my GCP project' setup service and sell it to early-stage startups for a flat $299.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-05T12:06:43.504Z"
+}

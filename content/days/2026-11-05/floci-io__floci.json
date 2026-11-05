@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-05",
+  "owner": "floci-io",
+  "name": "floci",
+  "full_name": "floci-io/floci",
+  "url": "https://github.com/floci-io/floci",
+  "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+  "language": "Java",
+  "stars_total": 29994,
+  "stars_today": 784,
+  "one_liner": "A free tool that pretends to be Amazon's cloud on your own laptop, so developers can build and test cloud apps without racking up a real AWS bill.",
+  "buyer": "A startup CTO or dev agency who wants to cut the AWS sandbox/testing bill that gets charged to every client project.",
+  "business_use_cases": [
+    "A consultancy standardizes every client project's CI pipeline on local cloud emulation instead of real AWS sandboxes, cutting the cloud costs it has to bill clients for.",
+    "A bootcamp or training company teaches 'learn AWS without an AWS bill' courses using it so students never need real credit cards.",
+    "A cost-optimization consultancy audits a client's dev/test cloud spend and migrates safe workloads onto it, pocketing a cut of the savings."
+  ],
+  "money_ideas": [
+    { "idea": "A one-off cost-audit engagement that moves a client's dev/test AWS usage onto the free emulator and bills a share of the savings.", "revenue_model": "one-off" },
+    { "idea": "Paid training course on AWS development using the free local emulator.", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build a drop-in CI template that swaps real AWS calls for this emulator in tests, and sell it as a 'cut your CI AWS bill to $0' package to small dev shops this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-05T12:06:43.504Z"
+}
