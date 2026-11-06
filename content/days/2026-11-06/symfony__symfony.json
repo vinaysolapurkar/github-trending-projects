@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-06",
+  "owner": "symfony",
+  "name": "symfony",
+  "full_name": "symfony/symfony",
+  "url": "https://github.com/symfony/symfony",
+  "description": "The Symfony PHP framework",
+  "language": "PHP",
+  "stars_total": 31249,
+  "stars_today": 89,
+  "one_liner": "A toolkit for building serious, long-lived websites in PHP, common at European agencies and public institutions.",
+  "buyer": "A web agency in Europe that builds government or corporate sites on PHP/Symfony contracts.",
+  "business_use_cases": [
+    "An agency builds and maintains government or municipal websites on it, a common requirement in EU public tenders.",
+    "A freelancer builds and sells reusable Symfony 'bundles' (packaged modules) to other Symfony shops.",
+    "A hosting company offers managed Symfony hosting-and-support plans targeting agencies without in-house DevOps."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell reusable Symfony bundles/modules to other development shops",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Managed Symfony hosting and support retainer",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Package a common business need, like invoicing or GDPR consent handling, as a polished Symfony bundle and sell it to other agencies.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-06T12:09:29.051Z"
+}

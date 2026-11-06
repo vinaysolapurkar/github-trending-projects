@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-06",
+  "owner": "nushell",
+  "name": "nushell",
+  "full_name": "nushell/nushell",
+  "url": "https://github.com/nushell/nushell",
+  "description": "A new type of shell",
+  "language": "Rust",
+  "stars_total": 40799,
+  "stars_today": 88,
+  "one_liner": "A command-line shell that treats your data as structured tables instead of plain text, making scripting less error-prone.",
+  "buyer": "A data or DevOps engineer who writes a lot of brittle bash scripts and wants fewer silent failures.",
+  "business_use_cases": [
+    "An ops consultancy rewrites a client's fragile bash automation in it as part of a reliability-improvement engagement, billed as a project.",
+    "A trainer sells 'modern shell scripting' workshops to ops teams tired of bash footguns.",
+    "A tooling vendor builds and sells plugin packs for common ops tasks like log parsing or cloud inventory."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Consulting engagement rewriting brittle bash pipelines for reliability",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell a packaged set of scripts/plugins for common ops tasks",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This is a dev tool for a shell — the only real weekend business is building and selling a niche plugin pack, like AWS or GCP inventory scripts, for ops teams who already use it.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-06T12:09:29.051Z"
+}

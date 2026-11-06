@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-06",
+  "owner": "rails",
+  "name": "rails",
+  "full_name": "rails/rails",
+  "url": "https://github.com/rails/rails",
+  "description": "Ruby on Rails",
+  "language": "Ruby",
+  "stars_total": 58892,
+  "stars_today": 44,
+  "one_liner": "A toolkit that lets a small team build a full website, with database and forms, fast, without reinventing the basics.",
+  "buyer": "A freelance web developer who builds client sites and wants to ship faster so they can take on more paying clients.",
+  "business_use_cases": [
+    "A freelancer builds and resells a 'launch your SaaS in a week' Rails starter template to indie founders.",
+    "An agency builds client MVPs on Rails and charges a fixed project fee because the framework lets them deliver in roughly half the time of a from-scratch build.",
+    "A bootcamp sells 'become a Rails freelancer' courses to career switchers, since demand for fast-shipping Rails devs stays steady."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a polished Rails SaaS-starter kit (auth, billing, admin panel) to indie hackers",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Freelance or agency web development services built on Rails",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Build and sell a Rails SaaS starter kit with auth, Stripe billing, and an admin panel already wired up.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-06T12:09:29.051Z"
+}

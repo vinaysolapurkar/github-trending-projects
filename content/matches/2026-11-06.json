@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-06",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing in today's trending list edits or assembles short-form video; we'll notify when one appears." },
+    { "problem_id": "p002", "repo": null, "why": "No product-photography or image-generation tool trended today." },
+    { "problem_id": "p003", "repo": null, "why": "Nothing today gives a coding assistant persistent memory across sessions; honest null." },
+    { "problem_id": "p004", "repo": "mattpocock/skills", "why": "It's explicitly built to make AI coding assistants behave like disciplined senior engineers instead of producing bloated, vibe-coded output.", "confidence": "high" },
+    { "problem_id": "p005", "repo": null, "why": "Nothing trending today organizes or indexes a personal library of research PDFs." },
+    { "problem_id": "p006", "repo": null, "why": "No tool today turns a news topic into footage for an explainer video." },
+    { "problem_id": "p007", "repo": null, "why": "Nothing today addresses bioinformatics or lab workflows." },
+    { "problem_id": "p008", "repo": null, "why": "NVIDIA/auto-ontology is self-hostable but it's a SQL/analytics layer, not a private general-purpose chat app — not a close enough fit to claim." },
+    { "problem_id": "p009", "repo": null, "why": "No text-to-narrated-video tool trended today." },
+    { "problem_id": "p010", "repo": null, "why": "No self-owned notes app trended today." },
+    { "problem_id": "p011", "repo": null, "why": "Nothing today maps or explains how an existing messy codebase fits together." },
+    { "problem_id": "p012", "repo": null, "why": "Today's skill packs (google/skills, mattpocock/skills) teach disciplined AI-assisted engineering, but none is a guided 'start your first AI product' path, so we're not claiming it." },
+    { "problem_id": "p013", "repo": null, "why": "No restaurant inventory or small-business stock tool trended today." }
+  ]
+}

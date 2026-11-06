@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-06",
+  "owner": "NVIDIA",
+  "name": "auto-ontology",
+  "full_name": "NVIDIA/auto-ontology",
+  "url": "https://github.com/NVIDIA/auto-ontology",
+  "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+  "language": "Python",
+  "stars_total": 8298,
+  "stars_today": 2005,
+  "one_liner": "A tool that teaches a company's AI chatbot what its own data actually means, so it gives correct numbers instead of confident guesses.",
+  "buyer": "A data or analytics leader at a mid-size company whose internal 'ask my data' chatbot keeps giving wrong revenue or metric numbers.",
+  "business_use_cases": [
+    "A systems integrator deploys it for retail or finance clients to make an internal 'chat with your data' tool trustworthy, billed as a project.",
+    "A BI consultancy runs 'AI-ready data catalog' audits that reconcile inconsistent metric definitions across a client's departments.",
+    "A reseller offers managed hosting of it for mid-market companies that don't want to run their own Kubernetes/NVIDIA NIM stack."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Managed hosting + setup for companies wanting trustworthy 'chat with your data' without running the infrastructure themselves",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "One-off ontology/implementation consulting per client dataset",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Offer a one-day 'ontology audit': run this against a client's sales database and hand them a cleaned semantic catalog plus a working natural-language query demo.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-06T12:09:29.051Z"
+}

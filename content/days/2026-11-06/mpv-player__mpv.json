@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-06",
+  "owner": "mpv-player",
+  "name": "mpv",
+  "full_name": "mpv-player/mpv",
+  "url": "https://github.com/mpv-player/mpv",
+  "description": "🎥 Command line media player",
+  "language": "C",
+  "stars_total": 37756,
+  "stars_today": 36,
+  "one_liner": "A lightweight, no-frills video and audio player you control from the command line or your own scripts.",
+  "buyer": "Hard to find a direct paying buyer — it's mostly used by power users and developers building something else on top of it.",
+  "business_use_cases": [
+    "A digital signage vendor embeds it as the playback engine inside cheap kiosk or signage boxes and sells the hardware-plus-software bundle.",
+    "A home-theater installer builds and sells custom remote-control setups scripted on top of it for enthusiasts.",
+    "A video-QA tool vendor uses it headless to automate frame-accurate playback checks for a media-testing product."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell preconfigured signage or kiosk boxes using it as the playback engine",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "There isn't much of a standalone weekend business here — this is mature playback infrastructure. The honest play is embedding it inside something else you sell, like a kiosk box.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-06T12:09:29.051Z"
+}

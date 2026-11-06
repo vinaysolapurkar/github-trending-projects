@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-06",
+  "owner": "microsoft",
+  "name": "vscode",
+  "full_name": "microsoft/vscode",
+  "url": "https://github.com/microsoft/vscode",
+  "description": "Visual Studio Code",
+  "language": "TypeScript",
+  "stars_total": 194785,
+  "stars_today": 295,
+  "one_liner": "The most widely used free code editor, which developers build and sell custom add-ons for.",
+  "buyer": "An indie extension developer selling premium add-ons, or a consultancy selling standardized dev-tooling setups to engineering teams.",
+  "business_use_cases": [
+    "An extension developer builds and sells a premium extension, such as specialized linting or a niche language's tooling, with a license-key paywall.",
+    "A dev-tools consultancy configures and maintains standardized editor setups (extensions, settings, debug configs) for engineering teams, billed as onboarding packages.",
+    "A course creator teaches 'power user' workshops to boost developer productivity at companies."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a premium extension with a license-key paywall",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Corporate dev-environment standardization consulting",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Ship a focused premium extension this weekend, such as a niche code-review helper, and sell license keys directly.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-06T12:09:29.051Z"
+}

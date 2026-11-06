@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-06",
+  "owner": "openssl",
+  "name": "openssl",
+  "full_name": "openssl/openssl",
+  "url": "https://github.com/openssl/openssl",
+  "description": "General purpose TLS and crypto library",
+  "language": "C",
+  "stars_total": 31200,
+  "stars_today": 24,
+  "one_liner": "The security plumbing that makes most of the internet's 'https' padlock actually work.",
+  "buyer": "Hard to find a direct buyer — it's invisible infrastructure almost nobody pays for directly; the real market is companies needing compliance help.",
+  "business_use_cases": [
+    "A security consultancy audits a client's certificate management and version hygiene for regulated industries, billed as a compliance project.",
+    "A managed-PKI provider builds certificate-lifecycle-management services on top of it for companies that don't want to manage TLS certs themselves."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Compliance and security audit service around a company's TLS and certificate setup",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Managed certificate lifecycle service for companies without security staff",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Honestly, there's no product to sell here directly — the only real business is being the security consultant who audits and fixes a company's TLS setup.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-06T12:09:29.051Z"
+}

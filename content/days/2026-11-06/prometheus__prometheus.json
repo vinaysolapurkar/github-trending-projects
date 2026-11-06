@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-06",
+  "owner": "prometheus",
+  "name": "prometheus",
+  "full_name": "prometheus/prometheus",
+  "url": "https://github.com/prometheus/prometheus",
+  "description": "The Prometheus monitoring system and time series database.",
+  "language": "Go",
+  "stars_total": 66992,
+  "stars_today": 140,
+  "one_liner": "The tool that watches your servers and apps and alerts you before something breaks.",
+  "buyer": "A DevOps or SRE lead at a mid-size company who needs reliable alerting but doesn't want to build it from scratch.",
+  "business_use_cases": [
+    "A managed-ops consultancy sets up and maintains monitoring stacks for startups as a monthly retainer.",
+    "A reseller packages hosted monitoring-as-a-service for companies that don't want to run the infrastructure themselves.",
+    "An MSP bundles it-based uptime monitoring into existing IT-support contracts as a value-add."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Managed monitoring-stack-as-a-service retainer for startups without SRE staff",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "One-off setup and consulting to instrument a client's infrastructure",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Offer a flat-fee 'monitoring and alerting in a day' setup service to startups who keep getting surprised by outages they can't see coming.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-06T12:09:29.051Z"
+}

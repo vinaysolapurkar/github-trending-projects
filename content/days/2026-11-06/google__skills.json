@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-06",
+  "owner": "google",
+  "name": "skills",
+  "full_name": "google/skills",
+  "url": "https://github.com/google/skills",
+  "description": "Agent Skills for Google products and technologies",
+  "language": "Python",
+  "stars_total": 22623,
+  "stars_today": 532,
+  "one_liner": "A library of ready-made 'how-to' guides that let an AI coding assistant correctly use Google Cloud tools instead of guessing.",
+  "buyer": "A cloud consultancy or solo cloud architect who wants their AI assistant to stop making Google Cloud mistakes on client work.",
+  "business_use_cases": [
+    "A cloud consultancy builds and sells a curated, extended 'AI-ready Google Cloud toolkit' plus support to clients adopting AI-assisted ops.",
+    "A platform team installs it to cut the time junior engineers waste debugging AI-generated cloud commands, framed internally as a cost saving.",
+    "A trainer sells a 'ship faster on Google Cloud with AI agents' workshop built around these skills."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a paid, extended pack of company-specific skill add-ons",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Consulting and training on AI-assisted Google Cloud workflows",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Honestly, this is a free, Google-maintained utility repo, not a product on its own — the real business is becoming the consultant who installs and extends it for clients.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-06T12:09:29.051Z"
+}

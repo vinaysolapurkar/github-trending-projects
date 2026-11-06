@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-06",
+  "projects": [
+    "zed-industries__zed",
+    "NVIDIA__auto-ontology",
+    "rails__rails",
+    "mpv-player__mpv",
+    "rust-lang__rust",
+    "react__react",
+    "angular__angular",
+    "symfony__symfony",
+    "prometheus__prometheus",
+    "google__skills",
+    "microsoft__vscode",
+    "lz4__lz4",
+    "nushell__nushell",
+    "etcd-io__etcd",
+    "openssl__openssl",
+    "mattpocock__skills",
+    "cloudflare__security-audit-skill",
+    "astral-sh__ruff"
+  ]
+}

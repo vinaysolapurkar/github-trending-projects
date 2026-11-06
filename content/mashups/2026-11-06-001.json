@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-06-001",
+  "date": "2026-11-06",
+  "repo_a": "cloudflare/security-audit-skill",
+  "repo_b": "vercel-labs/agent-browser",
+  "title": "The Autonomous Pentest-Lite",
+  "pitch": "Cloudflare's skill turns an AI coding assistant into a structured security auditor for a codebase, and Vercel's agent-browser gives an AI agent a real browser it can click and fill forms in on any live site. Wire them together and you get a continuous outside-in security check: the agent browses a client's live web app the way a real attacker would (logging in, probing forms, following redirects) while running the audit skill's reconnaissance-and-verification methodology against what it finds, then files a structured, de-duplicated findings report. Sell it as a cheap, always-on 'security nightscan' to startups that are too small for a real pentest firm but need something to point to when an enterprise customer's security questionnaire lands on their desk.",
+  "why_now": "Both repos spiked today for the same underlying reason: founders want AI agents that act with discipline instead of guessing, and security review is exactly the kind of structured, high-stakes task buyers will pay a premium for once it's reliable."
+}

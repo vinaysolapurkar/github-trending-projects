@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-06",
+  "owner": "cloudflare",
+  "name": "security-audit-skill",
+  "full_name": "cloudflare/security-audit-skill",
+  "url": "https://github.com/cloudflare/security-audit-skill",
+  "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+  "language": "JavaScript",
+  "stars_total": 62744,
+  "stars_today": 2524,
+  "one_liner": "A set of instructions that turns an AI coding assistant into an automated security auditor for a codebase.",
+  "buyer": "A startup CTO who needs a security review before a SOC2 audit or a big customer's security questionnaire but can't afford a full pentest firm yet.",
+  "business_use_cases": [
+    "A boutique security consultancy uses it to run faster first-pass audits for clients, then sells a human-verified report on top, cutting their own delivery time.",
+    "A startup runs it before every major release as a security gate, then shows the resulting clean report to enterprise customers as proof of due diligence.",
+    "An agency packages 'AI-assisted security audit plus fix' as a fixed-price add-on service for client codebases."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Fixed-price AI-assisted security audit service for startups preparing for SOC2 or enterprise sales",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Subscription security-audit-as-a-service that re-runs on every release",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer a flat-fee 'AI security audit' service this weekend to indie SaaS founders who've never had a security review — run this against their repo and hand them a clean findings report.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-06T12:09:29.051Z"
+}

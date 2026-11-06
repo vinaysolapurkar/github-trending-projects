@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-06",
+  "owner": "react",
+  "name": "react",
+  "full_name": "react/react",
+  "url": "https://github.com/react/react",
+  "description": "The library for web and native user interfaces.",
+  "language": "JavaScript",
+  "stars_total": 252039,
+  "stars_today": 244,
+  "one_liner": "The toolkit most of the interactive buttons and pages on the web are built with.",
+  "buyer": "A designer who sells premium UI component kits to startups who don't want to design screens from scratch.",
+  "business_use_cases": [
+    "A designer sells a premium React component/UI kit to startups wanting a polished look without hiring a designer.",
+    "An agency builds client web apps on it and charges project fees, able to hire easily from the huge talent pool.",
+    "A course creator sells 'React for freelancers' cohort courses to people breaking into web development."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a focused, opinionated React component kit (e.g. SaaS dashboard components) by license",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "One-off freelance app-building services",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build and sell a narrow, opinionated React component kit this weekend — e.g. just dashboard widgets for SaaS founders.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-06T12:09:29.051Z"
+}

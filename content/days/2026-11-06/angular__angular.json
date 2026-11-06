@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-06",
+  "owner": "angular",
+  "name": "angular",
+  "full_name": "angular/angular",
+  "url": "https://github.com/angular/angular",
+  "description": "Deliver web apps with confidence 🚀",
+  "language": "TypeScript",
+  "stars_total": 101143,
+  "stars_today": 128,
+  "one_liner": "A full toolkit big companies use to build large web applications meant to last for years.",
+  "buyer": "An enterprise IT consultancy that builds internal tools for large companies like banks and insurers who've standardized on it.",
+  "business_use_cases": [
+    "A consultancy specializes in migrating old AngularJS applications to modern Angular for enterprises still stuck on the legacy version — a recurring, well-paid niche.",
+    "A training company sells enterprise Angular certification bootcamps to upskill internal teams.",
+    "A component-library vendor sells accessibility-compliant, enterprise-grade Angular UI kits to regulated industries."
+  ],
+  "money_ideas": [
+    {
+      "idea": "AngularJS-to-Angular migration consulting for enterprises",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Enterprise Angular UI component library license",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Specialize narrowly in 'AngularJS to Angular migration' consulting — it's a recurring, well-paid enterprise pain point most generalist agencies avoid.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-06T12:09:29.051Z"
+}

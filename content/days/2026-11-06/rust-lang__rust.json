@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-06",
+  "owner": "rust-lang",
+  "name": "rust",
+  "full_name": "rust-lang/rust",
+  "url": "https://github.com/rust-lang/rust",
+  "description": "Empowering everyone to build reliable and efficient software.",
+  "language": "Rust",
+  "stars_total": 121164,
+  "stars_today": 186,
+  "one_liner": "The programming language itself — a tool that lets developers write software that's fast and far less likely to crash.",
+  "buyer": "A CTO deciding whether to rewrite a slow or crash-prone service, or a training company selling 'learn Rust' courses to engineers.",
+  "business_use_cases": [
+    "A training company sells corporate Rust onboarding bootcamps to teams migrating performance-critical services.",
+    "A consultancy specializes in rewriting legacy C++ services in Rust for safety-critical clients like fintech or automotive, billed as fixed-price projects.",
+    "A staffing agency builds a niche 'Rust engineers for hire' marketplace, since demand for experienced Rust developers outstrips supply."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Corporate Rust training workshops",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Rust migration and consulting engagements for legacy codebases",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Package a two-day 'Rust for your team' workshop and sell it directly to engineering managers.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-06T12:09:29.051Z"
+}

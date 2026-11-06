@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-06",
+  "owner": "etcd-io",
+  "name": "etcd",
+  "full_name": "etcd-io/etcd",
+  "url": "https://github.com/etcd-io/etcd",
+  "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+  "language": "Go",
+  "stars_total": 52485,
+  "stars_today": 123,
+  "one_liner": "The reliable, shared 'memory' that keeps distributed systems like Kubernetes in sync.",
+  "buyer": "A platform engineering team running their own Kubernetes clusters who needs expertise to avoid outages.",
+  "business_use_cases": [
+    "A Kubernetes consultancy offers 'health check and backup strategy' audits to companies running self-managed clusters, since failures here are a common cause of cluster outages.",
+    "A managed-infrastructure provider bundles operations and monitoring for it into their Kubernetes-as-a-service offering.",
+    "An SRE trainer sells incident-response workshops specifically on disaster recovery for it."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Paid health-check and disaster-recovery audit for companies running self-managed Kubernetes",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Retainer-based operations support",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer a fixed-price backup-and-disaster-recovery audit to startups running their own Kubernetes — most have never actually tested restoring a backup.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-06T12:09:29.051Z"
+}
