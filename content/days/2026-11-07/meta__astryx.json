@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-07",
+  "owner": "meta",
+  "name": "astryx",
+  "full_name": "meta/astryx",
+  "url": "https://github.com/meta/astryx",
+  "description": "An open source design system that's fully customizable and agent ready",
+  "language": "TypeScript",
+  "stars_total": 14123,
+  "stars_today": 198,
+  "one_liner": "A free, polished set of website building-blocks (buttons, forms, themes) that both human designers and AI coding tools can use to build a professional-looking site fast.",
+  "buyer": "A freelance web developer or small agency that builds client sites quickly and wants a professional base look without hiring a designer for every project.",
+  "business_use_cases": [
+    "A freelance developer uses it as the base for every new client site, cutting build time and billing a flat 'fast launch' package.",
+    "A template marketplace seller builds and sells pre-themed Astryx starter kits (e.g. 'SaaS landing page kit') as one-off downloads.",
+    "A low-code agency offers 'AI-built, on-brand websites' using Astryx themes customized per client, sold as a short project."
+  ],
+  "money_ideas": [
+    { "idea": "Sell pre-themed starter-kit templates built on it", "revenue_model": "one-off" },
+    { "idea": "Agency retainer using it as the standard build stack", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Build and sell a pack of five ready-themed Astryx landing-page templates this weekend on a template marketplace like Gumroad.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-07T12:06:39.000Z"
+}

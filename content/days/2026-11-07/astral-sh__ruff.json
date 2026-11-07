@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-07",
+  "owner": "astral-sh",
+  "name": "ruff",
+  "full_name": "astral-sh/ruff",
+  "url": "https://github.com/astral-sh/ruff",
+  "description": "An extremely fast Python linter and code formatter, written in Rust.",
+  "language": "Rust",
+  "stars_total": 50808,
+  "stars_today": 350,
+  "one_liner": "A tool that automatically checks Python code for mistakes and messy style, and fixes most of it instantly.",
+  "buyer": "An engineering manager with a large, aging Python codebase who wants consistent code quality without hiring more human reviewers.",
+  "business_use_cases": [
+    "A dev-tools consultancy runs flat-fee 'codebase cleanup' engagements: install Ruff, fix everything it flags, hand back a modernized repo.",
+    "A platform-engineering freelancer wires it into every client's CI pipeline as part of a broader DevOps retainer.",
+    "A training company teaches 'modern Python tooling' workshops built around adopting Ruff (and the rest of the Astral toolchain) at a company."
+  ],
+  "money_ideas": [
+    { "idea": "One-off codebase cleanup project", "revenue_model": "one-off" },
+    { "idea": "Ongoing CI/platform-engineering retainer that includes it", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Offer a few Python shops a flat-fee 'run Ruff across your repo and fix everything it finds' service this weekend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-07T12:06:39.000Z"
+}

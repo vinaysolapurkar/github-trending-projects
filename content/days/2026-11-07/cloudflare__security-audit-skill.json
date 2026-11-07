@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-07",
+  "owner": "cloudflare",
+  "name": "security-audit-skill",
+  "full_name": "cloudflare/security-audit-skill",
+  "url": "https://github.com/cloudflare/security-audit-skill",
+  "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+  "language": "JavaScript",
+  "stars_total": 64782,
+  "stars_today": 2088,
+  "one_liner": "A recipe that turns an AI coding assistant into a careful security reviewer that checks a codebase in stages and double-checks its own findings before reporting them.",
+  "buyer": "A freelance security consultant or boutique firm who wants to offer cheap, frequent vulnerability scans to small SaaS companies that can't afford a full manual pentest.",
+  "business_use_cases": [
+    "A freelance security consultant sells a monthly 'AI security nightscan' subscription to small SaaS startups, using this skill as the engine.",
+    "An MSP adds an 'AI-verified vulnerability report' upsell for the small-business websites it already hosts and manages.",
+    "A compliance-prep shop uses it to quickly generate the evidence small vendors need to answer enterprise customers' security questionnaires."
+  ],
+  "money_ideas": [
+    { "idea": "Recurring automated audit subscription for small SaaS companies", "revenue_model": "subscription" },
+    { "idea": "One-time flat-fee security audit report", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Offer three small SaaS founders a flat-fee 'AI security audit report in 48 hours' this weekend, delivered as a clean PDF using this skill.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-07T12:06:39.000Z"
+}

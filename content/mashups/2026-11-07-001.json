@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-07-001",
+  "date": "2026-11-07",
+  "repo_a": "milind-soni/OpenMausBot",
+  "repo_b": "ranxianglei/billion-context",
+  "title": "The AI Employee That Never Forgets",
+  "pitch": "OpenMausBot gives you a chat app where every contact is a persistent AI agent with its own computer, and billion-context is a plugin that lets an AI agent run for a month in one continuous session without blowing its context budget or losing earlier memory. Wire them together and you get a true 'always-on AI employee': a bot persona that keeps working on a client's ops, support, or research tasks for weeks at a stretch, remembering everything from day one without an external memory database or a jarring reset. Sell it to small agencies as a managed 'digital employee' that never needs re-onboarding every Monday morning.",
+  "why_now": "OpenMausBot trended today as the open-source, Grok-Bot-style 'team of AI contacts' app, and billion-context trended as the plugin that makes those long-lived sessions actually affordable — pairing them now solves the obvious problem each one runs into on its own: a great AI employee that either forgets or gets expensive."
+}

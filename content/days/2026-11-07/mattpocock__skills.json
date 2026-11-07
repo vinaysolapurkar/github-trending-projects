@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-07",
+  "owner": "mattpocock",
+  "name": "skills",
+  "full_name": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "language": "Shell",
+  "stars_total": 317158,
+  "stars_today": 1111,
+  "one_liner": "A set of ready-made habits and checklists that push an AI coding assistant to act like a disciplined senior engineer instead of guessing.",
+  "buyer": "An engineering manager at a small startup whose junior developers lean hard on AI-assisted code and keep shipping sloppy, over-engineered pull requests.",
+  "business_use_cases": [
+    "A fractional CTO installs and tunes these skills across every new client's repo as part of an onboarding retainer, billed as 'AI coding governance setup.'",
+    "A dev-tools educator sells a paid course or community that extends these skills with company-specific playbooks.",
+    "A code-quality consultancy runs a one-time 'install discipline into your AI workflow' engagement for teams drowning in AI-generated tech debt."
+  ],
+  "money_ideas": [
+    { "idea": "Paid community/newsletter built around maintaining and extending the skills", "revenue_model": "subscription" },
+    { "idea": "Flat-fee 'install and customize these skills for your repo' engagement", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Offer a handful of startups a one-time 'AI coding hygiene setup' this weekend: install and tune skill packs like this across their repo for a flat fee.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-07T12:06:39.000Z"
+}

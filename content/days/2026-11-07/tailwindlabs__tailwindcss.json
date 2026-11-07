@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-07",
+  "owner": "tailwindlabs",
+  "name": "tailwindcss",
+  "full_name": "tailwindlabs/tailwindcss",
+  "url": "https://github.com/tailwindlabs/tailwindcss",
+  "description": "A utility-first CSS framework for rapid UI development.",
+  "language": "TypeScript",
+  "stars_total": 98200,
+  "stars_today": 152,
+  "one_liner": "A tool that lets web developers style a website quickly by writing small reusable labels in their code instead of custom style files.",
+  "buyer": "A freelance web developer who builds client websites fast and wants a reliable, familiar styling system to protect their margins on fixed-price projects.",
+  "business_use_cases": [
+    "A freelance developer uses it as their default stack for client sites, delivering faster and keeping more margin on fixed-price work.",
+    "A template seller builds and sells a library of Tailwind component kits (hero sections, pricing tables, dashboards).",
+    "An agency runs 'redesign your outdated website' packages, using Tailwind to deliver cheaply and quickly."
+  ],
+  "money_ideas": [
+    { "idea": "Sell packs of Tailwind UI component templates", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build and sell a small pack of Tailwind component templates (pricing table, hero section, dashboard) this weekend on a marketplace like Gumroad.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-07T12:06:39.000Z"
+}

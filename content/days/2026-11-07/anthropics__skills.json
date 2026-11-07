@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-07",
+  "owner": "anthropics",
+  "name": "skills",
+  "full_name": "anthropics/skills",
+  "url": "https://github.com/anthropics/skills",
+  "description": "Public repository for Agent Skills",
+  "language": "Python",
+  "stars_total": 188347,
+  "stars_today": 386,
+  "one_liner": "A free library of example templates showing how to teach an AI assistant to do specific jobs, like formatting documents or reviewing code a certain way.",
+  "buyer": "A consultancy that builds custom AI-assistant workflows for enterprise clients and wants proven templates instead of starting from a blank page.",
+  "business_use_cases": [
+    "A consultancy uses these as starting templates to quickly build and sell branded, custom skills to enterprise clients.",
+    "A trainer runs paid workshops teaching teams to write their own skills, using these as worked examples.",
+    "A SaaS packages a curated, maintained set of business-specific skills (invoicing, reporting) as a subscription add-on for teams already using Claude."
+  ],
+  "money_ideas": [
+    { "idea": "Custom skill development for enterprise clients, built from these templates", "revenue_model": "one-off" },
+    { "idea": "Managed, maintained skill-pack subscription for a specific industry", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Pick one narrow business process (e.g. writing real-estate listing descriptions) and ship a polished, sellable skill package this weekend using these as a starting template.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-07T12:06:39.000Z"
+}

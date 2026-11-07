@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-07",
+  "owner": "milind-soni",
+  "name": "OpenMausBot",
+  "full_name": "milind-soni/OpenMausBot",
+  "url": "https://github.com/milind-soni/OpenMausBot",
+  "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+  "language": "TypeScript",
+  "stars_total": 16192,
+  "stars_today": 1986,
+  "one_liner": "A free desktop chat app where every contact in your sidebar is actually its own AI assistant, each with its own personality and a computer it can work from.",
+  "buyer": "A solopreneur or tiny agency owner who wants a 'team of AI employees' they can talk to like Slack contacts, without paying for a pile of separate AI subscriptions.",
+  "business_use_cases": [
+    "A solopreneur sets up named 'staff' bots (ops, research, support) and charges clients a flat monthly fee to run parts of their business through it.",
+    "An agency white-labels it internally and sells 'AI employee' seats to small-business clients who can't afford to hire real staff.",
+    "A productized-service shop builds one specific persona on top of it (e.g. an 'AI bookkeeper' bot) and sells it as a subscription to local businesses."
+  ],
+  "money_ideas": [
+    { "idea": "Managed 'AI staff' service built on top of custom bot personas", "revenue_model": "subscription" },
+    { "idea": "One-off custom persona setup for a client's specific workflow", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Set up two or three bot personas (a scheduler, an inbox-triager, a research assistant) this weekend and sell access as a $29/month 'your first AI employees' bundle to a few local business owners.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-07T12:06:39.000Z"
+}

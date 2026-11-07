@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-07",
+  "owner": "zed-industries",
+  "name": "zed",
+  "full_name": "zed-industries/zed",
+  "url": "https://github.com/zed-industries/zed",
+  "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+  "language": "Rust",
+  "stars_total": 94033,
+  "stars_today": 1119,
+  "one_liner": "A fast, modern app for writing and editing code, made by the team behind the Atom editor.",
+  "buyer": "There isn't really an outside buyer here — it's a finished consumer product from a funded company, so there is little commercial room for a third party to build on top of it today.",
+  "business_use_cases": [
+    "A dev-tools educator builds paid courses or tutorials specifically around Zed as its user base grows.",
+    "A plugin developer builds and sells premium Zed extensions (themes, language support) once its extension ecosystem matures further.",
+    "A consultancy offers 'migrate your team from VS Code to Zed' onboarding for performance-sensitive engineering teams."
+  ],
+  "money_ideas": [
+    { "idea": "Paid migration/onboarding consulting for engineering teams", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Honestly, not much to steal here this weekend — it's a polished, well-funded consumer product, not raw material for a new business.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-07T12:06:39.000Z"
+}

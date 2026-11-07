@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-07",
+  "owner": "prometheus",
+  "name": "prometheus",
+  "full_name": "prometheus/prometheus",
+  "url": "https://github.com/prometheus/prometheus",
+  "description": "The Prometheus monitoring system and time series database.",
+  "language": "Go",
+  "stars_total": 67286,
+  "stars_today": 325,
+  "one_liner": "A tool that watches your servers and apps around the clock and can sound an alarm the moment something breaks.",
+  "buyer": "An independent IT consultant managing servers for several small businesses who needs one dashboard to catch outages before a customer notices.",
+  "business_use_cases": [
+    "An MSP offers 'we monitor your servers 24/7' as a monthly add-on service built on Prometheus plus alerting.",
+    "A DevOps freelancer sets up Prometheus dashboards for small SaaS clients as a one-off engagement, then sells an ongoing tuning retainer.",
+    "A vertical SaaS (e.g. for restaurant point-of-sale systems) embeds Prometheus internally and resells 'uptime monitoring' as a customer-facing feature."
+  ],
+  "money_ideas": [
+    { "idea": "Monthly managed-monitoring service for small-business servers", "revenue_model": "subscription" },
+    { "idea": "One-time dashboard and alerting setup project", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Offer three local small businesses a 'we'll watch your website so it doesn't go down without you knowing' monthly service, powered by a Prometheus instance you manage for them.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-07T12:06:39.000Z"
+}

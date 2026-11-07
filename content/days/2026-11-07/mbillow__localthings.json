@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-07",
+  "owner": "mbillow",
+  "name": "localthings",
+  "full_name": "mbillow/localthings",
+  "url": "https://github.com/mbillow/localthings",
+  "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
+  "language": "Python",
+  "stars_total": 939,
+  "stars_today": 184,
+  "one_liner": "A free plugin that lets a smart-home system control Samsung washers, fridges, and other appliances directly over home WiFi, with no Samsung cloud account needed.",
+  "buyer": "A smart-home installer who sets up Home Assistant systems for homeowners and wants reliable, privacy-respecting appliance control that doesn't break when the cloud is down.",
+  "business_use_cases": [
+    "A smart-home installer adds 'full appliance integration' as a premium add-on when setting up Home Assistant for homeowners.",
+    "A short-term-rental property manager uses it to remotely check whether a unit's washer/dryer is running, for cleaning turnover scheduling, with no cloud subscription fee.",
+    "A privacy-focused smart-home consultant sells 'de-cloud your appliances' audits to homeowners worried about their data leaving the house."
+  ],
+  "money_ideas": [
+    { "idea": "One-time installation and integration visit for homeowners", "revenue_model": "one-off" },
+    { "idea": "Ongoing smart-home maintenance retainer that includes it", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Offer local homeowners a one-time 'integrate your Samsung appliances into your smart home, no cloud needed' setup visit for a flat fee.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-07T12:06:39.000Z"
+}

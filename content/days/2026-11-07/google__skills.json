@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-07",
+  "owner": "google",
+  "name": "skills",
+  "full_name": "google/skills",
+  "url": "https://github.com/google/skills",
+  "description": "Agent Skills for Google products and technologies",
+  "language": "Python",
+  "stars_total": 23054,
+  "stars_today": 449,
+  "one_liner": "A free library of instruction packs that teach an AI coding assistant how to correctly set up and use various Google Cloud tools.",
+  "buyer": "A cloud consulting firm that bills clients for Google Cloud migrations and wants its AI assistants to get configurations right the first time instead of burning billable hours on trial-and-error.",
+  "business_use_cases": [
+    "A Google Cloud reseller uses it internally to speed up client onboarding and cut wasted billable hours on config mistakes.",
+    "A training company builds a paid 'AI-ready Google Cloud' workshop or certification course around these skills.",
+    "An MSP offers an 'AI-assisted GCP cost and security audit' service, using the relevant skill modules as the engine."
+  ],
+  "money_ideas": [
+    { "idea": "Paid training/certification course built on top of the skill set", "revenue_model": "one-off" },
+    { "idea": "Cloud consulting engagements that use it to deliver faster, cheaper", "revenue_model": "one-off" }
+  ],
+  "steal_this": "It's free documentation and tooling from Google itself, not a product to resell as-is — the realistic weekend move is to package a narrow consulting offer (e.g. 'GCP cost audit in 3 days') around it, not to sell the skills themselves.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-07T12:06:39.000Z"
+}
