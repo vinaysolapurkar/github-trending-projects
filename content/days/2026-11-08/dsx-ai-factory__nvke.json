@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-08",
+  "owner": "dsx-ai-factory",
+  "name": "nvke",
+  "full_name": "dsx-ai-factory/nvke",
+  "url": "https://github.com/dsx-ai-factory/nvke",
+  "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+  "language": "Go",
+  "stars_total": 687,
+  "stars_today": 345,
+  "one_liner": "Software that lets a company turn its own pile of NVIDIA GPU machines into a private, self-service 'cloud' that teams can request computing clusters from, instead of renting from Amazon or Google.",
+  "buyer": "A platform engineer at a company that owns or leases its own GPU hardware and wants to allocate it to internal teams or resell it, like a mini cloud provider.",
+  "business_use_cases": [
+    "A GPU colocation or bare-metal hosting company uses it as the control plane to offer customers self-service Kubernetes clusters on dedicated GPUs.",
+    "An AI startup that bought its own GPU cluster uses it to carve out isolated environments for different research teams instead of paying AWS/GCP prices.",
+    "A systems integrator sells a 'private GPU cloud in a box' installation and setup service to enterprises that don't want to depend on public cloud GPU rentals."
+  ],
+  "money_ideas": [
+    { "idea": "Installation and managed-operations retainer for companies standing up a private GPU cluster on it", "revenue_model": "subscription" },
+    { "idea": "One-off integration project wiring it into a client's existing GPU hardware", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Pitch a 'stand up your own private GPU cloud this weekend' consulting package to an AI startup that just bought GPU hardware and is dreading the cloud bill.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-08T12:05:49.000Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-08",
+  "owner": "sherlock-project",
+  "name": "sherlock",
+  "full_name": "sherlock-project/sherlock",
+  "url": "https://github.com/sherlock-project/sherlock",
+  "description": "Hunt down social media accounts by username across social networks",
+  "language": "Python",
+  "stars_total": 101705,
+  "stars_today": 2372,
+  "one_liner": "A tool that checks hundreds of social media sites at once to find every account registered under a particular username.",
+  "buyer": "A licensed private investigator or corporate background-check firm doing due diligence on a job candidate or business partner.",
+  "business_use_cases": [
+    "A private investigator runs a subject's known usernames through it to map their public social media footprint for a client's background-check report.",
+    "A brand-protection freelancer scans for accounts impersonating a client's name or product across platforms.",
+    "A trust-and-safety consultant uses it to cross-reference a suspected fraudster's usernames across sites during an investigation."
+  ],
+  "money_ideas": [
+    { "idea": "Paid one-off 'digital footprint' lookup reports sold to recruiters, landlords, or investigators", "revenue_model": "usage" },
+    { "idea": "Ongoing brand-impersonation monitoring subscription for companies", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Wrap it in a simple web form plus a PDF report generator, and sell single username-lookup reports to a few small investigation or recruiting firms this weekend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-08T12:05:49.000Z"
+}

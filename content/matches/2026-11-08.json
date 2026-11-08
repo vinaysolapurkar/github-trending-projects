@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-08",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing in today's trending list edits or assembles short-form video." },
+    { "problem_id": "p002", "repo": null, "why": "No product-photography or image-generation tool trended today." },
+    { "problem_id": "p003", "repo": "ranxianglei/billion-context", "why": "It's built to keep a single AI coding session running for weeks by compressing context instead of resetting, though that's within one long session rather than true memory across brand-new sessions.", "confidence": "medium" },
+    { "problem_id": "p004", "repo": null, "why": "Nothing trending today is specifically built to make AI-written code leaner or less over-engineered." },
+    { "problem_id": "p005", "repo": null, "why": "Nothing trending today organizes or indexes a personal library of research PDFs." },
+    { "problem_id": "p006", "repo": null, "why": "No tool today turns a news topic into footage for an explainer video." },
+    { "problem_id": "p007", "repo": null, "why": "Nothing today addresses bioinformatics or lab workflows." },
+    { "problem_id": "p008", "repo": null, "why": "OpenMausBot is local-first for its own data, but it still routes conversations through cloud model providers (Claude, Codex) rather than being a fully private, on-premise chat app — not a close enough fit for a law firm's confidentiality needs to claim." },
+    { "problem_id": "p009", "repo": null, "why": "No text-to-narrated-video tool trended today." },
+    { "problem_id": "p010", "repo": null, "why": "No self-owned notes app trended today." },
+    { "problem_id": "p011", "repo": null, "why": "Nothing today maps or explains how an existing messy codebase fits together." },
+    { "problem_id": "p012", "repo": "anthropics/claude-quickstarts", "why": "It's a curated set of working, deployable example apps (support agent, financial analyst, coding agent) built specifically to give someone with an AI product idea a working starting point instead of a blank page.", "confidence": "high" },
+    { "problem_id": "p013", "repo": null, "why": "No restaurant inventory or small-business stock tool trended today." }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-08",
+  "owner": "ranxianglei",
+  "name": "billion-context",
+  "full_name": "ranxianglei/billion-context",
+  "url": "https://github.com/ranxianglei/billion-context",
+  "description": "A context-compression plugin for month-long single sessions (billions of tokens), small context windows (a 100K context is enough) and token savings (5x fewer tokens).",
+  "language": "TypeScript",
+  "stars_total": 4844,
+  "stars_today": 460,
+  "one_liner": "A plugin that compresses an AI coding assistant's memory so it can keep working on the same project for weeks without forgetting earlier context or needing an expensive, huge context window.",
+  "buyer": "A solo developer or small dev team running long AI coding sessions (via Claude Code, Codex, etc.) who keeps losing progress or racking up token costs when context resets.",
+  "business_use_cases": [
+    "A freelance developer keeps one long AI pair-programming session alive on a large client codebase for weeks, without re-explaining the project every day.",
+    "A dev-tools consultancy installs and tunes it for clients running AI coding agents, as part of an 'AI coding agent setup' service.",
+    "An agency running many parallel AI coding agents across projects uses it to meaningfully cut their monthly token bill."
+  ],
+  "money_ideas": [
+    { "idea": "Paid setup and tuning service for teams adopting long-running AI coding agents", "revenue_model": "one-off" },
+    { "idea": "Token-cost-savings audit for companies with large AI coding-agent bills", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Offer a flat-fee 'cut your AI coding agent's token bill' audit to a dev shop this weekend, using this plugin as the fix.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-08T12:05:49.000Z"
+}

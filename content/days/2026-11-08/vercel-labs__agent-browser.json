@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-08",
+  "owner": "vercel-labs",
+  "name": "agent-browser",
+  "full_name": "vercel-labs/agent-browser",
+  "url": "https://github.com/vercel-labs/agent-browser",
+  "description": "Browser automation CLI for AI agents",
+  "language": "Rust",
+  "stars_total": 47220,
+  "stars_today": 812,
+  "one_liner": "A command-line tool that lets an AI assistant browse the web like a person — reading pages, clicking buttons, filling forms — one step at a time.",
+  "buyer": "A no-code automation agency that builds custom web-scraping or form-filling bots for clients whose target websites have no API.",
+  "business_use_cases": [
+    "An automation agency builds a bot that logs into a client's supplier portals and pulls pricing data every morning, sold as a monitoring service.",
+    "A recruiting-ops team automates posting the same job listing across a dozen job boards that have no API, saving hours per week.",
+    "A market-research freelancer scrapes competitor pricing and product pages for a retail client's weekly competitor report."
+  ],
+  "money_ideas": [
+    { "idea": "Custom browser-automation bot builds for clients whose sites have no API", "revenue_model": "one-off" },
+    { "idea": "Ongoing 'we monitor these websites for you' data-feed subscription", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Build one scraper this weekend that checks a client's three biggest competitors' prices daily and emails them a summary, then charge a flat monthly fee.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-08T12:05:49.000Z"
+}

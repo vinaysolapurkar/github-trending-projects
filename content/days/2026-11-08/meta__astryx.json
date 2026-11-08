@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-08",
+  "owner": "meta",
+  "name": "astryx",
+  "full_name": "meta/astryx",
+  "url": "https://github.com/meta/astryx",
+  "description": "An open source design system that's fully customizable and agent ready",
+  "language": "TypeScript",
+  "stars_total": 15004,
+  "stars_today": 863,
+  "one_liner": "A free, ready-to-use set of polished website building-blocks (buttons, forms, menus) that Meta itself uses internally, so you don't have to design and code them from scratch.",
+  "buyer": "A freelance web developer or small product studio building client websites and apps who wants a professional look without hiring a dedicated designer.",
+  "business_use_cases": [
+    "A freelance developer uses it as the default UI kit for every new client project, cutting build time while charging the same project fee.",
+    "A startup studio offers 'MVP in two weeks' builds, using its components and themes to ship a polished-looking product fast.",
+    "A design agency builds a few custom themes on top of it and resells them as a premium theme pack to other developers."
+  ],
+  "money_ideas": [
+    { "idea": "Sell custom themes or templates built on it to other developers", "revenue_model": "one-off" },
+    { "idea": "Faster, cheaper MVP-build service for startups using it as the base UI kit", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build and list 2-3 polished themes (a 'fintech dark mode', a 'SaaS landing page') on a template marketplace this weekend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-08T12:05:49.000Z"
+}

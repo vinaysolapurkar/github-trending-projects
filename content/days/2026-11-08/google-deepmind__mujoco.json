@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-08",
+  "owner": "google-deepmind",
+  "name": "mujoco",
+  "full_name": "google-deepmind/mujoco",
+  "url": "https://github.com/google-deepmind/mujoco",
+  "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+  "language": "C++",
+  "stars_total": 16144,
+  "stars_today": 26,
+  "one_liner": "A physics simulator that lets you test how robots, mechanical parts, or animated characters move and react to forces, without building anything physical first.",
+  "buyer": "A robotics startup or university robotics lab that needs to test and train robot control software cheaply before touching real hardware.",
+  "business_use_cases": [
+    "A robotics startup trains and tests a warehouse robot's walking or grasping behavior in simulation before spending money on physical prototypes.",
+    "A university lab uses it to teach control-theory courses and produce research papers, citing it as the standard open benchmark.",
+    "A game or VFX studio uses its physics engine to create more realistic character movement for a game or animated project."
+  ],
+  "money_ideas": [
+    { "idea": "Robotics simulation consulting: build and tune a client's robot model before they spend on hardware", "revenue_model": "one-off" },
+    { "idea": "Paid training course on reinforcement learning in simulation using it", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Offer a fixed-fee 'simulate your robot design before you build it' service to a hardware startup this weekend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-08T12:05:49.000Z"
+}

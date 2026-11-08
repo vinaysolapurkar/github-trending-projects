@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-08-001",
+  "date": "2026-11-08",
+  "repo_a": "milind-soni/OpenMausBot",
+  "repo_b": "vercel-labs/agent-browser",
+  "title": "The AI Employee With Real Hands",
+  "pitch": "OpenMausBot gives you a chat app where every contact is a persistent AI agent with its own cloud computer and personality, but out of the box it's limited to the apps it's explicitly connected to. agent-browser gives any AI agent a general-purpose way to open, read, and click around on any website that has no API — supplier portals, job boards, government forms, competitor storefronts. Wire agent-browser into an OpenMausBot persona and you get an 'employee' you can text a task like 'check these five supplier sites for restock dates' and it actually goes and does it, one click at a time, reporting back in the chat. Sell it to small agencies and solo operators as a flat monthly fee per 'task' the bot handles, with no per-site integration work required.",
+  "why_now": "Both trended today: OpenMausBot as the open-source 'team of AI contacts' app and agent-browser as the tool that lets an agent drive a real browser like a person. Together they close the gap each one has alone — a chat-native AI employee that can act on any website, not just ones with a pre-built connector."
+}
