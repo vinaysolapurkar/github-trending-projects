@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-09",
+  "owner": "sherlock-project",
+  "name": "sherlock",
+  "full_name": "sherlock-project/sherlock",
+  "url": "https://github.com/sherlock-project/sherlock",
+  "description": "Hunt down social media accounts by username across social networks",
+  "language": "Python",
+  "stars_total": 105906,
+  "stars_today": 4294,
+  "one_liner": "Type in a username and it checks hundreds of websites to tell you everywhere that username has an account.",
+  "buyer": "A freelance background-check or due-diligence investigator who needs to map someone's online footprint quickly for a paying client.",
+  "business_use_cases": [
+    "A private investigator runs a subject's known usernames through Sherlock as the first step of a paid background-check report.",
+    "A brand-protection freelancer scans for a company's handle across lesser-known platforms to catch impersonation accounts early.",
+    "A parental-safety or dating-safety service offers a paid 'digital footprint check' on a username before a client meets someone in person."
+  ],
+  "money_ideas": [
+    { "idea": "Per-search paid report service wrapping Sherlock with a readable PDF summary", "revenue_model": "one-off" },
+    { "idea": "Ongoing brand/impersonation monitoring subscription for small businesses", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Build a simple web form that runs Sherlock on a username and emails back a plain-English PDF report, and sell it as a $10 one-off 'who is this person online' check.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-09T12:15:00.000Z"
+}

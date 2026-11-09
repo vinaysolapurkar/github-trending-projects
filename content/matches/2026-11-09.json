@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-09",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing in today's trending list edits or assembles short-form video." },
+    { "problem_id": "p002", "repo": null, "why": "No product-photography or image-generation tool trended today." },
+    { "problem_id": "p003", "repo": "garrytan/gbrain", "why": "It's built specifically to give AI agents persistent, cross-session memory that survives switching between Claude, ChatGPT, and Cursor, which is exactly the forgetting problem described.", "confidence": "high" },
+    { "problem_id": "p004", "repo": null, "why": "Nothing trending today is specifically built to make AI-written code leaner or less over-engineered." },
+    { "problem_id": "p005", "repo": null, "why": "GBrain stores discrete facts with sources, not a library of PDFs and articles, so it doesn't fit this organizing problem closely enough to claim." },
+    { "problem_id": "p006", "repo": null, "why": "No tool today turns a news topic into footage for an explainer video." },
+    { "problem_id": "p007", "repo": null, "why": "MuJoCo is a physics simulator for robotics and mechanics, not bioinformatics or lab workflows." },
+    { "problem_id": "p008", "repo": null, "why": "OpenMausBot is local-first for its own data, but it still routes conversations through cloud model providers rather than being a fully private, on-premise chat system, which isn't a close enough fit for a law firm's confidentiality needs to claim." },
+    { "problem_id": "p009", "repo": null, "why": "No text-to-narrated-video tool trended today." },
+    { "problem_id": "p010", "repo": "garrytan/gbrain", "why": "It's MIT-licensed, free to self-host, and designed as an explicit, portable memory record you own rather than a cloud note app, though it's agent memory rather than a general notes app.", "confidence": "medium" },
+    { "problem_id": "p011", "repo": null, "why": "Nothing trending today maps or explains how an existing messy codebase fits together." },
+    { "problem_id": "p012", "repo": "anthropics/claude-quickstarts", "why": "It's a curated set of working, deployable example apps built specifically to give someone with an AI product idea a working starting point instead of a blank page.", "confidence": "high" },
+    { "problem_id": "p013", "repo": null, "why": "No restaurant inventory or small-business stock tool trended today." }
+  ]
+}

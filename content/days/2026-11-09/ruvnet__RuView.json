@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-09",
+  "owner": "ruvnet",
+  "name": "RuView",
+  "full_name": "ruvnet/RuView",
+  "url": "https://github.com/ruvnet/RuView",
+  "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+  "language": "Rust",
+  "stars_total": 103147,
+  "stars_today": 203,
+  "one_liner": "Turns ordinary WiFi routers into a motion-and-breathing sensor that can tell if someone's in a room, moving, or struggling, without any cameras or wearables.",
+  "buyer": "A smart-home installer or elder-care service that wants to offer fall and vitals monitoring for elderly clients without installing cameras in their home.",
+  "business_use_cases": [
+    "A home-security installer offers a camera-free 'fall and vitals monitoring' add-on for elderly clients, using a few cheap WiFi sensor nodes instead of cameras or wearables.",
+    "A boutique smart-home integrator sells a 'sleep and breathing quality' package to health-conscious homeowners who already run Home Assistant.",
+    "A short-term rental host uses presence and occupancy detection to verify guest counts without installing cameras, which guests would otherwise object to."
+  ],
+  "money_ideas": [
+    { "idea": "One-off hardware kit plus installation for a 'no-camera home monitoring' package", "revenue_model": "one-off" },
+    { "idea": "Ongoing monitoring and alerts subscription for elder-care families", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Package a 3-sensor ESP32 kit with a pre-configured RuView setup as a flat-fee 'fall detection for grandma' kit, skipping a subscription for the first version.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-09T12:15:00.000Z"
+}

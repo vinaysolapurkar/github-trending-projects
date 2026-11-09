@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-09",
+  "owner": "vercel-labs",
+  "name": "agent-browser",
+  "full_name": "vercel-labs/agent-browser",
+  "url": "https://github.com/vercel-labs/agent-browser",
+  "description": "Browser automation CLI for AI agents",
+  "language": "Rust",
+  "stars_total": 48113,
+  "stars_today": 914,
+  "one_liner": "A tool that lets an AI agent open a real website and click, fill forms, and read pages the way a person would, even on sites with no official way to connect to them.",
+  "buyer": "A small agency or consultant building AI automations for clients whose suppliers, competitors, or partners only offer a website, not an API.",
+  "business_use_cases": [
+    "An e-commerce consultant builds an agent that logs into five supplier portals each morning and checks restock dates and prices, something that's impossible without driving the actual site.",
+    "A recruiting agency automates posting the same job listing across a dozen job boards that have no public API, using an agent that fills out each site's real form.",
+    "A local market-research shop builds a 'watch my competitor's website' service that checks price and stock changes daily for small retailers who can't afford enterprise monitoring tools."
+  ],
+  "money_ideas": [
+    { "idea": "Website automation as a service, billed per task or per site monitored", "revenue_model": "usage" },
+    { "idea": "Subscription competitor price-and-stock monitoring product for small retailers", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Build a weekend tool that checks ten competitor product pages daily for price changes and emails a report, then sell it as a monthly subscription to local retailers.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-09T12:15:00.000Z"
+}

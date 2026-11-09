@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-09",
+  "owner": "ZhuLinsen",
+  "name": "daily_stock_analysis",
+  "full_name": "ZhuLinsen/daily_stock_analysis",
+  "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+  "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+  "language": "Python",
+  "stars_total": 68447,
+  "stars_today": 505,
+  "one_liner": "A free, automated system that reads stock news and prices every day and pushes a plain-language 'should I buy or sell' report straight to your phone or chat app.",
+  "buyer": "A part-time retail investor in Asia who wants a daily AI-generated watchlist report without paying for an expensive trading terminal.",
+  "business_use_cases": [
+    "A part-time trader deploys it for free on GitHub Actions and gets a daily WeChat-delivered dashboard with buy/sell signals before the market opens.",
+    "An investment newsletter writer uses its daily output as the backend for a rebranded 'today's picks' report sent to a paid subscriber list.",
+    "A fintech tutor builds a paid course teaching retail investors how to deploy and customize this system for their own stock watchlist."
+  ],
+  "money_ideas": [
+    { "idea": "Paid 'set it up for you' service configuring a custom watchlist and notification channel", "revenue_model": "one-off" },
+    { "idea": "Subscription tip-sheet newsletter that repackages its daily output with added commentary", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Deploy it for a friend's five favorite stocks on GitHub Actions, then repackage the daily push as a cheap paid tip-sheet for a niche trading community.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-09T12:15:00.000Z"
+}

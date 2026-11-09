@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-09",
+  "owner": "google-deepmind",
+  "name": "mujoco",
+  "full_name": "google-deepmind/mujoco",
+  "url": "https://github.com/google-deepmind/mujoco",
+  "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+  "language": "C++",
+  "stars_total": 16710,
+  "stars_today": 579,
+  "one_liner": "A free, highly accurate physics simulator that lets you test how a robot or mechanical system will move and behave before building the real thing.",
+  "buyer": "A hardware-light robotics startup's engineer who needs to train and test robot control software before risking an expensive physical prototype.",
+  "business_use_cases": [
+    "A robotics startup trains a robot arm's grasping behavior entirely in MuJoCo simulation, cutting months off the time before the physical prototype needs to work.",
+    "A sports-science company builds a biomechanics analysis tool on top of MuJoCo to model and sell injury-risk assessments to pro and amateur athletic teams.",
+    "An engineering bootcamp builds an interactive physics sandbox for teaching robotics and mechanics without needing a lab full of real robots."
+  ],
+  "money_ideas": [
+    { "idea": "Custom simulation-environment consulting for robotics teams", "revenue_model": "one-off" },
+    { "idea": "Hosted cloud simulation-as-a-service for small robotics teams without local compute", "revenue_model": "usage" }
+  ],
+  "steal_this": "Build and sell a ready-made MuJoCo simulation environment for one common robot task (pick-and-place, balancing) that small robotics teams can plug their own hardware specs into.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-09T12:15:00.000Z"
+}

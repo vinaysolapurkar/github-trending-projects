@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-09",
+  "owner": "garrytan",
+  "name": "gbrain",
+  "full_name": "garrytan/gbrain",
+  "url": "https://github.com/garrytan/gbrain",
+  "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+  "language": "TypeScript",
+  "stars_total": 31857,
+  "stars_today": 215,
+  "one_liner": "A self-hosted memory system that remembers facts for your AI assistants and shares that same memory across ChatGPT, Claude, and Cursor instead of each one forgetting everything between chats.",
+  "buyer": "A solo founder or small consulting team running multiple AI tools who wants one shared memory instead of re-explaining context to each tool every day.",
+  "business_use_cases": [
+    "A consulting firm sets up GBrain as a shared 'company brain' so every client-facing agent pulls from the same vetted facts instead of re-learning context each session.",
+    "A solo founder self-hosts GBrain to keep one persistent memory across ChatGPT, Claude, and Cursor so none of their AI tools forget project history between sessions.",
+    "An agency offers 'AI memory setup' as a paid onboarding service, installing and configuring GBrain for clients who are tired of repeating themselves to their AI tools."
+  ],
+  "money_ideas": [
+    { "idea": "Paid setup and configuration service for teams adopting a shared AI memory", "revenue_model": "one-off" },
+    { "idea": "Managed hosting and maintenance retainer for a client's self-hosted brain", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Install GBrain for one client this weekend as a 'give your AI tools a memory' setup service, charging a flat setup fee plus a small monthly retainer for upkeep.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-09T12:15:00.000Z"
+}

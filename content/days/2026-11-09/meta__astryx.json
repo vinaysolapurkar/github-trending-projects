@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-09",
+  "owner": "meta",
+  "name": "astryx",
+  "full_name": "meta/astryx",
+  "url": "https://github.com/meta/astryx",
+  "description": "An open source design system that's fully customizable and agent ready",
+  "language": "TypeScript",
+  "stars_total": 18329,
+  "stars_today": 3324,
+  "one_liner": "A free, ready-made set of 150+ polished app building-blocks (buttons, forms, themes) so a team doesn't have to design and build their own interface from scratch.",
+  "buyer": "A startup founder or freelance frontend developer who needs a professional-looking app fast and can't afford months of custom design work.",
+  "business_use_cases": [
+    "A solo developer builds and launches a client's MVP dashboard in days instead of weeks by styling Astryx's components instead of building a UI from scratch.",
+    "A design agency offers a fixed-price 'launch-ready app in 2 weeks' package built entirely on Astryx themes, undercutting competitors who quote custom design timelines.",
+    "A no-code-adjacent freelancer sells pre-themed Astryx 'starter kits' (SaaS dashboard, marketing site, admin panel) as templates on a marketplace."
+  ],
+  "money_ideas": [
+    { "idea": "Sell pre-built, themed component bundles (dashboard, landing page, admin panel) as paid templates", "revenue_model": "one-off" },
+    { "idea": "Fixed-price 'ship your app's UI in two weeks' agency service built on Astryx", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Theme Astryx with one of its seven built-in themes, wire up a generic SaaS dashboard layout, and sell it this weekend as a ready-to-use starter template.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-09T12:15:00.000Z"
+}

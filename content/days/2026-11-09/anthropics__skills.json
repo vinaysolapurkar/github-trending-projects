@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-09",
+  "owner": "anthropics",
+  "name": "skills",
+  "full_name": "anthropics/skills",
+  "url": "https://github.com/anthropics/skills",
+  "description": "Public repository for Agent Skills",
+  "language": "Python",
+  "stars_total": 190150,
+  "stars_today": 1052,
+  "one_liner": "A library of pre-built instruction packets that teach Claude how to do specific jobs (write a Word doc, fill a PDF, follow a brand guide) instead of guessing each time.",
+  "buyer": "An AI consultant or small agency that builds custom Claude workflows for non-technical clients and wants proven starting points instead of writing instructions from scratch.",
+  "business_use_cases": [
+    "A consultant studies the document-generation skills (docx, pdf, pptx, xlsx) to understand the pattern, then writes a custom 'generate branded client reports' skill for an accounting firm.",
+    "An agency runs a paid workshop teaching marketing teams to write their own brand-voice skill so every AI-written post matches company style automatically.",
+    "A SaaS company forks the open-source document skills to add 'export to Word/PDF/PowerPoint' into its own AI product instead of building that from zero."
+  ],
+  "money_ideas": [
+    { "idea": "Paid 'custom skill' build service for businesses that want Claude to follow their exact process", "revenue_model": "one-off" },
+    { "idea": "A skill-writing workshop or course for non-engineers", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Pick one repetitive task a client does by hand (formatting a weekly report), write a 10-minute skill for it using the template folder here, and demo it as a paid add-on.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-09T12:15:00.000Z"
+}

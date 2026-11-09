@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-09-001",
+  "date": "2026-11-09",
+  "repo_a": "ruvnet/RuView",
+  "repo_b": "homeassistant-ai/ha-mcp",
+  "title": "Ask Your House If Grandma's Okay",
+  "pitch": "RuView turns ordinary WiFi routers into a camera-free sensing layer that already plugs into Home Assistant, surfacing presence, breathing rate, and fall-risk alerts as real entities. ha-mcp lets Claude or ChatGPT read and control a Home Assistant instance through plain conversation instead of dashboards and YAML. Wire the two together and a family member or professional caregiver can just ask 'how's Mom doing right now?' or 'did anyone fall in the bathroom today?' and get a real, sensor-backed answer, with no cameras, no wearables, and no app-hunting. A smart-home integrator could package this as a monthly 'AI elder-care check-in' service: install a few cheap WiFi sensor nodes, wire up the chat layer, and charge for the peace of mind.",
+  "why_now": "Both trended today: RuView as a no-camera WiFi sensing platform with first-class Home Assistant support, and ha-mcp as the bridge that lets an AI assistant actually read and act on a Home Assistant instance in plain English. Together they turn raw RF sensing data into a conversation a non-technical family member can have."
+}
