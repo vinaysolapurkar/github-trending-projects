@@ -1,0 +1,31 @@
+{
+  "owner": "anthropics",
+  "name": "skills",
+  "full_name": "anthropics/skills",
+  "url": "https://github.com/anthropics/skills",
+  "description": "Public repository for Agent Skills",
+  "language": "Python",
+  "stars_total": 191758,
+  "stars_today": 1676,
+  "one_liner": "A free library of 'instruction packets' that teach an AI assistant like Claude how to do a specific job well, such as following a company's brand guide or a particular business workflow.",
+  "buyer": "A consultant or agency that wants to package their own expertise (e.g. a specific accounting process or legal workflow) as a reusable AI skill they can sell or deploy for clients.",
+  "business_use_cases": [
+    "An accounting firm packages its month-end close checklist as a custom skill and sells it as an add-on to clients using Claude for bookkeeping.",
+    "A consultant studies the official skills here as templates, then builds and sells a niche skill (e.g. 'insurance claims triage') to small agencies.",
+    "An AI-tools agency offers a 'skill audit' service, reviewing a client's internal docs and turning the best ones into working Claude skills."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell custom, industry-specific skills built on this pattern directly to businesses",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Paid consulting retainer to build and maintain a company's internal skill library",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Pick one repetitive task from your own job, turn it into a skill using this repo as a template, and offer to build the same for three local businesses this week.",
+  "opportunity_rating": 3,
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T12:15:00.000Z"
+}

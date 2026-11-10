@@ -1,0 +1,31 @@
+{
+  "owner": "vercel-labs",
+  "name": "agent-browser",
+  "full_name": "vercel-labs/agent-browser",
+  "url": "https://github.com/vercel-labs/agent-browser",
+  "description": "Browser automation CLI for AI agents",
+  "language": "Rust",
+  "stars_total": 48884,
+  "stars_today": 775,
+  "one_liner": "A command-line tool that lets an AI agent open a real web browser, read the page like a screen reader, and click or type on it, so the AI can actually use websites the way a person does.",
+  "buyer": "A small agency or ops team that needs to automate repetitive web tasks (filling forms, checking competitor prices, scraping listings) without hiring a developer to maintain fragile scrapers.",
+  "business_use_cases": [
+    "A market-research agency builds a paid service that uses it to monitor competitor pricing and stock across dozens of e-commerce sites daily.",
+    "A recruiting agency automates posting job listings to multiple job boards that have no shared API, cutting hours of manual copy-paste work per client.",
+    "A QA consultancy offers automated end-to-end testing of client websites as a subscription, driven by agent scripts instead of brittle traditional test suites."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Managed 'web task automation' service for small businesses who need recurring scraping or form-filling done reliably",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Pay-per-job automation gigs (price monitoring, lead scraping, listing uploads) sold on freelance platforms",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Build a small daily competitor-price tracker for a local retailer using this tool and sell it as a cheap weekly report.",
+  "opportunity_rating": 3,
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T12:15:00.000Z"
+}

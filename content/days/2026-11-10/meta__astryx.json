@@ -1,0 +1,31 @@
+{
+  "owner": "meta",
+  "name": "astryx",
+  "full_name": "meta/astryx",
+  "url": "https://github.com/meta/astryx",
+  "description": "An open source design system that's fully customizable and agent ready",
+  "language": "TypeScript",
+  "stars_total": 21430,
+  "stars_today": 3111,
+  "one_liner": "A free, open-source toolkit of ready-made visual building blocks (buttons, forms, layouts) that both human designers and AI coding assistants can use to build an app's look and feel consistently.",
+  "buyer": "A startup's first product designer or engineer who needs a professional, consistent UI fast without hiring a design team or buying a commercial design-system license.",
+  "business_use_cases": [
+    "A two-person SaaS startup skips hiring a designer and ships a polished-looking product by building entirely on Astryx's components.",
+    "A design agency builds a library of 'skins' on top of Astryx and resells them as instant brand kits to small-business clients.",
+    "A no-code/low-code tool vendor integrates Astryx as its underlying component system so customers get a professional look out of the box."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Paid premium theme packs (industry-specific skins: fintech, healthcare, e-commerce) built on top of the free system",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Done-for-you setup service that configures Astryx and a brand theme for a client's app in a day",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build and sell three polished theme packs (e.g. 'SaaS dark mode', 'fintech dashboard', 'e-commerce storefront') on top of Astryx's components on a marketplace like Gumroad.",
+  "opportunity_rating": 2,
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T12:15:00.000Z"
+}

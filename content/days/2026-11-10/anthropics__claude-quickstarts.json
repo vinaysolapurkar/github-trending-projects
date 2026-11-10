@@ -1,0 +1,31 @@
+{
+  "owner": "anthropics",
+  "name": "claude-quickstarts",
+  "full_name": "anthropics/claude-quickstarts",
+  "url": "https://github.com/anthropics/claude-quickstarts",
+  "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+  "language": "Python",
+  "stars_total": 20252,
+  "stars_today": 530,
+  "one_liner": "A set of ready-made example apps (a support bot, a finance chat tool, browsing agents) that show step by step how to build a real product on top of Claude.",
+  "buyer": "A freelance developer or small agency that wants to pitch and deliver a working Claude-powered app for a client fast, without starting from a blank page.",
+  "business_use_cases": [
+    "A freelance developer forks the customer-support-agent quickstart to ship a branded support bot for a small e-commerce client in days instead of weeks.",
+    "An agency uses the financial-data-analyst quickstart as the base for a paid 'chat with your numbers' tool sold to bookkeeping and accounting clients.",
+    "A course creator runs a paid weekend workshop teaching non-developers to launch one of these quickstarts as their first AI product."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Rapid client-build service: a working Claude app in a week, scaffolded from these quickstarts",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Paid cohort-based workshop teaching people to launch one of these quickstarts",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Take the customer-support-agent quickstart, swap in a real client's FAQ knowledge base, and have a working demo ready to sell by Monday.",
+  "opportunity_rating": 2,
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T12:15:00.000Z"
+}

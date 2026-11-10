@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-10-001",
+  "date": "2026-11-10",
+  "repo_a": "homeassistant-ai/ha-mcp",
+  "repo_b": "garrytan/gbrain",
+  "title": "The House That Remembers Grandma's Routine",
+  "pitch": "ha-mcp lets an AI assistant actually read and control a Home Assistant setup in plain conversation, but on its own it only knows what's happening right now, nothing from last week. GBrain gives an AI assistant a persistent, self-hosted memory that survives across sessions and tools. Wire them together and the smart home stops being a blank slate every time someone asks it something: it can recall that Grandma likes the living room warmer in the evening, that the back door was left unlocked twice last week, or that a specific routine always fails on Mondays. A smart-home integrator could sell this as an 'AI elder-care memory' add-on: not just voice control, but a home that actually learns and remembers a household's patterns over months, and can be asked about them directly.",
+  "why_now": "ha-mcp trended today as the bridge letting AI assistants control Home Assistant in natural language, and GBrain (from a recent trending day) solves the exact gap that leaves: AI assistants with no memory between sessions. Pairing a controllable smart home with a persistent memory layer turns one-off voice commands into a system that actually tracks a household over time."
+}

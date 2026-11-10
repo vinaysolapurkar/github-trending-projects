@@ -1,0 +1,31 @@
+{
+  "owner": "mattpocock",
+  "name": "skills",
+  "full_name": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "language": "Shell",
+  "stars_total": 320313,
+  "stars_today": 1223,
+  "one_liner": "A well-known TypeScript educator's personal collection of instruction files that make AI coding assistants behave more like a disciplined senior engineer, free to copy into your own projects.",
+  "buyer": "An individual developer or small team that wants their AI coding assistant to follow better engineering habits without building those rules from scratch.",
+  "business_use_cases": [
+    "A solo developer adopts these skills wholesale to raise the quality bar of their AI-assisted code without hiring a reviewer.",
+    "A content creator builds a paid newsletter or course teaching developers how to adapt and extend personal skill libraries like this one for their own stack.",
+    "A dev-tooling company studies widely-starred skill repos like this to shape what features their own paid 'AI engineering assistant' product should ship with."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Paid course or newsletter teaching developers to build and maintain their own skill library",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sponsorships/affiliate revenue from the creator's existing audience around this and related free repos",
+      "revenue_model": "ads"
+    }
+  ],
+  "steal_this": "This is mainly a personal brand/content asset for its author rather than a product to resell — the honest opportunity for anyone else is studying it as a template, not monetizing the repo itself.",
+  "opportunity_rating": 1,
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T12:15:00.000Z"
+}

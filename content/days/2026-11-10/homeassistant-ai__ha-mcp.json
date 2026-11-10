@@ -1,0 +1,31 @@
+{
+  "owner": "homeassistant-ai",
+  "name": "ha-mcp",
+  "full_name": "homeassistant-ai/ha-mcp",
+  "url": "https://github.com/homeassistant-ai/ha-mcp",
+  "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+  "language": "Python",
+  "stars_total": 6331,
+  "stars_today": 792,
+  "one_liner": "A connector that lets an AI assistant like Claude or ChatGPT directly read sensors and control devices in a smart home, so you can say 'turn off everything downstairs' instead of opening an app.",
+  "buyer": "A smart-home installer or home automation integrator who wants to offer clients voice/chat-based control without writing custom automation scripts for every house.",
+  "business_use_cases": [
+    "A smart-home integrator installs it for elderly or disabled clients so family members can check on and control the home through a simple chat interface.",
+    "A short-term rental host wires it into their Home Assistant setup so guests can text a chatbot to control lights, locks, and climate instead of learning an app.",
+    "A home automation consultant sells a 'set it up once, talk to it forever' package, replacing a pile of brittle custom automations with natural-language control."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Installation and setup service for smart-home owners who already run Home Assistant",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Monthly 'AI home concierge' subscription bundling setup, monitoring, and support",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer a flat-rate 'talk to your house' setup package to Home Assistant users in a local smart-home forum this week.",
+  "opportunity_rating": 3,
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T12:15:00.000Z"
+}

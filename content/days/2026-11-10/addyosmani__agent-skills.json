@@ -1,0 +1,31 @@
+{
+  "owner": "addyosmani",
+  "name": "agent-skills",
+  "full_name": "addyosmani/agent-skills",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "description": "Production-grade engineering skills for AI coding agents.",
+  "language": "JavaScript",
+  "stars_total": 114787,
+  "stars_today": 465,
+  "one_liner": "A packaged set of slash-command workflows that walk an AI coding assistant through an entire software project the way a senior engineer would, from spec to shipped code.",
+  "buyer": "A solo developer or small dev shop that wants their AI coding assistant to produce more reliable, less buggy code without hiring a senior engineer to review everything.",
+  "business_use_cases": [
+    "A freelance developer uses these commands as a built-in QA process, letting them take on more client work without a second reviewer.",
+    "A coding bootcamp licenses a customized version of these skills to teach students professional engineering discipline alongside AI tools.",
+    "A dev tooling startup bundles a polished version of this workflow into a paid 'AI pair-engineer' product for small teams."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Paid onboarding/training service teaching dev teams to adopt this workflow with their AI coding tools",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "A hosted, supported version of the workflow sold to small dev teams",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Install this skill set, run it on a real freelance client project this week, and use the before/after bug count as a case study to sell 'AI-assisted QA' to other clients.",
+  "opportunity_rating": 3,
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T12:15:00.000Z"
+}

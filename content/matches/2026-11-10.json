@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-10",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing in today's trending list edits or assembles short-form video." },
+    { "problem_id": "p002", "repo": null, "why": "No product-photography or image-generation tool trended today." },
+    { "problem_id": "p003", "repo": "garrytan/gbrain", "why": "Still the best fit from a recent day: it gives an AI assistant persistent, cross-session memory, which is exactly the forgetting problem described. Nothing today solves this more directly.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "addyosmani/agent-skills", "why": "It packages explicit quality gates and senior-engineer workflows for AI coding agents, aimed squarely at stopping bloated, over-engineered AI-written code.", "confidence": "medium" },
+    { "problem_id": "p005", "repo": null, "why": "Nothing today organizes or indexes a library of PDFs and articles." },
+    { "problem_id": "p006", "repo": null, "why": "No tool today turns a news topic into footage for an explainer video." },
+    { "problem_id": "p007", "repo": null, "why": "MuJoCo is a physics simulator for robotics and mechanics, not bioinformatics or lab workflows, so it doesn't fit this problem." },
+    { "problem_id": "p008", "repo": null, "why": "Sure is self-hosted and private, but it's a personal finance app, not a confidential AI chat system for legal work, so it isn't a close enough fit to claim." },
+    { "problem_id": "p009", "repo": null, "why": "No text-to-narrated-video tool trended today." },
+    { "problem_id": "p010", "repo": "garrytan/gbrain", "why": "It's a self-hosted, explicit, portable memory record you own rather than a cloud note app, though it's agent memory rather than a general-purpose notes app.", "confidence": "medium" },
+    { "problem_id": "p011", "repo": null, "why": "Nothing trending today maps or explains how an existing messy codebase fits together." },
+    { "problem_id": "p012", "repo": "anthropics/claude-quickstarts", "why": "It's a curated set of working, deployable example apps built specifically to give someone with an AI product idea a working starting point instead of a blank page.", "confidence": "high" },
+    { "problem_id": "p013", "repo": null, "why": "No restaurant inventory or small-business stock tool trended today." }
+  ]
+}

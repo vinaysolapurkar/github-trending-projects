@@ -1,0 +1,31 @@
+{
+  "owner": "sherlock-project",
+  "name": "sherlock",
+  "full_name": "sherlock-project/sherlock",
+  "url": "https://github.com/sherlock-project/sherlock",
+  "description": "Hunt down social media accounts by username across social networks",
+  "language": "Python",
+  "stars_total": 108206,
+  "stars_today": 2387,
+  "one_liner": "A free tool that takes a username and checks hundreds of websites to tell you everywhere that username has an account, useful for finding someone's online footprint.",
+  "buyer": "A corporate trust-and-safety or brand-protection team that needs to find impersonator accounts or verify an applicant's online presence, within legitimate, consented use.",
+  "business_use_cases": [
+    "A brand-protection agency runs it to find fake accounts impersonating a client's company or executives across social platforms.",
+    "An HR or background-check firm uses consented username lookups as one input in a broader, legally compliant pre-employment screening report.",
+    "A missing-persons or online-safety nonprofit uses it to help trace a person's last-known online activity across platforms during a search."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Paid brand-impersonation monitoring service for companies and public figures",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "One-off consented background-check reports sold through a compliant screening business",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This is squarely a dev/OSINT tool, not a product on its own — be careful here. The only responsible weekend build is a brand-monitoring alert service for a consenting small-business client checking for impersonators of their own name, not general people-searching.",
+  "opportunity_rating": 2,
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T12:15:00.000Z"
+}

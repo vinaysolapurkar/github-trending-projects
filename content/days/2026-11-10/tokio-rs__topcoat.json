@@ -1,0 +1,31 @@
+{
+  "owner": "tokio-rs",
+  "name": "topcoat",
+  "full_name": "tokio-rs/topcoat",
+  "url": "https://github.com/tokio-rs/topcoat",
+  "description": "A batteries-included framework for building web apps",
+  "language": "Rust",
+  "stars_total": 6590,
+  "stars_today": 192,
+  "one_liner": "An all-in-one toolkit for building fast, reliable websites and web apps in the Rust programming language, bundling the database, routing, and page-rendering pieces developers usually have to wire together themselves.",
+  "buyer": "A Rust-focused development shop that wants to deliver web apps for clients faster by not reassembling the same backend plumbing on every project.",
+  "business_use_cases": [
+    "A boutique Rust dev agency standardizes all client projects on this framework, cutting project setup time and quoting lower fixed-price builds.",
+    "A performance-sensitive SaaS (e.g. a real-time analytics dashboard) is built and sold using it to differentiate on speed and reliability versus slower competitors.",
+    "A technical educator sells a paid course teaching web developers to build production Rust apps using this framework as the on-ramp."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Fixed-price web app builds for clients, using this framework to deliver faster than custom-stack competitors",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Paid course or bootcamp teaching developers production Rust web development with this framework",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This is a developer framework, not an end-user product — the real opportunity is positioning a dev shop around it, not selling it directly to non-technical buyers.",
+  "opportunity_rating": 2,
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T12:15:00.000Z"
+}
