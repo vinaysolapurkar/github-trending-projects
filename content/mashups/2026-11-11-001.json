@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-11-001",
+  "date": "2026-11-11",
+  "repo_a": "homeassistant-ai/ha-mcp",
+  "repo_b": "we-promise/sure",
+  "title": "The AI Household CFO",
+  "pitch": "Wire ha-mcp's smart-home control into Sure's personal finance tracking so one AI assistant watches both your house and your wallet: it notices your thermostat or appliance usage is pushing the electric bill up, cross-checks it against your Sure budget, and proactively suggests (or with permission, makes) automation changes to stay under a spending target. Pitch this as a managed subscription to budget-conscious smart-home owners -- the kind of person who already has Home Assistant and already wished their energy bill talked to their budget app.",
+  "why_now": "Both repos trended today, both already expose themselves to AI assistants via standard protocols, and neither currently talks to the other -- the gap is the opportunity. Energy costs and 'get my spending under control' are evergreen pains, and wiring two open-source AI-native tools together is a weekend integration, not a rebuild."
+}

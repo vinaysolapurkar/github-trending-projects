@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-11",
+  "owner": "TheAlgorithms",
+  "name": "Java",
+  "full_name": "TheAlgorithms/Java",
+  "url": "https://github.com/TheAlgorithms/Java",
+  "description": "All Algorithms implemented in Java",
+  "language": "Java",
+  "stars_total": 66858,
+  "stars_today": 39,
+  "one_liner": "A free, giant reference collection of classic computer-science algorithms written out in Java, meant for students to learn from, not for running in a real product.",
+  "buyer": "No real buyer — this is a free educational reference with essentially no standalone commercial value; at best a tutor or bootcamp borrows from it for teaching material.",
+  "business_use_cases": [
+    "A coding bootcamp or tutor uses its examples as free supplementary teaching material when explaining algorithms to students.",
+    "An interview-prep content creator references its implementations when building paid 'coding interview' course material.",
+    "A student uses it as a study companion while preparing for technical interviews."
+  ],
+  "money_ideas": [
+    { "idea": "Wrap curated excerpts from it into a paid interview-prep course or flashcard app", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Honestly, this is a learning resource, not a business opportunity — the only reasonable weekend project is using it as raw material inside a paid coding-interview-prep product, and even that is a stretch.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-11T12:30:00.000Z"
+}

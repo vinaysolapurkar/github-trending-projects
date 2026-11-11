@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-11",
+  "owner": "shadcn",
+  "name": "improve",
+  "full_name": "shadcn/improve",
+  "url": "https://github.com/shadcn/improve",
+  "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+  "language": null,
+  "stars_total": 10411,
+  "stars_today": 333,
+  "one_liner": "A tool that has a top-tier AI inspect your entire codebase, find the messy or risky parts, and write step-by-step fix-it instructions that a cheaper AI (or a junior developer) can follow without getting lost.",
+  "buyer": "A startup CTO or engineering lead who has accumulated technical debt and wants a prioritized, evidence-based cleanup list instead of guessing where to spend limited engineering time.",
+  "business_use_cases": [
+    "A fractional CTO runs it against a client's inherited codebase as the first deliverable of an engagement, turning the findings into a priced cleanup roadmap.",
+    "An engineering manager uses the security/performance-focused audit modes to justify a tech-debt sprint to leadership with file:line evidence instead of opinions.",
+    "A dev agency uses `/improve execute` to cheaply implement the plans with a junior/cheap model while senior engineers only review diffs, cutting billable hours per fix."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a flat-fee 'codebase health audit' service for startups, powered by this tool", "revenue_model": "one-off" },
+    { "idea": "Retainer-based ongoing tech-debt management for client codebases", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Run `/improve quick` against three local startups' repos for free, turn the findings table into a one-page report, and pitch a paid full audit off the back of it.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-11T12:30:00.000Z"
+}

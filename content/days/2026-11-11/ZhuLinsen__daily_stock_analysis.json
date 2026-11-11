@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-11",
+  "owner": "ZhuLinsen",
+  "name": "daily_stock_analysis",
+  "full_name": "ZhuLinsen/daily_stock_analysis",
+  "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+  "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+  "language": "Python",
+  "stars_total": 69734,
+  "stars_today": 960,
+  "one_liner": "A free, automated tool that reads stock prices, news, and chart patterns for your watchlist every day and emails or messages you an AI-written buy/sell/hold summary across US, Chinese, Japanese, Korean, and Taiwanese markets.",
+  "buyer": "An active retail investor who tracks 10-20 stocks across multiple markets and wants a daily digest instead of manually reading news and charts every morning.",
+  "business_use_cases": [
+    "A retail trading newsletter operator runs it on a free GitHub Actions schedule to auto-generate daily stock commentary for a paid subscriber list.",
+    "A personal finance YouTuber/blogger uses its daily reports as raw material for a morning market-recap video or post, cutting research time.",
+    "An investment club or Discord trading community pipes its Telegram/Discord push output into their group chat as a shared daily briefing."
+  ],
+  "money_ideas": [
+    { "idea": "Run it as the engine behind a paid daily stock-alert newsletter or Discord channel", "revenue_model": "subscription" },
+    { "idea": "Offer managed setup (watchlist, data sources, notification channels) for non-technical traders", "revenue_model": "one-off" },
+    { "idea": "White-label the dashboard for small RIAs or trading educators to hand to clients", "revenue_model": "usage" }
+  ],
+  "steal_this": "Deploy it on GitHub Actions for a curated 15-stock watchlist, pipe the daily push to a Telegram channel, and sell access to the channel this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-11T12:30:00.000Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-11",
+  "owner": "meta",
+  "name": "astryx",
+  "full_name": "meta/astryx",
+  "url": "https://github.com/meta/astryx",
+  "description": "An open source design system that's fully customizable and agent ready",
+  "language": "TypeScript",
+  "stars_total": 24155,
+  "stars_today": 2842,
+  "one_liner": "A free, ready-made set of website building blocks (buttons, menus, forms, themes) that Meta uses internally, which developers can drop into a React app instead of designing one from scratch.",
+  "buyer": "A freelance web developer or small digital agency that builds client websites and apps and wants to ship a polished, on-brand UI in days instead of weeks.",
+  "business_use_cases": [
+    "A freelance developer uses it as their default starter kit for every new client project, cutting UI build time and quoting faster turnarounds.",
+    "A small agency builds a library of pre-themed client sites on top of it, re-skinning the same components for each new customer instead of rebuilding UI each time.",
+    "A SaaS founder uses the CLI's templates to launch a working dashboard MVP in a weekend instead of hiring a designer first."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a pack of premium Astryx themes and templates for specific niches (SaaS dashboards, e-commerce, portfolios)", "revenue_model": "one-off" },
+    { "idea": "Offer a 'website in a week' productized service for small businesses built on top of it", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Pick one niche (e.g. local service businesses) and ship 3-4 Astryx-based site templates this weekend, then sell them as a done-in-a-week website package.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-11T12:30:00.000Z"
+}

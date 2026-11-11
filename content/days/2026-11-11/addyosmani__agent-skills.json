@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-11",
+  "owner": "addyosmani",
+  "name": "agent-skills",
+  "full_name": "addyosmani/agent-skills",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "description": "Production-grade engineering skills for AI coding agents.",
+  "language": "JavaScript",
+  "stars_total": 115552,
+  "stars_today": 788,
+  "one_liner": "A packaged checklist of 'how senior engineers actually build software' (spec, plan, build, test, review, ship) that plugs into an AI coding assistant so it follows the same quality steps every time.",
+  "buyer": "A non-technical founder or small team lead who is building a product with AI coding tools and wants fewer bugs and messier releases without hiring a senior engineer to supervise.",
+  "business_use_cases": [
+    "A solo no-code-to-code founder installs it so their AI assistant won't skip testing or ship half-finished features while they build their MVP.",
+    "A dev shop standardizes every client project on these commands so junior hires and AI agents follow the same lifecycle, reducing review overhead.",
+    "A coding course for aspiring AI founders bundles it as the 'how to actually ship with AI' curriculum."
+  ],
+  "money_ideas": [
+    { "idea": "Package it inside a paid 'ship your AI-built MVP' course or cohort for non-technical founders", "revenue_model": "one-off" },
+    { "idea": "Offer setup-and-training as a service for teams adopting it", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build a short paid workshop this weekend: 'install this, run /spec through /ship once on a toy project' for aspiring AI-assisted founders.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-11T12:30:00.000Z"
+}

@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-11",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing today or recently is a social-media video editing tool; we'll notify when one trends." },
+    { "problem_id": "p002", "repo": null, "why": "No product-photography tool has trended; nothing today fits." },
+    { "problem_id": "p003", "repo": "garrytan/gbrain", "why": "GBrain is a self-hosted shared memory system built specifically to stop AI coding assistants from forgetting project context between sessions.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "shadcn/improve", "why": "It's purpose-built to audit AI-written code for over-engineering and bloat and turn the findings into concrete cleanup plans.", "confidence": "high" },
+    { "problem_id": "p005", "repo": null, "why": "No PDF/research-organization tool has trended; nothing today fits." },
+    { "problem_id": "p006", "repo": null, "why": "No footage/visual-explainer generation tool trended today." },
+    { "problem_id": "p007", "repo": null, "why": "No bioinformatics tooling has trended; nothing today fits." },
+    { "problem_id": "p008", "repo": null, "why": "No private, self-hosted legal-chat tool has trended; nothing today fits a law firm's confidentiality needs." },
+    { "problem_id": "p009", "repo": null, "why": "No blog-to-narrated-video tool trended today." },
+    { "problem_id": "p010", "repo": null, "why": "we-promise/sure is a self-hosted alternative in finance, not notes, and gbrain is agent memory rather than a notes app, so nothing today genuinely fits a private notes replacement." },
+    { "problem_id": "p011", "repo": "shadcn/improve", "why": "Its recon/audit step maps an unfamiliar repo's structure and conventions before writing any fix, which is exactly what a new hire needs.", "confidence": "high" },
+    { "problem_id": "p012", "repo": "addyosmani/agent-skills", "why": "Its spec-to-ship command set gives a first-time AI founder a concrete lifecycle to follow instead of guessing where to start.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "No restaurant inventory management tool has trended; nothing today fits." }
+  ]
+}
