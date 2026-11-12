@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-12",
+  "owner": "ggml-org",
+  "name": "llama.cpp",
+  "full_name": "ggml-org/llama.cpp",
+  "url": "https://github.com/ggml-org/llama.cpp",
+  "description": "LLM inference in C/C++",
+  "language": "C++",
+  "stars_total": 134241,
+  "stars_today": 162,
+  "one_liner": "A free, highly optimized engine that lets AI language models run directly on ordinary computers — even without a fancy GPU — instead of needing an expensive cloud service.",
+  "buyer": "A product company wanting to embed private, offline AI chat features into their app without paying per-token cloud API fees.",
+  "business_use_cases": [
+    "An app developer embeds it to offer offline, on-device AI chat features in a privacy-focused product, avoiding ongoing API costs.",
+    "A hardware vendor bundles it to market AI-capable laptops or mini-PCs that run chatbots without an internet connection.",
+    "An IT consultant sets up on-premise AI chat servers for businesses, like law firms or clinics, that can't send data to the cloud for compliance reasons."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a turnkey 'private, on-premise AI server' appliance (hardware plus llama.cpp plus a model) to compliance-sensitive businesses",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer managed on-prem AI deployment and support retainers for companies that need their own infrastructure",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build and sell a 'compliance-friendly local AI assistant' box for law firms or clinics who need AI chat but can't send client data to the cloud.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-12T12:08:55.023Z"
+}

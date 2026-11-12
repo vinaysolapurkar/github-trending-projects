@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-12",
+  "owner": "addyosmani",
+  "name": "agent-skills",
+  "full_name": "addyosmani/agent-skills",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "description": "Production-grade engineering skills for AI coding agents.",
+  "language": "JavaScript",
+  "stars_total": 116333,
+  "stars_today": 812,
+  "one_liner": "A packaged set of 'best practice' workflows — spec, plan, build, test, review, ship — that make AI coding agents work more like disciplined senior engineers.",
+  "buyer": "An engineering manager at a small-to-mid startup who wants their AI-assisted dev team to follow consistent, high-quality workflows without hiring more senior engineers.",
+  "business_use_cases": [
+    "A startup CTO installs it across the team's AI coding agents to enforce spec-before-code and test-driven workflows without constant manual oversight.",
+    "A fractional CTO consultant deploys it as part of an 'AI engineering process setup' service for clients.",
+    "An agency builds a custom skill pack on top of it and resells it as a productized workflow to other dev shops."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid consulting package to set up and customize these workflows for a client's engineering team",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build and sell premium, industry-specific skill packs (e.g. fintech compliance, healthcare)",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Offer a flat-fee 'AI engineering workflow setup' package for small dev teams wanting disciplined AI-assisted development without hiring a senior engineer.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-12T12:08:55.023Z"
+}

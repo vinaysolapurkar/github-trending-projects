@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-12",
+  "owner": "nodejs",
+  "name": "node",
+  "full_name": "nodejs/node",
+  "url": "https://github.com/nodejs/node",
+  "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+  "language": "JavaScript",
+  "stars_total": 123493,
+  "stars_today": 133,
+  "one_liner": "The core JavaScript runtime that powers most of the internet's backend servers — free, foundational infrastructure, not a product.",
+  "buyer": "No direct buyer — this is pure infrastructure used for free by virtually every web company on earth.",
+  "business_use_cases": [
+    "Every backend web development shop builds client server applications on top of it as their runtime.",
+    "A hosting company offers managed Node.js hosting and deployment as their paid product, with Node itself as the free foundation.",
+    "A training company teaches Node.js fundamentals as part of paid bootcamp curriculum."
+  ],
+  "money_ideas": [
+    {
+      "idea": "No direct monetization of Node itself; the real money is in hosting, consulting, or training services built around it",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Not this specific repo — it's plumbing; any opportunity is in services built on top (hosting, consulting, training), not in Node.js itself.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-12T12:08:55.023Z"
+}

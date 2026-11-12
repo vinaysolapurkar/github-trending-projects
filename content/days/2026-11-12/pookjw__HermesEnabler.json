@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-12",
+  "owner": "pookjw",
+  "name": "HermesEnabler",
+  "full_name": "pookjw/HermesEnabler",
+  "url": "https://github.com/pookjw/HermesEnabler",
+  "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+  "language": "Objective-C",
+  "stars_total": 1337,
+  "stars_today": 390,
+  "one_liner": "A hack that unlocks Hermès-branded Apple Watch faces on any Apple Watch, not just the official $1,500+ Hermès edition.",
+  "buyer": "No legitimate buyer — this sits in a legal gray area (trademark and anti-circumvention issues) that a real business shouldn't touch.",
+  "business_use_cases": [
+    "An individual Apple Watch owner uses it personally to get Hermès watch faces without buying the branded edition.",
+    "A phone/watch repair shop could offer it as a side 'feature unlock' service to walk-in customers, at real legal risk.",
+    "A tech YouTuber covers it for views and traffic, though that earns the channel money, not the tool itself."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Charge a small fee to install it for non-technical customers — legally risky and not advisable as a real business",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Don't build a business on this — it's a trademark and anti-circumvention risk involving Apple and Hermès; honestly skip it.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-12T12:08:55.023Z"
+}

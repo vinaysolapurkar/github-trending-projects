@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-12-001",
+  "date": "2026-11-12",
+  "repo_a": "we-promise/sure",
+  "repo_b": "ggml-org/llama.cpp",
+  "title": "The Financial Advisor That Never Phones Home",
+  "pitch": "Sure is a full, self-hosted personal finance app with bank-account tracking and an AI assistant; llama.cpp lets you run that AI entirely on your own hardware instead of calling an external AI API. Wire llama.cpp in as Sure's AI backend and you get a budgeting and net-worth app that reads your bank transactions and talks you through your spending, with zero financial data ever leaving your own machine. Sell this as a packaged 'private wealth assistant' appliance to privacy-conscious high earners, small accounting practices, or financial advisors who want an AI feature for clients without touching a cloud AI vendor's data-handling terms.",
+  "why_now": "Both repos are trending the same day: Sure just had its biggest star jump yet as people look for self-hosted alternatives to subscription finance apps, and llama.cpp keeps getting faster at running serious models on ordinary hardware, making a fully local, AI-assisted finance app realistic to ship this weekend rather than theoretical."
+}

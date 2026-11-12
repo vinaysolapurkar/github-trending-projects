@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-12",
+  "owner": "GoogleChrome",
+  "name": "modern-web-guidance-src",
+  "full_name": "GoogleChrome/modern-web-guidance-src",
+  "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+  "description": "",
+  "language": "TypeScript",
+  "stars_total": 2218,
+  "stars_today": 799,
+  "one_liner": "A rulebook that teaches AI coding assistants the modern, correct way to build websites so they stop writing old-fashioned, bloated code.",
+  "buyer": "A web agency's engineering lead who wants every AI-assisted project to default to modern, accessible code instead of outdated patterns.",
+  "business_use_cases": [
+    "A web agency installs it so every AI-assisted client site defaults to modern CSS/JS instead of legacy patterns, cutting QA and cleanup time.",
+    "A performance consultant runs the legacy-scan command on a prospect's site before quoting a modernization project.",
+    "A coding bootcamp uses the curated guides as current teaching material instead of stale blog tutorials."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'legacy code scan + modernization report' service for small business websites using the CLI's scan output",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Run the legacy-scan CLI against a handful of local businesses' outdated websites and sell them a flat-fee modernization report.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-12T12:08:55.023Z"
+}

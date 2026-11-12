@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-12",
+  "owner": "openai",
+  "name": "codex-security",
+  "full_name": "openai/codex-security",
+  "url": "https://github.com/openai/codex-security",
+  "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+  "language": "TypeScript",
+  "stars_total": 12064,
+  "stars_today": 663,
+  "one_liner": "An AI tool that reads through a company's codebase, finds security holes, and helps write the fix for them automatically.",
+  "buyer": "A startup CTO with no dedicated security team who needs vulnerability scanning before a compliance audit or funding round.",
+  "business_use_cases": [
+    "A startup CTO runs it before a SOC2 audit to find and patch vulnerabilities without hiring a full security firm.",
+    "A freelance security consultant uses it to scan client codebases faster, taking on more clients per month.",
+    "An agency bakes it into their CI pipeline and sells 'continuous security scanning' as a retainer add-on to web dev clients."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a flat-fee 'security audit' for small SaaS companies using this plus manual review of the findings",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Monthly retainer for continuous scanning and patch review for agencies' client codebases",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Package it into a one-day paid security audit service for small SaaS startups who can't afford a full pentest.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-12T12:08:55.023Z"
+}

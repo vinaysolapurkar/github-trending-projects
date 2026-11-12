@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-12",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing today is a social-media video editing tool; we'll notify when one trends." },
+    { "problem_id": "p002", "repo": null, "why": "No product-photography tool has trended; nothing today fits." },
+    { "problem_id": "p003", "repo": null, "why": "No agent-memory/context-persistence tool has trended; nothing today specifically keeps an AI assistant's project context between sessions." },
+    { "problem_id": "p004", "repo": "addyosmani/agent-skills", "why": "Its /code-simplify command is purpose-built to find and fix over-engineered, bloated AI-written code.", "confidence": "high" },
+    { "problem_id": "p005", "repo": null, "why": "No PDF or research-organization tool has trended; nothing today fits." },
+    { "problem_id": "p006", "repo": null, "why": "No footage or visual-explainer generation tool trended today." },
+    { "problem_id": "p007", "repo": null, "why": "No bioinformatics tooling has trended; nothing today fits." },
+    { "problem_id": "p008", "repo": "ggml-org/llama.cpp", "why": "Running it on-prem lets a law firm get real AI chat capability without any client data ever leaving their own servers.", "confidence": "high" },
+    { "problem_id": "p009", "repo": null, "why": "No blog-to-narrated-video tool trended today." },
+    { "problem_id": "p010", "repo": null, "why": "we-promise/sure is a self-hosted alternative in personal finance, not notes, so nothing today genuinely fits a private notes-app replacement." },
+    { "problem_id": "p011", "repo": null, "why": "Nothing today specifically helps a new hire map an unfamiliar codebase's architecture; today's dev tools target writing new code, not auditing an inherited one." },
+    { "problem_id": "p012", "repo": "addyosmani/agent-skills", "why": "Its spec, plan, build, test, review, ship command set gives a first-time AI founder a concrete lifecycle to follow instead of guessing where to start.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "No restaurant inventory management tool has trended; nothing today fits." }
+  ]
+}

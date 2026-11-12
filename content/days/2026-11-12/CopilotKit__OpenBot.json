@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-12",
+  "owner": "CopilotKit",
+  "name": "OpenBot",
+  "full_name": "CopilotKit/OpenBot",
+  "url": "https://github.com/CopilotKit/OpenBot",
+  "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+  "language": "TypeScript",
+  "stars_total": 11217,
+  "stars_today": 291,
+  "one_liner": "Self-hosted 'AI coworkers' — like an AI assistant that can use its own browser, files, and tools to actually do tasks for your company, with every action approved before it happens.",
+  "buyer": "An operations or IT manager at a mid-size company who wants in-house AI automation without sending sensitive data to a third-party SaaS AI tool.",
+  "business_use_cases": [
+    "An ops team deploys it to automate repetitive browser-based tasks (data entry, research, report generation) with human approval gates.",
+    "An IT department self-hosts it to give employees an internal AI assistant without company data leaving their own infrastructure.",
+    "A systems integrator deploys and customizes it for clients as part of an 'AI automation' consulting engagement."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Charge for deployment, custom agent integration, and support as a consulting or implementation service",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Ongoing managed-hosting and maintenance retainer for companies that don't want to run it themselves",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer a 'set up your company's private AI coworker' implementation package — install OpenBot, connect it to their tools, charge a setup fee plus a monthly support retainer.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-12T12:08:55.023Z"
+}

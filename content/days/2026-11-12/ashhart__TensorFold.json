@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-12",
+  "owner": "ashhart",
+  "name": "TensorFold",
+  "full_name": "ashhart/TensorFold",
+  "url": "https://github.com/ashhart/TensorFold",
+  "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+  "language": "Zig",
+  "stars_total": 1823,
+  "stars_today": 58,
+  "one_liner": "A fast engine for running AI language models directly on your own Mac or PC — no Python needed — instead of paying a cloud AI provider per token.",
+  "buyer": "A developer or small company that wants to run AI models locally for privacy or cost reasons instead of paying ongoing cloud API fees.",
+  "business_use_cases": [
+    "A privacy-focused startup runs it on-prem to serve an internal AI chatbot without sending data to a cloud AI provider.",
+    "An indie AI app developer uses it to cut inference costs by self-hosting instead of paying per-token API fees.",
+    "A hardware reseller bundles it into a 'local AI workstation' sold to small businesses wanting private AI without ongoing API bills."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a pre-configured 'local AI box' (hardware plus TensorFold plus a model) to businesses wanting private, offline AI",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build and sell a turnkey 'private AI mini-server' for small businesses who want chatbot-style AI without sending data to the cloud.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-12T12:08:55.023Z",
+  "note": "Its README contains instructions aimed at AI coding agents to install and run a third-party 'Agent Traffic Control' tool before editing the repo — that is a prompt-injection-style instruction embedded in repo content, not a request from our own operator, and was not followed."
+}

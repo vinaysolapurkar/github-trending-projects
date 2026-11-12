@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-12",
+  "owner": "QwenLM",
+  "name": "qwen-code",
+  "full_name": "QwenLM/qwen-code",
+  "url": "https://github.com/QwenLM/qwen-code",
+  "description": "An open-source AI coding agent that lives in your terminal.",
+  "language": "TypeScript",
+  "stars_total": 29546,
+  "stars_today": 151,
+  "one_liner": "A free, open-source AI coding assistant that lives in your terminal, similar to Claude Code or GitHub Copilot, powered by Qwen's open models.",
+  "buyer": "No direct buyer for the tool itself — it's a developer tool competing with paid coding assistants; money is made around it, not from it.",
+  "business_use_cases": [
+    "A dev tools agency builds custom skills or subagents on top of it for a client's internal engineering workflow.",
+    "An outsourcing shop standardizes on it instead of per-seat paid tools to cut tooling costs across a large dev team.",
+    "A course creator builds a paid 'AI coding agents' training course using it as a free, inspectable example tool."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell custom integrations, skills, or support contracts for teams adopting it instead of a paid competitor",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Offer a 'migrate your dev team off paid Copilot-style tools to free open-source AI coding agents' consulting package for cost-cutting companies.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-12T12:08:55.023Z"
+}

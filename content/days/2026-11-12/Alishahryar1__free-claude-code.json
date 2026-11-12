@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-12",
+  "owner": "Alishahryar1",
+  "name": "free-claude-code",
+  "full_name": "Alishahryar1/free-claude-code",
+  "url": "https://github.com/Alishahryar1/free-claude-code",
+  "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+  "language": "Python",
+  "stars_total": 68860,
+  "stars_today": 636,
+  "one_liner": "A tool that lets you use Claude Code and other AI coding assistants by routing requests through free or discounted AI model providers instead of paying full price.",
+  "buyer": "An individual developer or small team trying to minimize AI coding tool costs — not really a business-to-business opportunity since it's about avoiding paying for official tools.",
+  "business_use_cases": [
+    "A solo indie developer uses it to get Claude-Code-like functionality without a paid subscription, by routing to free-tier providers.",
+    "A cash-strapped startup lets its small eng team use multiple AI harnesses cheaply instead of paying for several per-seat licenses.",
+    "A content creator makes a paid tutorial or course for developers wanting to cut their AI tooling costs."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a paid setup/support service or community helping non-technical developers configure and maintain this cost-optimization tool",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Honestly, the only real money here is a one-off paid tutorial teaching people how to set this up — it's a cost-avoidance tool, not a product, and it also sits in a legal/ToS gray zone with the providers it routes around.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-12T12:08:55.023Z"
+}

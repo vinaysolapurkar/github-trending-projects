@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-12",
+  "owner": "meta",
+  "name": "astryx",
+  "full_name": "meta/astryx",
+  "url": "https://github.com/meta/astryx",
+  "description": "An open source design system that's fully customizable and agent ready",
+  "language": "TypeScript",
+  "stars_total": 25909,
+  "stars_today": 1789,
+  "one_liner": "A free, ready-made set of 150+ website building blocks (buttons, forms, menus) from Meta that both human developers and AI coding assistants can use to build consistent-looking apps fast.",
+  "buyer": "No direct buyer for the library itself — it's free dev infrastructure; the opportunity is in building on top of it for paying clients.",
+  "business_use_cases": [
+    "A web dev agency standardizes on it to build client sites and dashboards faster using pre-built, accessible components.",
+    "A startup uses one of its ready-made themes to ship a polished-looking MVP without hiring a designer.",
+    "A UI consultant builds and sells custom Astryx themes to companies wanting a unique look without starting from scratch."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Design and sell custom branded themes for Astryx to companies who want a distinctive look fast",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build a few polished custom Astryx themes this weekend and sell them to startups as instant, professional UI kits.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-12T12:08:55.023Z"
+}
