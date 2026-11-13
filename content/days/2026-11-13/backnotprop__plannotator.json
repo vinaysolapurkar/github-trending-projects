@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-13",
+  "owner": "backnotprop",
+  "name": "plannotator",
+  "full_name": "backnotprop/plannotator",
+  "url": "https://github.com/backnotprop/plannotator",
+  "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+  "language": "TypeScript",
+  "stars_total": 10256,
+  "stars_today": 100,
+  "one_liner": "A review inbox for AI coding agents — it collects the plans, code diffs, and documents your AI assistants produce so a human (or a team) can mark them up and send feedback back with one click, instead of copy-pasting across chat windows.",
+  "buyer": "A tech lead or engineering manager whose team runs several AI coding agents (Claude Code, Codex, Copilot CLI, etc.) in parallel and needs one place to review what they're producing.",
+  "business_use_cases": [
+    "An engineering team uses it as the shared review surface for every AI-generated PR before a human merges it, replacing scattered Slack threads.",
+    "A dev agency running client work through multiple AI coding tools uses it to give clients one clean place to approve plans and specs.",
+    "A solo founder uses it to keep track of and approve what their fleet of coding agents is doing overnight."
+  ],
+  "money_ideas": [
+    { "idea": "Charge teams a per-seat subscription for the hosted/shared-with-team version", "revenue_model": "subscription" },
+    { "idea": "Sell a one-time onboarding package helping dev agencies set up a standard agent-review workflow for their clients", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Package a 'team' tier with shared review links and audit history, and sell it to agencies running multiple AI coding agents for clients — the free version already works solo, so the paid upsell is purely collaboration.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-13T12:07:00.000Z"
+}

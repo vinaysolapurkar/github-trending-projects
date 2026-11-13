@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-13",
+  "owner": "we-promise",
+  "name": "sure",
+  "full_name": "we-promise/sure",
+  "url": "https://github.com/we-promise/sure",
+  "description": "The personal finance app for everyone (by everyone)",
+  "language": "Ruby",
+  "stars_total": 14353,
+  "stars_today": 944,
+  "one_liner": "A free, self-hosted budgeting and net-worth app — like Mint or YNAB, but you run it yourself and an AI assistant inside it answers questions about your own spending.",
+  "buyer": "A privacy-conscious household or a small financial advisory practice that wants a budgeting tool without sending client bank data to a third-party SaaS.",
+  "business_use_cases": [
+    "A household self-hosts it on a cheap VPS to track net worth and spending without a subscription to Mint/YNAB-style apps.",
+    "A small accounting or bookkeeping firm white-labels it as a free client perk, differentiating from competitors who only offer spreadsheets.",
+    "A financial advisor demos it to tech-savvy clients as a transparent, no-lock-in alternative to opaque bank apps."
+  ],
+  "money_ideas": [
+    { "idea": "Run a managed-hosting service for people who want it without the self-hosting hassle, billed monthly", "revenue_model": "subscription" },
+    { "idea": "Offer paid setup/migration service helping people import years of bank data from their old finance app", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Spin up a one-click 'Sure, hosted' service this weekend — the app is free and open source, so the business is purely in handling hosting, backups, and bank-sync setup for people who don't want to run a server.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-13T12:07:00.000Z"
+}

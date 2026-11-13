@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-13",
+  "owner": "tailscale",
+  "name": "tailcat",
+  "full_name": "tailscale/tailcat",
+  "url": "https://github.com/tailscale/tailcat",
+  "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+  "language": "Go",
+  "stars_total": 9186,
+  "stars_today": 173,
+  "one_liner": "A stripped-down networking tool for sysadmins that sets up an encrypted point-to-point connection between two machines, borrowing Tailscale's tunneling tech without needing a Tailscale account.",
+  "buyer": "Honestly, nobody buys this directly — it's a free command-line utility for network engineers and sysadmins doing one-off debugging, not something with a paying customer.",
+  "business_use_cases": [
+    "A sysadmin uses it for a quick ad hoc encrypted file transfer between two servers without setting up a full Tailscale network.",
+    "A security researcher uses it to test NAT traversal and relay behavior while experimenting with WireGuard-based tunnels.",
+    "A systems integrator might mention it as a component in a larger bespoke networking project, but it isn't itself a product."
+  ],
+  "money_ideas": [
+    { "idea": "No standalone revenue model — it's a developer utility, not a product; any money is made building something bigger around it", "revenue_model": "none" }
+  ],
+  "steal_this": "There's no weekend business here. It's a well-made plumbing tool, not a product — skip it unless you're building infrastructure that needs exactly this primitive.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-13T12:07:00.000Z"
+}

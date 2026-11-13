@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-13",
+  "owner": "GoogleChrome",
+  "name": "modern-web-guidance-src",
+  "full_name": "GoogleChrome/modern-web-guidance-src",
+  "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+  "description": "Keep your coding agent up to date with the latest web best practices",
+  "language": "TypeScript",
+  "stars_total": 4120,
+  "stars_today": 1875,
+  "one_liner": "The behind-the-scenes repo where Google Chrome, Microsoft Edge, and Mozilla write and test the 'cheat sheet' that teaches AI coding assistants modern web coding practices — this repo itself is the authoring/testing tooling, not the cheat sheet you'd install.",
+  "buyer": "Honestly: nobody. This is internal tooling for browser-vendor standards teams, not a product anyone outside that group would pay for.",
+  "business_use_cases": [
+    "A browser vendor's web-platform team uses it to author and score the guidance content before publishing it.",
+    "A contributor to web standards proposes a new best-practice rule and uses the eval dashboard to check it doesn't regress agent behavior.",
+    "None of this reaches an outside buyer — the actual installable product is the separate GoogleChrome/modern-web-guidance repo, which is itself free."
+  ],
+  "money_ideas": [
+    { "idea": "There isn't a real one here — it's a free, vendor-backed standards project with no commercial surface", "revenue_model": "none" }
+  ],
+  "steal_this": "Nothing to build directly from this repo. If you want to monetize the idea behind it, go build a paid 'keep my coding agent current' subscription service on top of the public guidance it produces instead.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-13T12:07:00.000Z"
+}

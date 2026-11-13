@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-13",
+  "owner": "ZhuLinsen",
+  "name": "daily_stock_analysis",
+  "full_name": "ZhuLinsen/daily_stock_analysis",
+  "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+  "description": "LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+  "language": "Python",
+  "stars_total": 71233,
+  "stars_today": 272,
+  "one_liner": "A free, self-run tool that reads stock prices and news every day, has an AI summarize what's happening, and pushes you a daily briefing dashboard — like a personal junior analyst you don't pay a salary.",
+  "buyer": "A retail investor or small trading club in Asia who wants a daily market briefing without paying for a Bloomberg Terminal or analyst subscription.",
+  "business_use_cases": [
+    "An individual trader runs it on a free GitHub Actions schedule and gets a daily push notification summarizing their watchlist.",
+    "A small investment club or Discord/WeChat trading community self-hosts it and shares the daily dashboard as a group perk.",
+    "A finance content creator uses its output as the raw material for a daily newsletter or video, saving hours of manual research."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted, no-setup version with push notifications as a cheap monthly subscription for people who don't want to run GitHub Actions themselves", "revenue_model": "subscription" },
+    { "idea": "White-label the dashboard for small financial content creators or trading communities who want a branded version", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Turn it into a $5/month 'daily stock briefing to your phone' bot this weekend — but be upfront that it's a research/news summarizer, not a signal service, to stay on the right side of financial-advice regulations.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-13T12:07:00.000Z"
+}

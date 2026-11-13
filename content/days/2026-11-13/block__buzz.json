@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-13",
+  "owner": "block",
+  "name": "buzz",
+  "full_name": "block/buzz",
+  "url": "https://github.com/block/buzz",
+  "description": "A hive mind communication platform",
+  "language": "Rust",
+  "stars_total": 37154,
+  "stars_today": 95,
+  "one_liner": "A self-hosted team chat (like Slack) built from the ground up so AI agents can be first-class members of the conversation alongside humans, on a server you control.",
+  "buyer": "A tech-forward engineering team that already leans on multiple AI agents for work and wants them embedded in team chat instead of bolted on as a bot.",
+  "business_use_cases": [
+    "An engineering team self-hosts it so agents post status updates, ask clarifying questions, and get approvals in the same channel as humans.",
+    "A privacy-sensitive company (defense, finance, healthcare) runs it instead of Slack+Copilot to keep all agent-human chat on infrastructure it owns.",
+    "A dev tools startup offers managed hosting of it as the 'team layer' for companies rolling out AI agents at scale."
+  ],
+  "money_ideas": [
+    { "idea": "Managed hosting with SSO, backups, and support, billed per workspace", "revenue_model": "subscription" },
+    { "idea": "Paid integration work connecting it to a company's specific internal agents and tools", "revenue_model": "one-off" }
+  ],
+  "steal_this": "It's early and developer-facing — the realistic weekend build is a managed-hosting offering ('Buzz, but we run it for you') aimed at teams who want agent-aware chat without standing up Rust infrastructure themselves.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-13T12:07:00.000Z"
+}

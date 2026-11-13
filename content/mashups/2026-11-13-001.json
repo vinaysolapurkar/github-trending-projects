@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-13-001",
+  "date": "2026-11-13",
+  "repo_a": "backnotprop/plannotator",
+  "repo_b": "alibaba/open-code-review",
+  "title": "The AI Review Desk",
+  "pitch": "Plannotator gives a team one shared inbox to review everything their AI coding agents produce and send feedback back with a single click; open-code-review is an automated reviewer that already finds security and quality bugs and writes precise line comments. Wire open-code-review in as the first-pass reviewer feeding straight into Plannotator's inbox, and every pull request arrives pre-triaged — security flags, bug notes, and style issues already attached — before a human even opens it, with their approve/reject clicks routed straight back to the originating agent. Package this as a managed 'AI Review Desk' and sell it to dev agencies and growing engineering teams running multiple coding agents who need both automated coverage and a real human checkpoint, without building either half themselves.",
+  "why_now": "Both projects are trending the same day because teams that have gone all-in on AI coding agents have hit the same wall: nobody fully trusts agent output, but reviewing everything by hand doesn't scale. One repo solves the 'find the problems automatically' half, the other solves the 'give humans one place to check and respond' half — together they're a complete, buildable answer to the exact pain surfacing right now."
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-13",
+  "owner": "louislam",
+  "name": "uptime-kuma",
+  "full_name": "louislam/uptime-kuma",
+  "url": "https://github.com/louislam/uptime-kuma",
+  "description": "A fancy self-hosted monitoring tool",
+  "language": "JavaScript",
+  "stars_total": 93627,
+  "stars_today": 61,
+  "one_liner": "A self-hosted dashboard that pings your websites, servers, and APIs around the clock and alerts you the moment one goes down — like UptimeRobot, but free and running on your own server.",
+  "buyer": "A freelance web developer or small digital agency managing uptime for a handful of client websites who doesn't want to pay per-site monitoring fees.",
+  "business_use_cases": [
+    "A freelance developer self-hosts it once and monitors uptime for every client site from one dashboard, instead of paying for a monitoring tool per client.",
+    "A small hosting company bundles it as a free 'status page' perk for customers to differentiate from bigger, pricier hosts.",
+    "A managed-services shop offers 'we'll watch your site 24/7 and text you if it goes down' as a paid add-on built on this free tool."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a managed-hosting version with guaranteed uptime and SMS alerts, billed per site monitored", "revenue_model": "subscription" },
+    { "idea": "Sell setup-and-maintenance packages to small businesses who want monitoring but won't touch a server themselves", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Resell it as 'Website Watchdog' — host it once, monitor dozens of small-business client sites, and charge each client $10-20/month for alerts, since the underlying tool costs you nothing.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-13T12:07:00.000Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-13",
+  "owner": "openai",
+  "name": "codex-security",
+  "full_name": "openai/codex-security",
+  "url": "https://github.com/openai/codex-security",
+  "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+  "language": "TypeScript",
+  "stars_total": 12805,
+  "stars_today": 754,
+  "one_liner": "A tool that scans your codebase for security holes, checks whether each one is real (not a false alarm), and can write the fix for you — like having a junior security auditor on call 24/7.",
+  "buyer": "A security-conscious engineering lead at a 10-50 person startup that can't afford a dedicated AppSec hire.",
+  "business_use_cases": [
+    "A startup runs it in CI on every pull request so vulnerabilities get caught and auto-patched before merge instead of in a yearly pentest.",
+    "A boutique security consultancy uses it to triage findings fast across many client repos, cutting the hours billed per audit.",
+    "A compliance-heavy company (fintech, healthtech) exports its SARIF/CSV reports as evidence for SOC2 or ISO audits."
+  ],
+  "money_ideas": [
+    { "idea": "Build a hosted dashboard on top of the open CLI/SDK that non-technical compliance teams can read, and charge per repo scanned", "revenue_model": "subscription" },
+    { "idea": "Offer paid 'scan and fix' sprints for companies that want a one-time cleanup rather than ongoing monitoring", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build a GitHub Action marketplace wrapper that runs this on every PR and posts a plain-English summary comment ('3 issues found, 1 fixed automatically') — free for public repos, paid for private ones.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-13T12:07:00.000Z"
+}
