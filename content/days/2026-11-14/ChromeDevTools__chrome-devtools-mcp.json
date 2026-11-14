@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-14",
+  "owner": "ChromeDevTools",
+  "name": "chrome-devtools-mcp",
+  "full_name": "ChromeDevTools/chrome-devtools-mcp",
+  "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "description": "Chrome DevTools for coding agents",
+  "language": "TypeScript",
+  "stars_total": 55893,
+  "stars_today": 673,
+  "one_liner": "A tool that lets an AI coding assistant open a real Chrome browser, click around, read the page, and check performance and errors — so the AI can actually see and test the website it's building instead of guessing.",
+  "buyer": "A frontend developer or agency using an AI coding assistant who's tired of the AI writing UI code blind and wants it to visually verify and debug what it builds.",
+  "business_use_cases": [
+    "A dev agency wires this into their AI coding pipeline so the assistant tests and screenshots every UI change it makes before handing it to a human for review, cutting QA time.",
+    "A QA automation vendor builds AI-driven visual regression testing on top of it, using the AI to describe what changed between two versions of a page.",
+    "A performance-auditing consultancy lets an AI agent run and interpret Lighthouse-style checks across a client's site and write the report automatically."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build and sell a hosted 'AI QA agent' product that uses this under the hood to test client websites and send bug reports",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer a one-off website performance and accessibility audit service where the AI does the testing legwork and a human polishes the report",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build a simple service this weekend: point it at a URL, it uses an AI agent plus this MCP server to click through the site, take screenshots, and flag broken buttons or slow loads — sell it as a $20/month website health check.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-14T12:07:04.000Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-14",
+  "owner": "ZhuLinsen",
+  "name": "daily_stock_analysis",
+  "full_name": "ZhuLinsen/daily_stock_analysis",
+  "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+  "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+  "language": "Python",
+  "stars_total": 72066,
+  "stars_today": 867,
+  "one_liner": "A free, run-it-yourself robot analyst that reads stock news and prices every day across multiple markets and pushes you a plain-English buy/watch/avoid summary.",
+  "buyer": "A retail investor managing their own portfolio who can't afford a Bloomberg Terminal or a financial analyst but wants a daily digest instead of doomscrolling financial news.",
+  "business_use_cases": [
+    "A retail trader schedules it to run every morning on a free cloud tier and gets a push notification before market open instead of paying for a stock-alert service.",
+    "A finance content creator uses its automated analysis as a daily talking-points generator for a newsletter or video script.",
+    "A small registered investment advisor uses the underlying pipeline internally as a cheap first-pass screener before a human analyst digs deeper."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Host it and sell subscriptions to the daily digest with extra markets, watchlists, and premium data sources",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "White-label the dashboard for finance influencers who want to offer 'my daily picks' without building it themselves",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Stand up a hosted version with a clean dashboard and a free daily email digest, then upsell a paid tier with more tickers and SMS alerts — but get real legal advice first, since selling stock analysis commercially can brush up against investment-advice regulation.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-14T12:07:04.000Z"
+}

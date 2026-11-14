@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-14",
+  "owner": "block",
+  "name": "buzz",
+  "full_name": "block/buzz",
+  "url": "https://github.com/block/buzz",
+  "description": "A hive mind communication platform",
+  "language": "Rust",
+  "stars_total": 37415,
+  "stars_today": 275,
+  "one_liner": "A private chat-and-workspace tool where humans and AI agents work together on a server you control, instead of inside a third-party cloud SaaS.",
+  "buyer": "A small engineering team or open-source maintainer who wants humans and AI agents collaborating in one place without their conversations and data sitting on someone else's servers.",
+  "business_use_cases": [
+    "A dev team self-hosts it as an internal 'agent ops center' where multiple AI agents post updates and humans direct them, replacing ad hoc chat bots.",
+    "An open-source project runs a public instance so contributors and maintainer bots coordinate issues and PRs transparently.",
+    "A privacy-sensitive company, such as a law or healthcare firm, adopts it instead of a cloud chat tool specifically because agent conversations never leave its own infrastructure."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid managed hosting with backups and SSO for teams that like the product but don't want to run the server themselves",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell a 'bring your own agents' integration package to companies rolling out AI agents at work who need help wiring them into it",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This is early, visionary infrastructure rather than a finished product — the realistic weekend move is becoming the easiest managed-hosting provider for it before anyone else does, not building a feature on top yet.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-14T12:07:04.000Z"
+}

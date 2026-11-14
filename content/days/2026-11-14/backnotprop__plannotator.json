@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-14",
+  "owner": "backnotprop",
+  "name": "plannotator",
+  "full_name": "backnotprop/plannotator",
+  "url": "https://github.com/backnotprop/plannotator",
+  "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+  "language": "TypeScript",
+  "stars_total": 10669,
+  "stars_today": 412,
+  "one_liner": "A shared inbox where a team can watch everything their AI coding agents are doing, leave comments on the agent's plans and code, and send feedback back with one click.",
+  "buyer": "An engineering lead running multiple AI coding agents across a team who needs one place to review and steer all of them instead of chasing output across scattered tools.",
+  "business_use_cases": [
+    "A dev team wires every agent's plan and diff into it so a senior engineer can approve or redirect work before it merges, instead of reviewing scattered Slack messages.",
+    "An agency running client work through AI agents uses it as the client-facing review surface, so clients approve features without wading through raw code.",
+    "A solo founder running several agents in parallel uses it as a single dashboard to stay 'in the loop' without babysitting each terminal."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell team and org tiers with multi-seat review, audit trail, and permissions",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer an enterprise on-prem deployment with SSO for companies that can't send agent output to a third-party cloud",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Add a Slack or email digest of pending agent plans awaiting review and sell it as a lightweight add-on to teams already using it — a thin wrapper buildable in a weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-14T12:07:04.000Z"
+}

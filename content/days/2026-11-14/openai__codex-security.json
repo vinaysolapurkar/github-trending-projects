@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-14",
+  "owner": "openai",
+  "name": "codex-security",
+  "full_name": "openai/codex-security",
+  "url": "https://github.com/openai/codex-security",
+  "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+  "language": "TypeScript",
+  "stars_total": 13405,
+  "stars_today": 599,
+  "one_liner": "A tool that scans your code for security holes, explains each one in plain language, and can write the fix itself — like having a security expert review every commit.",
+  "buyer": "A CTO at a seed-to-Series-B startup with no dedicated security engineer who needs to pass a customer's security questionnaire or a SOC 2 audit.",
+  "business_use_cases": [
+    "A startup runs it as a GitHub Action on every pull request so vulnerabilities get caught and auto-fixed before merge, standing in for a security hire they can't afford yet.",
+    "A security consultancy uses it to triage a new client's codebase fast, then bills for the human judgment layered on top of the automated findings.",
+    "A company preparing for a SOC 2 or vendor-security review runs it to clean up and document findings ahead of the audit."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell 'scan-as-a-service' with scheduled runs, dashboards, and alerts instead of just a raw CLI",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Build a compliance-report generator on top that turns scan results into SOC2/PCI-style write-ups for startups prepping for audits",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Wrap it in a simple web dashboard that scans connected repos nightly and emails a weekly 'security score' report — sell it to small startups as a $50/month safety net.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-14T12:07:04.000Z"
+}

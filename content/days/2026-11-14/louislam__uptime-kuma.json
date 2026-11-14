@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-14",
+  "owner": "louislam",
+  "name": "uptime-kuma",
+  "full_name": "louislam/uptime-kuma",
+  "url": "https://github.com/louislam/uptime-kuma",
+  "description": "A fancy self-hosted monitoring tool",
+  "language": "JavaScript",
+  "stars_total": 94045,
+  "stars_today": 432,
+  "one_liner": "A self-hosted dashboard that pings your websites and services every few minutes and alerts you the moment one goes down.",
+  "buyer": "A freelance web developer or small agency managing a handful of client websites who needs uptime alerts but doesn't want to pay per-site fees to a commercial monitoring service.",
+  "business_use_cases": [
+    "A freelancer self-hosts one instance and monitors all client sites from a single dashboard, selling '24/7 monitoring' as part of a maintenance retainer.",
+    "A managed service provider white-labels it as part of their client reporting portal instead of licensing a commercial monitoring tool per client.",
+    "A SaaS company runs it internally to watch its own staging and production endpoints and gets paged before customers notice an outage."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer hosted, managed instances for agencies that don't want to run their own server",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Build a public status-page product on top and charge per monitored domain",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Spin up a managed-hosting business this weekend: $10/month per client gets them their own instance plus a branded public status page — the monitoring engine is free and already battle-tested.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-14T12:07:04.000Z"
+}

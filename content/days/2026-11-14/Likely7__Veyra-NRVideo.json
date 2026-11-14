@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-14",
+  "owner": "Likely7",
+  "name": "Veyra-NRVideo",
+  "full_name": "Likely7/Veyra-NRVideo",
+  "url": "https://github.com/Likely7/Veyra-NRVideo",
+  "description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+  "language": "C++",
+  "stars_total": 1826,
+  "stars_today": 423,
+  "one_liner": "Windows software that uses AI to sharpen, denoise, and smooth out video in real time — from old footage to live game streams — so it looks like it was shot or rendered at much higher quality.",
+  "buyer": "A content creator or streamer recording on a lower-end capture card or camera who wants their footage to look sharper and smoother on YouTube or Twitch without buying new hardware.",
+  "business_use_cases": [
+    "A streamer runs it live on their capture feed so viewers see sharper, smoother gameplay video than their camera or card can natively deliver.",
+    "A video-restoration freelancer uses it to upscale and clean up old home videos or archival footage for paying clients.",
+    "A small video production shop offers 'AI footage enhancement' as an add-on service for clients whose raw source footage is low quality."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell premium presets tuned per game or capture device as an add-on pack",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a 'send us your footage' enhancement service for creators who don't want to run the GPU pipeline themselves",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Package three or four of the best-looking presets — streaming, old-video restoration, mobile footage — and sell them as a small add-on pack to the existing user base this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-14T12:07:04.000Z"
+}

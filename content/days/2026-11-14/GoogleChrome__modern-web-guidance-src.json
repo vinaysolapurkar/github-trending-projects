@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-14",
+  "owner": "GoogleChrome",
+  "name": "modern-web-guidance-src",
+  "full_name": "GoogleChrome/modern-web-guidance-src",
+  "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+  "description": "Keep your coding agent up to date with the latest web best practices",
+  "language": "TypeScript",
+  "stars_total": 5326,
+  "stars_today": 1225,
+  "one_liner": "A library of up-to-date 'best practice' lessons that teach an AI coding assistant the current right way to build a web page, so it stops suggesting outdated tricks.",
+  "buyer": "A frontend tech lead at a digital agency who's tired of their AI coding assistant recommending deprecated web APIs and wants its output to match today's actual web standards.",
+  "business_use_cases": [
+    "An agency bakes this guidance into every client project's AI assistant setup so junior devs' AI-generated code follows current accessibility and performance standards automatically.",
+    "A web dev bootcamp uses it to keep course material and its AI tutor's answers aligned with what's actually current best practice, not advice that's three years stale.",
+    "A dev-tooling vendor builds a 'compliance score' product that checks a codebase against this guidance and sells the report to engineering leads."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a premium guidance pack covering extra frameworks/stacks beyond the free core set",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer an automated 'web best-practices audit' that scores any repo or live site against this guidance",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Build a CLI this weekend that runs this guidance against an existing repo and spits out a scorecard with a prioritized fix list, then sell it as a one-off audit to small agencies.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-14T12:07:04.000Z"
+}

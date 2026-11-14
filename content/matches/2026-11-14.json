@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-14",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Veyra-NRVideo enhances/upscales existing footage in real time but doesn't cut or assemble short-form social videos, so nothing today fits." },
+    { "problem_id": "p002", "repo": null, "why": "No product-photography tool has trended; nothing today fits." },
+    { "problem_id": "p003", "repo": null, "why": "No agent-memory or context-persistence tool trended today; nothing keeps an AI assistant's project context between sessions." },
+    { "problem_id": "p004", "repo": "addyosmani/agent-skills", "why": "Its /code-simplify command is still the best fit we have for cleaning up bloated, over-engineered AI-written code.", "confidence": "high" },
+    { "problem_id": "p005", "repo": null, "why": "No PDF or research-organization tool has trended; nothing today fits." },
+    { "problem_id": "p006", "repo": null, "why": "No footage-generation or visual-explainer tool trended today; Veyra-NRVideo only enhances footage you already have." },
+    { "problem_id": "p007", "repo": null, "why": "No bioinformatics tooling has trended; nothing today fits." },
+    { "problem_id": "p008", "repo": "ggml-org/llama.cpp", "why": "Still the strongest fit: running inference entirely on-prem with llama.cpp means a law firm's AI chat never sends client data to an outside API.", "confidence": "high" },
+    { "problem_id": "p009", "repo": null, "why": "No blog-to-narrated-video tool trended today." },
+    { "problem_id": "p010", "repo": null, "why": "block/buzz is a self-hosted workspace for humans and agents, but it's team chat and coordination, not a personal notes-app replacement, so it doesn't genuinely fit." },
+    { "problem_id": "p011", "repo": null, "why": "Today's dev tools (code review, security scanning, browser testing, agent review inboxes) help write and check new code, but nothing today helps map or explain an inherited codebase's architecture." },
+    { "problem_id": "p012", "repo": "addyosmani/agent-skills", "why": "Still the clearest lifecycle (spec, plan, build, test, review, ship) for a first-time AI founder to follow.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "No restaurant inventory management tool has trended; nothing today fits." }
+  ]
+}

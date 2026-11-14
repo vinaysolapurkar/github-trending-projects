@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-14",
+  "owner": "tailscale",
+  "name": "tailcat",
+  "full_name": "tailscale/tailcat",
+  "url": "https://github.com/tailscale/tailcat",
+  "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+  "language": "Go",
+  "stars_total": 9679,
+  "stars_today": 490,
+  "one_liner": "A simple way to send data directly between two computers over Tailscale's private network, without needing Tailscale's full account and login system running on each machine.",
+  "buyer": "An IT or network engineer at a company already using Tailscale who needs a lightweight way to pipe data — logs, backups, files — between two machines without installing a full VPN client stack on each.",
+  "business_use_cases": [
+    "A sysadmin streams backups or logs between two servers over an encrypted private link without exposing a port to the public internet.",
+    "A DevOps consultant builds quick one-off secure file-transfer or debugging tunnels for clients during incident response.",
+    "An embedded or IoT team uses it as a lightweight component letting devices talk to a central server securely without the overhead of a full Tailscale client."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer integration or consulting work that uses it as a component inside a client's larger secure-networking setup, since the tool itself isn't a standalone product",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Honestly, this is infrastructure glue, not a product you package and sell on its own — the real move is a consulting offer: 'secure point-to-point data pipes for your infra' sold to DevOps teams who already run Tailscale.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-14T12:07:04.000Z"
+}

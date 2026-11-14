@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-14",
+  "owner": "alibaba",
+  "name": "open-code-review",
+  "full_name": "alibaba/open-code-review",
+  "url": "https://github.com/alibaba/open-code-review",
+  "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+  "language": "Go",
+  "stars_total": 51033,
+  "stars_today": 897,
+  "one_liner": "An automatic code reviewer that reads every pull request and leaves line-by-line comments catching bugs and security holes, combining fixed rule checks with an AI that reads the actual logic.",
+  "buyer": "An engineering manager at a 20-200 person software company who wants consistent, fast code review without hiring more senior reviewers.",
+  "business_use_cases": [
+    "A startup wires it into GitHub as a required CI check so every PR gets an automatic security and quality pass before a human even looks at it.",
+    "An outsourced dev shop uses it to raise the baseline quality of contractor-written code before it ships to clients.",
+    "A fintech's compliance team uses its built-in SQL-injection/XSS ruleset to produce an auditable record that every merged change was security-scanned."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Run it as a hosted SaaS (connect your repo, no Go/infra setup) and charge per seat or per repo",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer a managed install + custom ruleset service for companies that want it self-hosted but don't want to configure it themselves",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Package it as a one-click GitHub Marketplace app this weekend: free tier for public repos, paid tier for private ones, undercutting hosted AI-code-review SaaS competitors on price since the underlying engine is already free and open source.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-14T12:07:04.000Z"
+}

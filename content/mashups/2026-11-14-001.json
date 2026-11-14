@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-14-001",
+  "date": "2026-11-14",
+  "repo_a": "ChromeDevTools/chrome-devtools-mcp",
+  "repo_b": "backnotprop/plannotator",
+  "title": "The Self-Testing Agent Desk",
+  "pitch": "chrome-devtools-mcp lets an AI coding agent open a real browser, click through a page, and catch broken buttons or console errors on its own; Plannotator gives a team one shared inbox to watch, comment on, and redirect everything their agents produce. Wire the two together and every agent-built feature arrives in the review inbox with its own screenshots, console log, and a pass/fail note already attached, because the agent tested itself in a live browser before asking for human eyes. A reviewer spends their click approving visual proof instead of re-running the app themselves. Package this as a 'self-testing agent desk' and sell it to dev agencies and small product teams running multiple coding agents who want fewer surprises landing in their review queue.",
+  "why_now": "Both repos trended the same week because teams running AI coding agents at scale have hit the same two walls back to back: agents write UI code blind, and humans can't keep up with reviewing everything agents produce. One tool fixes the blind-testing problem, the other fixes the review-bottleneck problem — chaining them turns 'agent wrote code, hope it works' into 'agent wrote code, proved it works, human just signs off.'"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-14",
+  "owner": "we-promise",
+  "name": "sure",
+  "full_name": "we-promise/sure",
+  "url": "https://github.com/we-promise/sure",
+  "description": "The personal finance app for everyone (by everyone)",
+  "language": "Ruby",
+  "stars_total": 15007,
+  "stars_today": 659,
+  "one_liner": "A full personal finance app — think Mint, but self-hosted and open source — that tracks your bank accounts, budgets, and net worth in one place.",
+  "buyer": "A privacy-conscious household that got burned when Mint shut down and doesn't want their financial data living on someone else's servers.",
+  "business_use_cases": [
+    "A fee-only financial advisor self-hosts it for each client as a free, transparent net-worth and budget dashboard instead of paying for a commercial client-portal tool.",
+    "A fintech team forks it as the UI and backend skeleton for a new budgeting product instead of building account-aggregation and net-worth tracking from scratch.",
+    "A credit union offers 'we'll set this up for you' as a value-add member service, hosted on their own infrastructure for privacy-focused members."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer managed hosting (so users don't have to self-host) with bank-sync included",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell a concierge setup-and-import service for people migrating off Mint or YNAB who don't want to do the technical work themselves",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Launch a $5/month hosted version this weekend aimed at the wave of ex-Mint refugees still looking for a home — the app itself is already built and open source.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-14T12:07:04.000Z"
+}

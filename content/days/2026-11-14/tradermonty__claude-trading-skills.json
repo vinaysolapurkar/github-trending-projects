@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-14",
+  "owner": "tradermonty",
+  "name": "claude-trading-skills",
+  "full_name": "tradermonty/claude-trading-skills",
+  "url": "https://github.com/tradermonty/claude-trading-skills",
+  "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+  "language": "Python",
+  "stars_total": 4421,
+  "stars_today": 556,
+  "one_liner": "A pack of ready-made Claude 'skills' that do stock research for you — pulling charts, screening stocks, and checking an economic calendar — built for individual investors who trade on the side.",
+  "buyer": "A working professional who manages their own long-term-plus-swing-trading portfolio in spare time and wants Claude to handle the screening and charting legwork without learning finance APIs.",
+  "business_use_cases": [
+    "An individual investor installs the skill pack so Claude can screen for swing-trade setups and summarize earnings calendars during a lunch break instead of a full research session.",
+    "A finance newsletter writer uses the screener skill to find candidate stocks to write about each week, cutting research time.",
+    "An investing-course creator bundles these skills as a 'starter kit' for students learning to combine AI tools with a disciplined trading process."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a premium skill pack with more data sources, screeners, and a community channel",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer a paid setup service where buyers get it configured with their own broker or data API",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Package it with a short 'how to run this safely' guide and sell it as a one-time kit to retail-trading communities this weekend — the hard engineering work is already done.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-14T12:07:04.000Z"
+}
