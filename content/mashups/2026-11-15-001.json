@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-15-001",
+  "date": "2026-11-15",
+  "repo_a": "we-promise/sure",
+  "repo_b": "dream-num/univer",
+  "title": "The Live Budget Room",
+  "pitch": "we-promise/sure gives someone, or their advisor, a real synced personal-finance dashboard: actual cashflow, net worth, and spending. dream-num/univer is an embeddable, collaborative spreadsheet and document SDK built for exactly this kind of 'bring editing and AI into your product' use case. Combine them into a white-label financial-advisory workspace: a fee-only financial coach pulls up a client's real account data in Sure, then drops a live, co-editable Univer spreadsheet right next to it during the call, so advisor and client can jointly test 'what if I buy this house' or 'what if I cancel this subscription' scenarios against real numbers instead of a static screen-share of last month's spreadsheet. The advisor sells it as a premium, see-it-happen-live planning session; the client leaves with a saved, reusable what-if sheet instead of a PDF.",
+  "why_now": "Personal-finance dashboards have gotten good at showing people their numbers, but the advice conversation around those numbers still happens over a static screen-share of a spreadsheet. Office-SDK projects have only recently matured enough to be embedded this easily into someone else's app, right as self-hosted finance tools are trending for the same privacy reasons, which makes 'live collaborative planning on real synced data' buildable in a weekend for the first time."
+}

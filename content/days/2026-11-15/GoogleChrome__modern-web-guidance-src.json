@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-15",
+  "owner": "GoogleChrome",
+  "name": "modern-web-guidance-src",
+  "full_name": "GoogleChrome/modern-web-guidance-src",
+  "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+  "description": "Keep your coding agent up to date with the latest web best practices",
+  "language": "TypeScript",
+  "stars_total": 6555,
+  "stars_today": 1220,
+  "one_liner": "A rulebook, written by the Chrome, Edge, Firefox and MDN teams, that teaches your AI coding agent current web best practices so it stops writing outdated code.",
+  "buyer": "Honestly hard to name a specific paying buyer here \u2014 this is free, vendor-funded infrastructure meant to be adopted broadly, not sold.",
+  "business_use_cases": [
+    "A web dev agency bakes these skills into every client project's coding-agent setup so junior-level AI output matches current best practice automatically.",
+    "A coding bootcamp uses its public eval dashboard to grade whether students' AI-assisted code follows modern web standards."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a 'modern web standards' audit service for agencies: run the evaluation against a client codebase and hand over a gap report",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Wrap its eval dashboard into a one-click 'run this against our repo' script and sell it as a flat-fee compliance check to small web agencies this weekend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-15T12:08:34.000Z"
+}

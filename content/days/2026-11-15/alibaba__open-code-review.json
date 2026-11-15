@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-15",
+  "owner": "alibaba",
+  "name": "open-code-review",
+  "full_name": "alibaba/open-code-review",
+  "url": "https://github.com/alibaba/open-code-review",
+  "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+  "language": "Go",
+  "stars_total": 51698,
+  "stars_today": 688,
+  "one_liner": "An automated reviewer that reads every pull request, flags real security bugs (like SQL injection and XSS) and leaves precise comments, the way a senior engineer would.",
+  "buyer": "An engineering manager at a mid-size company who wants a consistent security and quality bar on every pull request without hiring more senior reviewers.",
+  "business_use_cases": [
+    "A software agency bakes it into every client repo's CI to guarantee a baseline security review regardless of which junior developer wrote the code.",
+    "A fintech startup gets automatic line-level security comments on every pull request before a human reviewer looks, cutting review time.",
+    "A code-audit consultancy runs it against a client's whole codebase as the fast first pass of a paid security audit."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A managed, hosted version for teams who don't want to self-host, billed per repo or seat",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "A flat-fee 'AI security review' service that uses it as the engine",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Offer a $500 flat-fee 'AI security review' this weekend: run it against a client's repo and hand them the report.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-15T12:08:34.000Z"
+}

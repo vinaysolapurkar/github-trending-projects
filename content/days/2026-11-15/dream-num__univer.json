@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-15",
+  "owner": "dream-num",
+  "name": "univer",
+  "full_name": "dream-num/univer",
+  "url": "https://github.com/dream-num/univer",
+  "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+  "language": "TypeScript",
+  "stars_total": 25214,
+  "stars_today": 495,
+  "one_liner": "A toolkit developers can drop into their own app to get a real, editable spreadsheet and document editor, so you don't have to build Excel from scratch.",
+  "buyer": "A SaaS founder building a vertical product, like a restaurant inventory tool or a CRM, who needs built-in spreadsheet editing without licensing or rebuilding Excel.",
+  "business_use_cases": [
+    "A vertical SaaS, like a restaurant inventory tool, embeds it so customers edit a live spreadsheet inside the app instead of exporting to Excel.",
+    "An internal-tools team builds a lightweight 'AI office' where support staff and an AI assistant collaboratively edit the same shared document in real time.",
+    "An ed-tech company builds a classroom collaborative-spreadsheet product on top of it rather than licensing the Google Sheets API."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Paid implementation and integration consulting for companies embedding it into their product",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "A narrow vertical micro-SaaS, like a shared restaurant inventory spreadsheet, built on top of it",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build a tiny 'shared live inventory spreadsheet for restaurants' micro-SaaS on top of it this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-15T12:08:34.000Z"
+}

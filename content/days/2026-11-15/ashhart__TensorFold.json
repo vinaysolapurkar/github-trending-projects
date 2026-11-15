@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-15",
+  "owner": "ashhart",
+  "name": "TensorFold",
+  "full_name": "ashhart/TensorFold",
+  "url": "https://github.com/ashhart/TensorFold",
+  "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+  "language": "Zig",
+  "stars_total": 2228,
+  "stars_today": 37,
+  "one_liner": "A lean engine for running AI language models on your own Mac or GPU, skipping the usual Python setup, so you can serve AI yourself instead of renting it from a cloud API.",
+  "buyer": "An ML infrastructure engineer at a small AI product company who wants to self-host LLM inference cheaply on Apple Silicon or GPUs without the usual Python/MLX overhead.",
+  "business_use_cases": [
+    "An AI startup self-hosting open-weight models shaves hosting costs by running leaner inference on Apple Silicon Mac minis instead of cloud GPUs.",
+    "A privacy-focused legal or healthcare SaaS runs inference fully on-prem with it to avoid sending client data to a third-party API."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Paid 'cut your LLM hosting bill' consulting and migration service for companies on expensive cloud GPU inference",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Offer a 'cut your AI hosting bill' audit-and-migration weekend gig to small AI startups currently paying for cloud GPU inference.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-15T12:08:34.000Z"
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-15",
+  "owner": "ChromeDevTools",
+  "name": "chrome-devtools-mcp",
+  "full_name": "ChromeDevTools/chrome-devtools-mcp",
+  "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "description": "Chrome DevTools for coding agents",
+  "language": "TypeScript",
+  "stars_total": 56581,
+  "stars_today": 718,
+  "one_liner": "Gives an AI coding agent its own eyes inside a real Chrome browser, so it can click around, read console errors, and check performance itself instead of guessing.",
+  "buyer": "A QA lead or dev agency running multiple AI coding agents who wants agents to catch broken buttons and console errors themselves before a human reviewer ever looks.",
+  "business_use_cases": [
+    "A QA team wires it into CI so every pull request gets an agent-run browser trace and screenshot attached automatically.",
+    "A solo indie SaaS founder has their coding agent debug a slow page itself using real performance traces, skipping a freelance performance consultant.",
+    "An agency building client websites uses it to give its agents real eyes on rendering bugs across different client environments."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A managed CI add-on that turns agent traces and screenshots into a shareable report for non-technical stakeholders",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build a thin wrapper that posts agent-caught console errors and a screenshot straight into a client's Slack channel, and sell it to one small dev team this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-15T12:08:34.000Z"
+}

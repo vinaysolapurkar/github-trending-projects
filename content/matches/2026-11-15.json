@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-15",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Veyra-NRVideo enhances and upscales footage you already have in real time, but it doesn't cut or assemble short-form social videos, so nothing today fits." },
+    { "problem_id": "p002", "repo": null, "why": "No product-photography tool has trended; nothing today fits." },
+    { "problem_id": "p003", "repo": null, "why": "Plannotator helps a team review and redirect what an agent already produced, but nothing today gives an AI assistant persistent memory of a project between sessions." },
+    { "problem_id": "p004", "repo": "addyosmani/agent-skills", "why": "Its /code-simplify command is still the best fit we have for cleaning up bloated, over-engineered AI-written code; nothing trending today targets simplification specifically.", "confidence": "medium" },
+    { "problem_id": "p005", "repo": null, "why": "No PDF or research-organization tool has trended; nothing today fits." },
+    { "problem_id": "p006", "repo": null, "why": "No footage-generation or visual-explainer tool trended today; Veyra-NRVideo only enhances footage you already have." },
+    { "problem_id": "p007", "repo": null, "why": "No bioinformatics tooling has trended; nothing today fits." },
+    { "problem_id": "p008", "repo": "ggml-org/llama.cpp", "why": "Still the strongest fit: running inference entirely on-prem with llama.cpp means a law firm's AI chat never sends client data to an outside API.", "confidence": "high" },
+    { "problem_id": "p009", "repo": null, "why": "No blog-to-narrated-video tool trended today." },
+    { "problem_id": "p010", "repo": null, "why": "we-promise/sure is a strong self-hosted alternative, but it's a finance app, not a notes app, so it doesn't genuinely fit this problem." },
+    { "problem_id": "p011", "repo": null, "why": "Today's dev tools help review new pull requests and test UI changes, but nothing helps map or explain an inherited codebase's existing architecture." },
+    { "problem_id": "p012", "repo": "Tencent/LoopForge", "why": "Its playbook from idea to merged code, run in sandboxed workspaces with a human approval gate, gives a first-time AI founder a structure to follow instead of starting from a blank terminal.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "dream-num/univer could be the foundation for a cheap inventory tool, but it's a developer SDK for embedding spreadsheets into a product, not a ready-made app a restaurant owner could install themselves." }
+  ]
+}

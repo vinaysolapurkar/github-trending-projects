@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-15",
+  "owner": "QwenLM",
+  "name": "qwen-code",
+  "full_name": "QwenLM/qwen-code",
+  "url": "https://github.com/QwenLM/qwen-code",
+  "description": "An open-source AI coding agent that lives in your terminal.",
+  "language": "TypeScript",
+  "stars_total": 30490,
+  "stars_today": 64,
+  "one_liner": "A free, open-source AI coding assistant that lives in your terminal, editor, or chat \u2014 a no-subscription alternative to closed coding-agent products.",
+  "buyer": "A budget-conscious freelance developer or small dev team that wants a capable terminal coding agent without paying per-seat SaaS fees to a closed competitor.",
+  "business_use_cases": [
+    "A freelance developer uses it with a cheaper or open model to keep client project costs down when API pricing from closed competitors is painful.",
+    "A dev-tools consultancy offers 'bring your own coding agent' setup services, installing and configuring it for clients who want to avoid vendor lock-in.",
+    "An engineering team builds internal integrations on its open architecture instead of being boxed in by a closed, proprietary agent."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A paid setup and consulting package that configures it with a company's preferred model and internal tools",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "A managed, hosted version with shared team config and billing roll-up",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer a flat-fee 'migrate your team off per-seat coding-agent subscriptions' setup gig using it as the replacement.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-15T12:08:34.000Z"
+}

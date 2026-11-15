@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-15",
+  "owner": "louislam",
+  "name": "uptime-kuma",
+  "full_name": "louislam/uptime-kuma",
+  "url": "https://github.com/louislam/uptime-kuma",
+  "description": "A fancy self-hosted monitoring tool",
+  "language": "JavaScript",
+  "stars_total": 94379,
+  "stars_today": 352,
+  "one_liner": "A free, self-hosted tool that watches your websites and services and tells you instantly, by text or chat message, the moment one goes down.",
+  "buyer": "An IT consultant or freelancer managing uptime for a dozen small-business clients who wants a free self-hosted alternative to Pingdom or UptimeRobot.",
+  "business_use_cases": [
+    "An IT consultant monitors uptime for a dozen small-business clients from one dashboard and bills a monthly 'website watchdog' retainer.",
+    "An e-commerce store owner self-hosts it to get a Slack or SMS alert the moment their storefront goes down, before it costs them sales.",
+    "A web agency embeds a public status page built on it into every client site it maintains, as a value-add it can charge for."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A managed hosting / status-page-as-a-service plan for non-technical small-business owners who don't want to self-host",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "A 'website watchdog' monitoring retainer service for local businesses, built on this free tool",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Spin up a hosted instance this weekend, monitor twenty local small-business websites, and sell a $15/month 'we'll text you the second your site goes down' service.",
+  "opportunity_rating": 5,
+  "generated_at": "2026-11-15T12:08:34.000Z"
+}

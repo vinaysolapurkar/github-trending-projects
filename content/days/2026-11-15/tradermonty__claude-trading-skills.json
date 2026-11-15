@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-15",
+  "owner": "tradermonty",
+  "name": "claude-trading-skills",
+  "full_name": "tradermonty/claude-trading-skills",
+  "url": "https://github.com/tradermonty/claude-trading-skills",
+  "description": "Claude Code skills for equity investors and traders \u2014 market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+  "language": "Python",
+  "stars_total": 5139,
+  "stars_today": 707,
+  "one_liner": "A set of Claude Code skills that walk a part-time investor through a disciplined morning market review, screening, and trade-planning routine instead of trading on gut feel.",
+  "buyer": "A time-constrained individual investor who swing-trades on the side of a day job and wants a repeatable, disciplined process rather than a signal service.",
+  "business_use_cases": [
+    "A part-time swing trader runs the morning market-review skill before work to get a disciplined pre-market checklist instead of guessing.",
+    "A financial newsletter writer uses the screener skill to generate a daily watchlist for subscribers.",
+    "A trading educator packages the skillset into a paid course that teaches retail traders to use AI for process and journaling, not for signals."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A paid 'pro' skill pack with extra screeners and structured journaling templates",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "A subscription newsletter or Discord built on the daily screener output",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Package the screener and morning-review skills into a $9 Gumroad kit for retail traders this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-15T12:08:34.000Z"
+}

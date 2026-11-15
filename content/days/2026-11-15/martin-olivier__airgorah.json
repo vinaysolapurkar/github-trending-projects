@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-15",
+  "owner": "martin-olivier",
+  "name": "airgorah",
+  "full_name": "martin-olivier/airgorah",
+  "url": "https://github.com/martin-olivier/airgorah",
+  "description": "A WiFi security auditing software",
+  "language": "Rust",
+  "stars_total": 6144,
+  "stars_today": 270,
+  "one_liner": "A point-and-click app for testing how secure a WiFi network actually is, instead of typing raw command-line hacking tools by hand.",
+  "buyer": "A freelance penetration tester or small security consultancy that audits client WiFi networks and wants an easy GUI tool instead of juggling command-line tools.",
+  "business_use_cases": [
+    "A freelance pentester uses it during an authorized client engagement to demonstrate how easily a weak WiFi password can be captured and cracked, as evidence in the audit report.",
+    "A security consultancy trains junior staff on WiFi auditing with its GUI before they move on to raw command-line tools."
+  ],
+  "money_ideas": [
+    {
+      "idea": "No direct monetization of the tool itself; the money comes from the paid pentesting or audit engagement it supports",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This isn't really a weekend product play on its own \u2014 the honest move is bundling it into a $500 flat-fee 'WiFi security audit for small offices' service you already know how to deliver, and only on networks you're authorized to test.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-15T12:08:34.000Z"
+}

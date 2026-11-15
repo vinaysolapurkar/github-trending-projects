@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-15",
+  "owner": "JuliusBrussee",
+  "name": "caveman",
+  "full_name": "JuliusBrussee/caveman",
+  "url": "https://github.com/JuliusBrussee/caveman",
+  "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+  "language": "Go",
+  "stars_total": 120307,
+  "stars_today": 227,
+  "one_liner": "A tool that makes your AI coding assistant write short, blunt messages instead of long explanations, so your monthly AI bill drops without changing what the code does.",
+  "buyer": "A startup engineering lead paying a sizeable monthly bill for AI coding-agent API usage who wants to cut costs without switching tools or workflow.",
+  "business_use_cases": [
+    "A dev team running a coding agent at scale installs the proxy to cut its monthly agent API bill with no change to how engineers actually work.",
+    "An agency billing clients for AI-assisted development work pads its own margin by lowering token costs behind the scenes.",
+    "A startup building its own in-house coding agent on top of an LLM API borrows the 'terse protocol' idea to cut costs before launch."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Freemium: free CLI, paid team dashboard showing cost savings and usage across a whole engineering org",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "An enterprise licensing and support contract for large engineering organizations",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "The savings claims in the README are the project's own benchmarks, not independently verified \u2014 the honest weekend move is a one-page calculator landing page ('plug in your monthly AI coding bill, see what you'd save') to capture leads for a paid tier, not to repeat the numbers as fact.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-15T12:08:34.000Z"
+}

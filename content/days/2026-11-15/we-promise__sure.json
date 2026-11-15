@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-15",
+  "owner": "we-promise",
+  "name": "sure",
+  "full_name": "we-promise/sure",
+  "url": "https://github.com/we-promise/sure",
+  "description": "The personal finance app for everyone (by everyone)",
+  "language": "Ruby",
+  "stars_total": 15522,
+  "stars_today": 520,
+  "one_liner": "A self-hosted personal finance app, like Mint or YNAB, that shows your cashflow and net worth and lets an AI assistant answer questions about your own money.",
+  "buyer": "A freelancer or small-business owner who wants a self-hosted finance dashboard with AI insight, without handing their bank data to a third-party fintech app.",
+  "business_use_cases": [
+    "A financial coach self-hosts one instance per client and uses the AI assistant to answer 'can I afford this' questions live during coaching sessions.",
+    "A privacy-conscious freelancer tracks personal cashflow and net worth without a cloud fintech app mining their bank data.",
+    "A small bookkeeping firm offers a 'managed self-hosted finance dashboard' setup as a paid add-on service to clients."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A managed hosting plan for people who like it but don't want to run their own server",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "A paid setup and bank-sync configuration service for non-technical users",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Offer a 'we'll set this up and connect your accounts for you' $99 one-off service to friends and local freelancers this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-15T12:08:34.000Z"
+}

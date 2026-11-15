@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-15",
+  "owner": "backnotprop",
+  "name": "plannotator",
+  "full_name": "backnotprop/plannotator",
+  "url": "https://github.com/backnotprop/plannotator",
+  "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+  "language": "TypeScript",
+  "stars_total": 11538,
+  "stars_today": 860,
+  "one_liner": "A shared inbox where a team can see everything their AI coding agents produced, leave comments right on it, and send fixes back to the agent with one click.",
+  "buyer": "An engineering lead at a small dev agency running several AI coding agents at once, who needs one place to review and redirect their output instead of chasing Slack threads and diffs.",
+  "business_use_cases": [
+    "A dev agency running multiple client projects through coding agents uses it as the single review queue before anything ships to a client.",
+    "A startup CTO leaves line-level comments on an agent's plan before letting it touch the codebase, cutting rework.",
+    "An open-source maintainer uses it to triage and annotate AI-generated pull requests from bot contributors before merging."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Hosted team version with SSO and audit logs for agencies that don't want to self-host",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Paid onboarding package wiring it into a client's existing fleet of coding agents",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Stand up a hosted instance pre-wired to Claude Code and Codex, and pitch it as a 'review inbox for your AI dev team' to the first ten agencies you can find running multiple coding agents.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-15T12:08:34.000Z"
+}
