@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-16",
+  "owner": "backnotprop",
+  "name": "plannotator",
+  "full_name": "backnotprop/plannotator",
+  "url": "https://github.com/backnotprop/plannotator",
+  "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+  "language": "TypeScript",
+  "stars_total": 12198,
+  "stars_today": 689,
+  "one_liner": "A browser dashboard that shows you everything your AI coding assistants are proposing, so you can mark it up and send feedback back with one click instead of typing it all out again.",
+  "buyer": "An engineering manager running a small team that leans heavily on AI coding agents and is tired of losing track of what each agent is doing and waiting for review.",
+  "business_use_cases": [
+    "A dev team lead uses it to review and annotate every AI-generated plan before implementation starts, cutting back-and-forth chat messages.",
+    "A freelance developer uses the code-review surface to walk a non-technical client through proposed changes and collect their comments directly.",
+    "An agency running multiple client projects with AI agents uses the inbox feature to triage which agent needs attention first across projects."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted team version with shared inboxes, permissions, and audit logs for engineering orgs", "revenue_model": "subscription" },
+    { "idea": "Sell an enterprise tier with SSO and compliance logging for regulated companies adopting AI coding agents", "revenue_model": "subscription" }
+  ],
+  "steal_this": "It's already a polished local tool for developers; the real weekend opportunity is building a lightweight hosted version aimed at non-technical founders who want to supervise AI-built MVPs without reading code.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-16T12:06:43.000Z"
+}

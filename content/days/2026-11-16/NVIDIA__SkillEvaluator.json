@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-16",
+  "owner": "NVIDIA",
+  "name": "SkillEvaluator",
+  "full_name": "NVIDIA/SkillEvaluator",
+  "url": "https://github.com/NVIDIA/SkillEvaluator",
+  "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+  "language": "Python",
+  "stars_total": 2200,
+  "stars_today": 122,
+  "one_liner": "A grading tool that checks whether an 'AI skill' add-on (instructions that teach an AI assistant a new trick) is actually well-written and genuinely helps, before you trust it or publish it.",
+  "buyer": "A company building or curating a marketplace of AI agent skills who needs an objective quality bar before publishing third-party skills to customers.",
+  "business_use_cases": [
+    "A plugin marketplace runs every submitted skill through it automatically and rejects low-quality or duplicate submissions before they go live.",
+    "An enterprise AI platform team uses it in CI to make sure internal skill updates don't silently make their AI assistants worse.",
+    "A skill-authoring consultancy uses the scoring reports as proof of quality when selling custom skills to clients."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted 'skill certification' badge service: pay a small fee to have your skill scanned and certified before listing it in a marketplace", "revenue_model": "one-off" },
+    { "idea": "Sell CI integration support/consulting to companies building internal skill libraries", "revenue_model": "usage" }
+  ],
+  "steal_this": "It's a narrow dev-tooling niche with a thin market today — mostly useful to the handful of teams building skill marketplaces. A 'skill certification' micro-service is the most buildable angle, but demand is small right now.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-16T12:06:43.000Z"
+}

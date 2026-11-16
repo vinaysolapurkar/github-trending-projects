@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-16-001",
+  "date": "2026-11-16",
+  "repo_a": "alibaba/open-code-review",
+  "repo_b": "elementalsouls/Claude-BugHunter",
+  "title": "The AppSec Team in a Box",
+  "pitch": "alibaba/open-code-review catches bugs and security issues (SQL injection, XSS, thread-safety) line-by-line on every pull request, before code ships. elementalsouls/Claude-BugHunter is the opposite angle: it hunts for real-world exploitable vulnerabilities across a live, running app the way an external red-teamer would. Combine them into a monthly 'AppSec team in a box' subscription aimed at seed-stage startups that can't afford a security engineer: every PR gets automated line-level review before merge, and once a week the BugHunter skill set runs an authorized external scan against the staging environment, with both reports landing in one dashboard. The founder gets continuous, two-sided security coverage (what's being written, and what's actually exposed) for a fraction of a security hire's salary.",
+  "why_now": "Both tools trended the same day because AI-assisted security tooling just crossed a credibility threshold: code review bots stopped being noisy and red-team skill bundles stopped being toy demos. Seed-stage startups are shipping AI-generated code faster than ever, which means more surface area for bugs at exactly the moment they're least able to hire a dedicated security engineer — making a bundled, always-on AppSec subscription a timely wedge."
+}

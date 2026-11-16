@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-16",
+  "owner": "ag-ui-protocol",
+  "name": "ag-ui",
+  "full_name": "ag-ui-protocol/ag-ui",
+  "url": "https://github.com/ag-ui-protocol/ag-ui",
+  "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+  "language": "TypeScript",
+  "stars_total": 18336,
+  "stars_today": 790,
+  "one_liner": "A shared wiring standard that lets an AI 'agent' talk to a normal app's screen in real time, so chat, buttons, and live updates all stay in sync.",
+  "buyer": "An engineering lead at a company building their own AI copilot feature who doesn't want to invent a custom protocol for streaming agent actions into their frontend.",
+  "business_use_cases": [
+    "A CRM vendor uses the protocol to let an AI sales assistant stream suggestions and fill in form fields live as a rep works a deal.",
+    "A fintech app builds a budgeting copilot that narrates and updates charts in real time as it analyzes a user's spending.",
+    "An internal tools team at a large company standardizes all of their AI features on one event protocol instead of each team inventing its own."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted AG-UI gateway/middleware service that handles scaling, auth, and logging for companies adopting the protocol", "revenue_model": "usage" },
+    { "idea": "Sell premium framework adapters and enterprise support contracts for teams standardizing on it", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Not much to 'steal' here directly for a solo builder this weekend — it's plumbing, not a product. The honest weekend project is a small open-source adapter for a framework AG-UI doesn't support yet, to build reputation.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-16T12:06:43.000Z"
+}

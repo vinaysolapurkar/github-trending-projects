@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-16",
+  "owner": "dream-num",
+  "name": "univer",
+  "full_name": "dream-num/univer",
+  "url": "https://github.com/dream-num/univer",
+  "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+  "language": "TypeScript",
+  "stars_total": 27327,
+  "stars_today": 1878,
+  "one_liner": "A free, open-source engine that lets any company bolt a working spreadsheet and document editor, like a mini Excel and Word, straight into their own app.",
+  "buyer": "A SaaS founder or product manager building a vertical business app (finance ops, logistics, HR) who needs real spreadsheet editing inside their product without licensing Microsoft or Google.",
+  "business_use_cases": [
+    "A logistics SaaS embeds a live spreadsheet view so warehouse managers can edit shipment plans directly inside the app instead of exporting to Excel.",
+    "An accounting firm builds a client portal where clients fill in editable financial templates in-browser, with changes syncing straight into the firm's backend.",
+    "An EdTech company adds collaborative spreadsheet assignments to its platform so students can do data-analysis homework without leaving the site."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a hosted, managed version of Univer (auth, backups, support) to companies who don't want to run the open-source core themselves", "revenue_model": "subscription" },
+    { "idea": "Build and sell industry-specific templates and plugins (budgeting, inventory, grading) on top of the SDK", "revenue_model": "one-off" },
+    { "idea": "Offer paid integration/consulting to help mid-size SaaS teams embed it in a few weeks", "revenue_model": "usage" }
+  ],
+  "steal_this": "This weekend, wire up Univer's spreadsheet component into a simple shared-budget tool for small teams and sell it as a $15/month alternative to a shared Google Sheet with structure baked in.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-16T12:06:43.000Z"
+}

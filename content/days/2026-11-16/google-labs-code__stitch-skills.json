@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-16",
+  "owner": "google-labs-code",
+  "name": "stitch-skills",
+  "full_name": "google-labs-code/stitch-skills",
+  "url": "https://github.com/google-labs-code/stitch-skills",
+  "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+  "language": "TypeScript",
+  "stars_total": 9569,
+  "stars_today": 247,
+  "one_liner": "A free plugin pack that teaches AI coding assistants how to use Google's Stitch design tool, so they can turn plain text into app screens automatically.",
+  "buyer": "No real external buyer here — this is free glue code for developers who already use Google's Stitch tool with their coding agent, not something a non-technical business would pay for.",
+  "business_use_cases": [
+    "A freelance developer installs the plugin so their coding agent can generate client mockups in Stitch without manual back-and-forth.",
+    "An agency standardizes its design-to-code workflow on these skills to speed up how fast junior devs turn a brief into a working screen.",
+    "A no-code tool builder studies the skill format to make their own product agent-compatible for the same class of coding assistants."
+  ],
+  "money_ideas": [
+    { "idea": "Package a curated 'extra skills' bundle (non-standard templates, niche frameworks) and sell it on Gumroad to developers using Stitch", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Be honest: this is developer tooling glue, not a weekend business. The closest real project is a short paid tutorial/course on wiring Stitch + Claude Code for freelance designers.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-16T12:06:43.000Z"
+}

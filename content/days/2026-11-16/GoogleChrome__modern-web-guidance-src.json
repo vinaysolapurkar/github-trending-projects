@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-16",
+  "owner": "GoogleChrome",
+  "name": "modern-web-guidance-src",
+  "full_name": "GoogleChrome/modern-web-guidance-src",
+  "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+  "description": "Keep your coding agent up to date with the latest web best practices",
+  "language": "TypeScript",
+  "stars_total": 7711,
+  "stars_today": 1200,
+  "one_liner": "A free cheat-sheet library that stops AI coding assistants from writing old-fashioned, bloated website code by feeding them the latest best practices as they work.",
+  "buyer": "No direct business buyer — this is a free, Google-stewarded reference tool for developers, not something a non-technical business would purchase.",
+  "business_use_cases": [
+    "A freelance web developer installs it so their AI assistant stops suggesting outdated jQuery patterns and instead uses modern, faster browser APIs.",
+    "An agency bakes it into their internal coding agent setup to keep client websites consistently fast and accessible without manual code review for every pattern.",
+    "A web performance consultancy uses its 'legacy-scan' feature to quickly audit a client's existing codebase for outdated patterns to fix."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid 'website modernization audit' service for small businesses, using the legacy-scan tool as the core engine", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Run the legacy-scan tool against local small-business websites, bundle the findings into a simple one-page report, and sell $200 'speed up your website' audits this weekend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-16T12:06:43.000Z"
+}

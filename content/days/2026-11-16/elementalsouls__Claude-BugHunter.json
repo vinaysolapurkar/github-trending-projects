@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-16",
+  "owner": "elementalsouls",
+  "name": "Claude-BugHunter",
+  "full_name": "elementalsouls/Claude-BugHunter",
+  "url": "https://github.com/elementalsouls/Claude-BugHunter",
+  "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+  "language": "Python",
+  "stars_total": 7028,
+  "stars_today": 98,
+  "one_liner": "A free add-on that turns an AI coding assistant into an experienced security researcher who knows how real hackers have found bugs before, so it can hunt for vulnerabilities in websites and apps.",
+  "buyer": "An independent bug-bounty hunter or small security consultancy who wants to triage more targets per week without hiring additional junior pentesters.",
+  "business_use_cases": [
+    "A freelance bug bounty hunter uses it to run faster, more thorough recon and vulnerability triage across more HackerOne programs per week.",
+    "A small penetration-testing boutique uses the enterprise attack matrices (M365, Okta, SharePoint) to speed up authorized client engagements.",
+    "A security training company builds a paid bootcamp teaching students to use AI-assisted bug hunting responsibly, using this as the toolkit."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a paid 'managed bug hunting' retainer service for startups, using this toolkit to find vulnerabilities before attackers do", "revenue_model": "subscription" },
+    { "idea": "Sell a curated, updated 'premium' version with more report patterns and CVE chains kept current", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Offer a flat-fee 'one-day AI-assisted security triage' service to small SaaS startups who can't afford a full pentest, using this toolkit under a signed authorization agreement — legitimate and buildable this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-16T12:06:43.000Z"
+}
