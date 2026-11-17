@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-17",
+  "owner": "elementalsouls",
+  "name": "Claude-BugHunter",
+  "full_name": "elementalsouls/Claude-BugHunter",
+  "url": "https://github.com/elementalsouls/Claude-BugHunter",
+  "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+  "language": "Python",
+  "stars_total": 8103,
+  "stars_today": 1007,
+  "one_liner": "A plug-in pack that turns an AI coding assistant into a professional security tester who tries to break into a website the same way a hired hacker would, but only against systems you're authorized to test.",
+  "buyer": "An independent penetration tester or boutique security firm who wants to run more paid client engagements per month without hiring more testers.",
+  "business_use_cases": [
+    "A freelance pentester uses it to run first-pass automated recon and exploit-pattern checks on a client's web app before manually verifying the scariest findings.",
+    "A security boutique bundles it into a fixed-price 'AI-assisted pentest' package for small SaaS companies that can't afford a traditional multi-week engagement.",
+    "A bug bounty hunter runs it against in-scope programs to surface candidate vulnerabilities faster, then writes up and submits the ones that check out."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a flat-fee 'AI-assisted security report' service for small SaaS startups, using this as the engine with a human verifying and delivering the final report", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Build a simple intake form where a client submits a staging URL and written authorization; the tool runs overnight, a human skims the output the next morning and ships a PDF report.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-17T12:08:14.000Z"
+}

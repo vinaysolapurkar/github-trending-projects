@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-17-001",
+  "date": "2026-11-17",
+  "repo_a": "mvanhorn/last30days-skill",
+  "repo_b": "google-research/paper-orchestra",
+  "title": "The Overnight Analyst",
+  "pitch": "mvanhorn/last30days-skill is a research agent that scours Reddit, X, YouTube, Hacker News, Polymarket, and the web to tell you what people are actually saying about a topic right now. google-research/paper-orchestra is a multi-agent framework that turns raw notes and findings into a structured, well-written document. Chain them together and you get an 'Overnight Analyst': a client types in a topic before bed, last30days-skill spends the night gathering every relevant forum post, tweet, video transcript, and market signal, and paper-orchestra turns that raw research into a polished, properly structured briefing document by morning. Sell it to market researchers, VCs doing diligence, and brand managers who currently pay a junior analyst a full day's wages for exactly this workflow, but now get it delivered as a finished PDF before their first coffee.",
+  "why_now": "Both tools trended the same day because 'AI that researches, then AI that writes it up properly' is now a fully assembled pipeline instead of two separate toys — the research agent solves data-gathering breadth, the paper-writing agent solves structuring it into something a client can actually read, and together they remove the two biggest bottlenecks of a human analyst's day."
+}

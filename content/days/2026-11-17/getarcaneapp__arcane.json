@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-17",
+  "owner": "getarcaneapp",
+  "name": "arcane",
+  "full_name": "getarcaneapp/arcane",
+  "url": "https://github.com/getarcaneapp/arcane",
+  "description": "Modern Docker Management, Designed for Everyone",
+  "language": "Go",
+  "stars_total": 9047,
+  "stars_today": 46,
+  "one_liner": "A friendly dashboard for people who run Docker containers, so you can see and manage everything running on your server without memorizing command-line commands.",
+  "buyer": "A small IT consultant or self-hosting hobbyist managing a handful of home-lab or small-business servers who wants a GUI instead of the terminal.",
+  "business_use_cases": [
+    "An IT consultant managing several small-business servers uses it to give non-technical clients a simple dashboard to restart their own services.",
+    "A self-hosting hobbyist runs their home media server and apps through it without learning Docker CLI commands.",
+    "A small web host offers managed Docker hosting to clients with this as the friendly front-end."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a managed hosting plan where this dashboard is pre-installed and the customer just picks apps to run", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Package a pre-configured VPS image with Arcane installed and a handful of popular self-hosted apps ready to click-install, and sell it as 'your own cloud, no DevOps needed'.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-17T12:08:14.000Z"
+}

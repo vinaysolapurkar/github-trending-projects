@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-17",
+  "owner": "backnotprop",
+  "name": "plannotator",
+  "full_name": "backnotprop/plannotator",
+  "url": "https://github.com/backnotprop/plannotator",
+  "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+  "language": "TypeScript",
+  "stars_total": 12883,
+  "stars_today": 691,
+  "one_liner": "A shared workspace where a team can review, comment on, and approve what AI coding agents are doing, instead of blindly trusting their output.",
+  "buyer": "An engineering manager overseeing a team that uses multiple AI coding agents who needs visibility and sign-off before changes ship.",
+  "business_use_cases": [
+    "An engineering team uses it as the single inbox where every AI agent's proposed plan or diff lands for human review before merge.",
+    "A product manager annotates an AI-generated spec directly and sends feedback straight back to the agent without a developer in the loop.",
+    "A dev agency gives clients read-only access to the workspace so they can approve AI-driven work themselves, cutting back-and-forth meetings."
+  ],
+  "money_ideas": [
+    { "idea": "Host a managed team version with per-seat pricing, SSO, and audit trails for companies that don't want to self-host", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Stand up a hosted multi-tenant version, charge per seat, and market it directly at engineering managers drowning in AI-generated pull requests to review.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-17T12:08:14.000Z"
+}

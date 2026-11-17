@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-17",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing trending today handles short-form video editing or assembly for social media." },
+    { "problem_id": "p002", "repo": null, "why": "No product-photography tool has trended today." },
+    { "problem_id": "p003", "repo": "affaan-m/ECC", "why": "Its explicit job is giving AI coding assistants like Claude Code and Cursor persistent memory and project context across sessions — a direct fit.", "confidence": "high" },
+    { "problem_id": "p004", "repo": null, "why": "Today's alibaba/open-code-review catches bugs and security issues, not bloat or over-engineering, and obra/superpowers is a process methodology rather than a code-simplification tool, so nothing today is a genuine fit." },
+    { "problem_id": "p005", "repo": null, "why": "mvanhorn/last30days-skill researches live web and social chatter, not a user's own stored PDFs and articles, so it doesn't solve personal research-library organization." },
+    { "problem_id": "p006", "repo": null, "why": "No footage-generation or visual-explainer tool has trended today." },
+    { "problem_id": "p007", "repo": null, "why": "No bioinformatics tooling has trended today." },
+    { "problem_id": "p008", "repo": "ggml-org/llama.cpp", "why": "Still the strongest fit available: it lets a law firm run inference entirely on-prem with no client data leaving the building, and nothing new has displaced it.", "confidence": "high" },
+    { "problem_id": "p009", "repo": null, "why": "No blog-to-narrated-video tool has trended today." },
+    { "problem_id": "p010", "repo": null, "why": "No self-hosted notes app has trended today." },
+    { "problem_id": "p011", "repo": null, "why": "backnotprop/plannotator helps a team review and annotate what agents are doing, but it doesn't help someone understand how an existing codebase's pieces fit together architecturally." },
+    { "problem_id": "p012", "repo": "Tencent/LoopForge", "why": "Trending again today, its idea-to-merged-code playbook with sandboxed workspaces and a human approval gate still gives a first-time AI founder a structure to follow instead of a blank terminal.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "dream-num/univer could be the foundation for a cheap inventory tool, but it's a developer SDK for embedding spreadsheets into a product, not a ready-made app a restaurant owner could install themselves." }
+  ]
+}

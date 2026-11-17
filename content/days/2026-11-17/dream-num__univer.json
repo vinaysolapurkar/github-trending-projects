@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-17",
+  "owner": "dream-num",
+  "name": "univer",
+  "full_name": "dream-num/univer",
+  "url": "https://github.com/dream-num/univer",
+  "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+  "language": "TypeScript",
+  "stars_total": 28652,
+  "stars_today": 1776,
+  "one_liner": "An open-source toolkit for building your own version of Google Sheets and Docs right inside your own product, so AI agents and humans can edit the same documents together.",
+  "buyer": "A SaaS founder building a vertical business tool (for example, for accountants or logistics firms) who needs spreadsheet-like editing inside their product without building it from scratch.",
+  "business_use_cases": [
+    "A vertical SaaS for accountants embeds a branded spreadsheet editor directly in their app instead of linking out to Excel or Google Sheets.",
+    "A startup building an 'AI data analyst' product uses it so both the AI agent and the human client can edit the same live spreadsheet together.",
+    "An internal tools team at a logistics company builds a custom collaborative planning sheet without paying for Google Workspace API limits."
+  ],
+  "money_ideas": [
+    { "idea": "Build and sell a niche vertical app on top of it, like a spreadsheet-based invoicing tool for freelancers, rather than selling the SDK itself", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Pick one underserved niche, like rental-property books or freelance invoicing, and ship a branded spreadsheet app on top of it this weekend instead of competing with Excel directly.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-17T12:08:14.000Z"
+}

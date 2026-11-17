@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-17",
+  "owner": "ag-ui-protocol",
+  "name": "ag-ui",
+  "full_name": "ag-ui-protocol/ag-ui",
+  "url": "https://github.com/ag-ui-protocol/ag-ui",
+  "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+  "language": "TypeScript",
+  "stars_total": 19759,
+  "stars_today": 1444,
+  "one_liner": "A standard 'plug' that lets any AI agent connect cleanly to any website or app's front end, so developers don't have to custom-build that connection every time.",
+  "buyer": "No direct buyer — this is open infrastructure for developers, not a product end-users or businesses pay for directly.",
+  "business_use_cases": [
+    "A startup building an AI-powered app front end uses the protocol so they can swap in different AI agent backends without rewriting their UI.",
+    "A platform vendor adopts the protocol as a selling point — 'works with any AG-UI compatible agent' — reducing integration friction for customers.",
+    "A consultancy builds client-specific agent-to-frontend integrations faster by starting from this standard instead of a one-off custom build."
+  ],
+  "money_ideas": [
+    { "idea": "Offer paid integration consulting helping companies adopt the protocol and wire their existing AI agents into their product's UI", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Honestly, this is foundational developer plumbing with no direct consumer angle — the real business is integration services built on top, not the protocol itself.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-17T12:08:14.000Z"
+}

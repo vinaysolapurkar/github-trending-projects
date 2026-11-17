@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-17",
+  "owner": "Tencent",
+  "name": "LoopForge",
+  "full_name": "Tencent/LoopForge",
+  "url": "https://github.com/Tencent/LoopForge",
+  "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+  "language": "Go",
+  "stars_total": 2766,
+  "stars_today": 590,
+  "one_liner": "A control room for AI coding agents — it lets a team tell several different AI coders what to do, watch them work in sandboxes, and approve their changes before anything ships.",
+  "buyer": "An engineering lead running multiple AI coding agents across a team who needs a single place to approve what they produce before it merges.",
+  "business_use_cases": [
+    "A dev team runs nightly automated refactor jobs across several AI agents and only reviews the diffs each morning before approving.",
+    "An agency managing many client codebases uses it to standardize how every AI-driven code change gets human sign-off before merge.",
+    "A startup CTO lets non-engineers submit feature requests that get translated into AI-generated pull requests awaiting their approval."
+  ],
+  "money_ideas": [
+    { "idea": "Offer a hosted, managed version with team seats and audit logging for compliance-conscious companies", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Spin up a hosted instance pre-wired to Claude Code and Codex, and market it to small dev teams as 'an AI dev team, with you as the only approver'.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-17T12:08:14.000Z"
+}

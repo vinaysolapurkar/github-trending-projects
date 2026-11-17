@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-17",
+  "owner": "google-research",
+  "name": "paper-orchestra",
+  "full_name": "google-research/paper-orchestra",
+  "url": "https://github.com/google-research/paper-orchestra",
+  "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+  "language": "Python",
+  "stars_total": 2128,
+  "stars_today": 313,
+  "one_liner": "A team of AI agents that work together to research a topic and write an academic-style paper about it automatically.",
+  "buyer": "A PhD student or academic lab under publication pressure who needs help drafting papers faster, though they must still verify every claim themselves.",
+  "business_use_cases": [
+    "A research lab uses it to generate a first full draft of a paper from raw experimental results and notes, then has a human revise and verify it.",
+    "A grad student turns months of lab notes into a structured paper skeleton before spending their own time on polish and accuracy.",
+    "An ed-tech company builds a paid 'thesis draft assistant' for grad students on top of it, with heavy disclaimers about verifying content."
+  ],
+  "money_ideas": [
+    { "idea": "Build a paid SaaS wrapper for grad students and labs that turns raw notes and data into a first paper draft, billed per draft generated", "revenue_model": "usage" }
+  ],
+  "steal_this": "Wrap it in a simple upload-your-notes-and-data interface, charge per generated draft, and market directly to grad students stressed about deadlines — with a clear 'verify everything' disclaimer.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-17T12:08:14.000Z"
+}

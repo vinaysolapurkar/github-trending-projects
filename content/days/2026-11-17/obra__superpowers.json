@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-17",
+  "owner": "obra",
+  "name": "superpowers",
+  "full_name": "obra/superpowers",
+  "url": "https://github.com/obra/superpowers",
+  "description": "An agentic skills framework & software development methodology that works.",
+  "language": "Shell",
+  "stars_total": 318940,
+  "stars_today": 1905,
+  "one_liner": "A set of ready-made skills and a playbook that teaches AI coding agents a disciplined, step-by-step way to build software properly instead of improvising as they go.",
+  "buyer": "A solo developer or small startup team that relies heavily on AI coding assistants and wants fewer bugs and more structure in how those agents work.",
+  "business_use_cases": [
+    "A solo indie developer installs it so their AI coding agent follows a consistent, disciplined process — plan, test, review — instead of writing sloppy one-shot code.",
+    "A dev agency standardizes this methodology across every client project so AI-assisted work stays reliable regardless of which engineer sets it up.",
+    "A coding bootcamp or course creator teaches it as 'best practices for working with AI agents' to paying students."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a paid onboarding sprint helping teams adopt this methodology and customize it for their own stack", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Package a short paid call or course that helps a dev team install and customize this methodology for their own codebase and workflow.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-17T12:08:14.000Z"
+}

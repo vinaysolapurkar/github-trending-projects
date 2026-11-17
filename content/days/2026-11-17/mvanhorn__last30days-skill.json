@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-17",
+  "owner": "mvanhorn",
+  "name": "last30days-skill",
+  "full_name": "mvanhorn/last30days-skill",
+  "url": "https://github.com/mvanhorn/last30days-skill",
+  "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+  "language": "Python",
+  "stars_total": 68549,
+  "stars_today": 135,
+  "one_liner": "Gives an AI assistant the job of a research intern: it scours Reddit, Twitter/X, YouTube, Hacker News, prediction markets, and the web on any topic, then writes you one clear summary of what people are actually saying.",
+  "buyer": "A startup founder or market researcher validating a new product idea who doesn't have time to manually read dozens of forums and threads.",
+  "business_use_cases": [
+    "A startup founder runs it before a feature launch to see what real users on Reddit and X are already saying about the problem they're solving.",
+    "A hedge fund analyst uses it to get a quick pulse-check on what prediction markets and social chatter say about an upcoming event.",
+    "A marketing agency generates 'what's being said about [brand]' briefs for clients without paying for an enterprise social-listening tool."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a 'market pulse' report-as-a-service: client picks a topic, gets a polished weekly research digest delivered by email", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Wrap it in a simple web form with a Stripe paywall: enter a topic, get a research digest emailed in 10 minutes, charge per report or a monthly plan for unlimited topics.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-17T12:08:14.000Z"
+}

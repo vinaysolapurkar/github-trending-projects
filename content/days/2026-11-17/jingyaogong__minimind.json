@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-17",
+  "owner": "jingyaogong",
+  "name": "minimind",
+  "full_name": "jingyaogong/minimind",
+  "url": "https://github.com/jingyaogong/minimind",
+  "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+  "language": "Python",
+  "stars_total": 65648,
+  "stars_today": 188,
+  "one_liner": "A tiny, free tutorial project that teaches you how to build and train your own miniature AI language model from scratch in a couple of hours.",
+  "buyer": "No direct buyer — this is an educational/research project, not a commercial product.",
+  "business_use_cases": [
+    "A university instructor uses it as hands-on coursework to teach students how LLMs actually work under the hood.",
+    "A corporate trainer builds a paid 'understand AI from first principles' workshop for non-ML engineers using this as the lab exercise.",
+    "A content creator makes a paid video course walking people through building their own tiny LLM using this project."
+  ],
+  "money_ideas": [
+    { "idea": "Build and sell an educational workshop or video course teaching people to use this to build their own mini LLM", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Turn it into a weekend paid workshop, 'Build Your Own AI From Scratch in an Afternoon', charging a flat fee per seat.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-17T12:08:14.000Z"
+}

@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-17",
+  "owner": "alibaba",
+  "name": "open-code-review",
+  "full_name": "alibaba/open-code-review",
+  "url": "https://github.com/alibaba/open-code-review",
+  "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+  "language": "Go",
+  "stars_total": 53368,
+  "stars_today": 764,
+  "one_liner": "An automatic reviewer that reads every code change before it ships and leaves exact, line-by-line comments catching bugs and security holes — like having a senior engineer review every pull request, instantly.",
+  "buyer": "An engineering manager at a mid-size company who needs consistent code review but can't get senior engineers to review every pull request.",
+  "business_use_cases": [
+    "An engineering team wires it into CI so every pull request gets an automated security and bug pass before a human ever looks at it.",
+    "A dev agency offers 'enterprise-grade code review' as a value-add to clients without hiring more senior reviewers.",
+    "A fintech startup uses its SQL-injection and thread-safety rules to catch compliance-relevant bugs automatically before audits."
+  ],
+  "money_ideas": [
+    { "idea": "Host it as a managed SaaS for teams that don't want to self-host, billed per repo or per seat", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Stand up a hosted version, connect it to GitHub via an OAuth app, and charge small dev teams a flat monthly fee per repo instead of making them self-host the infrastructure.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-17T12:08:14.000Z"
+}
