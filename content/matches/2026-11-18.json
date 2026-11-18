@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-18",
+  "matches": [
+    { "problem_id": "p001", "repo": null, "why": "Nothing today edits or automates short-form video; we'll notify when something like that trends." },
+    { "problem_id": "p002", "repo": null, "why": "No product-photography or image-generation tool trended today." },
+    { "problem_id": "p003", "repo": "affaan-m/ECC", "why": "It's built specifically to give coding-agent harnesses persistent memory across sessions.", "confidence": "high" },
+    { "problem_id": "p004", "repo": "obra/superpowers", "why": "Its methodology enforces TDD, YAGNI, and DRY on the agent before it writes code, directly targeting bloat.", "confidence": "medium" },
+    { "problem_id": "p005", "repo": null, "why": "Nothing today is a PDF/article organizer; the research tools today are live-web, not local-library tools." },
+    { "problem_id": "p006", "repo": null, "why": "Today's map project visualizes history, not breaking news, so it doesn't fit this need." },
+    { "problem_id": "p007", "repo": null, "why": "No bioinformatics-specific tool trended today." },
+    { "problem_id": "p008", "repo": null, "why": "Appwrite can be self-hosted but isn't itself a private chat product, so it's a weak fit without real build work." },
+    { "problem_id": "p009", "repo": null, "why": "No text-to-video narration tool trended today." },
+    { "problem_id": "p010", "repo": null, "why": "Appwrite is self-hostable backend infrastructure, not a ready-made private notes app, so it would need real development to fit." },
+    { "problem_id": "p011", "repo": null, "why": "Nothing today specifically maps or explains an existing unfamiliar codebase." },
+    { "problem_id": "p012", "repo": "appwrite/appwrite", "why": "It gives a non-expert a ready-made backend (auth, database, storage) to launch a first AI product fast.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": "n8n-io/n8n", "why": "It's a cheap, no-code way to automate restaurant workflows like stock alerts, but needs setup work, not a drop-in inventory app.", "confidence": "low" }
+  ]
+}

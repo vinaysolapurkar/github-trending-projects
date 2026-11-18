@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-18",
+  "owner": "NVIDIA",
+  "name": "SkillEvaluator",
+  "full_name": "NVIDIA/SkillEvaluator",
+  "url": "https://github.com/NVIDIA/SkillEvaluator",
+  "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+  "language": "Python",
+  "stars_total": 3454,
+  "stars_today": 869,
+  "one_liner": "A quality-control checker that tests whether an AI agent 'skill' or plugin actually works and is safe before you install or ship it.",
+  "buyer": "A company publishing AI agent skills/plugins who needs to prove quality and security to enterprise buyers before they'll adopt it.",
+  "business_use_cases": [
+    "A skill marketplace runs every submitted skill through this before listing it, as a trust signal to buyers.",
+    "An enterprise AI platform team gates internal skill merges in CI so a bad skill can't reach production agents.",
+    "A consultancy offers paid 'skill audits' for companies building on Claude/agent plugins, using this as the engine."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid third-party skill certification/audits for marketplaces and enterprises, using this as the backend.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Set up a free public 'skill health check' webpage built on this tool to attract skill authors, then upsell deeper paid audits.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-18T12:08:13.723Z"
+}

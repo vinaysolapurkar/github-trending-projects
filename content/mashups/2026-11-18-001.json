@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-18-001",
+  "date": "2026-11-18",
+  "repo_a": "mvanhorn/last30days-skill",
+  "repo_b": "n8n-io/n8n",
+  "title": "The Always-Briefed Sales Desk",
+  "pitch": "Combine last30days-skill's cross-platform research (Reddit, X, YouTube, HN, Polymarket) with n8n's workflow automation to build a service that automatically generates a fresh one-page briefing on every prospect or lead the moment it lands in a CRM, then emails it to the rep before the call. A small automation agency could sell this as a $200/month add-on to sales teams who currently do this research manually (or not at all), wiring n8n to trigger the research skill on new CRM records and deliver a formatted summary with zero manual work.",
+  "why_now": "AI-agent research skills like last30days-skill are proving that deep, current, cross-platform research can be automated cheaply, while n8n is already the default glue tool small businesses use to connect their CRM and email. Pairing a new research capability with an established automation backbone turns a cool demo into a sellable, recurring-revenue product today."
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-18",
+  "owner": "astral-sh",
+  "name": "uv",
+  "full_name": "astral-sh/uv",
+  "url": "https://github.com/astral-sh/uv",
+  "description": "An extremely fast Python package and project manager, written in Rust.",
+  "language": "Rust",
+  "stars_total": 92117,
+  "stars_today": 260,
+  "one_liner": "A much faster replacement for pip and other Python package tools that installs your project's dependencies in a fraction of the time.",
+  "buyer": "A data/ML team with slow CI pipelines who wants to cut build times and infrastructure cost, backed by Astral's commercial tooling.",
+  "business_use_cases": [
+    "An ML platform team swaps pip for uv in CI to cut dependency install time and compute cost at scale.",
+    "A consultancy offers 'Python toolchain modernization' engagements that migrate legacy pip/poetry projects to uv.",
+    "A SaaS product with Python workers reduces cold-start/deploy time by adopting uv, improving customer-facing latency."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid migration consulting for companies moving large Python monorepos from pip/poetry to uv.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build a one-click 'migrate my repo to uv' CLI script and sell it as a $200 fixed-price service to small Python shops this weekend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-18T12:08:13.723Z"
+}

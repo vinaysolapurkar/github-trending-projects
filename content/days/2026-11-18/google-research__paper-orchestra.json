@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-18",
+  "owner": "google-research",
+  "name": "paper-orchestra",
+  "full_name": "google-research/paper-orchestra",
+  "url": "https://github.com/google-research/paper-orchestra",
+  "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+  "language": "Python",
+  "stars_total": 3646,
+  "stars_today": 1529,
+  "one_liner": "A team of AI agents that turns your raw research notes and experiment logs into a polished, submission-ready academic paper draft.",
+  "buyer": "A PhD student or overworked research lab PI who needs to turn experiment results into conference submissions faster.",
+  "business_use_cases": [
+    "A research lab uses it to draft first-pass manuscripts from experiment logs ahead of a conference deadline, saving weeks of writing.",
+    "A science-writing agency offers 'draft your paper from your data' as a paid service for non-native-English researchers.",
+    "A university writing center licenses it to help grad students produce stronger first drafts for advisor review."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a 'paper-in-a-weekend' drafting service for researchers facing a deadline, priced per paper.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build a hosted SaaS wrapper with a nicer UI and literature-database integrations, sold to labs by seat.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Host this behind a simple upload-your-notes web form and charge grad students a flat fee per generated draft — a clear, bounded service to test this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-18T12:08:13.723Z"
+}

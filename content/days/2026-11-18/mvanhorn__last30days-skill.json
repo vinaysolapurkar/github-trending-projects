@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-18",
+  "owner": "mvanhorn",
+  "name": "last30days-skill",
+  "full_name": "mvanhorn/last30days-skill",
+  "url": "https://github.com/mvanhorn/last30days-skill",
+  "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+  "language": "Python",
+  "stars_total": 69572,
+  "stars_today": 1062,
+  "one_liner": "Tell it a person, company, or topic and it reads everything recent about it across Reddit, X, YouTube, and betting markets, then gives you a one-page briefing.",
+  "buyer": "A sales rep or recruiter who needs a sharp, current briefing before a call with a prospect or candidate.",
+  "business_use_cases": [
+    "A B2B sales rep runs it on a prospect company the night before a demo to walk in with current, specific talking points.",
+    "A journalist or newsletter writer uses it to quickly gather cross-platform sentiment on a breaking story.",
+    "A recruiter runs it on a candidate to surface recent public activity (talks, posts, projects) before an interview."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a 'pre-meeting briefing' service for sales teams: paste a company name, get a formatted one-pager delivered by email.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Build a Slack bot wrapper that runs this automatically before every calendar meeting, sold per-seat.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Wrap this in a simple web form (\"paste a name, get a briefing PDF\") and sell it to local sales teams as a $20/month tool this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-18T12:08:13.723Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-18",
+  "owner": "getarcaneapp",
+  "name": "arcane",
+  "full_name": "getarcaneapp/arcane",
+  "url": "https://github.com/getarcaneapp/arcane",
+  "description": "Modern Docker Management, Designed for Everyone",
+  "language": "Go",
+  "stars_total": 9581,
+  "stars_today": 547,
+  "one_liner": "A clean dashboard for managing Docker containers on your server without typing terminal commands.",
+  "buyer": "A small agency or solo developer who self-hosts client apps on a VPS and wants a friendly way to manage containers without a DevOps hire.",
+  "business_use_cases": [
+    "A freelance developer uses it to manage containers for 10 small-business client sites on one shared VPS.",
+    "A self-hosting enthusiast community recommends it as the easy on-ramp to running their own services (replacing paid cloud hosting).",
+    "An agency offers 'managed self-hosting' to clients who don't want AWS bills, using Arcane as the day-to-day control panel."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a 'managed Docker hosting' service for small businesses built on top of Arcane, charging monthly for server + dashboard access.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell a paid setup/onboarding package that migrates a client's existing services into an Arcane-managed VPS.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Spin up a cheap VPS, install Arcane, and offer 'we'll self-host your small business app for $15/month, cheaper than Heroku' to a few local businesses this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-18T12:08:13.723Z"
+}

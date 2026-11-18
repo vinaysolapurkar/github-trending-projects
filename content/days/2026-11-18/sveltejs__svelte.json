@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-18",
+  "owner": "sveltejs",
+  "name": "svelte",
+  "full_name": "sveltejs/svelte",
+  "url": "https://github.com/sveltejs/svelte",
+  "description": "web development for the rest of us",
+  "language": "JavaScript",
+  "stars_total": 89637,
+  "stars_today": 694,
+  "one_liner": "A tool programmers use to build fast, lightweight websites and web apps.",
+  "buyer": "No direct buyer — this is free, foundational web-development infrastructure, not something a non-technical business pays for directly.",
+  "business_use_cases": [
+    "An agency builds client websites/apps with it because it ships faster, smaller sites than alternatives.",
+    "A startup picks it as their frontend framework to reduce bundle size and improve load-time conversion.",
+    "No standalone commercial product opportunity beyond using it as a building block for other products."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer Svelte development/consulting services to agencies and startups who want to adopt it.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Nothing to productize directly — the opportunity is offering Svelte dev services, not building on the framework itself as a product.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-18T12:08:13.723Z"
+}

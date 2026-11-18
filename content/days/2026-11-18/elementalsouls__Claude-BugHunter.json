@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-18",
+  "owner": "elementalsouls",
+  "name": "Claude-BugHunter",
+  "full_name": "elementalsouls/Claude-BugHunter",
+  "url": "https://github.com/elementalsouls/Claude-BugHunter",
+  "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+  "language": "Python",
+  "stars_total": 10361,
+  "stars_today": 2322,
+  "one_liner": "A plug-in pack that turns an AI coding assistant into a trained bug-bounty hunter, complete with attack playbooks and report templates.",
+  "buyer": "A freelance penetration tester or bug-bounty hunter who bills by the engagement and wants to find more valid vulnerabilities per hour.",
+  "business_use_cases": [
+    "A solo pentester uses it to run first-pass recon and vulnerability triage on a new client engagement overnight.",
+    "A boutique security consultancy standardizes report quality across junior testers using its 7-Question validation gate.",
+    "A bug-bounty hunter runs it against in-scope HackerOne targets to speed up chain discovery on enterprise identity systems."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a managed 'AI-assisted bug bounty hunting' retainer service built on top of this toolkit.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell a packaged, hardened fork with extra proprietary exploit chains to security consultancies.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Package this as an opinionated 'day-one pentest kit' for freelancers, add a report-formatting wrapper, and sell setup + onboarding as a weekend consulting gig.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-18T12:08:13.723Z"
+}

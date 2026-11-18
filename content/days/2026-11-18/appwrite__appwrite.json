@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-18",
+  "owner": "appwrite",
+  "name": "appwrite",
+  "full_name": "appwrite/appwrite",
+  "url": "https://github.com/appwrite/appwrite",
+  "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+  "language": "TypeScript",
+  "stars_total": 58121,
+  "stars_today": 239,
+  "one_liner": "A ready-made backend (logins, databases, file storage, notifications) you can self-host or use in the cloud so you don't have to build server infrastructure from scratch.",
+  "buyer": "A solo app developer or small startup that needs a backend fast but doesn't want to hire backend engineers or pay enterprise cloud prices.",
+  "business_use_cases": [
+    "An indie app developer builds a mobile app's entire backend (auth, database, file storage) on Appwrite in days instead of months.",
+    "An agency standardizes client projects on self-hosted Appwrite to avoid per-client AWS bills and speed up delivery.",
+    "A startup building an AI agent product uses Appwrite's MCP integration to give its agents direct, safe access to app data."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer 'launch your app backend in a week' packaged consulting for non-technical founders, built on Appwrite.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Run managed, white-labeled Appwrite hosting for small agencies' client apps.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Pick a simple app idea (e.g. a booking app for local businesses), build its entire backend on self-hosted Appwrite this weekend, and sell it as a done-for-you SaaS.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-18T12:08:13.723Z"
+}

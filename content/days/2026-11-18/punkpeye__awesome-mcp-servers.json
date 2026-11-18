@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-18",
+  "owner": "punkpeye",
+  "name": "awesome-mcp-servers",
+  "full_name": "punkpeye/awesome-mcp-servers",
+  "url": "https://github.com/punkpeye/awesome-mcp-servers",
+  "description": "A collection of MCP servers.",
+  "language": null,
+  "stars_total": 97855,
+  "stars_today": 52,
+  "one_liner": "A big curated list of plug-in connectors that let AI assistants talk to other apps and services.",
+  "buyer": "No direct buyer — it's a free community reference list, not a product.",
+  "business_use_cases": [
+    "A developer browses it to find an existing connector instead of building one from scratch, saving time.",
+    "A company researching the MCP ecosystem uses it to scope what integrations competitors already offer.",
+    "No standalone commercial use beyond reference/discovery."
+  ],
+  "money_ideas": [
+    {
+      "idea": "None directly viable — it's a reference list, not monetizable on its own.",
+      "revenue_model": "ads"
+    }
+  ],
+  "steal_this": "The real opportunity is building and selling a *specific* MCP server this list doesn't yet have for a niche paid tool, not the list itself.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-18T12:08:13.723Z"
+}

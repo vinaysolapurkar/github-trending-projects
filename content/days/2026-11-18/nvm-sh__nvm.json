@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-18",
+  "owner": "nvm-sh",
+  "name": "nvm",
+  "full_name": "nvm-sh/nvm",
+  "url": "https://github.com/nvm-sh/nvm",
+  "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+  "language": "Shell",
+  "stars_total": 96110,
+  "stars_today": 199,
+  "one_liner": "A small script that lets a developer switch between different versions of Node.js on their computer.",
+  "buyer": "No real external buyer — this is free developer infrastructure used internally by programmers, not a product anyone pays for.",
+  "business_use_cases": [
+    "A dev team standardizes onboarding scripts around it so every new hire gets the right Node version instantly.",
+    "A bootcamp includes it in setup instructions for students.",
+    "No real third-party commercial use case beyond internal developer convenience."
+  ],
+  "money_ideas": [
+    {
+      "idea": "None viable — it's a free, ubiquitous utility; monetizing it directly isn't realistic.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Nothing to build here — it's foundational dev tooling, not a business opportunity.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-18T12:08:13.723Z"
+}

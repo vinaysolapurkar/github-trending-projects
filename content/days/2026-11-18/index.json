@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-18",
+  "projects": [
+    "elementalsouls__Claude-BugHunter",
+    "cursor__plugins",
+    "HKUDS__CLI-Anything",
+    "mvanhorn__last30days-skill",
+    "getarcaneapp__arcane",
+    "NVIDIA__SkillEvaluator",
+    "nvm-sh__nvm",
+    "astral-sh__uv",
+    "google-research__paper-orchestra",
+    "google-labs-code__stitch-skills",
+    "sveltejs__svelte",
+    "jquery__jquery",
+    "appwrite__appwrite",
+    "openvinotoolkit__openvino",
+    "obra__superpowers",
+    "affaan-m__ECC",
+    "DeanChensj__jiangshan-map",
+    "n8n-io__n8n",
+    "solidjs__solid",
+    "punkpeye__awesome-mcp-servers"
+  ]
+}

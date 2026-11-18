@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-18",
+  "owner": "cursor",
+  "name": "plugins",
+  "full_name": "cursor/plugins",
+  "url": "https://github.com/cursor/plugins",
+  "description": "Cursor plugin specification and official plugins",
+  "language": "TypeScript",
+  "stars_total": 17045,
+  "stars_today": 315,
+  "one_liner": "The official rulebook and sample add-ons for building extensions to the Cursor AI code editor.",
+  "buyer": "A developer-tools startup that wants its product listed as an official Cursor plugin to reach Cursor's user base.",
+  "business_use_cases": [
+    "A devtools company builds a Cursor plugin for their product (e.g. a linter or API client) to get discovered by millions of Cursor users.",
+    "An agency builds custom internal Cursor plugins for enterprise clients to wire proprietary codegen rules into engineers' editors.",
+    "A trainer creates and sells a 'build your first Cursor plugin' course referencing this spec."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build a niche Cursor plugin (e.g. compliance linting) and monetize via a paid tier inside the plugin.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Pick one annoying manual workflow you repeat in Cursor and ship it as a tiny free plugin this weekend to build an audience, then upsell a pro version.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-18T12:08:13.723Z"
+}

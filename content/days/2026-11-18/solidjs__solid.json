@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-18",
+  "owner": "solidjs",
+  "name": "solid",
+  "full_name": "solidjs/solid",
+  "url": "https://github.com/solidjs/solid",
+  "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+  "language": "TypeScript",
+  "stars_total": 36330,
+  "stars_today": 37,
+  "one_liner": "A tool programmers use to build fast, responsive website interfaces.",
+  "buyer": "No direct buyer — free developer infrastructure, not a product a business pays for on its own.",
+  "business_use_cases": [
+    "An agency builds a performance-sensitive client app with it to hit tight load-time requirements.",
+    "A startup picks it as a lighter alternative to React for a resource-constrained product.",
+    "No standalone commercial product opportunity beyond using it as a building block."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer SolidJS development consulting to teams adopting it.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Nothing to productize directly — the opportunity is dev services, not a product built on top of the library itself.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-18T12:08:13.723Z"
+}

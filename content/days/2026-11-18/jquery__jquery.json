@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-18",
+  "owner": "jquery",
+  "name": "jquery",
+  "full_name": "jquery/jquery",
+  "url": "https://github.com/jquery/jquery",
+  "description": "jQuery JavaScript Library",
+  "language": "JavaScript",
+  "stars_total": 59973,
+  "stars_today": 268,
+  "one_liner": "An old but still widely used JavaScript library that makes websites interactive.",
+  "buyer": "No current buyer — it's legacy developer infrastructure maintained for backward compatibility, not a new business opportunity.",
+  "business_use_cases": [
+    "A legacy-system maintainer uses it to keep an old website functioning without a costly rewrite.",
+    "An agency offers paid support/migration for companies still dependent on old jQuery codebases.",
+    "No new product can reasonably be built around jQuery itself today."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid legacy-jQuery-site maintenance or modernization services to companies stuck on old stacks.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Nothing to build on jQuery itself — any opportunity here is maintenance services for companies still using it, not a new product.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-18T12:08:13.723Z"
+}

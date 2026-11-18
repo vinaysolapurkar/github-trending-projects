@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-18",
+  "owner": "n8n-io",
+  "name": "n8n",
+  "full_name": "n8n-io/n8n",
+  "url": "https://github.com/n8n-io/n8n",
+  "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+  "language": "TypeScript",
+  "stars_total": 210840,
+  "stars_today": 315,
+  "one_liner": "A drag-and-drop tool for connecting different apps and automating repetitive business tasks, with built-in AI steps.",
+  "buyer": "A small business owner drowning in manual admin work (invoices, lead follow-up, data entry between apps) who can't afford custom software.",
+  "business_use_cases": [
+    "A real estate agency automates lead intake from their website form straight into their CRM and triggers a personalized follow-up email.",
+    "An e-commerce store automates order-to-fulfillment workflows across Shopify, a spreadsheet, and a shipping provider.",
+    "A consultant builds and sells custom n8n automation workflows to small businesses as a service."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer 'automation audits' for small businesses: identify 3 manual workflows and build n8n automations for a flat fee.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Run a monthly retainer maintaining and expanding a client's automations as their business changes.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Pick one local business, interview them about their most annoying manual task, and build + deliver a working n8n automation for it this weekend for a flat fee.",
+  "opportunity_rating": 5,
+  "generated_at": "2026-11-18T12:08:13.723Z"
+}
