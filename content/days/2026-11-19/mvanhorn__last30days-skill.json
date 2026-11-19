@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-19",
+  "owner": "mvanhorn",
+  "name": "last30days-skill",
+  "full_name": "mvanhorn/last30days-skill",
+  "url": "https://github.com/mvanhorn/last30days-skill",
+  "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+  "language": "Python",
+  "stars_total": 70495,
+  "stars_today": 952,
+  "one_liner": "An AI research assistant that reads what real people are saying across Reddit, X, YouTube, Hacker News and more on a topic, then writes a grounded, sourced summary.",
+  "buyer": "A PR consultant, solo marketer, or sales rep who needs a fast 'what's the internet saying about X' brief before a launch or a call.",
+  "business_use_cases": [
+    "A PR or communications freelancer sells 'social sentiment briefings' to clients ahead of a product launch instead of running a manual research sprint.",
+    "A sales rep generates a one-page 'what this prospect's company and industry is buzzing about' brief before every sales call.",
+    "A newsletter writer builds a paid weekly digest in a niche, using this tool as the research engine behind every issue."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a paid briefing report, billed per request.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Launch a niche subscriber newsletter powered by the weekly research output.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Pick one niche, run this weekly, and launch a $10/month subscriber digest this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-19T12:08:43.673Z"
+}

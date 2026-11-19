@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-19",
+  "owner": "mjmirza",
+  "name": "app-store-compliance",
+  "full_name": "mjmirza/app-store-compliance",
+  "url": "https://github.com/mjmirza/app-store-compliance",
+  "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+  "language": "Shell",
+  "stars_total": 1478,
+  "stars_today": 542,
+  "one_liner": "A checklist and automated guard that catches the exact mistakes that get mobile apps rejected from the App Store and Google Play, before you submit.",
+  "buyer": "An indie mobile app developer or small app studio who has lost days to review-rejection cycles or missed a privacy-law deadline.",
+  "business_use_cases": [
+    "A solo app developer runs it before every submission to avoid losing days to App Store or Play Store rejection cycles.",
+    "A mobile dev agency sells 'App Store compliance audit' as a paid pre-launch service for client apps.",
+    "A compliance-minded consultant builds a subscription alert service around its tracked regulatory deadlines (EU AI Act, DSA, COPPA) for app publishers."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a flat-fee pre-submission compliance audit per app.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Run a subscription alert service that tracks upcoming app-store and privacy-law deadlines for publishers.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer a flat $99 'pre-submission compliance check' service to indie app developers on Reddit and Twitter this week.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-19T12:08:43.673Z"
+}

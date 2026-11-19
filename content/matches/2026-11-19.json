@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-19",
+  "matches": [
+    {
+      "problem_id": "p001",
+      "repo": "zhouxiaoka/autoclip",
+      "why": "It automates exactly this: paste a link and it clips, captions, and covers a video for every major short-form platform.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p002",
+      "repo": null,
+      "why": "No product-photography or image-generation tool trended today."
+    },
+    {
+      "problem_id": "p003",
+      "repo": null,
+      "why": "Nothing today addresses coding-agent memory across sessions; today's agent tools are about running CI, CLIs, or research, not persistent memory."
+    },
+    {
+      "problem_id": "p004",
+      "repo": "obra/superpowers",
+      "why": "Its methodology enforces TDD, YAGNI, and DRY on the agent before it writes code, directly targeting bloat.",
+      "confidence": "medium"
+    },
+    {
+      "problem_id": "p005",
+      "repo": null,
+      "why": "Nothing today organizes a personal library of PDFs or articles; today's research tool (last30days-skill) is live-web, not a local library manager."
+    },
+    {
+      "problem_id": "p006",
+      "repo": null,
+      "why": "diagram-design makes clean explainer diagrams, but it doesn't source or produce news footage, so it's not a real fit for this need."
+    },
+    {
+      "problem_id": "p007",
+      "repo": null,
+      "why": "No bioinformatics-specific tool trended today."
+    },
+    {
+      "problem_id": "p008",
+      "repo": null,
+      "why": "AFFiNE is a private, self-hostable workspace, but it's a notes-and-planning tool, not an AI chat product, so it's a weak fit without real build work."
+    },
+    {
+      "problem_id": "p009",
+      "repo": null,
+      "why": "autoclip repurposes existing video into clips; it doesn't turn written blog posts into narrated video, so it doesn't fit this need."
+    },
+    {
+      "problem_id": "p010",
+      "repo": "toeverything/AFFiNE",
+      "why": "It's a self-hosted, privacy-first alternative to Notion and Miro that you fully own.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p011",
+      "repo": null,
+      "why": "Nothing today specifically maps or explains an existing unfamiliar codebase."
+    },
+    {
+      "problem_id": "p012",
+      "repo": null,
+      "why": "minimind teaches how LLMs work from scratch, which is a good learning foundation, but it isn't itself a tool for building and shipping an AI product, so it's a weak direct match."
+    },
+    {
+      "problem_id": "p013",
+      "repo": null,
+      "why": "No restaurant-inventory or small-business operations tool trended today."
+    }
+  ]
+}

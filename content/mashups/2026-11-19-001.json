@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-19-001",
+  "date": "2026-11-19",
+  "repo_a": "zhouxiaoka/autoclip",
+  "repo_b": "mvanhorn/last30days-skill",
+  "title": "The Trend-to-Shorts Factory",
+  "pitch": "Combine last30days-skill's real-time research across Reddit, X, YouTube, Hacker News, and Polymarket with autoclip's one-link-to-shorts video pipeline to build a fully automated faceless content engine: each morning the research skill surfaces what's actually trending in a chosen niche (personal finance, AI tools, whatever), the operator finds or licenses a matching long-form video, and autoclip turns it into captioned clips, covers, and platform-ready copy for TikTok, Reels, and Shorts before most creators have even opened their laptop. A small social-media agency or solo 'faceless channel' operator could run this across several niche channels and sell the output as a $300-$500/month content-and-strategy retainer, since clients get clips that are topically relevant to what's buzzing that week, not just reactive edits of whatever video they happened to record.",
+  "why_now": "Both tools landed on GitHub Trending the same day, each solving one half of the same problem — knowing what's worth clipping, and actually clipping it — so wiring them together now turns two separate open-source projects into a single, sellable content pipeline before anyone else packages the combo."
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-19",
+  "owner": "HKUDS",
+  "name": "CLI-Anything",
+  "full_name": "HKUDS/CLI-Anything",
+  "url": "https://github.com/HKUDS/CLI-Anything",
+  "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+  "language": "Python",
+  "stars_total": 60210,
+  "stars_today": 899,
+  "one_liner": "A tool that automatically wraps ordinary software in a command-line interface so an AI agent can operate it directly, even if it never had one.",
+  "buyer": "A software vendor or SaaS company that wants its product usable by AI agents without building a developer API from scratch.",
+  "business_use_cases": [
+    "A niche software vendor (e.g. a CAD or audio tool maker) commissions a CLI wrapper so agents can automate their product, unlocking an 'AI-ready' marketing claim.",
+    "An agency offers 'agent-enablement' consulting: wrapping a client's legacy desktop tools so internal AI agents can drive them.",
+    "A developer builds and sells pre-made CLI wrappers for popular but API-less tools (old accounting or design software) through the project's community hub."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell bespoke 'make my software agent-native' wrapper-building services to software vendors.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Host a paid marketplace of premium, maintained CLI wrappers beyond the free community hub.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Pick one popular tool with no good CLI and ship a wrapper for it on the community hub this weekend to seed demand for paid custom wrappers.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-19T12:08:43.673Z"
+}

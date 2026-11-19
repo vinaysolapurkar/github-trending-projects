@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-19",
+  "owner": "nginx",
+  "name": "nginx",
+  "full_name": "nginx/nginx",
+  "url": "https://github.com/nginx/nginx",
+  "description": "The official NGINX Open Source repository.",
+  "language": "C",
+  "stars_total": 32220,
+  "stars_today": 66,
+  "one_liner": "The software that quietly runs a huge share of the world's websites behind the scenes, serving pages fast and balancing traffic.",
+  "buyer": "A small business owner whose website is slow or insecure and needs someone to set up and tune a server for them.",
+  "business_use_cases": [
+    "A freelance sysadmin offers a flat-fee 'website speed and security audit plus nginx setup' service for small business sites.",
+    "A hosting reseller builds managed nginx-and-SSL hosting packages aimed at local businesses who don't want to touch a server.",
+    "An agency bundles nginx-based caching and load-balancing tuning into its website care plans to justify a monthly maintenance retainer."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer one-off server setup and security audits to small businesses.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell a monthly website maintenance retainer that includes server tuning.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer a flat $150 'is your website secure and fast' audit to five local business owners this week.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-19T12:08:43.673Z"
+}

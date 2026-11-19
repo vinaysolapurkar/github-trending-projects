@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-19",
+  "owner": "zhouxiaoka",
+  "name": "autoclip",
+  "full_name": "zhouxiaoka/autoclip",
+  "url": "https://github.com/zhouxiaoka/autoclip",
+  "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+  "language": "Python",
+  "stars_total": 10869,
+  "stars_today": 110,
+  "one_liner": "Paste in a podcast or long video link and it automatically cuts it into short clips with captions, covers, and post copy ready for TikTok, Reels, and YouTube Shorts.",
+  "buyer": "A podcaster or online course creator who wants social clips every week but can't afford a dedicated video editor.",
+  "business_use_cases": [
+    "A podcaster auto-generates 10 short clips per episode for TikTok and Reels instead of paying an editor per clip.",
+    "A social media agency offers 'podcast-to-shorts' repurposing as a service for clients, running this in bulk instead of hiring editors.",
+    "A course creator turns long lecture videos into bite-sized promotional clips to drive course sales on social platforms."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Run a 'clips done for you' monthly retainer for podcasters and creators.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Charge per episode for a one-off clipping and captioning service.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Offer three podcasters a free first episode of auto-clipped shorts this week, then sell a $200/month 'clips done for you' retainer.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-19T12:08:43.673Z"
+}

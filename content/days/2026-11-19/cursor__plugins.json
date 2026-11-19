@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-19",
+  "owner": "cursor",
+  "name": "plugins",
+  "full_name": "cursor/plugins",
+  "url": "https://github.com/cursor/plugins",
+  "description": "Cursor plugin specification and official plugins",
+  "language": "TypeScript",
+  "stars_total": 17414,
+  "stars_today": 383,
+  "one_liner": "The official library of plug-ins that let the Cursor AI coding tool connect to things like Gmail, Salesforce, and GitHub.",
+  "buyer": "A dev agency or consultant who builds and sells custom integrations for companies standardizing on AI coding tools.",
+  "business_use_cases": [
+    "An agency builds and sells bespoke Cursor plugins for enterprise tools not yet covered (an internal ERP, say), using this spec as the template.",
+    "A consultant audits a company's AI coding setup and configures the official plugins to speed up their engineering org, billing for the setup.",
+    "A SaaS company builds its own official plugin following this spec to get listed and discovered by Cursor's developer user base as a growth channel."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid custom-plugin development for companies using Cursor internally.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a 'get your SaaS listed as an official plugin' growth consulting package.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Pick one popular SaaS tool without a Cursor plugin yet and ship one this weekend to get early visibility as a go-to integrator.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-19T12:08:43.673Z"
+}
