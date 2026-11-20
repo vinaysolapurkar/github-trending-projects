@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-20",
+  "owner": "XiaoYouChR",
+  "name": "Ghost-Downloader-3",
+  "full_name": "XiaoYouChR/Ghost-Downloader-3",
+  "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+  "description": "The only downloader you need. 下载器的集大成者。",
+  "language": "Python",
+  "stars_total": 13333,
+  "stars_today": 341,
+  "one_liner": "A free download manager app that grabs files and torrents faster by splitting them into multiple simultaneous streams.",
+  "buyer": "An everyday computer user downloading large files who wants faster, more reliable downloads than their browser gives them for free — not really a business buyer.",
+  "business_use_cases": [
+    "A small IT shop recommends it to clients as a free alternative to paid download managers when setting up new PCs.",
+    "A content curator distributing their own large files (datasets, media kits) points users to it to reduce their own support requests about slow downloads.",
+    "A tech blogger reviews it as part of a 'best free utilities' roundup, monetizing the audience rather than the tool itself."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Monetize an audience by writing 'best free downloader' content and affiliate-linking adjacent paid tools, rather than monetizing this tool directly.",
+      "revenue_model": "ads"
+    },
+    {
+      "idea": "Offer paid tech-support bundles for non-technical users that include setting this up alongside other free utilities.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "There's no real product to build on top of a free desktop utility like this — honestly the only move is content: a 'free downloader vs. paid IDM' comparison post to pull search traffic.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-20T12:08:13.000Z"
+}

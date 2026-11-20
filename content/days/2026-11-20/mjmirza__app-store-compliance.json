@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-20",
+  "owner": "mjmirza",
+  "name": "app-store-compliance",
+  "full_name": "mjmirza/app-store-compliance",
+  "url": "https://github.com/mjmirza/app-store-compliance",
+  "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+  "language": "Shell",
+  "stars_total": 2349,
+  "stars_today": 377,
+  "one_liner": "A checklist-and-guard system that catches the common mistakes that get mobile apps rejected from the Apple and Google app stores, before you submit.",
+  "buyer": "A solo mobile app developer or small agency that has had an app rejected before and wants to stop losing days to resubmission cycles.",
+  "business_use_cases": [
+    "An indie app developer runs the pre-submission guard before every release to avoid the week-long delay of a rejection.",
+    "A mobile dev agency bakes it into their client delivery process so they never ship a client app that bounces at review.",
+    "A compliance consultant uses the documented rejection patterns as the basis for a paid app-store readiness audit service."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'pre-submission compliance audit' for indie developers and agencies before they submit to app stores.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build a hosted dashboard that tracks a team's compliance deadlines (EU AI Act, COPPA, etc.) and charge a monthly fee.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer indie developers a $49 'will my app get rejected?' pre-submission check this weekend, using this playbook as your checklist.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-20T12:08:13.000Z"
+}

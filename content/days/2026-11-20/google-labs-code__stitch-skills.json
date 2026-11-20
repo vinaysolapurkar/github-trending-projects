@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-20",
+  "owner": "google-labs-code",
+  "name": "stitch-skills",
+  "full_name": "google-labs-code/stitch-skills",
+  "url": "https://github.com/google-labs-code/stitch-skills",
+  "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+  "language": "TypeScript",
+  "stars_total": 10874,
+  "stars_today": 315,
+  "one_liner": "A pack of AI assistant add-ons that work with Google's Stitch tool to turn plain descriptions into real app and website designs automatically.",
+  "buyer": "A small agency or solo designer who needs to produce UI mockups fast for client pitches but can't staff a full design team for every proposal.",
+  "business_use_cases": [
+    "A freelance designer uses it to generate three UI concept directions for a client pitch in an afternoon instead of days.",
+    "A no-code app agency speeds up its design phase, taking on more client projects per month without hiring.",
+    "A startup founder mocks up their app's screens for a pitch deck without hiring a designer first."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer 'rapid UI concepts in 48 hours' as a fixed-price service for startup founders prepping a pitch.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Bundle it into a design-agency workflow to raise project throughput and effectively lower per-client cost while keeping prices the same.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Offer three local startups a fixed-price 'app design concepts in 48 hours' package this weekend, built entirely on this skill pack.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-20T12:08:13.000Z"
+}

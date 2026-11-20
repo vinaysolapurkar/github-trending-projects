@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-20",
+  "owner": "cursor",
+  "name": "plugins",
+  "full_name": "cursor/plugins",
+  "url": "https://github.com/cursor/plugins",
+  "description": "Cursor plugin specification and official plugins",
+  "language": "TypeScript",
+  "stars_total": 17705,
+  "stars_today": 292,
+  "one_liner": "An official library of ready-made add-ons that connect the Cursor AI code editor to popular developer tools and services.",
+  "buyer": "A SaaS company that makes a developer tool and wants to be easily reachable from inside AI code editors, not an end customer paying for this repo directly.",
+  "business_use_cases": [
+    "A dev-tools startup builds and lists an official Cursor plugin for their product so developers can use it without leaving their editor, driving adoption.",
+    "A platform team inside a large company publishes an internal plugin so every engineer's AI editor can query internal services consistently.",
+    "A freelance developer offers a paid service building custom Cursor plugins for companies that want their internal tools wired in."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer freelance 'build us a Cursor plugin' services to SaaS companies that want editor-native distribution.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "As a SaaS vendor, treat your own plugin as a marketing channel that drives upgrades to paid tiers.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Pick a popular API you already use, build a Cursor plugin for it this weekend, and submit it to this repo — it's free distribution to every Cursor user.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-20T12:08:13.000Z"
+}

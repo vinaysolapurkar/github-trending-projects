@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-20-001",
+  "date": "2026-11-20",
+  "repo_a": "mvanhorn/last30days-skill",
+  "repo_b": "mjmirza/app-store-compliance",
+  "title": "The Trend-Chasing App Factory, Minus the Rejection Letter",
+  "pitch": "Indie app builders waste the most time two ways: building something nobody wants, and building something stores reject. Combine last30days-skill's real-time scan of Reddit, X, YouTube, Hacker News, and Polymarket with app-store-compliance's 117-pattern rejection guard to run a weekly 'validated app idea' pipeline — surface what's genuinely trending among builders and consumers this week, sketch a quick app concept around it, then run the concept's planned features through the compliance guard before a single line of code is written, catching privacy-manifest and policy problems at the idea stage instead of at submission. A solo app-shop or small agency could sell this as a $500 'idea-to-safe-build brief' to indie founders who want to move fast on a trend without burning two weeks on an app that bounces at review.",
+  "why_now": "Both skills trended on the same day because builders are racing to ship AI-agent-era apps fast, and speed is exactly what causes both bad bets (chasing a dead trend) and rejections (skipping compliance in the rush) — wiring them together turns today's two separate tools into the one checkpoint that prevents both failure modes before any code is written."
+}

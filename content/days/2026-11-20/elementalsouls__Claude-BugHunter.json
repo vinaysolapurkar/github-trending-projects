@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-20",
+  "owner": "elementalsouls",
+  "name": "Claude-BugHunter",
+  "full_name": "elementalsouls/Claude-BugHunter",
+  "url": "https://github.com/elementalsouls/Claude-BugHunter",
+  "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+  "language": "Python",
+  "stars_total": 13357,
+  "stars_today": 1349,
+  "one_liner": "A pre-packaged toolkit that teaches an AI coding assistant how to hunt for security bugs, using thousands of real disclosed vulnerability reports as its playbook.",
+  "buyer": "A freelance bug-bounty hunter or small security consultancy that wants to triage more targets per week without hiring junior analysts.",
+  "business_use_cases": [
+    "A solo bug-bounty hunter runs it against a new HackerOne program overnight to get a first-pass list of likely vulnerable endpoints before spending their own hours on it.",
+    "A boutique pentest shop uses it as a junior-analyst substitute on routine web-app engagements, freeing senior staff for the harder findings.",
+    "A SaaS company's internal security team runs it against their own codebase before a release to catch common vulnerability classes early."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer it as the engine behind a 'first-pass security triage' service sold to startups that can't afford a full pentest.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Package a hosted, supported version with report templates for bug-bounty hunters who don't want to run it themselves.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Run it against your own side-project repo this weekend, package the findings into a one-page 'security health check' PDF, and offer that exact check to five indie SaaS founders for $99.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-20T12:08:13.000Z"
+}

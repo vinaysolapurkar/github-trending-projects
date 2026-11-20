@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-20",
+  "owner": "HKUDS",
+  "name": "CLI-Anything",
+  "full_name": "HKUDS/CLI-Anything",
+  "url": "https://github.com/HKUDS/CLI-Anything",
+  "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+  "language": "Python",
+  "stars_total": 60969,
+  "stars_today": 774,
+  "one_liner": "A translator that lets an AI agent operate any command-line program as if it had a proper point-and-click interface, so the AI can drive existing software instead of being limited to a few supported tools.",
+  "buyer": "A developer building AI-agent products who needs their agent to control specialized software (video tools, data tools, internal CLIs) that has no official AI integration.",
+  "business_use_cases": [
+    "An AI automation agency wires a client's legacy in-house CLI tools into an agent workflow in a day instead of writing custom integrations for each one.",
+    "A no-code automation startup uses it to let customers' AI agents control any installed desktop software without the startup building a connector per app.",
+    "An IT consultancy sells 'make your internal tools AI-agent-ready' as a packaged service built on top of it."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid custom-integration services that wire specific CLIs into client AI-agent stacks.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build a hosted marketplace of pre-made CLI-to-agent adapters and charge per adapter or per seat.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Pick one popular but AI-unfriendly CLI tool (ffmpeg, imagemagick, a niche data tool), wrap it with this, and ship a tiny hosted API that lets anyone's AI agent use it — charge per call.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-20T12:08:13.000Z"
+}

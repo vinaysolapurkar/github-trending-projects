@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-20",
+  "owner": "jingyaogong",
+  "name": "minimind",
+  "full_name": "jingyaogong/minimind",
+  "url": "https://github.com/jingyaogong/minimind",
+  "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+  "language": "Python",
+  "stars_total": 67455,
+  "stars_today": 238,
+  "one_liner": "A step-by-step kit that lets anyone train their own small AI language model from scratch in a couple of hours, mostly to learn how the technology actually works.",
+  "buyer": "A university instructor or self-taught engineer who wants a hands-on way to learn how large language models are built, not a business buying a product.",
+  "business_use_cases": [
+    "An online education company builds a paid 'build your own LLM in a weekend' course using it as the lab exercise.",
+    "A company training new ML hires uses it as an onboarding exercise to build intuition before they touch production models.",
+    "A YouTuber or newsletter writer uses it as the hands-on centerpiece of a tutorial series to build an audience, then monetizes the audience separately."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Turn it into a paid cohort-based course on 'how LLMs really work' with live office hours.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell a polished, better-documented companion guidebook for teams onboarding new ML engineers.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This is an educational project, not a commercial opportunity on its own — honestly, the only fast weekend project is a short paid tutorial walking non-experts through running it once.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-20T12:08:13.000Z"
+}

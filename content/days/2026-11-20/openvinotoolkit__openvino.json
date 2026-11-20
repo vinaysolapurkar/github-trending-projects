@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-20",
+  "owner": "openvinotoolkit",
+  "name": "openvino",
+  "full_name": "openvinotoolkit/openvino",
+  "url": "https://github.com/openvinotoolkit/openvino",
+  "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+  "language": "C++",
+  "stars_total": 11662,
+  "stars_today": 219,
+  "one_liner": "A toolkit that makes AI models run faster and cheaper on ordinary computer chips instead of needing expensive specialized hardware.",
+  "buyer": "A hardware or embedded-software company that wants to ship AI features (vision, voice) on devices without cloud GPUs, and needs the inference to be fast on standard chips.",
+  "business_use_cases": [
+    "A security-camera manufacturer runs person-detection on-device using it instead of paying for cloud inference per camera.",
+    "A retail-analytics vendor deploys in-store shelf-monitoring AI on cheap edge PCs rather than cloud servers, cutting their per-store cost.",
+    "A systems integrator offers 'optimize your AI model for edge deployment' as a paid engineering service built on the toolkit."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer contract engineering services optimizing clients' AI models for edge/on-device deployment using it.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build and sell pre-optimized model packages for common edge use cases (retail, security, manufacturing).",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This is a deep hardware-optimization toolkit for specialists, not a weekend consumer play — the real opportunity is contract work for companies already shipping edge-AI hardware.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-20T12:08:13.000Z"
+}

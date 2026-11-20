@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-20",
+  "matches": [
+    {
+      "problem_id": "p001",
+      "repo": "zhouxiaoka/autoclip",
+      "why": "It automates exactly this: paste a video link and it clips, captions, and covers it for every major short-form platform.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p002",
+      "repo": null,
+      "why": "No product-photography or image-generation tool trended today."
+    },
+    {
+      "problem_id": "p003",
+      "repo": null,
+      "why": "Nothing today addresses coding-agent memory across sessions; today's agent tools cover security triage, CLI control, and methodology, not persistent memory."
+    },
+    {
+      "problem_id": "p004",
+      "repo": "obra/superpowers",
+      "why": "Its methodology enforces TDD, YAGNI, and DRY on the agent before it writes code, directly targeting bloat and over-engineering.",
+      "confidence": "medium"
+    },
+    {
+      "problem_id": "p005",
+      "repo": null,
+      "why": "Nothing today organizes a personal library of PDFs or articles; today's research tool (last30days-skill) is live-web trend research, not a local library manager."
+    },
+    {
+      "problem_id": "p006",
+      "repo": null,
+      "why": "diagram-design makes clean diagrams for software and systems, but it doesn't source or produce news footage or general explainer visuals, so it's not a real fit."
+    },
+    {
+      "problem_id": "p007",
+      "repo": null,
+      "why": "No bioinformatics-specific tool trended today."
+    },
+    {
+      "problem_id": "p008",
+      "repo": null,
+      "why": "Nothing today is a private AI chat product; today's privacy-relevant tool (AFFiNE) is a notes-and-planning workspace, not a chat system."
+    },
+    {
+      "problem_id": "p009",
+      "repo": null,
+      "why": "autoclip repurposes existing video into clips; it doesn't turn written text into narrated video, so it doesn't fit this need."
+    },
+    {
+      "problem_id": "p010",
+      "repo": "toeverything/AFFiNE",
+      "why": "It's a self-hosted, privacy-first alternative to Notion and Miro that you fully own and can run on your own infrastructure.",
+      "confidence": "high"
+    },
+    {
+      "problem_id": "p011",
+      "repo": null,
+      "why": "Nothing today specifically maps or explains an existing unfamiliar codebase."
+    },
+    {
+      "problem_id": "p012",
+      "repo": "google-labs-code/stitch-skills",
+      "why": "It turns a plain description into real UI designs, giving someone with no design or dev background a concrete first step toward a real product.",
+      "confidence": "medium"
+    },
+    {
+      "problem_id": "p013",
+      "repo": null,
+      "why": "No restaurant-inventory or small-business operations tool trended today."
+    }
+  ]
+}

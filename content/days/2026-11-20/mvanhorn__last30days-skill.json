@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-20",
+  "owner": "mvanhorn",
+  "name": "last30days-skill",
+  "full_name": "mvanhorn/last30days-skill",
+  "url": "https://github.com/mvanhorn/last30days-skill",
+  "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+  "language": "Python",
+  "stars_total": 71156,
+  "stars_today": 685,
+  "one_liner": "An AI research assistant that scans Reddit, X, YouTube, Hacker News, and prediction markets to tell you what's genuinely trending on any topic right now, with sources to back it up.",
+  "buyer": "A content creator, marketer, or trend-focused newsletter writer who needs a fast, credible read on what's hot before writing about it.",
+  "business_use_cases": [
+    "A social-media agency runs it every morning to pick which trending topics to build client content around that day.",
+    "A niche newsletter writer uses it to find what their audience is already talking about before drafting the week's issue.",
+    "A startup's marketing team uses it to spot an emerging conversation early and jump in before competitors notice."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a daily 'what's trending in your niche' briefing to small businesses and creators as a subscription product.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer one-off trend research reports to marketing teams prepping a campaign.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Run it daily for one niche (fitness, personal finance, AI tools) and sell the resulting trend digest to five creators in that niche for $29/month each.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-20T12:08:13.000Z"
+}
