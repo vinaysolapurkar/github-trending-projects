@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-21",
+  "owner": "Tracer-Cloud",
+  "name": "opensre",
+  "full_name": "Tracer-Cloud/opensre",
+  "url": "https://github.com/Tracer-Cloud/opensre",
+  "description": "The open-source agent for CI/CD reliability.",
+  "language": "Python",
+  "stars_total": 13788,
+  "stars_today": 450,
+  "one_liner": "An AI agent that reads your broken CI pipeline, figures out why it failed, and proposes a fix for a human to review — instead of an engineer losing an hour staring at logs.",
+  "buyer": "An engineering lead at a mid-size company tired of engineers burning time debugging flaky or broken CI runs.",
+  "business_use_cases": [
+    "An engineering team self-hosts it so failed test runs come with a draft fix PR attached, cutting mean-time-to-green.",
+    "A DevOps consultancy offers 'CI reliability as a service' to clients, running this agent against their pipelines.",
+    "A platform team uses it to triage flaky-test noise automatically so humans only review real failures."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a managed/hosted version with support for teams who don't want to self-host, priced per seat or per repo.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell implementation and tuning services to get it working well on a company's specific CI setup.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Offer a free 1-week 'CI health audit' to three startups using this tool, then convert the ones with painful flaky-test problems into a paid setup engagement.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-21T12:07:15.000Z"
+}

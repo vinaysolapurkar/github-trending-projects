@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-21",
+  "owner": "cathrynlavery",
+  "name": "diagram-design",
+  "full_name": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+  "language": "HTML",
+  "stars_total": 69540,
+  "stars_today": 582,
+  "one_liner": "An AI skill that draws polished, on-brand explainer diagrams (flowcharts, architecture maps, timelines) as clean standalone files — no ugly default chart-tool look.",
+  "buyer": "A content marketer or technical blogger who needs good-looking diagrams for posts and docs but can't afford a designer for every article.",
+  "business_use_cases": [
+    "A SaaS company's content team generates on-brand architecture and 'how it works' diagrams for blog posts and docs without hiring a designer.",
+    "A solo newsletter writer uses it to add professional explainer visuals to every issue, raising perceived quality and sponsor appeal.",
+    "An agency offers 'AI-generated branded diagrams' as an add-on service for clients' pitch decks and one-pagers."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'diagram pack' service: clients send rough notes, you deliver 10 branded diagrams using this tool.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build a hosted SaaS wrapper (upload your brand colors, describe the diagram, get an SVG) and charge per export.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Build a simple web form over this skill: brand colors in, plain-English description in, branded SVG diagram out — charge $5 per diagram or $20/mo unlimited.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-21T12:07:15.000Z"
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-21",
+  "owner": "jingyaogong",
+  "name": "minimind",
+  "full_name": "jingyaogong/minimind",
+  "url": "https://github.com/jingyaogong/minimind",
+  "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+  "language": "Python",
+  "stars_total": 67917,
+  "stars_today": 488,
+  "one_liner": "An open teaching project that shows you how to train a tiny (64M parameter) AI language model from scratch for about the cost of a cup of coffee.",
+  "buyer": "Not a commercial buyer — this is an education/research project for people learning how large language models work internally.",
+  "business_use_cases": [
+    "A university AI course adopts it as lab material so students train a real (if small) LLM instead of only calling APIs.",
+    "A corporate AI-literacy trainer uses it as a hands-on demo to de-mystify LLMs for non-technical executives.",
+    "A content creator builds a paid video series walking through the code, monetizing the explanation rather than the code itself."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a structured paid course or workshop series built around reproducing the project step by step.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "There's no product here to sell, just teaching material — the realistic move is recording a 'build your own LLM in a weekend' paid workshop using this as the curriculum.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-21T12:07:15.000Z"
+}

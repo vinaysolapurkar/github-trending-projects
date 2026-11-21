@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-21",
+  "owner": "XiaoYouChR",
+  "name": "Ghost-Downloader-3",
+  "full_name": "XiaoYouChR/Ghost-Downloader-3",
+  "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+  "description": "The only downloader you need. 下载器的集大成者。",
+  "language": "Python",
+  "stars_total": 14100,
+  "stars_today": 774,
+  "one_liner": "A fast, all-purpose download manager app for grabbing files and videos off the internet more reliably than a browser's built-in downloader.",
+  "buyer": "An individual power-user who downloads a lot of files and wants speed and reliability — not really a business buyer.",
+  "business_use_cases": [
+    "A small media/research team standardizes on it internally to bulk-download reference files reliably.",
+    "A freelance video editor uses it to pull source footage and assets faster than default browser downloads.",
+    "A reseller bundles it (with attribution, since it's open source) into a 'productivity toolkit' sold to a non-technical audience."
+  ],
+  "money_ideas": [
+    {
+      "idea": "The open-source tool itself isn't resellable as a business, but a packaged 'tools bundle' curation service around free utilities like this could earn affiliate/ad revenue.",
+      "revenue_model": "ads"
+    }
+  ],
+  "steal_this": "This is a solid personal utility, not a business opportunity — the realistic move is skipping it as a product idea and just using it yourself.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-21T12:07:15.000Z"
+}

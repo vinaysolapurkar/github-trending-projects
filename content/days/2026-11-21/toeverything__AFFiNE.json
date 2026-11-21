@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-21",
+  "owner": "toeverything",
+  "name": "AFFiNE",
+  "full_name": "toeverything/AFFiNE",
+  "url": "https://github.com/toeverything/AFFiNE",
+  "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+  "language": "TypeScript",
+  "stars_total": 76024,
+  "stars_today": 577,
+  "one_liner": "A privacy-first app that combines a Notion-style notes/docs workspace with a Miro-style visual whiteboard in one tool, and you can run it entirely on your own machine.",
+  "buyer": "A small team or privacy-conscious professional who likes Notion and Miro but doesn't want their company's planning data sitting on someone else's servers.",
+  "business_use_cases": [
+    "A consulting boutique adopts it as their internal knowledge base because clients require data to stay on-premise.",
+    "A startup uses it to run product planning (docs + whiteboard) in one tool instead of paying for both Notion and Miro.",
+    "An agency white-labels a self-hosted instance as part of a 'private workspace' offering for security-sensitive clients."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer managed, private-cloud hosting and setup of AFFiNE for companies with compliance requirements.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell migration services helping teams move their existing Notion/Miro content into AFFiNE.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Offer a 'migrate your team from Notion to a private AFFiNE instance in a weekend' service to privacy-conscious small businesses.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-21T12:07:15.000Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-21",
+  "owner": "zhouxiaoka",
+  "name": "autoclip",
+  "full_name": "zhouxiaoka/autoclip",
+  "url": "https://github.com/zhouxiaoka/autoclip",
+  "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+  "language": "Python",
+  "stars_total": 12517,
+  "stars_today": 689,
+  "one_liner": "Paste a link to a podcast or long video and this tool automatically cuts it into short clips with captions, a cover image, and ready-to-post captions for TikTok, Reels, and Shorts.",
+  "buyer": "A podcaster or YouTuber who knows clipping is the best way to grow but doesn't have time to manually cut and caption every episode.",
+  "business_use_cases": [
+    "A podcast producer runs every new episode through it automatically to get 5-10 short clips ready to post same-day.",
+    "A social media agency offers 'podcast-to-shorts repurposing' as a service to clients, using this tool to do the heavy lifting.",
+    "A solo creator turns long YouTube videos into a week's worth of daily shorts without hiring an editor."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a 'we clip your podcast every week' subscription service for creators, built on top of this tool.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "White-label it as a feature inside a broader creator-tools SaaS, charging per minute of video processed.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Offer 5 podcasters a free first batch of clips this weekend using this tool, then convert them to a $99/mo 'clip my show every week' service.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-21T12:07:15.000Z"
+}

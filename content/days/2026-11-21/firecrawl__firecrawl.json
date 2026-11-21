@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-21",
+  "owner": "firecrawl",
+  "name": "firecrawl",
+  "full_name": "firecrawl/firecrawl",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+  "language": "TypeScript",
+  "stars_total": 205700,
+  "stars_today": 999,
+  "one_liner": "A service that turns any website into clean, structured data an AI program can read — like giving your AI agent eyes that can browse the entire internet for you.",
+  "buyer": "A founder building an AI product (research assistant, price tracker, lead-gen tool) who needs reliable web data without building and maintaining their own scraper.",
+  "business_use_cases": [
+    "A competitive-intelligence startup uses it to continuously scrape competitor pricing pages and feed changes into a client dashboard.",
+    "An AI recruiting tool uses it to pull and structure job postings and company pages at scale for candidate matching.",
+    "A no-code automation agency bills clients to build 'website monitor + alert' workflows on top of the API."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build a vertical product (e.g. 'competitor price monitoring for e-commerce') on top of the API and resell it as a subscription.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Charge clients for custom scraping/data pipelines billed by pages or credits consumed.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Build a 'daily competitor price change' email digest for a niche (e.g. local furniture stores) using the scrape API, and sell it as a $29/mo tool to shop owners.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-21T12:07:15.000Z"
+}

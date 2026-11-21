@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-21",
+  "owner": "nginx",
+  "name": "nginx",
+  "full_name": "nginx/nginx",
+  "url": "https://github.com/nginx/nginx",
+  "description": "The official NGINX Open Source repository.",
+  "language": "C",
+  "stars_total": 32642,
+  "stars_today": 195,
+  "one_liner": "The engine that quietly routes traffic for a huge share of websites on the internet — not a product you'd sell, just the plumbing underneath almost everything.",
+  "buyer": "Not really a single buyer — it's free infrastructure every hosting company and web team already relies on, so there's no new business to build from using it alone.",
+  "business_use_cases": [
+    "A hosting company configures it to serve thousands of customer sites as part of infrastructure they already sell.",
+    "A DevOps consultancy charges clients to tune and harden their nginx configuration for performance and security.",
+    "A web agency bundles 'nginx setup and SSL' as a line item in website-build packages for small business clients."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid nginx configuration audits and performance tuning for small businesses running their own servers.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Bundle managed-nginx hosting with support as a premium tier of a broader hosting business.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Honestly, there's no new weekend product here — the only realistic move is offering a $200 'secure your nginx server' audit to local businesses that self-host.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-21T12:07:15.000Z"
+}

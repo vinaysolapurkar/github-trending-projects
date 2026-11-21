@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-21",
+  "owner": "google-labs-code",
+  "name": "stitch-skills",
+  "full_name": "google-labs-code/stitch-skills",
+  "url": "https://github.com/google-labs-code/stitch-skills",
+  "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+  "language": "TypeScript",
+  "stars_total": 11194,
+  "stars_today": 324,
+  "one_liner": "A set of AI skills that let a coding assistant design app screens and UI mockups using Google's Stitch design tool, instead of a human designer sketching them by hand.",
+  "buyer": "A non-technical founder who needs believable app UI mockups fast to pitch investors or brief a developer, without hiring a designer.",
+  "business_use_cases": [
+    "A solo founder generates a full clickable mockup of their app idea for an investor pitch deck in an afternoon.",
+    "A dev agency uses it to rapidly produce UI options for client approval before committing engineering time.",
+    "A no-code course creator teaches students to go from idea to mockup using these skills as part of a paid bootcamp."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a 'pitch-ready mockup in 48 hours' freelance service for early-stage founders using these skills.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Offer a fixed-price '$150 app mockup in 2 days' service on a freelance marketplace, using this skill set to deliver fast.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-21T12:07:15.000Z"
+}

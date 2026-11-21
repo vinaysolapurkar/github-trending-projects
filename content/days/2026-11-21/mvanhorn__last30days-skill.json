@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-21",
+  "owner": "mvanhorn",
+  "name": "last30days-skill",
+  "full_name": "mvanhorn/last30days-skill",
+  "url": "https://github.com/mvanhorn/last30days-skill",
+  "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+  "language": "Python",
+  "stars_total": 71694,
+  "stars_today": 566,
+  "one_liner": "An AI research assistant that reads what real people are saying across Reddit, X, YouTube, Hacker News and prediction markets, then hands you a trustworthy summary of what's actually happening with a topic.",
+  "buyer": "A market researcher, VC analyst, or content creator who needs a fast, credible pulse-check on a trend without spending a day manually reading forums.",
+  "business_use_cases": [
+    "A VC associate runs it before a pitch meeting to get a grounded read on community sentiment about a startup's category.",
+    "A content creator uses it weekly to spot emerging topics across platforms before writing a 'what's trending' newsletter.",
+    "A brand's social team uses it to monitor real public sentiment about a product launch instead of relying on vanity metrics."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Turn it into a paid 'trend brief' newsletter for a niche (e.g. AI tools, fintech) delivered weekly.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer it as a white-label research tool for agencies who bill their own clients for trend reports.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Pick one niche (e.g. 'AI coding tools'), run this daily, and publish a free public 'what the internet is saying this week' digest to build an audience, then sell sponsorships.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-21T12:07:15.000Z"
+}

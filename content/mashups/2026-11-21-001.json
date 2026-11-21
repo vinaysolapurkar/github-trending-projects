@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-21-001",
+  "date": "2026-11-21",
+  "repo_a": "mvanhorn/last30days-skill",
+  "repo_b": "zhouxiaoka/autoclip",
+  "title": "The Always-On Trend Channel",
+  "pitch": "Content creators lose the trend race in the gap between 'this is blowing up right now' and 'I finally have a video about it.' Chain last30days-skill's cross-platform trend scan (Reddit, X, YouTube, Hacker News, Polymarket) straight into autoclip's link-to-shorts pipeline: every morning the research skill surfaces what's genuinely heating up in a niche, a human (or a second AI pass) turns that into a 60-second script or picks an existing long-form video that covers it, and autoclip renders it into captioned, platform-ready clips for TikTok, Reels, and Shorts before lunch. A solo creator or small agency could run this as a same-day 'trend reaction' content engine for 3-4 niches at once, something no single creator can do by manually scanning forums and editing video themselves.",
+  "why_now": "Both tools trended today because the same pressure is driving each of them — creators and researchers want less manual grunt work between noticing something and publishing about it — so wiring the noticing tool directly into the publishing tool collapses a day of work into an hour."
+}
