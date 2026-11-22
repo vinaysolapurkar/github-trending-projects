@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-22",
+  "owner": "cursor",
+  "name": "plugins",
+  "full_name": "cursor/plugins",
+  "url": "https://github.com/cursor/plugins",
+  "description": "Cursor plugin specification and official plugins",
+  "language": "TypeScript",
+  "stars_total": 18256,
+  "stars_today": 260,
+  "one_liner": "The official store of add-ons for the Cursor AI coding tool — things like Gmail, Salesforce, and GitHub connectors that plug straight into your coding assistant.",
+  "buyer": "Not an independent buyer opportunity — this is Cursor's own first-party plugin catalog, built and owned by the Cursor company.",
+  "business_use_cases": [
+    "A SaaS company builds and submits its own official Cursor plugin (like the Salesforce or Gong ones already listed) to reach developers inside their coding tool.",
+    "A dev-tools consultancy offers to build a custom internal Cursor plugin for an enterprise's proprietary systems.",
+    "A freelance developer builds a niche third-party plugin (e.g. for a smaller SaaS) to get distribution through Cursor's marketplace."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A SaaS vendor builds a free plugin here purely as a lead-gen/retention channel for their paid product.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Pick a SaaS tool you already use that has no Cursor plugin yet, build a thin wrapper plugin this weekend, and use it to get warm intros to that company.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-22T12:05:46.315Z"
+}

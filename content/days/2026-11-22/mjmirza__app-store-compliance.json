@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-22",
+  "owner": "mjmirza",
+  "name": "app-store-compliance",
+  "full_name": "mjmirza/app-store-compliance",
+  "url": "https://github.com/mjmirza/app-store-compliance",
+  "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+  "language": "Shell",
+  "stars_total": 3676,
+  "stars_today": 720,
+  "one_liner": "A checklist-and-guard system that catches the common reasons Apple and Google reject apps before you submit, so you don't lose days waiting on a rejection.",
+  "buyer": "An indie mobile app developer or small app agency who has been burned by App Store rejections eating their launch timeline.",
+  "business_use_cases": [
+    "A solo app developer runs it before every submission to catch privacy-manifest and metadata issues automatically.",
+    "A mobile dev agency bakes it into their delivery checklist so client apps don't get rejected on the agency's watch.",
+    "A startup preparing a big launch date uses the deadline tracker to make sure they submit early enough to survive a rejection-and-resubmit cycle."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'pre-submission compliance review' service for app teams about to launch.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build a hosted SaaS version that scans an app binary/metadata automatically and charges per scan or per month.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Package this as a paid Fiverr/Upwork gig: '$99 pre-submission App Store review' — run the open playbook against a client's app and hand them a fix list.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-22T12:05:46.315Z"
+}

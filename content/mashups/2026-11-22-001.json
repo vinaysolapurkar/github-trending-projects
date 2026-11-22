@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-22-001",
+  "date": "2026-11-22",
+  "repo_a": "HKUDS/CLI-Anything",
+  "repo_b": "firecrawl/firecrawl",
+  "title": "The Unattended Back-Office Agent",
+  "pitch": "Small businesses have a dozen web-based tools (inventory, invoicing, booking, supplier portals) with no API, so 'automate it' always means hiring someone to click around manually. CLI-Anything turns any of those dashboards into a command-line interface an AI agent can drive reliably, while Firecrawl gives the same agent eyes on the open web — competitor prices, supplier stock pages, review sites. Wire them together and you get an agent that watches the web with Firecrawl and acts on the business's own internal tools through CLI-Anything's generated CLIs: restock before a supplier's price jumps, flag a competitor's new promo, update a listing the moment stock changes. An agency could package this as a done-for-you 'autonomous back office' for independent retailers and service shops that can't justify a full-time ops hire.",
+  "why_now": "Both repos are racing toward the same idea from opposite ends this week — CLI-Anything making closed software agent-controllable, Firecrawl making the open web agent-readable — so the obvious next step is plugging one agent into both and letting it run the loop end to end."
+}
