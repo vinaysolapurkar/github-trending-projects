@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-23",
+  "owner": "openvinotoolkit",
+  "name": "openvino",
+  "full_name": "openvinotoolkit/openvino",
+  "url": "https://github.com/openvinotoolkit/openvino",
+  "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+  "language": "C++",
+  "stars_total": 12196,
+  "stars_today": 183,
+  "one_liner": "A toolkit from Intel that makes AI models run faster and cheaper on everyday computer chips instead of needing expensive specialized hardware.",
+  "buyer": "A hardware or edge-device company — security cameras, retail kiosks, industrial sensors — that needs to run AI models on-device without cloud costs or GPUs.",
+  "business_use_cases": [
+    "A smart-camera or retail-analytics company runs object detection directly on in-store cameras instead of streaming video to the cloud.",
+    "An industrial IoT integrator optimizes defect-detection models to run on ordinary factory-floor PCs.",
+    "A consultant specializes in 'shrink your AI model to run on cheap hardware' optimization services for hardware startups."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid model-optimization consulting for companies wanting to deploy AI on edge or CPU hardware instead of expensive GPUs.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build and sell a pre-optimized model pack tuned for common edge devices in a specific vertical like retail or security.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Take a popular open vision model, optimize it with this toolkit for a cheap device like a Raspberry Pi or Intel NUC, and sell the optimized package to the maker/hobbyist audience this weekend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-23T12:08:24.945Z"
+}

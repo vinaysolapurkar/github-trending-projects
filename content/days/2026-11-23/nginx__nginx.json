@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-23",
+  "owner": "nginx",
+  "name": "nginx",
+  "full_name": "nginx/nginx",
+  "url": "https://github.com/nginx/nginx",
+  "description": "The official NGINX Open Source repository.",
+  "language": "C",
+  "stars_total": 32973,
+  "stars_today": 174,
+  "one_liner": "The software that quietly runs a huge chunk of the internet's websites, routing and serving web traffic behind the scenes.",
+  "buyer": "There's no fresh business opportunity in the repo itself — it's commodity infrastructure every hosting company and sysadmin already runs; the real buyer is an ops team wanting it tuned or secured.",
+  "business_use_cases": [
+    "A managed-hosting company bundles pre-tuned NGINX configs as a 'performance package' add-on for clients' sites.",
+    "A consultant sells NGINX security-hardening and performance-tuning audits to companies running it in production.",
+    "An agency builds a reverse-proxy-as-a-service product on top of it for smaller companies without a dedicated ops team."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer paid NGINX configuration and performance audits to small and mid-size companies.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell a managed reverse-proxy hosting service built on it, billed monthly.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Package a handful of battle-tested NGINX config templates (caching, rate-limiting, TLS) for one specific stack like WordPress or Node, and sell them as a $20 config pack this weekend.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-23T12:08:24.945Z"
+}

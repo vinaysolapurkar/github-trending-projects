@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-23",
+  "owner": "zhouxiaoka",
+  "name": "autoclip",
+  "full_name": "zhouxiaoka/autoclip",
+  "url": "https://github.com/zhouxiaoka/autoclip",
+  "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+  "language": "Python",
+  "stars_total": 14058,
+  "stars_today": 908,
+  "one_liner": "Feed it a podcast or long video link, and it automatically cuts it into short clips with captions, covers, and ready-to-post text for TikTok, Instagram Reels, and YouTube Shorts.",
+  "buyer": "A podcaster or online course creator who knows short clips drive growth but can't afford to pay a video editor every week.",
+  "business_use_cases": [
+    "A podcaster runs every new episode through it to get 5-10 ready-to-post short clips for TikTok, Reels, and Shorts without hiring an editor.",
+    "A social media agency uses it as the first-pass engine for a 'long-form to short-form repurposing' service it resells to multiple podcast and course clients.",
+    "An online course creator turns lecture recordings into bite-sized promotional clips to drive course sales on social media."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Launch a 'send us your podcast link, get 10 short clips back in 24 hours' productized subscription service for podcasters.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer one-off bulk repurposing packages for creators sitting on a backlog of old long-form content.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "This weekend, set it up and offer 3 free sample clips to 10 podcasters you find on Spotify or YouTube, then pitch a monthly repurposing subscription to the ones who respond.",
+  "opportunity_rating": 5,
+  "generated_at": "2026-11-23T12:08:24.945Z"
+}

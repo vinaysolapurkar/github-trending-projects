@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-23-001",
+  "date": "2026-11-23",
+  "repo_a": "mvanhorn/last30days-skill",
+  "repo_b": "zhouxiaoka/autoclip",
+  "title": "TrendClip",
+  "pitch": "Wire last30days-skill's trend research straight into autoclip's video pipeline: every morning the agent scans Reddit, X, YouTube, Hacker News, and Polymarket for the 3 topics a niche audience is actually arguing about right now, drafts a short, grounded talking-points script for each, feeds it to a text-to-speech voice over stock or screen-recorded footage, and lets autoclip cut, caption, and format the result for TikTok, Reels, and Shorts. A solo creator (or an agency running this for a dozen clients) wakes up to a folder of ready-to-review 'faceless' short videos reacting to the news cycle, instead of spending two hours each morning doomscrolling for ideas and another hour in an editor. Sell it as a subscription to creators and small media accounts who want daily output without a writers' room or an editor.",
+  "why_now": "Both tools trended today for the same underlying reason: creators and agencies are racing to automate the two most time-consuming parts of a content business — knowing what to say, and turning it into a posted short-form video. Chaining today's 'what's trending' research skill directly into today's 'link to finished clip' pipeline closes that loop end to end, and neither repo needs to be combined by its own authors for someone else to ship it as a service this week."
+}

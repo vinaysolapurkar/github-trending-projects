@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-23",
+  "owner": "mvanhorn",
+  "name": "last30days-skill",
+  "full_name": "mvanhorn/last30days-skill",
+  "url": "https://github.com/mvanhorn/last30days-skill",
+  "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+  "language": "Python",
+  "stars_total": 73112,
+  "stars_today": 790,
+  "one_liner": "An AI research assistant that reads what people are actually saying across Reddit, X, YouTube, Hacker News, and prediction markets on any topic, then writes you a clear summary of the current conversation.",
+  "buyer": "A marketing or trend-research agency that currently pays analysts to manually track 'what's trending' for clients across social platforms.",
+  "business_use_cases": [
+    "A marketing agency produces weekly 'what's being said about your brand or industry' briefings for clients instead of manual social listening.",
+    "A VC or angel investor quickly gauges real sentiment and prediction-market odds on an emerging trend before investing.",
+    "A content creator finds what's actually being discussed right now in their niche to pick timely video or newsletter topics."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a weekly 'trend briefing' newsletter subscription for a specific niche (AI tools, crypto, fitness) built on top of it.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer one-off custom research reports for clients who want a deep dive on a specific topic or competitor.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Pick a niche you know well, run this daily against it, and launch a $10/month newsletter summarizing 'what the internet is saying about X this week' by this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-23T12:08:24.945Z"
+}

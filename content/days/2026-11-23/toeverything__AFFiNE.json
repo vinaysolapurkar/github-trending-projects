@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-23",
+  "owner": "toeverything",
+  "name": "AFFiNE",
+  "full_name": "toeverything/AFFiNE",
+  "url": "https://github.com/toeverything/AFFiNE",
+  "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+  "language": "TypeScript",
+  "stars_total": 77112,
+  "stars_today": 593,
+  "one_liner": "A single app that replaces both your notes app and your whiteboard app, and — unlike Notion — you can run it entirely on your own computer or server so your data never leaves your control.",
+  "buyer": "A privacy-conscious small business, law firm, or medical practice that wants Notion-like organization but is contractually or legally barred from putting client data in someone else's cloud.",
+  "business_use_cases": [
+    "A law firm or healthcare practice self-hosts it internally to get team wikis and project planning without putting confidential client data in a third-party cloud.",
+    "An IT consultancy offers 'private Notion alternative, set up and hosted for you' as a managed service to privacy-sensitive SMBs.",
+    "A privacy-focused startup bundles a hardened, pre-configured version as a turnkey internal tool for security-conscious enterprise clients."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer white-glove self-hosting, setup, and maintenance for businesses that want it run privately but lack IT staff.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Build and sell premium templates for specific industries, like legal case tracking or clinical workflows, on top of the open base.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Package a pre-configured, one-click self-hosted deployment (Docker, backups, SSL) for a specific niche like law firms, and sell it as a $299 setup service this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-23T12:08:24.945Z"
+}

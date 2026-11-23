@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-23",
+  "owner": "google-labs-code",
+  "name": "stitch-skills",
+  "full_name": "google-labs-code/stitch-skills",
+  "url": "https://github.com/google-labs-code/stitch-skills",
+  "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+  "language": "TypeScript",
+  "stars_total": 12103,
+  "stars_today": 425,
+  "one_liner": "A set of AI skills that turns a plain-English description of an app idea into actual visual UI designs, without needing a designer.",
+  "buyer": "A non-technical founder or solo developer who needs decent-looking app screens for a pitch deck or MVP but can't afford a designer.",
+  "business_use_cases": [
+    "A solo founder generates a clickable UI mockup for their app idea to show investors before writing any code.",
+    "An agency that builds MVPs for clients uses it to speed up the initial design phase, cutting design time on fixed-price projects.",
+    "A no-code app builder platform integrates it to offer 'describe your app, get a design' as an onboarding feature."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a 'pitch-deck-ready UI mockup in 24 hours' productized service for pre-seed founders.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build a wrapper SaaS where non-technical users pay monthly to generate and iterate on app UI designs.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Launch a $99 'app mockup in a day' service targeting first-time founders on indie-hacker and startup forums this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-23T12:08:24.945Z"
+}

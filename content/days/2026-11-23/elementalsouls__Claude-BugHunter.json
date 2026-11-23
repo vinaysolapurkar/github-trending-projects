@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-23",
+  "owner": "elementalsouls",
+  "name": "Claude-BugHunter",
+  "full_name": "elementalsouls/Claude-BugHunter",
+  "url": "https://github.com/elementalsouls/Claude-BugHunter",
+  "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+  "language": "Python",
+  "stars_total": 18816,
+  "stars_today": 2037,
+  "one_liner": "A plug-in pack that turns an AI coding assistant into a trained bug-bounty hunter, teaching it hundreds of real attack patterns against websites and corporate networks.",
+  "buyer": "A freelance bug bounty hunter or boutique penetration-testing consultancy who wants to find more vulnerabilities faster and win more bounties or client contracts.",
+  "business_use_cases": [
+    "A freelance pentester uses it to triage a new client's web app overnight, surfacing likely vulnerability classes before the on-site engagement even starts.",
+    "A boutique security consultancy standardizes every engagement on this skill bundle so junior testers can produce senior-level findings.",
+    "A bug bounty hunter runs it against newly launched startups' sites to find exploitable patterns before an official bounty program fills up."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Run a paid managed bug-hunting service where you use the toolkit against clients' own infrastructure and sell the vulnerability report.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a hosted/managed version with compliance reporting for security teams who don't want to run Claude Code themselves.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "This weekend, run it against 2-3 bug bounty programs you already have access to on HackerOne or Bugcrowd and submit findings for bounty payouts — the tool itself is the product here, not something to wrap.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-23T12:08:24.945Z"
+}

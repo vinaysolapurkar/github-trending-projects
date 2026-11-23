@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-23",
+  "owner": "mjmirza",
+  "name": "app-store-compliance",
+  "full_name": "mjmirza/app-store-compliance",
+  "url": "https://github.com/mjmirza/app-store-compliance",
+  "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+  "language": "Shell",
+  "stars_total": 4463,
+  "stars_today": 755,
+  "one_liner": "A checklist and automated guard that catches the mistakes that get mobile apps rejected from the App Store or Google Play, and flags upcoming privacy-law deadlines, before you submit.",
+  "buyer": "A solo indie app developer or small mobile studio that has been burned by app store rejections and can't afford a dedicated compliance or legal person.",
+  "business_use_cases": [
+    "A solo indie developer runs it before every submission to catch privacy-manifest and metadata issues that would otherwise cause a multi-day rejection cycle.",
+    "A small mobile agency offers 'guaranteed first-try approval' as a selling point to clients by running this checklist as part of QA.",
+    "A compliance consultant uses the tracked-deadline list (EU AI Act, DSA, COPPA) to proactively alert mobile-app clients about upcoming legal requirements, as a retainer service."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid pre-submission compliance audit service for indie developers and small studios.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build a hosted dashboard that tracks a studio's apps against the 112 deadlines and alerts them, sold as a subscription.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Turn this into a paid pre-submission checklist service on Upwork or Fiverr for indie app developers this weekend — review their app against the 124 patterns for a flat fee.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-23T12:08:24.945Z"
+}
