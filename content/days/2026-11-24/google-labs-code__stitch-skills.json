@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-24",
+  "owner": "google-labs-code",
+  "name": "stitch-skills",
+  "full_name": "google-labs-code/stitch-skills",
+  "url": "https://github.com/google-labs-code/stitch-skills",
+  "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+  "language": "TypeScript",
+  "stars_total": 12496,
+  "stars_today": 401,
+  "one_liner": "A set of ready-made AI skills that plug into Google's Stitch design tool, letting an AI coding assistant generate and build UI designs for you.",
+  "buyer": "A solo developer or small agency who needs decent-looking app UI fast but has no in-house designer.",
+  "business_use_cases": [
+    "A freelance developer uses it to turn a client's rough app idea into a working UI mockup in an afternoon, speeding up client pitches.",
+    "A no-code agency standardizes their UI generation workflow around these skills to deliver more projects per month.",
+    "An indie hacker prototypes multiple app ideas' UIs quickly to decide which one to actually build."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a flat-fee 'UI mockup in 24 hours' service for other indie founders, built on this skill stack.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Package curated, industry-specific skill presets (e.g. 'restaurant app UI kit') and sell them.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Offer a $50 'AI-generated UI mockup' gig on a freelance marketplace this weekend, using this skill set as your production pipeline.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-24T12:08:40.217Z"
+}

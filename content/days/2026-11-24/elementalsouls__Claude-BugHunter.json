@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-24",
+  "owner": "elementalsouls",
+  "name": "Claude-BugHunter",
+  "full_name": "elementalsouls/Claude-BugHunter",
+  "url": "https://github.com/elementalsouls/Claude-BugHunter",
+  "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+  "language": "Python",
+  "stars_total": 20612,
+  "stars_today": 1833,
+  "one_liner": "A pre-packaged bundle of skills that turns an AI coding assistant into a senior bug-bounty hunter and red-team researcher, complete with attack playbooks for real companies' systems.",
+  "buyer": "A boutique penetration-testing or bug-bounty consultancy that wants its junior researchers to work faster without hiring a senior red-teamer.",
+  "business_use_cases": [
+    "A bug-bounty hunter runs it against an authorized target to triage easy vulnerability classes first, saving their own time for the hard findings.",
+    "A pentest firm uses the enterprise identity/infrastructure attack matrices to standardize how junior staff approach M365, Okta, and VPN-appliance engagements.",
+    "A security trainer builds a paid bootcamp around the bundle, teaching students via its disclosed-report pattern library."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell a 'pro' tier with proprietary attack-chain templates and private CVE research not in the free bundle.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Offer paid engagement-review services where the author audits a firm's findings for completeness.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Package one of the 24 vulnerability-class skill modules as a standalone, well-documented Claude Code skill and sell it on skills.sh this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-24T12:08:40.217Z"
+}

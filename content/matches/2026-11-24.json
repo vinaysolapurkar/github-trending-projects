@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-24",
+  "matches": [
+    { "problem_id": "p001", "repo": "zhouxiaoka/autoclip", "why": "It directly automates cutting long video into short, captioned social clips, which is exactly the weekly chore described.", "confidence": "high" },
+    { "problem_id": "p002", "repo": null, "why": "Nothing today generates product photography; still unsolved by today's trending list." },
+    { "problem_id": "p003", "repo": null, "why": "No repo today addresses persistent project memory for an AI coding assistant." },
+    { "problem_id": "p004", "repo": "obra/superpowers", "why": "It's a discipline/methodology layer meant to stop an AI coding agent from skipping planning and review, which tends to produce exactly this kind of bloat.", "confidence": "medium" },
+    { "problem_id": "p005", "repo": null, "why": "No PDF/reference-management tool trended today." },
+    { "problem_id": "p006", "repo": "cathrynlavery/diagram-design", "why": "Clean on-brand diagrams can explain a news story visually without needing real footage, though it's a stretch fit for 'breaking news' speed.", "confidence": "low" },
+    { "problem_id": "p007", "repo": null, "why": "Nothing bioinformatics-specific trended today." },
+    { "problem_id": "p008", "repo": null, "why": "AFFiNE is a self-hosted notes/whiteboard app, not a private AI chat tool — not a real fit for a law firm's AI chat need." },
+    { "problem_id": "p009", "repo": null, "why": "autoclip clips existing video/audio; it doesn't generate narrated video from written blog text, so it doesn't actually solve this one." },
+    { "problem_id": "p010", "repo": "toeverything/AFFiNE", "why": "It's explicitly a privacy-first, self-hosted, open-source alternative to cloud note apps — a direct match.", "confidence": "high" },
+    { "problem_id": "p011", "repo": "cathrynlavery/diagram-design", "why": "Generating a clean architecture diagram from a messy codebase's structure is a reasonable way to speed up onboarding, though it still needs someone to describe the system first.", "confidence": "low" },
+    { "problem_id": "p012", "repo": "jingyaogong/minimind", "why": "It's a genuinely good hands-on starting point for understanding how to build an AI model, though it's closer to an education project than a product-building template.", "confidence": "low" },
+    { "problem_id": "p013", "repo": null, "why": "No restaurant/inventory-management tool trended today." }
+  ]
+}

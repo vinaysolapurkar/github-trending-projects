@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-24-001",
+  "date": "2026-11-24",
+  "repo_a": "mvanhorn/last30days-skill",
+  "repo_b": "zhouxiaoka/autoclip",
+  "title": "Trend-to-Clip Factory",
+  "pitch": "Chain last30days (which scans Reddit, X, YouTube, HN, and prediction markets to find what people are genuinely talking about on a topic right now) into autoclip (which turns raw video into ready-to-post captioned short clips). Each night the pipeline researches a creator's niche for the sharpest trending angle, drafts a short talking-points script, and runs it against the creator's own backlog of raw footage to produce two or three on-trend draft clips. A busy podcaster or YouTuber wakes up to clips they can approve and post immediately, instead of spending their Sunday night researching trends and then editing video to match them.",
+  "why_now": "Short-form platforms reward same-day reaction content, but most creators lose the trend window doing manual research and then lose more time editing — chaining these two freshly-trending AI skills collapses both bottlenecks into a single overnight job."
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-24",
+  "owner": "mjmirza",
+  "name": "app-store-compliance",
+  "full_name": "mjmirza/app-store-compliance",
+  "url": "https://github.com/mjmirza/app-store-compliance",
+  "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+  "language": "Shell",
+  "stars_total": 5379,
+  "stars_today": 936,
+  "one_liner": "A checklist-and-scanner playbook that catches the most common reasons Apple and Google reject apps before you submit, so you don't waste a whole review cycle.",
+  "buyer": "A solo mobile app developer or small app studio who has been burned by a surprise App Store rejection and needs to ship on a deadline.",
+  "business_use_cases": [
+    "An indie app developer runs the pre-submission guard before every release to avoid losing days to a rejection-and-resubmit cycle.",
+    "A mobile dev agency bakes it into their client delivery checklist as a quality guarantee that reduces support headaches.",
+    "A compliance consultant uses the tracked-deadline list (EU AI Act, DSA, COPPA, age laws) to offer regulatory-readiness audits to app studios."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'pre-submission audit' service for studios who want a human to double-check before they hit submit.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Build a hosted dashboard that tracks a studio's apps against live regulatory deadlines, sold as a subscription.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Turn the playbook into a $20 'pre-submission checklist' Gumroad product for solo app developers, plus a paid 1:1 review add-on.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-24T12:08:40.217Z"
+}

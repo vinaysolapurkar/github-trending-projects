@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-24",
+  "owner": "nginx",
+  "name": "nginx",
+  "full_name": "nginx/nginx",
+  "url": "https://github.com/nginx/nginx",
+  "description": "The official NGINX Open Source repository.",
+  "language": "C",
+  "stars_total": 33125,
+  "stars_today": 158,
+  "one_liner": "The web server software that quietly runs a huge share of the internet's traffic behind the scenes — it routes requests to the right place and serves pages fast.",
+  "buyer": "Honestly, not a buyer for a new indie business — nginx itself is free, mature, core infrastructure already bundled everywhere; the only real opportunity is in services built around it, not the software itself.",
+  "business_use_cases": [
+    "A managed-hosting company sells 'nginx configured and hardened for you' as a line item to small businesses afraid of config files.",
+    "A security consultant audits and hardens client nginx configs against common misconfiguration exploits.",
+    "An infra-as-a-service startup builds a friendly dashboard on top of raw nginx config for non-technical site owners."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer one-off nginx config audits and hardening for small businesses running their own servers.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell a subscription monitoring/alerting dashboard layered on top of nginx access logs.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Package a dead-simple 'upload your nginx.conf, get a hardening report' web tool and charge a flat fee per scan.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-24T12:08:40.217Z"
+}

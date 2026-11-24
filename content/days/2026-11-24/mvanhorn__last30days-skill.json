@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-24",
+  "owner": "mvanhorn",
+  "name": "last30days-skill",
+  "full_name": "mvanhorn/last30days-skill",
+  "url": "https://github.com/mvanhorn/last30days-skill",
+  "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+  "language": "Python",
+  "stars_total": 73798,
+  "stars_today": 695,
+  "one_liner": "An AI research assistant that reads what real people are actually saying across Reddit, X, YouTube, Hacker News, and prediction markets on any topic, then writes you a grounded summary instead of generic AI guesses.",
+  "buyer": "A content creator or small marketing team that needs fresh, credible talking points on a trending topic but doesn't have an in-house research team.",
+  "business_use_cases": [
+    "A newsletter writer runs it every morning on their niche topic to find real discussion threads worth covering, instead of guessing what's trending.",
+    "A brand's social media manager checks genuine audience sentiment on a topic before posting, avoiding tone-deaf content.",
+    "An investment researcher cross-references prediction-market odds with social chatter to sanity-check a thesis before writing it up."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a paid 'daily trend briefing' newsletter for a specific niche, generated with this skill plus human editing.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell one-off custom research reports to marketing agencies on demand.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Pick one niche (e.g. 'AI coding tools'), run this daily, and publish a free public digest to build an audience you can later monetize with sponsorships.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-24T12:08:40.217Z"
+}

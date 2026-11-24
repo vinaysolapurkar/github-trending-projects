@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-24",
+  "owner": "HKUDS",
+  "name": "CLI-Anything",
+  "full_name": "HKUDS/CLI-Anything",
+  "url": "https://github.com/HKUDS/CLI-Anything",
+  "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+  "language": "Python",
+  "stars_total": 64237,
+  "stars_today": 1075,
+  "one_liner": "Automatically builds a command-line remote control for any piece of software, so an AI agent can operate it the way a person would click through buttons and menus.",
+  "buyer": "A software vendor who wants their product to work with AI agents like Claude Code or Cursor without hand-building an integration.",
+  "business_use_cases": [
+    "A SaaS company generates a CLI for their own product so customers' AI agents can automate tasks inside it, turning it into a sales differentiator.",
+    "An agency that modernizes legacy enterprise software uses it to agent-enable desktop apps nobody wants to rewrite.",
+    "A marketplace (the project's own CLI-Hub) charges vendors to list a verified, agent-ready CLI for their product."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Charge software vendors a listing/verification fee to get their generated CLI featured on CLI-Hub.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer paid custom-CLI-generation consulting for companies with complex proprietary software.",
+      "revenue_model": "usage"
+    }
+  ],
+  "steal_this": "Pick one popular desktop app that has no API, generate a clean CLI for it this weekend, and publish it to CLI-Hub to claim the first listing.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-24T12:08:40.217Z"
+}

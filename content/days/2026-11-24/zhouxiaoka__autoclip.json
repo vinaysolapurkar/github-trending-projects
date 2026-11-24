@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-24",
+  "owner": "zhouxiaoka",
+  "name": "autoclip",
+  "full_name": "zhouxiaoka/autoclip",
+  "url": "https://github.com/zhouxiaoka/autoclip",
+  "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+  "language": "Python",
+  "stars_total": 15020,
+  "stars_today": 981,
+  "one_liner": "An AI tool that takes a long podcast, interview, or livestream and automatically cuts it into short, captioned clips ready to post on TikTok, Instagram, and YouTube Shorts.",
+  "buyer": "A podcast host or small content agency that knows short clips drive growth but doesn't have hours to manually re-edit every episode.",
+  "business_use_cases": [
+    "A podcast production agency runs every client episode through it to generate a week's worth of short-form clips automatically, cutting editing costs.",
+    "A solo YouTuber turns long livestreams into daily short clips without hiring an editor.",
+    "A social media manager turns a company executive's long talks and webinars into bite-sized LinkedIn/TikTok content."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer a 'done for you' short-form clipping service for podcasters, run on this tool, billed per episode.",
+      "revenue_model": "usage"
+    },
+    {
+      "idea": "Build a hosted SaaS wrapper around it and sell monthly clip-generation plans to creators.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer three podcasters a free trial week of auto-generated clips from their back catalog, then convert them to a $50-100/month clipping subscription.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-24T12:08:40.217Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-24",
+  "owner": "firecrawl",
+  "name": "firecrawl",
+  "full_name": "firecrawl/firecrawl",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+  "language": "TypeScript",
+  "stars_total": 208403,
+  "stars_today": 990,
+  "one_liner": "A single API that turns any website into clean, structured data an AI agent can read — scraping, search, and crawling, so developers don't have to fight HTML and anti-bot walls themselves.",
+  "buyer": "An AI startup founder building a product that needs live web data (prices, listings, news) but doesn't want to build and maintain a scraping team.",
+  "business_use_cases": [
+    "A price-intelligence startup builds a 'track my competitors' prices' SaaS for small e-commerce brands entirely on top of Firecrawl's API.",
+    "A market-research agency offers clients an 'ask anything about any industry's web presence' service, feeding Firecrawl's output into an LLM.",
+    "A lead-gen agency scrapes company websites at scale to pre-qualify prospects before a sales call."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Build a narrow vertical SaaS (e.g. restaurant menu price tracking) on top of the API and charge a monthly fee.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Resell scraped, cleaned datasets for a specific niche industry.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Build a one-page 'watch this website, email me when the price changes' tool this weekend using Firecrawl as the scraping backend, and charge a few dollars a month per watched URL.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-24T12:08:40.217Z"
+}

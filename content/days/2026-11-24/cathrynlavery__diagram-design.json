@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-24",
+  "owner": "cathrynlavery",
+  "name": "diagram-design",
+  "full_name": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+  "language": "HTML",
+  "stars_total": 71453,
+  "stars_today": 794,
+  "one_liner": "An AI skill that draws clean, on-brand diagrams (flowcharts, architecture maps, etc.) as a single self-contained HTML file — no more ugly default auto-generated chart boxes.",
+  "buyer": "A startup founder or technical writer who needs investor-deck-quality diagrams but can't afford a designer and hates how AI-generated diagrams usually look.",
+  "business_use_cases": [
+    "A fractional CTO uses it to produce clean architecture diagrams for client pitch decks and technical docs in minutes.",
+    "A content agency offers 'AI-generated, on-brand diagrams' as an add-on service for blog posts and case studies.",
+    "A no-code founder builds documentation sites with professional-looking diagrams without hiring a designer."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Sell branded diagram 'theme packs' (color palettes, fonts, styles) as one-off purchases.",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Offer a hosted 'describe your system, get a diagram' web app as a subscription for non-technical founders.",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build a tiny web wrapper around the skill — paste your architecture notes, get a polished diagram, charge per export.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-24T12:08:40.217Z"
+}

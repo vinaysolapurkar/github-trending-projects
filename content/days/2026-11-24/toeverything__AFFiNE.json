@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-24",
+  "owner": "toeverything",
+  "name": "AFFiNE",
+  "full_name": "toeverything/AFFiNE",
+  "url": "https://github.com/toeverything/AFFiNE",
+  "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+  "language": "TypeScript",
+  "stars_total": 77676,
+  "stars_today": 589,
+  "one_liner": "A privacy-first, open-source app that combines a Notion-style notes/wiki with a Miro-style whiteboard in one tool you can run yourself instead of trusting a cloud company with your data.",
+  "buyer": "A privacy-conscious small business or team (e.g. a law firm or healthcare startup) that wants Notion-like planning tools but can't put sensitive data in a Big Tech cloud.",
+  "business_use_cases": [
+    "A law firm self-hosts it as an internal wiki and case-planning board, satisfying client-confidentiality requirements Notion can't meet.",
+    "An agency offers 'self-hosted AFFiNE setup and theming' as a productized service for privacy-sensitive clients.",
+    "A startup studio builds and sells a custom AFFiNE template pack (OKRs, roadmaps, sprint boards) for teams migrating off Notion."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer managed self-hosting (set up, update, back up AFFiNE) for privacy-sensitive SMBs.",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "Sell premium template packs for common team workflows.",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Package a one-click 'self-hosted AFFiNE for your law firm/clinic' deployment service and pitch it directly to a few local privacy-regulated businesses.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-24T12:08:40.217Z"
+}
