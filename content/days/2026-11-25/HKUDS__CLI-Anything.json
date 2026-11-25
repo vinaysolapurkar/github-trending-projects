@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-25",
+  "owner": "HKUDS",
+  "name": "CLI-Anything",
+  "full_name": "HKUDS/CLI-Anything",
+  "url": "https://github.com/HKUDS/CLI-Anything",
+  "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+  "language": "Python",
+  "stars_total": 65316,
+  "stars_today": 1094,
+  "one_liner": "A toolkit and public library of command-line 'translators' that let AI agents operate ordinary software (like Blender, Obsidian, or Rekordbox) the same way a human would click through a GUI.",
+  "buyer": "A software vendor's developer-relations team that wants their product to be usable by AI coding agents, but has no one internally who understands how to build that bridge.",
+  "business_use_cases": [
+    "A small dev agency gets paid by niche software vendors to build and publish an 'agent-native CLI' for their product on the public hub, as a marketing and integration play.",
+    "An AI-agent integration shop uses it as the base layer to offer 'make any of your internal tools agent-usable' as a fixed-scope engagement for mid-size companies.",
+    "A contributor builds CLIs for popular creative or productivity apps and takes paid feature requests from companies wanting their software prioritized on the hub."
+  ],
+  "money_ideas": [
+    { "idea": "Contract fee for building a vendor-specific agent-native CLI and publishing/maintaining it", "revenue_model": "one-off" },
+    { "idea": "Paid priority/sponsored listing or maintenance tier for vendors on CLI-Hub", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Pick one popular desktop app without an agent-native CLI yet, build a minimal wrapper with this framework over a weekend, publish it to the hub, and pitch the vendor directly.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-25T12:15:00Z"
+}

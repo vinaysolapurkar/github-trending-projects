@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-25",
+  "owner": "toeverything",
+  "name": "AFFiNE",
+  "full_name": "toeverything/AFFiNE",
+  "url": "https://github.com/toeverything/AFFiNE",
+  "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+  "language": "TypeScript",
+  "stars_total": 78229,
+  "stars_today": 578,
+  "one_liner": "A Notion-and-Miro-style notes-and-planning app you can run yourself, so your team's documents never have to live on someone else's cloud server.",
+  "buyer": "A small law firm, healthcare practice, or any data-sensitive consultancy that wants Notion-like docs and planning but isn't allowed to put client data on a third-party cloud.",
+  "business_use_cases": [
+    "An IT consultancy offers a paid 'self-hosted AFFiNE setup + migration from Notion' package for privacy-conscious small businesses and regulated-industry clients.",
+    "An agency white-labels self-hosted AFFiNE instances for clients in law, healthcare, or finance who are required to keep data on-premise or in a specific region.",
+    "A reseller bundles AFFiNE hosting plus team training for companies trying to cut their Notion/Miro subscription costs at scale."
+  ],
+  "money_ideas": [
+    { "idea": "One-off migration and self-hosted setup project for a privacy-conscious small business", "revenue_model": "one-off" },
+    { "idea": "Managed hosting subscription for clients who want the self-hosted benefits without running their own servers", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Offer local law and healthcare offices a 'bring your Notion in-house' migration package this month, pricing it against what they'd pay a cloud SaaS over two years.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-25T12:15:00Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-25",
+  "owner": "jingyaogong",
+  "name": "minimind",
+  "full_name": "jingyaogong/minimind",
+  "url": "https://github.com/jingyaogong/minimind",
+  "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+  "language": "Python",
+  "stars_total": 70712,
+  "stars_today": 828,
+  "one_liner": "A complete, cheap, step-by-step recipe for building a tiny AI chatbot from absolute zero on an ordinary computer, instead of just calling someone else's model.",
+  "buyer": "A corporate L&D manager or online course creator who wants to sell 'understand AI from the inside' training to engineers and managers who only know how to use ChatGPT, not build anything like it.",
+  "business_use_cases": [
+    "An online educator packages this repo into a paid weekend cohort course: 'Build your own 64M-parameter LLM in a weekend', complete with recorded walkthroughs.",
+    "A corporate trainer runs a one-day AI-literacy workshop for non-ML engineers using it as the hands-on lab, billed per seat to the employer.",
+    "An embedded-hardware consultant uses the tiny-model recipe as a starting point to build and sell a custom, ultra-small voice-command model for a client's smart appliance."
+  ],
+  "money_ideas": [
+    { "idea": "Paid cohort-based course teaching people to train their own small LLM end-to-end", "revenue_model": "one-off" },
+    { "idea": "Corporate AI-literacy workshop booked by companies for their engineering teams", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Turn the README into a polished, paid 6-hour workshop ('Train Your Own LLM This Weekend') and sell 20 seats to local developer meetup members before touching any new code.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-25T12:15:00Z"
+}

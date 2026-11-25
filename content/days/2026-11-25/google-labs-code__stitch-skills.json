@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-25",
+  "owner": "google-labs-code",
+  "name": "stitch-skills",
+  "full_name": "google-labs-code/stitch-skills",
+  "url": "https://github.com/google-labs-code/stitch-skills",
+  "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+  "language": "TypeScript",
+  "stars_total": 12845,
+  "stars_today": 352,
+  "one_liner": "A set of add-ons for Google's AI UI-design tool that help an AI assistant go from a rough idea straight to a usable app-screen mockup.",
+  "buyer": "A freelance UI/UX designer or small design agency that wants to deliver more mockup revisions per client without hiring extra junior designers.",
+  "business_use_cases": [
+    "A freelance designer speeds up client mockup turnaround using it, keeping the same price but pocketing the saved hours.",
+    "A small agency sells a fixed-price 'AI-first UI design sprint' package to early-stage startups who need screens fast and cheap.",
+    "An onboarding-as-a-service firm rapid-prototypes multiple onboarding-flow options for a client to choose from in a single meeting."
+  ],
+  "money_ideas": [
+    { "idea": "Flat-fee 'rapid UI mockup sprint' package aimed at pre-seed startups", "revenue_model": "one-off" },
+    { "idea": "Monthly design-ops retainer offering continuous AI-assisted mockup iteration for a client's product team", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Offer an existing design client a same-week 'see 3 different screen directions' package, produced with this toolchain in a fraction of the usual time.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-25T12:15:00Z"
+}

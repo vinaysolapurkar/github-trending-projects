@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-25",
+  "owner": "cursor",
+  "name": "plugins",
+  "full_name": "cursor/plugins",
+  "url": "https://github.com/cursor/plugins",
+  "description": "Cursor plugin specification and official plugins",
+  "language": "TypeScript",
+  "stars_total": 19404,
+  "stars_today": 408,
+  "one_liner": "The official rulebook and example set for building add-ons that let the Cursor AI coding assistant talk to other business tools like Gmail, Salesforce, or HubSpot.",
+  "buyer": "A SaaS company's developer-relations or integrations team that wants their product reachable from inside AI coding tools but has no spare engineering time to build it.",
+  "business_use_cases": [
+    "A dev agency builds and maintains a custom Cursor plugin for a SaaS vendor's product (like the existing Salesforce, Gong, or Intercom plugins) as a paid integration project.",
+    "An integrations contractor offers 'get your SaaS product listed as an official-style Cursor plugin' as a fixed-price package aimed at smaller B2B tool vendors.",
+    "An internal platform team at a company builds a private Cursor plugin for their own internal tools, saving engineers from re-explaining internal APIs to the AI each session."
+  ],
+  "money_ideas": [
+    { "idea": "Fixed-fee contract to build and publish a vendor-specific Cursor plugin", "revenue_model": "one-off" },
+    { "idea": "Ongoing maintenance retainer to keep a published plugin working as Cursor's spec evolves", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Build a Cursor plugin for a mid-size SaaS tool that doesn't have one yet, publish it, then cold-email that company's DevRel team offering to hand over or maintain it for a fee.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-25T12:15:00Z"
+}

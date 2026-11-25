@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-25",
+  "owner": "openvinotoolkit",
+  "name": "openvino",
+  "full_name": "openvinotoolkit/openvino",
+  "url": "https://github.com/openvinotoolkit/openvino",
+  "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+  "language": "C++",
+  "stars_total": 12563,
+  "stars_today": 188,
+  "one_liner": "A toolkit that shrinks and speeds up AI models so they can run directly on everyday chips and cameras instead of needing an expensive cloud GPU for every request.",
+  "buyer": "A hardware or systems integrator building a product with a camera or sensor (factory QC, retail analytics, security) who needs AI running on-device for cost or latency reasons, not a typical app developer.",
+  "business_use_cases": [
+    "A manufacturing QC vendor runs a defect-detection model on cheap on-site hardware instead of paying ongoing cloud GPU bills per camera.",
+    "A retail analytics startup counts foot traffic and shelf interactions on in-store edge boxes rather than streaming video to the cloud.",
+    "A security-camera startup ships smarter on-device alerts (person vs. package vs. animal) without a per-camera cloud inference bill eating their margin."
+  ],
+  "money_ideas": [
+    { "idea": "Sell hardware+software bundles (camera or sensor box pre-loaded with an optimized model) as a one-time purchase", "revenue_model": "one-off" },
+    { "idea": "Managed edge-AI deployment and model-update service for clients running many devices", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This is a toolkit for hardware integrators, not a weekend consumer project - skip it unless you're already building a device with a camera or sensor.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-25T12:15:00Z"
+}

@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-25",
+  "matches": [
+    { "problem_id": "p001", "repo": "zhouxiaoka/autoclip", "why": "It does exactly this job: turn long recordings into edited, captioned short clips ready for social media automatically.", "confidence": "high" },
+    { "problem_id": "p002", "repo": null, "why": "Nothing today generates or fakes product photography; we'll flag it when something like that trends." },
+    { "problem_id": "p003", "repo": null, "why": "Today's tools add skills and methodology to coding agents, but none specifically solve cross-session project memory." },
+    { "problem_id": "p004", "repo": "obra/superpowers", "why": "It's a methodology built specifically to stop agents from over-engineering, enforcing spec-first, TDD, YAGNI, and DRY discipline.", "confidence": "high" },
+    { "problem_id": "p005", "repo": null, "why": "Today's research-oriented tools focus on live web/social trend synthesis or paper writing, not organizing an existing PDF library." },
+    { "problem_id": "p006", "repo": "cathrynlavery/diagram-design", "why": "It won't replace footage, but it lets a news/explainer creator illustrate a story with clean diagrams when no footage exists.", "confidence": "low" },
+    { "problem_id": "p007", "repo": null, "why": "Nothing in today's scrape addresses bioinformatics workflows or lab tooling." },
+    { "problem_id": "p008", "repo": null, "why": "AFFiNE is privacy-first for notes/planning, but nothing today is an actual private AI chat model a law firm could safely deploy." },
+    { "problem_id": "p009", "repo": null, "why": "autoclip repurposes existing recorded video into clips; it doesn't generate narrated video from written blog text." },
+    { "problem_id": "p010", "repo": "toeverything/AFFiNE", "why": "It's explicitly built as a privacy-first, local-first, self-hosted alternative to cloud note and planning apps.", "confidence": "high" },
+    { "problem_id": "p011", "repo": null, "why": "Today's closest tool reviews new pull requests for bugs; it doesn't explain the architecture of an existing, inherited codebase." },
+    { "problem_id": "p012", "repo": "jingyaogong/minimind", "why": "It's a complete, cheap, beginner-friendly walkthrough for building a real AI model from scratch, which is exactly where an aspiring AI founder should start.", "confidence": "high" },
+    { "problem_id": "p013", "repo": null, "why": "Nothing today addresses restaurant or general inventory management." }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-25",
+  "owner": "obra",
+  "name": "superpowers",
+  "full_name": "obra/superpowers",
+  "url": "https://github.com/obra/superpowers",
+  "description": "An agentic skills framework & software development methodology that works.",
+  "language": "Shell",
+  "stars_total": 326229,
+  "stars_today": 902,
+  "one_liner": "A set of habits you install into your AI coding assistant so it stops guessing and starts asking what you actually want, planning it out, and building it in small, tested steps instead of one giant messy dump of code.",
+  "buyer": "An engineering lead at a startup who has let the whole team loose on AI coding tools and is now worried about quality and maintainability, not speed.",
+  "business_use_cases": [
+    "A dev-tooling consultancy sells a one-day 'AI engineering methodology audit' for startups, using this framework as the reference standard to compare against.",
+    "A coding bootcamp licenses the methodology into its curriculum to teach junior engineers how to work with AI agents responsibly, rather than just prompting.",
+    "An engineering org already using it pays for the project's own commercial support tier instead of fully self-managing adoption across dozens of teams."
+  ],
+  "money_ideas": [
+    { "idea": "Paid onboarding/training course that teaches teams to adopt the methodology with real templates and checklists", "revenue_model": "one-off" },
+    { "idea": "Commercial support retainer for enterprises standardizing on it (the project itself already points to this)", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Record a 20-minute 'before/after' demo showing an AI agent writing bloated code vs. the same agent using this methodology, and sell it as a lead magnet for an AI-engineering-practices consulting offer.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-25T12:15:00Z"
+}

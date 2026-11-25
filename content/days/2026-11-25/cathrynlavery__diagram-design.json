@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-25",
+  "owner": "cathrynlavery",
+  "name": "diagram-design",
+  "full_name": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+  "language": "HTML",
+  "stars_total": 72555,
+  "stars_today": 1133,
+  "one_liner": "A skill that makes an AI assistant draw clean, professional-looking diagrams (flowcharts, architecture maps, timelines) instead of the clip-art-looking charts most tools produce.",
+  "buyer": "A freelance consultant or technical writer who regularly needs client-ready diagrams for proposals and decks but can't afford to hire a designer for every one.",
+  "business_use_cases": [
+    "A freelance technical writer adds 'polished architecture/process diagrams' as a paid add-on line item to existing documentation gigs.",
+    "A consulting firm speeds up proposal and pitch-deck creation internally, cutting the designer hours it used to pay for on every deal.",
+    "A SaaS company auto-generates clean onboarding and 'how it works' diagrams for their help center without looping in design."
+  ],
+  "money_ideas": [
+    { "idea": "Freelance 'diagram design' add-on service sold alongside technical writing or consulting deliverables", "revenue_model": "one-off" },
+    { "idea": "A small content/design agency offers a monthly 'diagram refresh' retainer to clients with living documentation", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Offer existing freelance clients a flat $150 'make your pitch deck diagrams actually look good' add-on this week using this skill to deliver it in under an hour.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-25T12:15:00Z"
+}

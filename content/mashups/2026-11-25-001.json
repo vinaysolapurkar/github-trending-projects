@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-25-001",
+  "date": "2026-11-25",
+  "repo_a": "mvanhorn/last30days-skill",
+  "repo_b": "zhouxiaoka/autoclip",
+  "title": "TrendClip",
+  "pitch": "Chain the two together into a same-day 'what's hot, already cut' pipeline: every morning, last30days-skill scans Reddit, X, YouTube, HN, and Polymarket to find what's genuinely breaking out right now, and autoclip immediately turns a matching podcast, interview, or livestream recording into 3-5 captioned, titled short clips ready for TikTok, Reels, and Shorts. Sell this as a $99-$299/month service to solo creators and small social-media agencies who know they should be commenting on today's trends but don't have the hours to both research AND edit before the moment passes. The buyer isn't paying for either tool alone - they're paying for the gap between 'I noticed this is trending' and 'I have a posted video' being closed in under an hour instead of a day.",
+  "why_now": "Trend decay is brutal - a topic that's hot on Reddit and X this morning is stale by tomorrow night, so the business value is entirely in the speed of the research-to-clip pipeline, which is exactly what combining these two skills on the same day's cycle delivers."
+}

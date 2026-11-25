@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-25",
+  "owner": "zhouxiaoka",
+  "name": "autoclip",
+  "full_name": "zhouxiaoka/autoclip",
+  "url": "https://github.com/zhouxiaoka/autoclip",
+  "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+  "language": "Python",
+  "stars_total": 15880,
+  "stars_today": 868,
+  "one_liner": "Give it a link to a long podcast, interview, or stream and it automatically cuts out the best short clips, adds captions and a cover image, and writes a caption ready to post on TikTok or Shorts.",
+  "buyer": "A solo content creator or small podcast who knows they should be posting short clips every day but can't afford a video editor and doesn't have the hours to do it themselves.",
+  "business_use_cases": [
+    "A freelance 'podcast-to-shorts' editor builds a per-episode service for creators and podcasters using this tool to do the heavy lifting, charging for the polish and curation on top.",
+    "A marketing agency offers 'content repurposing' for client webinars and podcasts, turning one long recording into a week of social posts at a fraction of the usual editing cost.",
+    "A SaaS reseller hosts a cloud version of the tool and charges creators a monthly fee who don't want to install and run desktop software themselves."
+  ],
+  "money_ideas": [
+    { "idea": "Per-episode content-repurposing service charged to podcasters and creators", "revenue_model": "usage" },
+    { "idea": "Monthly subscription for a hosted/cloud version aimed at creators who don't want to self-host", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This weekend, offer three local podcasters a free trial episode turned into 5 clips using this tool, then convert them to a $99/month 'never edit again' package.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-25T12:15:00Z"
+}

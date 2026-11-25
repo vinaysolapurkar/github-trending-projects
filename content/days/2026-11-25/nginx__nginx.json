@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-25",
+  "owner": "nginx",
+  "name": "nginx",
+  "full_name": "nginx/nginx",
+  "url": "https://github.com/nginx/nginx",
+  "description": "The official NGINX Open Source repository.",
+  "language": "C",
+  "stars_total": 33299,
+  "stars_today": 174,
+  "one_liner": "The traffic cop software that sits in front of a huge share of websites, deciding how requests get routed, balanced, and cached.",
+  "buyer": "Honestly, nobody starts a new business because this trended. It's decades-old, already ubiquitous, commodity infrastructure with its own commercial support arm.",
+  "business_use_cases": [
+    "A DevOps consultancy sells a 'server performance and security tune-up' audit to small businesses running self-hosted sites, using nginx config as the deliverable.",
+    "A hosting reseller bundles pre-hardened nginx configs as part of a managed-hosting package for small e-commerce clients.",
+    "An agency offers a one-time 'is your site about to fall over' load-balancing review for a growing online store."
+  ],
+  "money_ideas": [
+    { "idea": "One-off server performance/security audit and config hardening for small business sites", "revenue_model": "one-off" },
+    { "idea": "Managed hosting retainer that includes ongoing nginx maintenance and uptime monitoring", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Package a free 'nginx security checklist' PDF as a lead magnet to book paying server-hardening audits for small e-commerce sites.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-25T12:15:00Z"
+}

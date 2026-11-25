@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-25",
+  "owner": "mvanhorn",
+  "name": "last30days-skill",
+  "full_name": "mvanhorn/last30days-skill",
+  "url": "https://github.com/mvanhorn/last30days-skill",
+  "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+  "language": "Python",
+  "stars_total": 74718,
+  "stars_today": 950,
+  "one_liner": "A researcher-in-a-box that reads what real people are actually saying across Reddit, X, YouTube, and betting markets about any topic, then writes you an honest summary of what's really going on.",
+  "buyer": "A boutique market-research consultant or newsletter writer who gets paid to tell clients 'what's actually happening right now' on a topic, without manually doom-scrolling five platforms.",
+  "business_use_cases": [
+    "A market-research consultancy sells clients a recurring 'what the internet actually thinks about X this month' report, built automatically with this skill.",
+    "A VC analyst runs a quick sanity-check on an emerging narrative before a pitch meeting instead of spending an afternoon manually trawling forums.",
+    "A niche newsletter writer automates a weekly 'what's trending' column, freeing up hours previously spent manually reading Reddit and X threads."
+  ],
+  "money_ideas": [
+    { "idea": "Paid subscription newsletter or report service built on automated trend research", "revenue_model": "subscription" },
+    { "idea": "One-off custom research reports sold to brand or PR agencies ahead of a campaign", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Pick one niche (e.g. a specific hobby or B2B industry), run this skill weekly, and launch a $15/month 'what's actually trending in X' newsletter before building anything else.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-25T12:15:00Z"
+}

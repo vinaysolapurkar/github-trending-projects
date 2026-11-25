@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-25",
+  "owner": "elementalsouls",
+  "name": "Claude-BugHunter",
+  "full_name": "elementalsouls/Claude-BugHunter",
+  "url": "https://github.com/elementalsouls/Claude-BugHunter",
+  "description": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+  "language": "Python",
+  "stars_total": 22221,
+  "stars_today": 1644,
+  "one_liner": "A pack of pre-built know-how you install into Claude Code so it hunts for security bugs in websites and apps like an experienced professional, instead of you teaching it from scratch every time.",
+  "buyer": "A freelance bug-bounty hunter or a 2-3 person boutique pentest shop who bills clients for security assessments but doesn't have a bench of senior researchers.",
+  "business_use_cases": [
+    "A freelance bug hunter uses it to triage a new HackerOne target overnight and only spends their own hours validating the top 3 findings instead of doing full recon by hand.",
+    "A boutique pentest firm standardizes the skill bundle across junior analysts so every client report follows the same severity/VRT format a senior would write.",
+    "A security consultancy offers a flat-fee 'pre-launch bug bounty readiness scan' for startups, using the bundle to produce a first-pass report before a human reviews it."
+  ],
+  "money_ideas": [
+    { "idea": "Sell a 'done-with-AI' bug-bounty triage service: client gets a ranked, reviewed vulnerability report in 48 hours", "revenue_model": "one-off" },
+    { "idea": "Offer a managed/updated version of the skill bundle plus onboarding support to small security teams", "revenue_model": "subscription" }
+  ],
+  "steal_this": "This weekend, install the bundle, run it against 2-3 public bug bounty programs you're already eligible for, and ship a priced 'AI-assisted triage report' service page before Monday.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-25T12:15:00Z"
+}
