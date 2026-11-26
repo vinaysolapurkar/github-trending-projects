@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-26",
+  "owner": "HKUDS",
+  "name": "CLI-Anything",
+  "full_name": "HKUDS/CLI-Anything",
+  "url": "https://github.com/HKUDS/CLI-Anything",
+  "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+  "language": "Python",
+  "stars_total": 66038,
+  "stars_today": 744,
+  "one_liner": "A toolkit that takes ordinary command-line software and makes it understandable and usable by AI agents, instead of just humans.",
+  "buyer": "An AI automation agency that needs to plug a client's existing internal software into an AI agent workflow.",
+  "business_use_cases": [
+    "An automation agency 'agentifies' a client's internal CLI tools so their AI assistant can run day-to-day ops tasks safely.",
+    "A dev-tools startup builds and sells ready-made 'agent-ready' wrappers for popular open-source CLI tools.",
+    "A platform runs a paid directory (CLI-Hub style) where tool authors pay to list their agent-ready wrapper."
+  ],
+  "money_ideas": [
+    {
+      "idea": "One-off consulting to wrap a company's internal CLI tools for agent use",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Marketplace listing fees for agent-ready tool wrappers",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Pick one CLI tool your clients already rely on and ship a paid 'agent-ready' wrapper for it this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-26T12:15:00Z"
+}

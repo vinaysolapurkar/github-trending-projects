@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-26",
+  "owner": "openvinotoolkit",
+  "name": "openvino",
+  "full_name": "openvinotoolkit/openvino",
+  "url": "https://github.com/openvinotoolkit/openvino",
+  "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+  "language": "C++",
+  "stars_total": 12741,
+  "stars_today": 176,
+  "one_liner": "Software that makes AI models run fast and cheap on ordinary computers and small devices, instead of needing expensive cloud GPUs.",
+  "buyer": "A hardware integrator or systems consultant building AI features into kiosks, cameras, or retail devices who wants to avoid ongoing cloud GPU bills.",
+  "business_use_cases": [
+    "A systems integrator builds a retail theft-detection camera box that runs AI locally instead of paying for cloud inference per store.",
+    "A field-service company builds an offline AI assistant for technicians' laptops that works without internet connectivity.",
+    "A kiosk vendor adds local AI-powered product recognition to a self-checkout device without per-transaction cloud costs."
+  ],
+  "money_ideas": [
+    {
+      "idea": "One-off hardware-plus-software bundle sales to retailers or factories needing on-device AI",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Subscription for managing and updating a fleet of edge-AI devices",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build one niche 'offline AI camera box' for a single vertical, like retail shrink detection, and sell it as a hardware-plus-setup package.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-26T12:15:00Z"
+}

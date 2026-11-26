@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-26",
+  "owner": "elementalsouls",
+  "name": "Claude-BugHunter",
+  "full_name": "elementalsouls/Claude-BugHunter",
+  "url": "https://github.com/elementalsouls/Claude-BugHunter",
+  "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+  "language": "Python",
+  "stars_total": 23781,
+  "stars_today": 1600,
+  "one_liner": "A pre-packaged set of know-how and checklists that helps someone find real security holes in websites and apps, instead of guessing.",
+  "buyer": "A freelance bug-bounty hunter or independent security researcher who wants to find more valid, payable bugs faster.",
+  "business_use_cases": [
+    "A freelance bug hunter runs it against public bug-bounty programs to find more valid, higher-severity reports per week.",
+    "A solo security consultant uses it to deliver a structured pre-launch penetration test report to a small business before they go live.",
+    "A boutique security shop uses the curated vulnerability patterns as a training checklist for junior hires."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Bug bounty payouts earned by finding and reporting real vulnerabilities faster",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Paid pre-launch security audit for small businesses using the same checklists",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Run it against a friendly local business's staging site this weekend and sell them a paid pre-launch security report.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-26T12:15:00Z"
+}

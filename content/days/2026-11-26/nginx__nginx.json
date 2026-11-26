@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-26",
+  "owner": "nginx",
+  "name": "nginx",
+  "full_name": "nginx/nginx",
+  "url": "https://github.com/nginx/nginx",
+  "description": "The official NGINX Open Source repository.",
+  "language": "C",
+  "stars_total": 33451,
+  "stars_today": 150,
+  "one_liner": "The software that most of the internet's websites use to serve pages fast, balance traffic, and stay online under load.",
+  "buyer": "Honestly, nobody buys 'nginx' itself — it's free, foundational infrastructure. The closest buyer is a small business owner who pays someone else to configure it for them.",
+  "business_use_cases": [
+    "A freelance sysadmin offers a flat-fee 'nginx speed and security audit' to small e-commerce sites before a big sales event.",
+    "A managed-hosting shop bundles nginx configuration and tuning into their support retainer for small business clients.",
+    "A consultant builds a one-click 'secure nginx config generator' product for solo founders who don't know server administration."
+  ],
+  "money_ideas": [
+    {
+      "idea": "One-off nginx performance/security configuration audit for a small business's site",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Subscription managed-hosting support retainer that includes ongoing nginx tuning",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer one local e-commerce site a flat-fee 'is your site ready for Black Friday traffic' nginx audit this weekend.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-26T12:15:00Z"
+}

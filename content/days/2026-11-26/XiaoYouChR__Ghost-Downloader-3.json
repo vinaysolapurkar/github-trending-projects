@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-26",
+  "owner": "XiaoYouChR",
+  "name": "Ghost-Downloader-3",
+  "full_name": "XiaoYouChR/Ghost-Downloader-3",
+  "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+  "description": "The only downloader you need. 下载器的集大成者。",
+  "language": "Python",
+  "stars_total": 18743,
+  "stars_today": 887,
+  "one_liner": "A free desktop app that downloads files and videos faster and more reliably than your browser's built-in downloader.",
+  "buyer": "Honestly, this is a free consumer utility with little direct business value on its own — the closest buyer is someone selling general computer setup help.",
+  "business_use_cases": [
+    "A computer-setup helper bundles it into a paid 'declutter and speed up your downloads' service for non-technical clients.",
+    "A content creator makes ad-supported tutorial videos teaching people to automate bulk downloads for research or archiving.",
+    "A reseller bundles it with other free tools into a paid 'starter kit' for new laptop owners."
+  ],
+  "money_ideas": [
+    {
+      "idea": "One-off computer setup and support service fee that includes installing and configuring it",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Ad revenue from tutorial content teaching its use-cases",
+      "revenue_model": "ads"
+    }
+  ],
+  "steal_this": "Offer a $40 'set up your fast downloader and organize your files' service to a non-technical friend or client.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-26T12:15:00Z"
+}

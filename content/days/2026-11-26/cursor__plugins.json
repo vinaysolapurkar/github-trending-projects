@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-26",
+  "owner": "cursor",
+  "name": "plugins",
+  "full_name": "cursor/plugins",
+  "url": "https://github.com/cursor/plugins",
+  "description": "Cursor plugin specification and official plugins",
+  "language": "TypeScript",
+  "stars_total": 19668,
+  "stars_today": 268,
+  "one_liner": "A pack of official add-ons that teach the Cursor AI coding tool specific tricks, like reviewing code harder or remembering team habits.",
+  "buyer": "A dev-tooling consultant who sets up AI coding tools for client engineering teams and wants ready-made, credible plugins to install.",
+  "business_use_cases": [
+    "A consultancy customizes one of these plugins (e.g. the security/code-review one) into an enterprise rollout package.",
+    "A freelance developer builds and sells a niche industry-specific plugin (e.g. for fintech compliance review) on top of the spec.",
+    "An agency uses the reference plugins to pitch 'Cursor setup as a service' to teams migrating to AI-assisted coding."
+  ],
+  "money_ideas": [
+    {
+      "idea": "One-off custom plugin development for a client's engineering team",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Retainer consulting for ongoing AI coding tool rollout and maintenance",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Build one niche vertical plugin this weekend (e.g. for a specific framework or compliance need) and sell it as a paid install.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-26T12:15:00Z"
+}

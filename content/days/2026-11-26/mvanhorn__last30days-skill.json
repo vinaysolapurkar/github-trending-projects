@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-26",
+  "owner": "mvanhorn",
+  "name": "last30days-skill",
+  "full_name": "mvanhorn/last30days-skill",
+  "url": "https://github.com/mvanhorn/last30days-skill",
+  "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+  "language": "Python",
+  "stars_total": 75441,
+  "stars_today": 755,
+  "one_liner": "An assistant that reads what real people are saying right now across Reddit, X, YouTube, and the web about any topic, and gives you an honest, grounded summary instead of guesses.",
+  "buyer": "A marketing agency or brand manager who needs a fast, honest read on what people are actually saying about their brand or competitors.",
+  "business_use_cases": [
+    "A marketing agency sells a weekly 'what the internet is saying about your brand' digest to small and medium business clients.",
+    "A startup founder commissions a one-off competitive intelligence report before a product launch.",
+    "A niche industry newsletter uses it to spot and summarize emerging trends every week for subscribers."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Subscription weekly brand/competitor 'pulse report' service for small businesses",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "One-off competitive research report sold per project before a launch",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Sell a $50 one-time 'what's the internet saying about your brand' report to a local business this weekend.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-26T12:15:00Z"
+}

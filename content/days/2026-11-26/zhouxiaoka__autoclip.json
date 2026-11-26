@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-26",
+  "owner": "zhouxiaoka",
+  "name": "autoclip",
+  "full_name": "zhouxiaoka/autoclip",
+  "url": "https://github.com/zhouxiaoka/autoclip",
+  "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+  "language": "Python",
+  "stars_total": 16642,
+  "stars_today": 770,
+  "one_liner": "Software that automatically turns a long podcast or video into short, captioned clips ready to post on TikTok, Instagram, and YouTube Shorts.",
+  "buyer": "A podcast host or local business owner who records long-form video or livestreams but has no time to cut clips for social media.",
+  "business_use_cases": [
+    "A done-for-you agency offers a 'turn your podcast into a week of social clips' subscription for local podcasters, coaches, and realtors.",
+    "A social media manager uses it to repurpose a small business's weekly livestream into daily short-form posts.",
+    "A niche shop clips gaming or Twitch streams into highlight reels for streamers who want a highlights channel but can't edit themselves."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Subscription 'weekly clips' service for recurring podcast or livestream clients",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "One-off per-video clipping service for creators who just need a single episode repurposed",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Offer one local podcaster a free trial week turning their latest episode into 10 clips, then sell a monthly package.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-26T12:15:00Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-26-001",
+  "date": "2026-11-26",
+  "repo_a": "mvanhorn/last30days-skill",
+  "repo_b": "zhouxiaoka/autoclip",
+  "title": "Pulse-to-Post",
+  "pitch": "Combine last30days-skill's grounded research across Reddit, X, YouTube, HN, and the web with autoclip's automatic clipping, captioning, and cover generation to build a service that spots what's trending in a niche right now and turns an existing podcast or livestream library into a short, ready-to-post clip reacting to it within the hour. The buyer is a solo podcaster, local business social media manager, or small marketing agency running client accounts who needs to react to trends fast but has neither a research team nor a video editor on staff. Sell it as a flat weekly fee: one trend report plus the clips to match.",
+  "why_now": "Both repos hit GitHub trending on the same day, which is a signal that people simultaneously want trustworthy, grounded research and fast automated video repurposing — pairing them closes the loop from 'what's happening' to 'here's your post' with no manual work in between, which is exactly what short-form platforms now reward: speed to relevant content."
+}

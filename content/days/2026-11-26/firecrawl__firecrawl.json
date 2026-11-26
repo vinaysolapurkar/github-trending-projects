@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-26",
+  "owner": "firecrawl",
+  "name": "firecrawl",
+  "full_name": "firecrawl/firecrawl",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+  "language": "TypeScript",
+  "stars_total": 210522,
+  "stars_today": 1042,
+  "one_liner": "A reliable way to turn any website into clean, usable text or data, so you don't have to build and maintain your own web-scraping machinery.",
+  "buyer": "A founder building a niche monitoring or research product (prices, listings, news) who doesn't want to spend months fighting scraping infrastructure before they can sell anything.",
+  "business_use_cases": [
+    "An e-commerce tools founder builds a competitor price-tracking product for local retailers and bike shops, using it to watch competitor sites without writing custom scrapers.",
+    "A real-estate data startup builds a 'new listings alert' product for a niche market by crawling dozens of regional listing sites through one API.",
+    "A local-news aggregator automatically pulls and summarizes small-town council and school-board websites into a weekly community newsletter."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Subscription SaaS built on top (price monitoring, listings alerts, research digests) that resells the scraped/structured data as a finished product",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "One-off custom scraping/data project for a client who needs a specific dataset built once",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Pick one boring, underserved niche (e.g. local permit filings, niche job boards) and ship a $10/month email-alert product on top of it this weekend.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-26T12:15:00Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-26",
+  "owner": "cathrynlavery",
+  "name": "diagram-design",
+  "full_name": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+  "language": "HTML",
+  "stars_total": 73498,
+  "stars_today": 951,
+  "one_liner": "An add-on that makes an AI coding or writing assistant draw clean, professional-looking diagrams instead of the usual ugly default boxes-and-arrows.",
+  "buyer": "A startup consultant or technical writer who regularly produces architecture diagrams and pitch-deck visuals for clients and wants to deliver them faster.",
+  "business_use_cases": [
+    "A pitch-deck consultant sells a fast-turnaround 'branded diagram pack' for startups preparing investor decks.",
+    "A dev agency speeds up client documentation delivery by generating clean architecture diagrams instead of billing hours for manual design work.",
+    "A technical writer offers a flat-fee 'make your docs look professional' pass on existing documentation sets."
+  ],
+  "money_ideas": [
+    {
+      "idea": "One-off 'diagram pack' service for startups preparing investor or sales decks",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Subscription documentation-design retainer for agencies with recurring client docs work",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer a $200 same-weekend 'branded pitch-deck diagram pack' turnaround using this skill.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-26T12:15:00Z"
+}
