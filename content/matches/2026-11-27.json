@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-27",
+  "matches": [
+    { "problem_id": "p001", "repo": "zhouxiaoka/autoclip", "why": "It automatically turns long-form video into captioned short clips, which is exactly the hours-of-editing-every-week problem described.", "confidence": "high" },
+    { "problem_id": "p002", "repo": null, "why": "Nothing today generates or stages product photos; we'll notify when a tool like that trends." },
+    { "problem_id": "p003", "repo": "cursor/plugins", "why": "The bundle's continual-learning plugin does incremental transcript-driven memory updates into AGENTS.md, which is built specifically to carry context across sessions.", "confidence": "medium" },
+    { "problem_id": "p004", "repo": "obra/superpowers", "why": "Its whole methodology is forcing a spec-first, disciplined workflow onto coding agents instead of letting them freelance into bloated code.", "confidence": "medium" },
+    { "problem_id": "p005", "repo": "toeverything/AFFiNE", "why": "It's a local-first knowledge base for sorting and organizing notes and documents, though it's not PDF-specific and would need manual import.", "confidence": "low" },
+    { "problem_id": "p006", "repo": "cathrynlavery/diagram-design", "why": "It generates clean editorial diagrams from a description, which can visually explain a story when there's no real footage to use.", "confidence": "medium" },
+    { "problem_id": "p007", "repo": null, "why": "No bioinformatics-specific tool trended today; nothing here would genuinely help a small lab." },
+    { "problem_id": "p008", "repo": null, "why": "OpenVINO lets AI models run locally instead of in the cloud, which touches the privacy concern, but it's an inference toolkit, not a packaged private-chat product a law firm could just use.", "confidence": "low" },
+    { "problem_id": "p009", "repo": null, "why": "AutoClip repurposes existing video into clips; it doesn't turn written text into narrated video, so it's not a real fit." },
+    { "problem_id": "p010", "repo": "toeverything/AFFiNE", "why": "It's explicitly a privacy-first, local-first, self-hosted alternative to cloud note and planning apps — a direct match.", "confidence": "high" },
+    { "problem_id": "p011", "repo": "cathrynlavery/diagram-design", "why": "It can turn a messy codebase's structure into a clean architecture diagram, a reasonable starting point for a confused new hire, though it won't explain the code itself.", "confidence": "low" },
+    { "problem_id": "p012", "repo": "jingyaogong/minimind", "why": "It's a hands-on, cheap way to actually train and understand a small language model end to end, a solid first step for someone who doesn't know where to start with AI.", "confidence": "medium" },
+    { "problem_id": "p013", "repo": null, "why": "No inventory-management tool trended today; nothing here fits a restaurant owner's need." }
+  ]
+}

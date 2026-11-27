@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-27",
+  "owner": "toeverything",
+  "name": "AFFiNE",
+  "full_name": "toeverything/AFFiNE",
+  "url": "https://github.com/toeverything/AFFiNE",
+  "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+  "language": "TypeScript",
+  "stars_total": 79188,
+  "stars_today": 469,
+  "one_liner": "A privacy-first, local-first knowledge base that combines notes, documents, and whiteboards in one app, as a self-hosted alternative to Notion and Miro.",
+  "buyer": "A privacy-minded professional or small firm, such as a law office or healthcare practice, that cannot put internal notes and plans into a third-party cloud tool.",
+  "business_use_cases": [
+    "A managed-IT provider offers self-hosted AFFiNE deployments as a privacy-compliant Notion alternative for regulated small businesses.",
+    "A consultant customizes and themes it as a white-labeled internal wiki for a client company.",
+    "An agency builds client onboarding and migration services moving teams off Notion onto a self-hosted instance."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Managed self-hosting and maintenance billed monthly per client",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "One-off migration and setup consulting",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Offer one privacy-conscious local business a free self-hosted setup this week, then bill monthly for upkeep.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-27T12:07:17Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-27",
+  "owner": "XiaoYouChR",
+  "name": "Ghost-Downloader-3",
+  "full_name": "XiaoYouChR/Ghost-Downloader-3",
+  "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+  "description": "The only downloader you need. 下载器的集大成者。",
+  "language": "Python",
+  "stars_total": 19565,
+  "stars_today": 843,
+  "one_liner": "A fast, free download manager app that handles large files, multi-threaded downloads, and resuming interrupted downloads.",
+  "buyer": "Realistically, there isn't a strong direct business buyer here — it's a free consumer utility, and the only money is in content or services wrapped around it, not the tool itself.",
+  "business_use_cases": [
+    "A PC repair or setup shop includes it in a paid 'optimize your computer' service package for clients.",
+    "A tech blogger or YouTuber monetizes an affiliate 'best free downloaders' review featuring it.",
+    "An IT consultant deploys it across an office's machines as part of a free-software standardization service."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Affiliate or ad revenue from content reviewing and recommending it",
+      "revenue_model": "ads"
+    },
+    {
+      "idea": "A one-off IT setup fee that includes installing and configuring it",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Write a 'best free download managers in 2026' post featuring it with affiliate links this weekend.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-27T12:07:17Z"
+}

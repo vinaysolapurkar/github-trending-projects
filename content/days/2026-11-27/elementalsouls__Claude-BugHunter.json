@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-27",
+  "owner": "elementalsouls",
+  "name": "Claude-BugHunter",
+  "full_name": "elementalsouls/Claude-BugHunter",
+  "url": "https://github.com/elementalsouls/Claude-BugHunter",
+  "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+  "language": "Python",
+  "stars_total": 25344,
+  "stars_today": 1615,
+  "one_liner": "A pre-built bundle of security-testing skills and instructions you plug into Claude Code so it hunts for software bugs and security holes the way a professional penetration tester would.",
+  "buyer": "A boutique security consultancy or freelance penetration tester who wants to deliver more bug-bounty and pentest reports per week without hiring more testers.",
+  "business_use_cases": [
+    "A solo bug-bounty hunter runs it against authorized targets to triage dozens of candidate findings overnight instead of testing each one by hand.",
+    "A small pentest shop uses it to scaffold engagement folders and draft first-pass vulnerability reports for a client audit.",
+    "A SaaS company's internal security engineer uses it for continuous automated code review before each release."
+  ],
+  "money_ideas": [
+    {
+      "idea": "Offer 'AI-accelerated' pentest engagements priced below traditional manual-only firms",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Sell a productized subscription to a curated, maintained version of the skill/pattern bundle",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Run it against your own side project or an authorized bug-bounty program, then use the resulting findings report as a sample to land your first paid pentest client.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-27T12:07:17Z"
+}

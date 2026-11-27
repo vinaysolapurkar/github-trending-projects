@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-27",
+  "owner": "mvanhorn",
+  "name": "last30days-skill",
+  "full_name": "mvanhorn/last30days-skill",
+  "url": "https://github.com/mvanhorn/last30days-skill",
+  "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+  "language": "Python",
+  "stars_total": 76096,
+  "stars_today": 664,
+  "one_liner": "An AI skill that reads what people are actually saying across Reddit, X, YouTube, Hacker News, and prediction markets on any topic, then writes you a trustworthy summary of what's really happening.",
+  "buyer": "A social media manager or small marketing agency that needs to know what's trending in a niche right now without paying for an expensive social-listening platform.",
+  "business_use_cases": [
+    "A marketing agency runs it each morning to brief clients on what's trending in their industry before competitors react.",
+    "A newsletter writer builds a paid weekly 'state of the niche' digest for a specific community, such as indie hackers or fitness.",
+    "A trader or analyst cross-references social sentiment against prediction-market odds before making a call."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A paid weekly trend-digest newsletter for a specific niche",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "One-off trend-report deliverables sold to marketing agencies",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Pick a niche you know well, run it daily for a week, and sell the resulting digest to five people in that community.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-27T12:07:17Z"
+}

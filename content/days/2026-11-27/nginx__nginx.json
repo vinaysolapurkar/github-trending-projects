@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-27",
+  "owner": "nginx",
+  "name": "nginx",
+  "full_name": "nginx/nginx",
+  "url": "https://github.com/nginx/nginx",
+  "description": "The official NGINX Open Source repository.",
+  "language": "C",
+  "stars_total": 33593,
+  "stars_today": 148,
+  "one_liner": "The web server software that quietly runs a huge share of the websites on the internet, routing traffic and serving pages reliably at scale.",
+  "buyer": "Honestly, nobody buys 'nginx' itself — the real opportunity is in services around it, like hosting and managed configuration, not the software.",
+  "business_use_cases": [
+    "A freelance DevOps consultant offers nginx configuration, hardening, and performance-tuning as a paid service for small businesses' websites.",
+    "A hosting reseller bundles pre-configured, secured nginx setups into a managed website-hosting package.",
+    "An agency builds reverse-proxy and load-balancing setups for clients migrating off expensive managed cloud services."
+  ],
+  "money_ideas": [
+    {
+      "idea": "One-off server setup and hardening consulting gigs",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "A monthly managed-hosting retainer that includes nginx maintenance",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer a flat-fee 'secure your website's server in a day' service to five local businesses this week.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-27T12:07:17Z"
+}

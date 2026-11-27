@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-27-001",
+  "date": "2026-11-27",
+  "repo_a": "Tracer-Cloud/opensre",
+  "repo_b": "obra/superpowers",
+  "title": "Pipeline Medic",
+  "pitch": "Combine opensre's ability to read a failed CI run, trace the cause, and draft a fix with superpowers' disciplined, skill-based development methodology so the auto-generated fix PR follows the team's own coding standards and spec-first process instead of being a one-off patch a human has to re-review from scratch. The product is a 'CI autopilot' retainer: when a startup's build breaks at 2am, the fix that shows up for review already matches how the team actually writes code, so approving it takes two minutes instead of twenty. The buyer is an engineering lead at a 10-30 person startup who has no dedicated SRE and is tired of losing a developer's morning to a flaky pipeline.",
+  "why_now": "Both tools trended on the same day because teams are increasingly comfortable handing routine engineering toil to an agent, but the open gap is trust: an auto-fix nobody reviews carefully is a risk, and a fix that ignores house style just creates more review work. Pairing automated root-cause-and-fix with an enforced methodology closes that trust gap right as both ideas are independently gaining traction."
+}

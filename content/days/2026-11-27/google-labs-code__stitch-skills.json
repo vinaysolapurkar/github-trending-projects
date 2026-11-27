@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-27",
+  "owner": "google-labs-code",
+  "name": "stitch-skills",
+  "full_name": "google-labs-code/stitch-skills",
+  "url": "https://github.com/google-labs-code/stitch-skills",
+  "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+  "language": "TypeScript",
+  "stars_total": 13446,
+  "stars_today": 311,
+  "one_liner": "A set of ready-made AI skills that connect coding assistants to Google's Stitch design tool, so an AI agent can generate and edit app UI designs for you.",
+  "buyer": "A solo app developer or early-stage founder who needs app UI designs but can't afford a product designer.",
+  "business_use_cases": [
+    "A freelance developer sells 'AI-designed app mockup' packages to early-stage founders who need investor-ready screens fast.",
+    "A no-code agency uses it to speed up client UI iteration, billing for more projects in the same time.",
+    "A UI/UX bootcamp builds a course teaching students to pair AI design generation with manual polish."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A flat-fee AI-generated app mockup package for early-stage founders",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "A monthly retainer for ongoing UI iteration using the skill",
+      "revenue_model": "subscription"
+    }
+  ],
+  "steal_this": "Offer three indie app developers a free first-draft UI mockup this week, then charge for revisions.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-27T12:07:17Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-27",
+  "owner": "zhouxiaoka",
+  "name": "autoclip",
+  "full_name": "zhouxiaoka/autoclip",
+  "url": "https://github.com/zhouxiaoka/autoclip",
+  "description": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
+  "language": "Python",
+  "stars_total": 17345,
+  "stars_today": 733,
+  "one_liner": "A local-first AI tool that automatically turns long podcasts, interviews, or livestreams into short, captioned clips ready to post, without a paid subscription.",
+  "buyer": "A solo podcaster, streamer, or small marketing agency managing client social accounts who needs daily short-form clips but has no video editor on staff.",
+  "business_use_cases": [
+    "A social media manager runs client podcasts through it daily to produce a week of short-form clips in an afternoon.",
+    "A freelance video editor offers a cheaper 'AI-assisted clipping' service by using it to generate first drafts, then polishing manually.",
+    "An agency self-hosts it for clients who need clip generation but won't send raw footage to a third-party cloud service."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A monthly 'clips as a service' subscription for podcasters and streamers",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "One-off batch clipping gigs for a backlog of existing footage",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Offer one local podcaster a free week of daily clips, then convert them to a flat monthly fee.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-27T12:07:17Z"
+}

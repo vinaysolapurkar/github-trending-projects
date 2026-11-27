@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-27",
+  "owner": "Tracer-Cloud",
+  "name": "opensre",
+  "full_name": "Tracer-Cloud/opensre",
+  "url": "https://github.com/Tracer-Cloud/opensre",
+  "description": "The open-source agent for CI/CD reliability.",
+  "language": "Python",
+  "stars_total": 15987,
+  "stars_today": 326,
+  "one_liner": "A robot that reads why your automated software build broke, figures out the cause, and writes a fix for you to approve, instead of you digging through logs for an hour.",
+  "buyer": "An engineering manager at a small or mid-size startup losing developer hours to flaky CI failures who has no dedicated DevOps or SRE person.",
+  "business_use_cases": [
+    "A DevOps consultant offers a managed 'CI triage' service for startups that can't afford a full-time SRE.",
+    "An agency deploys it self-hosted with a client's own models for a security-conscious company that can't send code to third parties.",
+    "A consultant builds a reporting dashboard on top showing leadership how much engineering time was saved on CI triage."
+  ],
+  "money_ideas": [
+    {
+      "idea": "A subscription hosted or managed CI-triage service billed monthly per team",
+      "revenue_model": "subscription"
+    },
+    {
+      "idea": "One-off setup and integration consulting for self-hosted deployments",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Offer one startup a free trial week of CI triage, then convert it into a paid monthly retainer.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-27T12:07:17Z"
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-27",
+  "owner": "openvinotoolkit",
+  "name": "openvino",
+  "full_name": "openvinotoolkit/openvino",
+  "url": "https://github.com/openvinotoolkit/openvino",
+  "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+  "language": "C++",
+  "stars_total": 12886,
+  "stars_today": 152,
+  "one_liner": "A toolkit that makes AI models run faster and cheaper on ordinary computer chips instead of expensive specialized hardware, so you can deploy AI features without a huge cloud bill.",
+  "buyer": "An edge-AI startup or device manufacturer, such as smart cameras or retail kiosks, that needs AI to run locally on cheap hardware instead of paying for cloud inference.",
+  "business_use_cases": [
+    "A smart-retail startup runs in-store people-counting or shelf-monitoring AI directly on in-store PCs instead of paying ongoing cloud API costs.",
+    "A security-camera vendor bakes local AI object detection into their devices to avoid per-camera cloud subscription fees.",
+    "A consulting firm offers 'cut your AI inference bill' audits that redeploy a client's existing models onto their own hardware."
+  ],
+  "money_ideas": [
+    {
+      "idea": "One-off migration consulting to move a client's cloud AI inference to local or edge hardware",
+      "revenue_model": "one-off"
+    },
+    {
+      "idea": "Licensing a packaged edge-AI hardware-and-software bundle to device makers",
+      "revenue_model": "one-off"
+    }
+  ],
+  "steal_this": "Offer one small business already paying for an AI image or video API a 'we'll cut your AI bill' audit this weekend.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-27T12:07:17Z"
+}
