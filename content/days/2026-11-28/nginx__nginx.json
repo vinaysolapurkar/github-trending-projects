@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-28",
+  "owner": "nginx",
+  "name": "nginx",
+  "full_name": "nginx/nginx",
+  "url": "https://github.com/nginx/nginx",
+  "description": "The official NGINX Open Source repository.",
+  "language": "C",
+  "stars_total": 33715,
+  "stars_today": 131,
+  "one_liner": "The traffic director that sits in front of most websites on the internet, routing visitors to the right place and keeping sites fast under heavy load.",
+  "buyer": "There isn't really a new buyer here; it's plumbing every web hosting company and enterprise already runs, not a product someone starts a business around today.",
+  "business_use_cases": [
+    "A hosting provider runs it as the invisible backbone behind every customer site it sells.",
+    "A DevOps consultant charges to configure and harden it for a client's production servers.",
+    "An enterprise's internal platform team uses it to load-balance traffic across their own services."
+  ],
+  "money_ideas": [
+    { "idea": "One-off or retainer DevOps consulting to configure and maintain it for clients", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Not really a weekend business idea; the realistic move is adding 'NGINX configuration and tuning' as a line item to an existing DevOps consulting offer.",
+  "opportunity_rating": 1,
+  "generated_at": "2026-11-28T12:10:00Z"
+}

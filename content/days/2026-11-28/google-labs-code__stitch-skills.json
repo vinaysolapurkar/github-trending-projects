@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-28",
+  "owner": "google-labs-code",
+  "name": "stitch-skills",
+  "full_name": "google-labs-code/stitch-skills",
+  "url": "https://github.com/google-labs-code/stitch-skills",
+  "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+  "language": "TypeScript",
+  "stars_total": 13733,
+  "stars_today": 293,
+  "one_liner": "A set of ready-made habits that let an AI coding assistant design app screens using Google's Stitch design tool, instead of a human designer sketching them by hand.",
+  "buyer": "A solo app developer or tiny agency that needs decent-looking app mockups fast but can't afford to hire a UI designer for every client project.",
+  "business_use_cases": [
+    "A freelance developer uses it to turn a client's rough idea into clickable screen mockups within the same sales call, speeding up deal-closing.",
+    "A tiny agency standardizes its design-handoff process on it to cut the time (and cost) spent on early-stage UI design for each client.",
+    "A no-code course creator teaches a workshop on 'design your app in an afternoon' using this skill as the core tool."
+  ],
+  "money_ideas": [
+    { "idea": "Faster, cheaper mockup delivery sold as part of existing freelance development quotes", "revenue_model": "one-off" },
+    { "idea": "A paid short workshop teaching non-designers to produce usable app mockups with it", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Mock up a real client's app idea with it this weekend and use the finished screens, not a verbal pitch, to close the next contract.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-28T12:10:00Z"
+}

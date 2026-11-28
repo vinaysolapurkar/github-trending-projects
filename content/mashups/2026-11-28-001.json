@@ -1,0 +1,9 @@
+{
+  "id": "2026-11-28-001",
+  "date": "2026-11-28",
+  "repo_a": "mvanhorn/last30days-skill",
+  "repo_b": "zhouxiaoka/autoclip",
+  "title": "Trend-to-Clip",
+  "pitch": "Combine last30days-skill's ability to scan Reddit, X, YouTube, HN and Polymarket for what's genuinely trending right now with autoclip's ability to turn any long-form video into captioned short clips, and you get a pipeline that spots a rising topic, finds an existing podcast or interview clip that speaks to it, and auto-produces a short ready to post the same day the trend is hot instead of a week later. The product is a 'trend-reactive clipping' subscription for podcasters and niche creators: every morning they get a short list of trending angles their back catalog can already answer, plus the finished clip, so they ride a wave instead of missing it. The buyer is a solo podcaster or niche YouTuber who has hours of unused footage sitting in their archive and no time to monitor what's trending themselves.",
+  "why_now": "Both tools trended the same day because creators are drowning in two unsolved problems at once: knowing what's actually resonating right now, and turning existing footage into something postable fast enough to matter. Neither tool alone closes the loop — research without output is just a report, and clipping without a trend to aim at is just busywork — but chained together they turn 'what's trending' directly into 'here's your clip,' which is the exact gap a solo creator feels every single day."
+}

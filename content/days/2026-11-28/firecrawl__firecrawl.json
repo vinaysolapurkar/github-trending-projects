@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-28",
+  "owner": "firecrawl",
+  "name": "firecrawl",
+  "full_name": "firecrawl/firecrawl",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+  "language": "TypeScript",
+  "stars_total": 211973,
+  "stars_today": 717,
+  "one_liner": "A single plug that lets any AI assistant read websites and pull in outside data, instead of being stuck only knowing what it was originally trained on.",
+  "buyer": "A founder building an AI product that needs live, accurate web data (prices, listings, news) and doesn't want to build and maintain their own web scraper.",
+  "business_use_cases": [
+    "A price-comparison startup builds its whole product on top of this instead of hiring engineers to maintain fragile scrapers.",
+    "An AI research assistant product uses it to pull live sources so its answers are current instead of frozen at training time.",
+    "A lead-generation agency scrapes public company sites at scale to build enriched prospect lists for sales teams."
+  ],
+  "money_ideas": [
+    { "idea": "Usage-based API billing for scraping and search volume", "revenue_model": "usage" },
+    { "idea": "A managed data-feed product built on top, sold as a subscription to a specific industry", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Build a narrow, single-industry 'live data' dashboard this weekend (e.g. local restaurant menu prices) powered by this, and pitch it to the first ten businesses in that niche.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-28T12:10:00Z"
+}

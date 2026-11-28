@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-28",
+  "owner": "mvanhorn",
+  "name": "last30days-skill",
+  "full_name": "mvanhorn/last30days-skill",
+  "url": "https://github.com/mvanhorn/last30days-skill",
+  "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+  "language": "Python",
+  "stars_total": 76586,
+  "stars_today": 519,
+  "one_liner": "A research assistant that reads what real people are actually saying across Reddit, X, YouTube and prediction markets on any topic, then gives you a plain summary of what's actually happening.",
+  "buyer": "A market researcher or VC analyst who needs a fast, grounded read on how a trend or product is actually landing with the public, before spending real money on a formal study.",
+  "business_use_cases": [
+    "A VC analyst runs it before a diligence call to see what real users and bettors on prediction markets think about a sector, catching hype versus substance early.",
+    "A brand agency uses it to track how a client's product launch is actually being received in the wild, faster than a traditional social-listening tool.",
+    "A niche newsletter writer uses it to generate a weekly 'what the internet actually thinks about X' column with real citations."
+  ],
+  "money_ideas": [
+    { "idea": "A paid weekly trend-research newsletter built on its output", "revenue_model": "subscription" },
+    { "idea": "One-off custom research reports sold to agencies and investors", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Pick one hot topic this weekend, run the skill, and publish a free 'what people are really saying' report to attract your first paying research client.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-28T12:10:00Z"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-28",
+  "owner": "mjmirza",
+  "name": "app-store-compliance",
+  "full_name": "mjmirza/app-store-compliance",
+  "url": "https://github.com/mjmirza/app-store-compliance",
+  "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+  "language": "Shell",
+  "stars_total": 8201,
+  "stars_today": 907,
+  "one_liner": "A checklist that catches the exact mistakes that get mobile apps rejected from the Apple and Google app stores, before you waste a week waiting on a human reviewer to reject it for you.",
+  "buyer": "A solo mobile app developer or small agency that has been burned by a surprise App Store rejection right before a launch deadline.",
+  "business_use_cases": [
+    "A mobile dev agency runs every client app through it before submission, selling 'guaranteed-review-ready' as part of their delivery package.",
+    "A freelance developer offers a quick paid 'submission audit' service to app teams who built their app elsewhere and just need a pre-flight check.",
+    "A compliance-focused startup turns the checklist into a hosted scanning product and sells monthly access to app studios juggling many submissions."
+  ],
+  "money_ideas": [
+    { "idea": "A flat-fee pre-submission audit service for app teams", "revenue_model": "one-off" },
+    { "idea": "A hosted compliance-scanning subscription for agencies submitting many apps", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Offer three indie app developers a free pre-submission check this weekend using the playbook, then turn the ones who got real value into paying customers.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-28T12:10:00Z"
+}

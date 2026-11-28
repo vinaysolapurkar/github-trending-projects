@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-28",
+  "owner": "obra",
+  "name": "superpowers",
+  "full_name": "obra/superpowers",
+  "url": "https://github.com/obra/superpowers",
+  "description": "An agentic skills framework & software development methodology that works.",
+  "language": "Shell",
+  "stars_total": 328673,
+  "stars_today": 809,
+  "one_liner": "A set of rules and habits you install into an AI coding assistant so it writes software the disciplined way a senior engineer would, instead of freelancing.",
+  "buyer": "An engineering manager at a small startup who is letting AI write real production code but is worried about quality drifting without a human reviewing every line.",
+  "business_use_cases": [
+    "A dev shop standardizes every client project on this methodology so AI-written code is consistently reviewable and maintainable, a selling point in client pitches.",
+    "A solo founder uses it to keep their AI-built MVP from turning into unmaintainable spaghetti before they can afford a real engineering hire.",
+    "A coding bootcamp or course teaches it as the 'right way' to work with AI coding tools, a differentiator from courses that just teach prompting."
+  ],
+  "money_ideas": [
+    { "idea": "Paid workshops or courses teaching teams how to adopt the methodology", "revenue_model": "one-off" },
+    { "idea": "A consulting retainer helping dev shops roll it out across their AI-assisted projects", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Install it on your own current AI-assisted project this weekend, document the before/after in commit quality, and turn that into a case study you can sell to other teams.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-28T12:10:00Z"
+}

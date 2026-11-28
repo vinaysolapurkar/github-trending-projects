@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-28",
+  "owner": "cathrynlavery",
+  "name": "diagram-design",
+  "full_name": "cathrynlavery/diagram-design",
+  "url": "https://github.com/cathrynlavery/diagram-design",
+  "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+  "language": "HTML",
+  "stars_total": 74683,
+  "stars_today": 499,
+  "one_liner": "A skill that makes an AI assistant draw clean, magazine-quality diagrams instead of the ugly, generic boxes-and-arrows charts most tools spit out.",
+  "buyer": "A content agency or blog writer who publishes technical explainers and needs good-looking diagrams fast without hiring a designer each time.",
+  "business_use_cases": [
+    "A content agency offers 'custom diagram illustration' as a paid add-on to blog or newsletter writing packages.",
+    "A startup's marketing team uses it to make its pitch deck and landing page diagrams look professionally designed in-house.",
+    "A freelance technical writer bundles diagram creation into existing documentation contracts at a higher day rate."
+  ],
+  "money_ideas": [
+    { "idea": "Per-diagram or per-project freelance fee added to existing content/documentation work", "revenue_model": "one-off" },
+    { "idea": "A monthly 'diagram design on demand' retainer for content teams", "revenue_model": "subscription" }
+  ],
+  "steal_this": "Rebuild five diagrams from a well-known blog post using this skill this weekend, post the before/after, and use it to land your first paid diagram client.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-28T12:10:00Z"
+}

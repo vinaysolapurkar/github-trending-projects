@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-28",
+  "owner": "zhouxiaoka",
+  "name": "autoclip",
+  "full_name": "zhouxiaoka/autoclip",
+  "url": "https://github.com/zhouxiaoka/autoclip",
+  "description": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
+  "language": "Python",
+  "stars_total": 17849,
+  "stars_today": 517,
+  "one_liner": "A free, offline app that takes one long video, like a podcast or lecture, and automatically turns it into several short, captioned clips ready for TikTok or Reels.",
+  "buyer": "A podcaster or solo content creator who knows clipping long episodes into shorts grows their audience but doesn't have hours each week to do it by hand.",
+  "business_use_cases": [
+    "A social media manager uses it to turn a client's weekly podcast into daily short clips, billing the client for the editing work it automates.",
+    "A content agency replaces a paid clipping subscription service with this self-hosted tool, pocketing the savings as margin.",
+    "A course creator repurposes long lecture recordings into short, discoverable clips that drive traffic back to the full paid course."
+  ],
+  "money_ideas": [
+    { "idea": "A done-for-you clipping service for podcasters, billed per episode or monthly", "revenue_model": "subscription" },
+    { "idea": "One-off batch processing of a creator's back catalog into shorts", "revenue_model": "one-off" }
+  ],
+  "steal_this": "Offer three local podcasters a free trial week turning one episode each into shorts, then convert the ones who see real view growth into paying monthly clients.",
+  "opportunity_rating": 4,
+  "generated_at": "2026-11-28T12:10:00Z"
+}

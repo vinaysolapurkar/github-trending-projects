@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-28",
+  "owner": "openvinotoolkit",
+  "name": "openvino",
+  "full_name": "openvinotoolkit/openvino",
+  "url": "https://github.com/openvinotoolkit/openvino",
+  "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+  "language": "C++",
+  "stars_total": 12993,
+  "stars_today": 111,
+  "one_liner": "A toolkit that makes AI models run faster and cheaper on ordinary computer chips, instead of needing expensive specialized hardware in the cloud.",
+  "buyer": "A manufacturing or retail company that wants AI features (like camera-based defect detection) running on local devices on the factory floor, not in the cloud.",
+  "business_use_cases": [
+    "A machine-vision integrator deploys AI defect-detection on factory cameras using it to avoid per-inference cloud costs.",
+    "A hardware vendor sells AI-enabled devices (kiosks, cameras) that run entirely offline using this under the hood.",
+    "A privacy-focused software vendor sells an on-premise AI product to clients who are legally barred from sending data to the cloud."
+  ],
+  "money_ideas": [
+    { "idea": "One-off integration projects for companies needing offline AI inference", "revenue_model": "one-off" },
+    { "idea": "A licensed, supported on-premise AI appliance built on top of it", "revenue_model": "subscription" }
+  ],
+  "steal_this": "It's an enterprise infrastructure tool, not a weekend build; the realistic move is pitching 'offline AI inference setup' as a specialized service to one local manufacturer.",
+  "opportunity_rating": 2,
+  "generated_at": "2026-11-28T12:10:00Z"
+}

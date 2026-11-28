@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-28",
+  "owner": "elementalsouls",
+  "name": "Claude-BugHunter",
+  "full_name": "elementalsouls/Claude-BugHunter",
+  "url": "https://github.com/elementalsouls/Claude-BugHunter",
+  "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+  "language": "Python",
+  "stars_total": 26672,
+  "stars_today": 1372,
+  "one_liner": "A pre-loaded checklist and playbook that an AI coding assistant uses to go hunting for security holes in websites and apps, the way a professional 'ethical hacker' would.",
+  "buyer": "An independent bug bounty hunter who wants to triage many more targets per week without hiring a team.",
+  "business_use_cases": [
+    "A solo bug bounty hunter runs it against a rotating list of public bounty programs to surface more valid, payable findings per week.",
+    "A small penetration-testing shop uses it as a first-pass scanner on client engagements, then has a human verify and write up the real report.",
+    "A security consultant sells a 'pre-pentest' triage package that uses the tool to scope how exposed a client looks before quoting a full paid engagement."
+  ],
+  "money_ideas": [
+    { "idea": "Bug bounty payouts earned from findings the tool helps surface faster", "revenue_model": "one-off" },
+    { "idea": "A paid 'automated recon' add-on tier sold alongside a human-run pentest engagement", "revenue_model": "usage" }
+  ],
+  "steal_this": "Run it this weekend against your own side project or a willing friend's app, write up one real finding, and use that as the portfolio piece to pitch your first paid bug bounty or mini-audit gig.",
+  "opportunity_rating": 3,
+  "generated_at": "2026-11-28T12:10:00Z"
+}
